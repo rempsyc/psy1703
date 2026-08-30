@@ -177,8 +177,10 @@ Donner l'adresse courriel et une convention d'objet, par exemple « PSY1703 — 
 
 Votez individuellement dans Wooclap avant d'en discuter.
 
+[Afficher le stimulus sur le site de l'article scientifique](https://pmc.ncbi.nlm.nih.gov/articles/PMC5812438/figure/F1/){target="_blank"}
+
 ::: {.notes}
-Insérer une image utilisable légalement ou une illustration originale. Ne pas utiliser automatiquement une copie trouvée en ligne.
+Ouvrir le lien dans un nouvel onglet et projeter la figure. La photographie est hébergée dans un article qui indique l'avoir reproduite avec permission de Cecilia Bleasdale. Le dépôt public ne contient pas de copie. Prévoir une solution locale privée seulement après validation des règles institutionnelles.
 :::
 
 ## Explorez votre interprétation
