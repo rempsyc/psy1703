@@ -155,7 +155,7 @@ Nous réagissons aussi à la manière dont nous **interprétons** les faits.
 Cette construction de la réalité sociale sera un fil conducteur du trimestre.
 
 ::: {.notes}
-Transition vers la pause, puis vers la visite du CAR. L'activité de la robe suivra.
+Transition vers la pause, puis vers l'activité de la robe. Le CAR arrivera à 15 h.
 :::
 
 ## Une pause qui nous ressemble
@@ -168,17 +168,7 @@ Pendant la pause, vous pourrez proposer :
 **Retour à 14 h 30.**
 
 ::: {.notes}
-Présenter le formulaire de soumission. Ne pas conserver ni publier les photos sans consentement.
-:::
-
-# Réussir son trimestre
-
-## Le Centre d'aide à la réussite
-
-Services, gestion du temps, stratégies d'étude, prévention du plagiat et rédaction.
-
-::: {.notes}
-Horaire recommandé : 14 h 30 à 15 h. Présenter la personne invitée et reprendre explicitement la parole après son intervention.
+Donner l'adresse courriel et une convention d'objet, par exemple « PSY1703 — pause ». Demander une autorisation explicite avant d'afficher une photo et ne pas la republier.
 :::
 
 # Une même image, plusieurs réalités
@@ -217,6 +207,16 @@ La robe réelle était bleue et noire. La photographie rend l'éclairage ambigu 
 [Sources]
 - Gegenfurtner, K. R., Bloj, M., & Toscani, M. (2015). The many colours of “the dress”. Current Biology, 25(13), R543–R544.
 - Lafer-Sousa, R., Hermann, K. L., & Conway, B. R. (2015). Striking individual differences in color perception uncovered by “the dress” photograph. Current Biology, 25(13), R545–R546.
+:::
+
+# Réussir son trimestre
+
+## Le Centre d'aide à la réussite
+
+Services, gestion du temps, stratégies d'étude, prévention du plagiat et rédaction.
+
+::: {.notes}
+Horaire confirmé : 15 h à 15 h 30. Présenter la personne invitée, puis reprendre simplement le cours où il avait été interrompu. Le matériel sera présenté directement par le CAR.
 :::
 
 # Partie 2
