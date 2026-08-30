@@ -1,0 +1,278 @@
+---
+title: "Psychologie sociale"
+subtitle: "Cours 1 — Voir le social autrement"
+author: "Rémi Thériault"
+institute: "UQAR — PSY1703-04"
+date: 2026-09-01
+date-format: "D MMMM YYYY"
+lang: fr-CA
+format:
+  revealjs:
+    theme: [simple, ../../_themes/slides.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.08
+    navigation-mode: linear
+    controls: true
+    progress: true
+    history: true
+    hash: true
+    menu: true
+    overview: true
+    footer: "PSY1703 — Psychologie sociale · Automne 2026"
+    embed-resources: true
+---
+
+## Bienvenue à PSY1703
+
+Aujourd'hui, nous allons commencer à regarder les comportements familiers avec un regard nouveau.
+
+::: {.notes}
+Accueillir le groupe à la porte si possible. Laisser cette diapositive affichée pendant l'installation.
+:::
+
+## Qui suis-je?
+
+- Professeur adjoint au Département des sciences de la santé
+- Formation et parcours en psychologie
+- Recherche : **à préciser en 2 ou 3 thèmes accessibles**
+- Première prestation complète de PSY1703
+
+::: {.notes}
+Limiter cette introduction à environ sept minutes. Présenter le cours comme une première édition construite autour du manuel, de la recherche actuelle et d'activités d'application.
+:::
+
+## Notre première question
+
+> Pourquoi les gens font-ils ce qu'ils font?
+
+Répondez dans Wooclap avec la première explication qui vous vient à l'esprit.
+
+::: {.notes}
+Insérer ici le code ou le QR Wooclap lorsque l'événement sera créé.
+:::
+
+## Ce cours cherche des explications
+
+Au fil du trimestre, nous étudierons comment les personnes :
+
+- se perçoivent et interprètent les autres;
+- s'influencent mutuellement;
+- développent des relations;
+- agissent au sein de groupes et entre les groupes.
+
+::: {.notes}
+[Sources]
+- Plan de cours officiel PSY1703-04, automne 2026, objectifs et contenu.
+- Vallerand, R. J. (2021). Les fondements de la psychologie sociale (3e éd.), chapitre 1.
+:::
+
+## Le contrat du trimestre
+
+- Trois examens en classe
+- Dix quiz de lecture; les huit meilleurs résultats sont retenus
+- Lectures préparatoires dans le manuel
+- Exercices, discussions et forum Moodle
+
+::: {.notes}
+Ne pas lire tout le plan de cours. Mettre l'accent sur ce qui influence concrètement la préparation hebdomadaire.
+
+[Sources]
+- Plan de cours officiel PSY1703-04, automne 2026, modalités d'évaluation.
+:::
+
+## Les dates qui structurent le trimestre
+
+| Évaluation | Date | Pondération |
+|---|---:|---:|
+| Examen 1 | 29 septembre | 25 % |
+| Examen 2 | 10 novembre | 30 % |
+| Examen 3 | 15 décembre | 35 % |
+| Quiz de lecture | 15 septembre–8 décembre | 10 % |
+
+::: {.notes}
+[Sources]
+- Plan de cours officiel PSY1703-04, automne 2026, échéancier des évaluations.
+:::
+
+## Comment utiliser Wooclap
+
+1. Ouvrez le lien ou numérisez le code affiché.
+2. Entrez le code de l'événement.
+3. Répondez sur votre appareil.
+
+Vos réponses serviront à réfléchir ensemble, pas à vous mettre sur la sellette.
+
+::: {.notes}
+Faire deux ou trois questions de prise en main tirées du fichier questions-wooclap.md.
+:::
+
+## Qu'associez-vous à la psychologie sociale?
+
+Nuage de mots Wooclap
+
+::: {.notes}
+Faire apparaître le nuage, relever deux ou trois familles d'idées, puis annoncer que le cours permettra d'en préciser les contours.
+:::
+
+# Partie 1
+
+## La psychologie sociale étudie l'influence d'autrui
+
+Elle cherche à comprendre comment nos pensées, nos émotions et nos comportements sont influencés par la présence **réelle, imaginée ou implicite** des autres.
+
+::: {.notes}
+La formulation définitive devra être vérifiée dans les pages 5 à 7 du chapitre 1 avant publication.
+
+[Sources]
+- Vallerand, R. J. (2021). Les fondements de la psychologie sociale (3e éd.), chapitre 1, section « La psychologie sociale : définitions et caractéristiques ».
+:::
+
+## La personne et la situation façonnent le comportement
+
+$$C = f(P, S)$$
+
+**Comportement** = fonction de la **Personne** et de la **Situation**
+
+Une même personne peut agir différemment selon la situation — et deux personnes peuvent interpréter différemment la même situation.
+
+::: {.notes}
+Introduire Kurt Lewin sans développer ici toute l'histoire de la discipline.
+
+[Sources]
+- Lewin, K. (1936). Principles of Topological Psychology.
+:::
+
+## Nous ne réagissons pas seulement aux faits
+
+Nous réagissons aussi à la manière dont nous **interprétons** les faits.
+
+Cette construction de la réalité sociale sera un fil conducteur du trimestre.
+
+::: {.notes}
+Transition vers la pause, puis vers la visite du CAR. L'activité de la robe suivra.
+:::
+
+## Une pause qui nous ressemble
+
+Pendant la pause, vous pourrez proposer :
+
+- une chanson appropriée au contexte de la classe;
+- une photo de votre animal à afficher avec votre autorisation.
+
+**Retour à 14 h 30.**
+
+::: {.notes}
+Présenter le formulaire de soumission. Ne pas conserver ni publier les photos sans consentement.
+:::
+
+# Réussir son trimestre
+
+## Le Centre d'aide à la réussite
+
+Services, gestion du temps, stratégies d'étude, prévention du plagiat et rédaction.
+
+::: {.notes}
+Horaire recommandé : 14 h 30 à 15 h. Présenter la personne invitée et reprendre explicitement la parole après son intervention.
+:::
+
+# Une même image, plusieurs réalités
+
+## Que voyez-vous?
+
+Votez individuellement dans Wooclap avant d'en discuter.
+
+::: {.notes}
+Insérer une image utilisable légalement ou une illustration originale. Ne pas utiliser automatiquement une copie trouvée en ligne.
+:::
+
+## Explorez votre interprétation
+
+En groupe :
+
+1. Décrivez ce que vous voyez, sans chercher à convaincre.
+2. Imaginez pourquoi une même image produit plusieurs perceptions.
+3. Observez ce que la catégorie « Bleus » ou « Ors » change dans vos échanges.
+
+::: {.notes}
+Voir le fichier activite-robe.md. Il s'agit d'une simulation inspirée du paradigme des groupes minimaux, et non d'une démonstration expérimentale de celui-ci.
+:::
+
+## Une perception différente peut être sincère
+
+Le même stimulus peut soutenir des expériences perceptives différentes.
+
+En contexte social, nos interprétations peuvent ensuite être renforcées par la discussion avec les personnes qui nous ressemblent.
+
+::: {.notes}
+Séparer clairement l'explication perceptive de la robe des mécanismes proprement sociaux observés pendant la discussion.
+
+La robe réelle était bleue et noire. La photographie rend l'éclairage ambigu : le système visuel doit estimer quelle part de la lumière vient de l'objet et quelle part vient de l'illumination. Des hypothèses différentes sur l'éclairage peuvent donc soutenir des perceptions différentes.
+
+[Sources]
+- Gegenfurtner, K. R., Bloj, M., & Toscani, M. (2015). The many colours of “the dress”. Current Biology, 25(13), R543–R544.
+- Lafer-Sousa, R., Hermann, K. L., & Conway, B. R. (2015). Striking individual differences in color perception uncovered by “the dress” photograph. Current Biology, 25(13), R545–R546.
+:::
+
+# Partie 2
+
+## Une discipline construite autour de grandes questions
+
+- Comment la présence d'autrui transforme-t-elle l'action?
+- Comment formons-nous nos impressions et nos jugements?
+- Pourquoi nous conformons-nous parfois au groupe?
+- Comment les relations entre groupes deviennent-elles coopératives ou conflictuelles?
+
+::: {.notes}
+Cette diapositive peut remplacer une longue chronologie si le CAR dépasse le temps prévu.
+
+[Sources]
+- Vallerand, R. J. (2021). Les fondements de la psychologie sociale (3e éd.), chapitre 1.
+:::
+
+## Trois influences ont marqué la discipline
+
+**Les rôles sociaux** orientent les attentes.  
+**Le renforcement** modifie la probabilité d'un comportement.  
+**La cognition** organise notre interprétation du monde social.
+
+::: {.notes}
+Valider les formulations et exemples dans les pages 21 à 24 du chapitre 1.
+
+[Sources]
+- Vallerand, R. J. (2021). Les fondements de la psychologie sociale (3e éd.), chapitre 1, section « Les influences théoriques ».
+:::
+
+## La psychologie sociale agit dans de nombreux milieux
+
+Santé · éducation · travail · justice · environnement · médias · politiques publiques
+
+::: {.notes}
+Prévoir ultérieurement deux exemples québécois et une publication personnelle pertinente.
+:::
+
+## Ce que vous devriez retenir aujourd'hui
+
+1. Le comportement ne s'explique pas uniquement par la personnalité.
+2. La situation et son interprétation façonnent l'action.
+3. La psychologie sociale transforme ces questions en objets scientifiques.
+
+::: {.notes}
+Faire le billet de sortie Wooclap avant d'ouvrir la période de questions.
+:::
+
+## Pour le 8 septembre
+
+- Lecture : chapitre 2 sur les méthodes de recherche
+- Noter une affirmation psychologique entendue cette semaine
+- Se demander : **comment pourrait-on la tester?**
+
+::: {.notes}
+[Sources]
+- Plan de cours officiel PSY1703-04, automne 2026, séance 2.
+:::

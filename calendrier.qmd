@@ -1,0 +1,24 @@
+---
+title: "Calendrier"
+---
+
+Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le **plan de cours officiel sur Moodle** demeure la référence.
+
+| Date | Séance | Lecture | État |
+|---|---|---|---|
+| 1er septembre | [Introduction à la psychologie sociale](cours/01/index.qmd) | Chapitre 1 | En préparation |
+| 8 septembre | Méthodes de recherche | Chapitre 2 | À venir |
+| 15 septembre | Le soi | Chapitre 3 | À venir |
+| 22 septembre | La cognition sociale | Chapitre 4 | À venir |
+| 29 septembre | Examen 1 | — | Évaluation |
+| 6 octobre | L'attribution | Chapitre 5 | À venir |
+| 13 octobre | Les attitudes | Chapitre 6 | À venir |
+| 20 octobre | Les relations interpersonnelles | Chapitre 8 | À venir |
+| 27 octobre | Semaine de lecture | — | Pas de cours |
+| 3 novembre | L'agression | Chapitre 9 | À venir |
+| 10 novembre | Examen 2 | — | Évaluation |
+| 17 novembre | Les comportements d'aide | Chapitre 10 | À venir |
+| 24 novembre | L'influence sociale et le conformisme | Chapitre 11 | À venir |
+| 1er décembre | Les groupes | Chapitre 12 | À venir |
+| 8 décembre | Les relations intergroupes et les préjugés | Chapitre 13 | À venir |
+| 15 décembre | Examen 3 | — | Évaluation |

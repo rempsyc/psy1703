@@ -1,0 +1,14 @@
+/.quarto/
+/_site/
+/.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+
+# Le dépôt public ne doit jamais contenir ces ressources privées.
+**/assets/prive/
+**/plan-de-match.md
+**/questions-wooclap.md
+**/a-faire.md
+
+**/*.quarto_ipynb

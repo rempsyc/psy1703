@@ -1,0 +1,29 @@
+---
+title: "Cours 1 — Voir le social autrement"
+subtitle: "Introduction à la psychologie sociale"
+---
+
+**Mardi 1er septembre 2026 · 13 h 15 à 16 h 05**  
+**Lecture associée :** Vallerand, chapitre 1
+
+::: {.callout-warning title="État de la version"}
+Ces diapositives sont **en préparation**. Elles peuvent être mises à jour jusqu'au cours et précisées après celui-ci.
+:::
+
+[Ouvrir les diapositives en plein écran](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
+
+## À retenir
+
+À la fin de cette séance, vous devriez pouvoir :
+
+1. définir ce qu'étudie la psychologie sociale;
+2. expliquer comment la personne et la situation façonnent le comportement;
+3. reconnaître que notre interprétation d'une situation fait partie de son influence.
+
+## Pour participer
+
+Apportez si possible un **téléphone intelligent, une tablette ou un ordinateur portable** pour les activités Wooclap. Une solution de rechange sera toujours offerte sans appareil.
+
+## Après le cours
+
+La même adresse donnera accès à la version la plus récente. Les documents réservés au groupe et le plan de cours officiel se trouvent sur Moodle.

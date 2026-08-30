@@ -1,0 +1,67 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Aptos", "Arial", sans-serif;
+$presentation-font-size-root: 38px;
+$presentation-heading-font: "Aptos Display", "Aptos", "Arial", sans-serif;
+$presentation-heading-color: #123B5D;
+$presentation-heading-font-weight: 650;
+$body-color: #17212B;
+$link-color: #007C83;
+$code-color: #7C3E66;
+$presentation-block-margin: 24px;
+
+/*-- scss:rules --*/
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal h1 {
+  font-size: 2.15em;
+  letter-spacing: -0.025em;
+}
+
+.reveal h2 {
+  font-size: 1.45em;
+  letter-spacing: -0.015em;
+  margin-bottom: 0.65em;
+}
+
+.reveal p,
+.reveal li,
+.reveal table {
+  line-height: 1.32;
+}
+
+.reveal blockquote {
+  width: 88%;
+  margin: 1.1em auto;
+  padding: 0.55em 0.85em;
+  border-left: 8px solid #E8A23A;
+  background: #F7F3EA;
+  box-shadow: none;
+  font-style: normal;
+}
+
+.reveal table {
+  margin-top: 0.8em;
+  font-size: 0.82em;
+}
+
+.reveal thead {
+  color: #123B5D;
+}
+
+.reveal .slide-number,
+.reveal .footer {
+  color: #566573;
+}
+
+.reveal .footer {
+  font-size: 0.48em;
+}
+
+.reveal section > p:last-child strong {
+  color: #007C83;
+}
+

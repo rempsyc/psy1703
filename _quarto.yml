@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "PSY1703 — Psychologie sociale"
+  site-url: "https://rempsyc.github.io/psy1703/"
+  repo-url: "https://github.com/rempsyc/psy1703"
+  repo-actions: [source]
+  navbar:
+    background: "#123b5d"
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Calendrier"
+        href: calendrier.qmd
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - index.qmd
+      - calendrier.qmd
+      - section: "Séances"
+        contents:
+          - text: "1 · Introduction"
+            href: cours/01/index.qmd
+  page-footer:
+    left: "PSY1703-04 · UQAR · Automne 2026"
+    right: "Matériel évolutif — vérifiez la date de mise à jour."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    lang: fr-CA
+
+execute:
+  freeze: auto
