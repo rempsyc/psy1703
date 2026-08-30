@@ -39,22 +39,32 @@ Accueillir le groupe à la porte si possible. Laisser cette diapositive affiché
 ## Qui suis-je?
 
 - Professeur adjoint au Département des sciences de la santé
-- Formation et parcours en psychologie
-- Recherche : **à préciser en 2 ou 3 thèmes accessibles**
-- Première prestation complète de PSY1703
+- Baccalauréat en psychologie, maîtrise en psychiatrie et doctorat en psychologie sociale
+- Recherche postdoctorale sur les identités sociales à New York University
+- Deuxième expérience d'enseignement; première prestation complète de PSY1703
 
 ::: {.notes}
-Limiter cette introduction à environ sept minutes. Présenter le cours comme une première édition construite autour du manuel, de la recherche actuelle et d'activités d'application.
+Présenter brièvement le parcours McGill–UQAM–NYU–UQAR. Limiter cette partie et la présentation du laboratoire à environ douze minutes.
+
+[Sources]
+- Thériault, R. Curriculum vitae, 2026. https://remi-theriault.com/cv.pdf
 :::
 
-## Notre première question
+## Mon laboratoire à l'UQAR
 
-> Pourquoi les gens font-ils ce qu'ils font?
+**Identités sociales · prosocialité · cognition implicite**
 
-Répondez dans Wooclap avec la première explication qui vous vient à l'esprit.
+- Comment nos identités transforment-elles nos relations avec les autres?
+- Comment favoriser l'empathie, la coopération et le bien-être?
+- Comment rendre la recherche plus ouverte, transparente et reproductible?
+
+[Découvrir mes publications](https://remi-theriault.com/publications/)
 
 ::: {.notes}
-Insérer ici le code ou le QR Wooclap lorsque l'événement sera créé.
+Présenter le laboratoire comme un milieu de recherche en développement à l'UQAR. Donner un exemple concret plutôt que d'énumérer les publications. Mentionner les possibilités futures pour les personnes qui souhaiteraient découvrir la recherche.
+
+[Sources]
+- Thériault, R. (2026). Page personnelle et liste de publications. https://remi-theriault.com/
 :::
 
 ## Ce cours cherche des explications
@@ -72,18 +82,50 @@ Au fil du trimestre, nous étudierons comment les personnes :
 - Vallerand, R. J. (2021). Les fondements de la psychologie sociale (3e éd.), chapitre 1.
 :::
 
-## Le contrat du trimestre
+## Le manuel nous servira de point d'ancrage
 
-- Trois examens en classe
-- Dix quiz de lecture; les huit meilleurs résultats sont retenus
-- Lectures préparatoires dans le manuel
-- Exercices, discussions et forum Moodle
+::: {.columns}
+::: {.column width="42%"}
+![](assets/photo-manuel.jpeg){fig-alt="Photographie de la couverture de la troisième édition du manuel Les fondements de la psychologie sociale." height="560"}
+:::
+
+::: {.column width="58%"}
+**Les fondements de la psychologie sociale**<br>
+3e édition, sous la direction de Robert J. Vallerand
+
+- Disponible à la **Coop de l'UQAR**
+- Lectures préparatoires liées aux quiz
+- Définitions, recherches classiques et applications
+:::
+:::
+
+::: {.credit}
+Photographie : Rémi Thériault (2026) · Couverture : Chenelière Éducation
+:::
 
 ::: {.notes}
-Ne pas lire tout le plan de cours. Mettre l'accent sur ce qui influence concrètement la préparation hebdomadaire.
+Montrer l'exemplaire physique. Préciser que le manuel soutient le cours sans remplacer les activités, les explications et les exemples vus en classe.
 
 [Sources]
-- Plan de cours officiel PSY1703-04, automne 2026, modalités d'évaluation.
+- Vallerand, R. J. (dir.). (2021). Les fondements de la psychologie sociale (3e éd.). Chenelière Éducation.
+:::
+
+## Ouvrons le plan de cours
+
+Je vais maintenant partager le document officiel à l'écran.
+
+Repérons ensemble :
+
+- la façon de se préparer chaque semaine;
+- les évaluations et leurs dates;
+- les règles qui protègent l'équité du groupe;
+- les ressources et les moyens de me joindre.
+
+::: {.notes}
+Quitter temporairement les diapositives et ouvrir le PDF du plan de cours. Ne pas lire chaque ligne : s'arrêter sur les décisions qui changent concrètement la préparation et la réussite.
+
+[Sources]
+- Plan de cours officiel PSY1703-04, automne 2026.
 :::
 
 ## Les dates qui structurent le trimestre
@@ -109,7 +151,28 @@ Ne pas lire tout le plan de cours. Mettre l'accent sur ce qui influence concrèt
 Vos réponses serviront à réfléchir ensemble, pas à vous mettre sur la sellette.
 
 ::: {.notes}
-Faire deux ou trois questions de prise en main tirées du fichier questions-wooclap.md.
+Faire les questions essentielles de prise en main et de connaissance du groupe tirées du fichier questions-wooclap.md. Le code et le lien seront ajoutés lorsque l'événement sera créé.
+:::
+
+## Faisons connaissance
+
+Quelques questions rapides sur :
+
+- votre année et votre programme;
+- vos projets professionnels;
+- votre expérience de la recherche;
+- ce qui vous aiderait à apprendre.
+
+Il n'y a pas de « bonne » réponse : cela m'aide à mieux adapter le cours au groupe.
+
+## Notre première question
+
+> Pourquoi les gens font-ils ce qu'ils font?
+
+Répondez dans Wooclap avec la première explication qui vous vient à l'esprit.
+
+::: {.notes}
+Faire émerger les explications liées à la personne, à la situation, à l'interprétation et aux normes. Cette question prépare directement C = f(P, S).
 :::
 
 ## Qu'associez-vous à la psychologie sociale?
@@ -167,8 +230,11 @@ Pendant la pause, vous pourrez proposer :
 
 **Retour à 14 h 30.**
 
+Envoyez vos suggestions à **Remi_Theriault@uqar.ca**<br>
+Objet suggéré : **PSY1703 — pause**
+
 ::: {.notes}
-Donner l'adresse courriel et une convention d'objet, par exemple « PSY1703 — pause ». Demander une autorisation explicite avant d'afficher une photo et ne pas la republier.
+Demander une autorisation explicite avant d'afficher une photo et ne pas la republier.
 :::
 
 # Une même image, plusieurs réalités
