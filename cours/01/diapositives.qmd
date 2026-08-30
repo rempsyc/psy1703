@@ -38,32 +38,38 @@ Accueillir le groupe à la porte si possible. Laisser cette diapositive affiché
 
 ## Qui suis-je?
 
-- Professeur adjoint au Département des sciences de la santé
-- Baccalauréat en psychologie, maîtrise en psychiatrie et doctorat en psychologie sociale
-- Recherche postdoctorale sur les identités sociales à New York University
-- Deuxième expérience d'enseignement; première prestation complète de PSY1703
+- **Baccalauréat** en psychologie, sciences comportementales et sociologie — McGill
+- **Maîtrise** en psychiatrie sociale et transculturelle — McGill
+- **Doctorat** en psychologie sociale — UQAM
+- **Stage doctoral** en neurosciences sociales — Max-Planck-Institut, Berlin
+- **Recherche postdoctorale** sur les identités sociales — New York University
+
+**Aujourd'hui : professeur adjoint à l'UQAR, où je développe le Labo SAGE**
 
 ::: {.notes}
-Présenter brièvement le parcours McGill–UQAM–NYU–UQAR. Limiter cette partie et la présentation du laboratoire à environ douze minutes.
+Présenter brièvement le parcours McGill–UQAM–Berlin–NYU–UQAR. Mentionner qu'il s'agit de ma deuxième expérience d'enseignement, mais de ma première prestation complète de PSY1703. Limiter cette partie et la présentation du laboratoire à environ douze minutes.
 
 [Sources]
-- Thériault, R. Curriculum vitae, 2026. https://remi-theriault.com/cv.pdf
+- Thériault, R. Curriculum vitae, 2026. Fichier local `cv_fr.pdf`.
 :::
 
-## Mon laboratoire à l'UQAR
+## Le Labo SAGE
 
-**Identités sociales · prosocialité · cognition implicite**
+**Soi · Altruisme · Groupes · Empathie**
 
-- Comment nos identités transforment-elles nos relations avec les autres?
-- Comment favoriser l'empathie, la coopération et le bien-être?
-- Comment rendre la recherche plus ouverte, transparente et reproductible?
+Nous étudions comment les personnes :
 
-[Découvrir mes publications](https://remi-theriault.com/publications/)
+- se comprennent;
+- prennent soin des autres;
+- évoluent au sein des groupes.
+
+[Découvrir le Labo SAGE](https://labosage.com/fr/) · [Voir mes publications](https://remi-theriault.com/publications/)
 
 ::: {.notes}
 Présenter le laboratoire comme un milieu de recherche en développement à l'UQAR. Donner un exemple concret plutôt que d'énumérer les publications. Mentionner les possibilités futures pour les personnes qui souhaiteraient découvrir la recherche.
 
 [Sources]
+- Laboratoire SAGE. (2026). https://labosage.com/fr/
 - Thériault, R. (2026). Page personnelle et liste de publications. https://remi-theriault.com/
 :::
 
@@ -146,12 +152,18 @@ Quitter temporairement les diapositives et ouvrir le PDF du plan de cours. Ne pa
 
 1. Ouvrez le lien ou numérisez le code affiché.
 2. Entrez le code de l'événement.
-3. Répondez sur votre appareil.
+3. Gardez l'onglet ouvert : les questions apparaîtront au fil du cours.
+
+Entre deux questions, l'écran d'attente est normal — vous pouvez ranger votre appareil.
 
 Vos réponses serviront à réfléchir ensemble, pas à vous mettre sur la sellette.
 
 ::: {.notes}
-Faire les questions essentielles de prise en main et de connaissance du groupe tirées du fichier questions-wooclap.md. Le code et le lien seront ajoutés lorsque l'événement sera créé.
+Faire les questions essentielles de prise en main et de connaissance du groupe tirées du fichier questions-wooclap.md. Le code et le lien seront ajoutés lorsque l'événement sera créé. Utiliser un seul événement pour toute la séance; fermer chaque vote ou revenir aux diapositives pendant les blocs magistraux. Réafficher le code ou le QR au besoin pour les reconnexions. Une solution sans appareil demeure possible : réponse sur papier, discussion avec une personne voisine ou vote à main levée selon la question.
+
+[Sources]
+- Wooclap. (2026). Create your first event in Wooclap. https://docs.wooclap.com/en/articles/4713362-create-your-first-event-in-wooclap
+- Wooclap. (2026). How to present an event and participate in it. https://docs.wooclap.com/en/articles/674864-how-to-present-an-event-and-participate-in-it
 :::
 
 ## Faisons connaissance
