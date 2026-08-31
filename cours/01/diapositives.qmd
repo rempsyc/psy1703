@@ -55,6 +55,8 @@ Présenter brièvement le parcours McGill–UQAM–Berlin–NYU–UQAR. Mentionn
 
 ## Le Labo SAGE
 
+::: {.columns}
+::: {.column width="60%"}
 **Soi · Altruisme · Groupes · Empathie**
 
 Nous étudions comment les personnes :
@@ -64,6 +66,12 @@ Nous étudions comment les personnes :
 - évoluent au sein des groupes.
 
 [Découvrir le Labo SAGE](https://labosage.com/fr/) · [Voir mes publications](https://remi-theriault.com/publications/)
+:::
+
+::: {.column width="40%"}
+![](assets/logo-labo.jpg){fig-alt="Logo du Labo SAGE : un cœur anatomique relié à un cerveau par une ligne continue." width="500"}
+:::
+:::
 
 ::: {.notes}
 Présenter le laboratoire comme un milieu de recherche en développement à l'UQAR. Donner un exemple concret plutôt que d'énumérer les publications. Mentionner les possibilités futures pour les personnes qui souhaiteraient découvrir la recherche.
@@ -148,22 +156,31 @@ Quitter temporairement les diapositives et ouvrir le PDF du plan de cours. Ne pa
 - Plan de cours officiel PSY1703-04, automne 2026, échéancier des évaluations.
 :::
 
-## Comment utiliser Wooclap
+## Connectez-vous à Wooclap
 
-1. Ouvrez le lien ou numérisez le code affiché.
-2. Entrez le code de l'événement.
-3. Gardez l'onglet ouvert : les questions apparaîtront au fil du cours.
+::: {.columns}
+::: {.column width="62%"}
+1. **Scannez le code QR**, ou
+2. allez sur [wooclap.com](https://www.wooclap.com/) et entrez **STBKYAN** dans le bandeau supérieur, ou
+3. envoyez **\@STBKYAN** au **(855) 910-9662**.
 
-Entre deux questions, l'écran d'attente est normal — vous pouvez ranger votre appareil.
+**Gardez l'onglet ouvert** : les questions apparaîtront au fil du cours. Entre deux questions, l'écran d'attente est normal.
+:::
 
-Vos réponses serviront à réfléchir ensemble, pas à vous mettre sur la sellette.
+::: {.column width="38%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR permettant de rejoindre l'événement Wooclap du cours." width="430"}
+:::
+:::
+
+Sans appareil? Vous pouvez [emprunter un ordinateur portable à la bibliothèque](https://biblio.uqar.ca/espaces-et-equipements/reserver-un-equipement).
 
 ::: {.notes}
-Faire les questions essentielles de prise en main et de connaissance du groupe tirées du fichier questions-wooclap.md. Le code et le lien seront ajoutés lorsque l'événement sera créé. Utiliser un seul événement pour toute la séance; fermer chaque vote ou revenir aux diapositives pendant les blocs magistraux. Réafficher le code ou le QR au besoin pour les reconnexions. Une solution sans appareil demeure possible : réponse sur papier, discussion avec une personne voisine ou vote à main levée selon la question.
+Faire les questions essentielles de prise en main et de connaissance du groupe tirées du fichier questions-wooclap.md. Utiliser un seul événement pour toute la séance; fermer chaque vote ou revenir aux diapositives pendant les blocs magistraux. Réafficher cette diapositive au besoin pour les reconnexions. Si l'emprunt d'un portable n'est pas possible sur le moment, offrir une réponse sur papier, une discussion avec une personne voisine ou un vote à main levée selon la question.
 
 [Sources]
 - Wooclap. (2026). Create your first event in Wooclap. https://docs.wooclap.com/en/articles/4713362-create-your-first-event-in-wooclap
 - Wooclap. (2026). How to present an event and participate in it. https://docs.wooclap.com/en/articles/674864-how-to-present-an-event-and-participate-in-it
+- Bibliothèque de l'UQAR. Espaces et équipements : réserver un équipement. https://biblio.uqar.ca/espaces-et-equipements/reserver-un-equipement
 :::
 
 ## Faisons connaissance
@@ -364,7 +381,7 @@ Faire le billet de sortie Wooclap avant d'ouvrir la période de questions.
 
 ## Pour le 8 septembre
 
-- Lecture : chapitre 2 sur les méthodes de recherche
+- Lecture : **chapitres 1 et 2 du manuel**
 - Noter une affirmation psychologique entendue cette semaine
 - Se demander : **comment pourrait-on la tester?**
 
