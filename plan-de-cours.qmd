@@ -1,0 +1,16 @@
+---
+title: "Plan de cours"
+toc: false
+---
+
+Le plan de cours officiel de **PSY1703-04 — Psychologie sociale**, automne 2026, est disponible ci-dessous.
+
+[Ouvrir ou télécharger le plan de cours (PDF)](documents/plan-de-cours-psy1703-a2026.pdf){.btn .btn-primary target="_blank"}
+
+<iframe
+  src="documents/plan-de-cours-psy1703-a2026.pdf"
+  title="Plan de cours PSY1703-04 — Automne 2026"
+  style="width: 100%; height: 78vh; min-height: 760px; border: 1px solid #d9e2ea; border-radius: 0.35rem;"
+></iframe>
+
+Si l'aperçu ne s'affiche pas dans votre navigateur, utilisez le bouton ci-dessus pour ouvrir le PDF dans un nouvel onglet.

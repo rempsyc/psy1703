@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - documents/**
 
 website:
   title: "PSY1703 — Psychologie sociale"
@@ -14,12 +16,15 @@ website:
         href: index.qmd
       - text: "Calendrier"
         href: calendrier.qmd
+      - text: "Plan de cours"
+        href: plan-de-cours.qmd
   sidebar:
     style: docked
     search: true
     contents:
       - index.qmd
       - calendrier.qmd
+      - plan-de-cours.qmd
       - section: "Séances"
         contents:
           - text: "1 · Introduction"
