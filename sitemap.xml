@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rempsyc.github.io/psy1703/index.html</loc>
-    <lastmod>2026-08-31T13:45:19.647Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rempsyc.github.io/psy1703/cours/01/index.html</loc>
-    <lastmod>2026-08-31T13:45:19.647Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rempsyc.github.io/psy1703/calendrier.html</loc>
-    <lastmod>2026-08-31T13:45:19.646Z</lastmod>
+    <loc>https://rempsyc.github.io/psy1703/plan-de-cours.html</loc>
+    <lastmod>2026-08-31T18:19:33.563Z</lastmod>
   </url>
   <url>
     <loc>https://rempsyc.github.io/psy1703/cours/01/diapositives.html</loc>
-    <lastmod>2026-08-31T13:45:19.647Z</lastmod>
+    <lastmod>2026-08-31T18:19:33.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rempsyc.github.io/psy1703/calendrier.html</loc>
+    <lastmod>2026-08-31T18:19:33.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rempsyc.github.io/psy1703/cours/01/index.html</loc>
+    <lastmod>2026-08-31T18:19:33.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rempsyc.github.io/psy1703/index.html</loc>
+    <lastmod>2026-08-31T18:19:33.563Z</lastmod>
   </url>
 </urlset>
