@@ -76,6 +76,8 @@ Nous étudions comment les personnes :
 ::: {.notes}
 Présenter le laboratoire comme un milieu de recherche en développement à l'UQAR. Donner un exemple concret plutôt que d'énumérer les publications. Mentionner les possibilités futures pour les personnes qui souhaiteraient découvrir la recherche.
 
+« Qu'est-ce qui vous motive à prendre ce cours + 1 hobby ou intérêt »
+
 [Sources]
 - Laboratoire SAGE. (2026). https://labosage.com/fr/
 - Thériault, R. (2026). Page personnelle et liste de publications. https://remi-theriault.com/
@@ -214,6 +216,33 @@ Faire apparaître le nuage, relever deux ou trois familles d'idées, puis annonc
 
 # Partie 1
 
+## Une observation quotidienne peut devenir une expérience
+
+::: {.columns}
+::: {.column width="63%"}
+À la fin du XIXe siècle, **Norman Triplett** observe que des cyclistes semblent performer différemment en présence d'autres cyclistes.
+
+Il transforme cette observation en comparaison systématique : c'est l'un des premiers jalons expérimentaux de la psychologie sociale.
+:::
+
+::: {.column width="37%"}
+![](assets/cycliste-1898.jpg){fig-alt="Photographie de 1898 montrant le cycliste français Lucien Lesna sur une bicyclette de course." height="475"}
+:::
+:::
+
+::: {.credit}
+Lucien Lesna, cycliste de l'époque · George H. Van Norman, v. 1898 · Library of Congress · aucune restriction connue
+:::
+
+::: {.notes}
+Raconter l'étude plutôt que d'énumérer toute la chronologie. Préciser que la présentation moderne de Triplett comme « première expérience » fait partie de l'histoire conventionnelle de la discipline. La photographie sert à situer l'époque : elle ne représente ni Triplett ni les personnes ayant participé à son étude.
+
+[Sources]
+- Triplett, N. (1898). The dynamogenic factors in pacemaking and competition. *American Journal of Psychology, 9*, 507–533.
+- Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 9–10.
+- Van Norman, G. H. (v. 1898). *Lesna*. Library of Congress, LC-USZ62-99752. https://www.loc.gov/pictures/item/90708743/ (aucune restriction connue sur la publication).
+:::
+
 ## Le « gros bon sens » ne suffit pas
 
 > « Qui se ressemble s'assemble. »
@@ -268,6 +297,33 @@ Demander un exemple supplémentaire pour chaque forme de présence. Ne pas laiss
 
 [Sources]
 - Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 5–6.
+:::
+
+## Kurt Lewin relie théorie, expérience et action
+
+::: {.columns}
+::: {.column width="68%"}
+- Le comportement résulte du rapport entre **personne et situation**.
+- Une théorie doit produire des questions que l'on peut **mettre à l'épreuve**.
+- La recherche peut aussi éclairer des **problèmes sociaux réels**.
+:::
+
+::: {.column width="32%"}
+![](assets/kurt-lewin.jpg){fig-alt="Portrait photographique en noir et blanc du psychologue Kurt Lewin." height="430"}
+:::
+:::
+
+::: {.credit}
+Kurt Lewin · photographie : auteur inconnu · domaine public · Store norske leksikon
+:::
+
+::: {.notes}
+Présenter Lewin comme figure fondatrice sans transformer cette séance en histoire exhaustive. Revenir à C = f(P, S). Si le temps manque, intégrer oralement cette diapositive à celle de la formule et la sauter ici.
+
+[Sources]
+- Lewin, K. (1936). *Principles of Topological Psychology*.
+- Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 12–13.
+- Store norske leksikon. *Kurt Lewin*. Photographie par un auteur inconnu, domaine public. https://snl.no/Kurt_Lewin
 :::
 
 ## La personne et la situation façonnent le comportement
@@ -331,6 +387,20 @@ Cette construction de la réalité sociale sera un fil conducteur du trimestre.
 
 ::: {.notes}
 Transition vers la pause, puis vers l'activité de la robe. Le CAR arrivera à 15 h.
+:::
+
+## Une discipline construite autour de grandes questions
+
+- Comment la présence d'autrui transforme-t-elle l'action?
+- Comment formons-nous nos impressions et nos jugements?
+- Pourquoi nous conformons-nous parfois au groupe?
+- Comment les relations entre groupes deviennent-elles coopératives ou conflictuelles?
+
+::: {.notes}
+Cette diapositive peut remplacer une longue chronologie si le CAR dépasse le temps prévu.
+
+[Sources]
+- Vallerand, R. J. (2021). Les fondements de la psychologie sociale (3e éd.), chapitre 1.
 :::
 
 ## Une pause qui nous ressemble
@@ -416,74 +486,6 @@ Horaire confirmé : 15 h à 15 h 30. Présenter la personne invitée, puis repre
 :::
 
 # Partie 2
-
-## Une observation quotidienne peut devenir une expérience
-
-::: {.columns}
-::: {.column width="63%"}
-À la fin du XIXe siècle, **Norman Triplett** observe que des cyclistes semblent performer différemment en présence d'autres cyclistes.
-
-Il transforme cette observation en comparaison systématique : c'est l'un des premiers jalons expérimentaux de la psychologie sociale.
-:::
-
-::: {.column width="37%"}
-![](assets/cycliste-1898.jpg){fig-alt="Photographie de 1898 montrant le cycliste français Lucien Lesna sur une bicyclette de course." height="475"}
-:::
-:::
-
-::: {.credit}
-Lucien Lesna, cycliste de l'époque · George H. Van Norman, v. 1898 · Library of Congress · aucune restriction connue
-:::
-
-::: {.notes}
-Raconter l'étude plutôt que d'énumérer toute la chronologie. Préciser que la présentation moderne de Triplett comme « première expérience » fait partie de l'histoire conventionnelle de la discipline. La photographie sert à situer l'époque : elle ne représente ni Triplett ni les personnes ayant participé à son étude.
-
-[Sources]
-- Triplett, N. (1898). The dynamogenic factors in pacemaking and competition. *American Journal of Psychology, 9*, 507–533.
-- Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 9–10.
-- Van Norman, G. H. (v. 1898). *Lesna*. Library of Congress, LC-USZ62-99752. https://www.loc.gov/pictures/item/90708743/ (aucune restriction connue sur la publication).
-:::
-
-## Kurt Lewin relie théorie, expérience et action
-
-::: {.columns}
-::: {.column width="68%"}
-- Le comportement résulte du rapport entre **personne et situation**.
-- Une théorie doit produire des questions que l'on peut **mettre à l'épreuve**.
-- La recherche peut aussi éclairer des **problèmes sociaux réels**.
-:::
-
-::: {.column width="32%"}
-![](assets/kurt-lewin.jpg){fig-alt="Portrait photographique en noir et blanc du psychologue Kurt Lewin." height="430"}
-:::
-:::
-
-::: {.credit}
-Kurt Lewin · photographie : auteur inconnu · domaine public · Store norske leksikon
-:::
-
-::: {.notes}
-Présenter Lewin comme figure fondatrice sans transformer cette séance en histoire exhaustive. Revenir à C = f(P, S). Si le temps manque, intégrer oralement cette diapositive à celle de la formule et la sauter ici.
-
-[Sources]
-- Lewin, K. (1936). *Principles of Topological Psychology*.
-- Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 12–13.
-- Store norske leksikon. *Kurt Lewin*. Photographie par un auteur inconnu, domaine public. https://snl.no/Kurt_Lewin
-:::
-
-## Une discipline construite autour de grandes questions
-
-- Comment la présence d'autrui transforme-t-elle l'action?
-- Comment formons-nous nos impressions et nos jugements?
-- Pourquoi nous conformons-nous parfois au groupe?
-- Comment les relations entre groupes deviennent-elles coopératives ou conflictuelles?
-
-::: {.notes}
-Cette diapositive peut remplacer une longue chronologie si le CAR dépasse le temps prévu.
-
-[Sources]
-- Vallerand, R. J. (2021). Les fondements de la psychologie sociale (3e éd.), chapitre 1.
-:::
 
 ## Trois influences ont marqué la discipline
 
