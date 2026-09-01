@@ -32,10 +32,6 @@ format:
 
 Aujourd'hui, nous allons commencer à regarder les comportements familiers avec un regard nouveau.
 
-::: {.memory-cue aria-hidden="true"}
-👋
-:::
-
 ::: {.notes}
 Accueillir le groupe à la porte si possible. Laisser cette diapositive affichée pendant l'installation.
 :::
@@ -94,10 +90,6 @@ Au fil du trimestre, nous étudierons comment les personnes :
 - développent des relations;
 - agissent au sein de groupes et entre les groupes.
 
-::: {.memory-cue aria-hidden="true"}
-🔍
-:::
-
 ::: {.notes}
 [Sources]
 - Plan de cours officiel PSY1703-04, automne 2026, objectifs et contenu.
@@ -142,10 +134,6 @@ Repérons ensemble :
 - les évaluations et leurs dates;
 - les règles qui protègent l'équité du groupe;
 - les ressources et les moyens de me joindre.
-
-::: {.memory-cue aria-hidden="true"}
-📄
-:::
 
 ::: {.notes}
 Quitter temporairement les diapositives et ouvrir le PDF du plan de cours. Ne pas lire chaque ligne : s'arrêter sur les décisions qui changent concrètement la préparation et la réussite.
@@ -206,10 +194,6 @@ Quelques questions rapides sur :
 
 Il n'y a pas de « bonne » réponse : cela m'aide à mieux adapter le cours au groupe.
 
-::: {.memory-cue aria-hidden="true"}
-🤝
-:::
-
 ## Notre première question
 
 > Pourquoi les gens font-ils ce qu'ils font?
@@ -239,10 +223,6 @@ Deux explications opposées peuvent sembler également évidentes **après coup*
 
 La psychologie sociale transforme l'intuition en questions que l'on peut examiner systématiquement.
 
-::: {.memory-cue aria-hidden="true"}
-⚖️
-:::
-
 ::: {.notes}
 Faire voter : laquelle de ces deux affirmations leur paraît la plus vraie? Souligner que la facilité à produire une explication plausible ne constitue pas une preuve. Cette diapositive répond à l'ouverture du chapitre 1 sur les limites de l'intuition.
 
@@ -253,10 +233,6 @@ Faire voter : laquelle de ces deux affirmations leur paraît la plus vraie? Soul
 ## La psychologie sociale étudie l'influence d'autrui
 
 Elle étudie **scientifiquement** comment autrui — réellement présent, imaginé ou implicite — influence nos **pensées**, nos **émotions** et nos **comportements**.
-
-::: {.memory-cue aria-hidden="true"}
-👥
-:::
 
 ::: {.notes}
 Cette formulation courte est alignée sur la définition classique présentée par le manuel. Expliquer oralement que le chapitre ajoute aussi les caractéristiques d'autrui, les stimuli sociaux et les caractéristiques personnelles de l'individu.
@@ -301,10 +277,6 @@ $$C = f(P, S)$$
 **Comportement** = fonction de la **Personne** et de la **Situation**
 
 Une même personne peut agir différemment selon la situation — et deux personnes peuvent interpréter différemment la même situation.
-
-::: {.memory-cue aria-hidden="true"}
-👤 ↔️ 🌍
-:::
 
 ::: {.notes}
 Introduire Kurt Lewin sans développer ici toute l'histoire de la discipline. Préciser au besoin que `C = f(P, S)` est une adaptation pédagogique française de sa notation historique `B = f(P, E)` : *behavior* dépend de la personne et de l'environnement.
@@ -356,10 +328,6 @@ Choisir un seul comportement — par exemple aider une personne — et demander 
 Nous réagissons aussi à la manière dont nous **interprétons** les faits.
 
 Cette construction de la réalité sociale sera un fil conducteur du trimestre.
-
-::: {.memory-cue aria-hidden="true"}
-🧠
-:::
 
 ::: {.notes}
 Transition vers la pause, puis vers l'activité de la robe. Le CAR arrivera à 15 h.
@@ -417,10 +385,6 @@ En groupe :
 2. Imaginez pourquoi une même image produit plusieurs perceptions.
 3. Observez ce que la catégorie « Bleus » ou « Ors » change dans vos échanges.
 
-::: {.memory-cue aria-hidden="true"}
-🗣️
-:::
-
 ::: {.notes}
 Voir le fichier activite-robe.md. Il s'agit d'une simulation inspirée du paradigme des groupes minimaux, et non d'une démonstration expérimentale de celui-ci.
 :::
@@ -447,10 +411,6 @@ La robe réelle était bleue et noire. La photographie rend l'éclairage ambigu 
 
 Services, gestion du temps, stratégies d'étude, prévention du plagiat et rédaction.
 
-::: {.memory-cue aria-hidden="true"}
-🧰
-:::
-
 ::: {.notes}
 Horaire confirmé : 15 h à 15 h 30. Présenter la personne invitée, puis reprendre simplement le cours où il avait été interrompu. Le matériel sera présenté directement par le CAR.
 :::
@@ -459,30 +419,47 @@ Horaire confirmé : 15 h à 15 h 30. Présenter la personne invitée, puis repre
 
 ## Une observation quotidienne peut devenir une expérience
 
+::: {.columns}
+::: {.column width="63%"}
 À la fin du XIXe siècle, **Norman Triplett** observe que des cyclistes semblent performer différemment en présence d'autres cyclistes.
 
 Il transforme cette observation en comparaison systématique : c'est l'un des premiers jalons expérimentaux de la psychologie sociale.
+:::
 
-::: {.memory-cue aria-hidden="true"}
-🚲
+::: {.column width="37%"}
+![](assets/cycliste-1898.jpg){fig-alt="Photographie de 1898 montrant le cycliste français Lucien Lesna sur une bicyclette de course." height="475"}
+:::
+:::
+
+::: {.credit}
+Lucien Lesna, cycliste de l'époque · George H. Van Norman, v. 1898 · Library of Congress · aucune restriction connue
 :::
 
 ::: {.notes}
-Raconter l'étude plutôt que d'énumérer toute la chronologie. Préciser que la présentation moderne de Triplett comme « première expérience » fait partie de l'histoire conventionnelle de la discipline.
+Raconter l'étude plutôt que d'énumérer toute la chronologie. Préciser que la présentation moderne de Triplett comme « première expérience » fait partie de l'histoire conventionnelle de la discipline. La photographie sert à situer l'époque : elle ne représente ni Triplett ni les personnes ayant participé à son étude.
 
 [Sources]
 - Triplett, N. (1898). The dynamogenic factors in pacemaking and competition. *American Journal of Psychology, 9*, 507–533.
 - Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 9–10.
+- Van Norman, G. H. (v. 1898). *Lesna*. Library of Congress, LC-USZ62-99752. https://www.loc.gov/pictures/item/90708743/ (aucune restriction connue sur la publication).
 :::
 
 ## Kurt Lewin relie théorie, expérience et action
 
+::: {.columns}
+::: {.column width="68%"}
 - Le comportement résulte du rapport entre **personne et situation**.
 - Une théorie doit produire des questions que l'on peut **mettre à l'épreuve**.
 - La recherche peut aussi éclairer des **problèmes sociaux réels**.
+:::
 
-::: {.memory-cue aria-hidden="true"}
-🔬 🌍
+::: {.column width="32%"}
+![](assets/kurt-lewin.jpg){fig-alt="Portrait photographique en noir et blanc du psychologue Kurt Lewin." height="430"}
+:::
+:::
+
+::: {.credit}
+Kurt Lewin · photographie : auteur inconnu · domaine public · Store norske leksikon
 :::
 
 ::: {.notes}
@@ -491,6 +468,7 @@ Présenter Lewin comme figure fondatrice sans transformer cette séance en histo
 [Sources]
 - Lewin, K. (1936). *Principles of Topological Psychology*.
 - Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 12–13.
+- Store norske leksikon. *Kurt Lewin*. Photographie par un auteur inconnu, domaine public. https://snl.no/Kurt_Lewin
 :::
 
 ## Une discipline construite autour de grandes questions
@@ -539,10 +517,6 @@ Donner uniquement un aperçu. La mesure, la reproductibilité et la science ouve
 
 Santé · éducation · travail · justice · environnement · médias · politiques publiques
 
-::: {.memory-cue aria-hidden="true"}
-🌐
-:::
-
 ::: {.notes}
 Prévoir ultérieurement deux exemples québécois et une publication personnelle pertinente.
 :::
@@ -558,10 +532,6 @@ Ce domaine transversal étudie les conditions qui favorisent le **fonctionnement
 - favoriser autocompassion, liens sociaux et mentalité de croissance.
 
 [Lire l'article de Miglianico, Thériault et collègues](https://remi-theriault.com/papers/Miglianico_et_al_2024.pdf)
-
-::: {.memory-cue aria-hidden="true"}
-🌱
-:::
 
 ::: {.notes}
 **Diapositive facultative — utiliser seulement si le temps le permet.** Elle ne doit pas être présentée comme un détour servant à remplir du temps, mais comme un exemple concret de passage de la recherche à l'intervention.
@@ -582,10 +552,6 @@ Le second article est plus spécialisé. Il mobilise les critiques contemporaine
 2. La situation et son interprétation façonnent l'action.
 3. La psychologie sociale transforme ces questions en objets scientifiques.
 
-::: {.memory-cue aria-hidden="true"}
-🧭
-:::
-
 ::: {.notes}
 Faire le billet de sortie Wooclap avant d'ouvrir la période de questions.
 :::
@@ -595,10 +561,6 @@ Faire le billet de sortie Wooclap avant d'ouvrir la période de questions.
 - Lecture : **chapitres 1 et 2 du manuel**
 - Noter une affirmation psychologique entendue cette semaine
 - Se demander : **comment pourrait-on la tester?**
-
-::: {.memory-cue aria-hidden="true"}
-📚
-:::
 
 ::: {.notes}
 [Sources]
