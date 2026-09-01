@@ -71,3 +71,17 @@ $presentation-block-margin: 24px;
   font-size: 0.48em;
 }
 
+/* Indice visuel discret : soutient la mémorisation sans concurrencer le contenu. */
+.reveal .memory-cue {
+  position: absolute;
+  right: 0.42em;
+  bottom: 0.72em;
+  z-index: 0;
+  font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+  font-size: 4.4em;
+  line-height: 1;
+  opacity: 0.14;
+  pointer-events: none;
+  user-select: none;
+}
+

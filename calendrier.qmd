@@ -2,7 +2,7 @@
 title: "Calendrier"
 ---
 
-Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le **plan de cours officiel sur Moodle** demeure la référence.
+Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [plan de cours officiel](plan-de-cours.qmd) demeure la référence.
 
 | Date | Séance | Lecture | État |
 |---|---|---|---|

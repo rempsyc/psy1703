@@ -3,7 +3,8 @@ title: "Cours 1 — Voir le social autrement"
 subtitle: "Introduction à la psychologie sociale"
 ---
 
-**Mardi 1er septembre 2026 · 13 h 15 à 16 h 05**  
+**Mardi 1er septembre 2026 · 13 h 15 à 16 h 05**<br>
+**Campus de Rimouski · Local J462**<br>
 **Lecture associée :** Vallerand, chapitre 1
 
 ::: {.callout-warning title="État de la version"}
@@ -26,4 +27,4 @@ Apportez si possible un **téléphone intelligent, une tablette ou un ordinateur
 
 ## Après le cours
 
-La même adresse donnera accès à la version la plus récente. Les documents réservés au groupe et le plan de cours officiel se trouvent sur Moodle.
+La même adresse donnera accès à la version la plus récente. En cas d'écart, le [plan de cours officiel](../../plan-de-cours.qmd) demeure la référence.

@@ -10,7 +10,8 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 ### Cours 1 — Voir le social autrement
 
-**Mardi 1er septembre 2026 · 13 h 15 à 16 h 05**
+**Mardi 1er septembre 2026 · 13 h 15 à 16 h 05**<br>
+**Campus de Rimouski · Local J462**
 
 [Voir la page du cours 1](cours/01/index.qmd){.btn .btn-primary .btn-lg}
 
@@ -18,7 +19,11 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 - Chaque séance possède une page stable menant aux diapositives.
 - Les diapositives peuvent être précisées avant ou après le cours; le même lien affichera toujours la version la plus récente publiée.
-- Le plan de cours officiel, les lectures obligatoires et les documents réservés au groupe demeurent sur Moodle.
+- Ce site constitue le point d'accès central au plan de cours, aux diapositives, aux lectures indiquées et aux autres ressources du cours.
+
+::: {.callout-important title="Document de référence"}
+En cas d'écart entre une page du site, une diapositive ou une communication, le [plan de cours officiel](plan-de-cours.qmd) demeure la référence.
+:::
 
 ::: {.callout-note}
 Ce site est en construction. Une mention « en préparation » signifie que le contenu peut encore changer avant la séance.
