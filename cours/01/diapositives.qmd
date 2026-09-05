@@ -193,6 +193,48 @@ Faire les questions essentielles de prise en main et de connaissance du groupe t
 - Bibliothèque de l'UQAR. Espaces et équipements : réserver un équipement. https://biblio.uqar.ca/espaces-et-equipements/reserver-un-equipement
 :::
 
+## Wooclap — Votre parcours et vos attentes
+::: {.columns}
+::: {.column width="76%"}
+- Avez-vous déjà utilisé Wooclap dans un autre cours?
+- À quelle année de votre parcours universitaire vous situez-vous principalement?
+- Dans quel programme étudiez-vous actuellement?
+- Quel domaine professionnel vous attire le plus pour le moment?
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+## Wooclap — Votre rapport au cours
+::: {.columns}
+::: {.column width="76%"}
+- Avez-vous déjà participé aux activités d'un laboratoire de recherche?
+- Quand vous entendez « psychologie sociale », quel mot ou quelle idée vous vient d'abord à l'esprit?
+- Parmi ces thèmes, lequel vous intéresse le plus actuellement?
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+## Wooclap — Apprendre ensemble
+::: {.columns}
+::: {.column width="76%"}
+- Sur une échelle de 1 (pas du tout) à 5 (très familière ou familier), évaluez votre familiarité avec la psychologie sociale.
+- Qu'est-ce qui vous aiderait le plus à apprendre dans ce cours?
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
 ## Une pause qui nous ressemble (Pause 1)
 
 Pendant la pause, vous pourrez proposer :
@@ -237,6 +279,23 @@ La photographie est chargée à distance depuis PubMed Central. L'article source
 - Photographie : Cecilia Bleasdale (2015), reproduite dans l'article avec permission.
 :::
 
+## Wooclap — Avant la discussion
+::: {.columns}
+::: {.column width="76%"}
+1. Sur une échelle de 0 à 100, à quel point êtes-vous certain ou certaine de votre perception?
+2. Quel pourcentage du groupe-classe pensez-vous être d'accord avec vous? Répondez par un nombre de 0 à 100.
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+::: {.notes}
+Q18 et Q19 de l'export. Lancer successivement les deux questions. Masquer les résultats pour préserver l'indépendance des estimations; révéler le vote de couleur seulement ensuite.
+:::
+
 ## Explorez votre interprétation
 
 Rejoignez votre équipe à l'avant ou à l'arrière de la salle.
@@ -247,6 +306,22 @@ Rejoignez votre équipe à l'avant ou à l'arrière de la salle.
 
 ::: {.notes}
 Consignes adaptées au déroulement du 1er septembre 2026. Les échanges ont d'abord porté sur des facteurs biologiques, puis l'enseignant a invité les équipes à chercher des points communs psychologiques et des intérêts. Cette intervention fait partie du dispositif de création d'identité; les points communs trouvés ne prouvent pas qu'ils expliquent la perception.
+:::
+
+## Wooclap — Après la discussion
+::: {.columns}
+::: {.column width="76%"}
+Après la discussion, sur une échelle de 0 à 100, à quel point êtes-vous certain ou certaine de votre perception?
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+::: {.notes}
+Q20 de l'export. Comparer avec la confiance initiale sans présumer qu'elle a augmenté. Les résultats de cohorte restent dans Wooclap.
 :::
 
 ## Une perception différente peut être sincère
@@ -270,6 +345,8 @@ La robe réelle était bleue et noire. La photographie rend l'éclairage ambigu 
 ## Le Centre d'aide à la réussite
 
 Services, gestion du temps, stratégies d'étude, prévention du plagiat et rédaction.
+
+[Consulter les ressources du Centre d’aide à la réussite (CAR)](https://www.uqar.ca/services/services-a-la-communaute-universitaire/centre-apprentissage-reussite-et-pedagogie-universitaire-carpu/car/)
 
 ::: {.notes}
 Intervention du 1er septembre : 15 h à 15 h 25, suivie d'une pause jusqu'à 15 h 35. L'enseignant la désigne CRÉ dans son bilan; intitulé officiel à confirmer avant de renommer la diapositive. Le bloc magistral avait déjà commencé avant l'intervention et a repris ensuite; son point d'interruption exact reste à documenter.
@@ -376,6 +453,92 @@ Demander un exemple supplémentaire pour chaque forme de présence. Ne pas laiss
 - Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 5–6.
 :::
 
+# Wooclap — Comprendre la discipline
+
+## Wooclap — De l'observation à la recherche
+::: {.columns}
+::: {.column width="76%"}
+**Quelle démarche a transformé l'observation de Triplett en contribution scientifique?**
+
+1. Il a demandé aux cyclistes d'expliquer eux-mêmes leur performance.
+2. Il a soumis son observation à une comparaison systématique.
+3. Il a conclu que la compétition améliore toujours la performance.
+4. Il a remplacé l'observation par une opinion d'expert.
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+::: {.notes}
+Q16 de l'export. Réponse attendue : 2. Souligner le passage à une comparaison systématique.
+:::
+
+## Wooclap — Peut-on se fier au bon sens?
+::: {.columns}
+::: {.column width="76%"}
+**Pourquoi le « gros bon sens » ne suffit-il pas pour expliquer les comportements sociaux?**
+
+1. Parce que toute intuition est nécessairement fausse.
+2. Parce que seules les expériences en laboratoire sont scientifiques.
+3. Parce que les comportements humains sont entièrement imprévisibles.
+4. Parce que des explications opposées peuvent toutes sembler évidentes après coup.
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+::: {.notes}
+Q11 de l'export. Réponse attendue : 4.
+:::
+
+## Wooclap — Définir la discipline
+::: {.columns}
+::: {.column width="76%"}
+**Quelle définition décrit le mieux la psychologie sociale?**
+
+1. L'étude scientifique de l'influence réelle, imaginée ou implicite d'autrui sur nos pensées, nos émotions et nos comportements.
+2. L'étude des troubles psychologiques et de leur traitement.
+3. L'étude du cerveau indépendamment du contexte social.
+4. L'étude des différences de personnalité seulement.
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+::: {.notes}
+Q12 de l'export. Réponse attendue : 1.
+:::
+
+## Wooclap — Reconnaître une présence implicite
+::: {.columns}
+::: {.column width="76%"}
+**Dans quelle situation la présence d'autrui est-elle surtout implicite?**
+
+1. Vous modifiez votre réponse parce qu'une personne vous regarde.
+2. Vous imaginez la réaction de vos proches avant de prendre une décision.
+3. Vous respectez une norme apprise même lorsque vous êtes seul ou seule.
+4. Une personne vous donne directement une instruction.
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+::: {.notes}
+Q13 de l'export. Réponse attendue : 3. Distinguer norme implicite et présence imaginée.
+:::
+
 ## Kurt Lewin relie théorie, expérience et action
 
 ::: {.columns}
@@ -480,6 +643,49 @@ Cette diapositive peut remplacer une longue chronologie si le CAR dépasse le te
 - Vallerand, R. J. (2021). Les fondements de la psychologie sociale (3e éd.), chapitre 1.
 :::
 
+# Wooclap — Expliquer les comportements
+
+## Wooclap — Expliquer un comportement
+::: {.columns}
+::: {.column width="76%"}
+**Quelle explication vous vient d'abord à l'esprit lorsqu'une personne n'aide pas quelqu'un en difficulté?**
+
+Sa personnalité · La situation · Son interprétation de la situation · Les normes du groupe · Je ne sais pas encore
+
+**Pour expliquer un comportement, connaître la personnalité de la personne suffit généralement.** Vrai ou faux?
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+::: {.notes}
+Q10 puis Q14 de l'export : deux votes distincts. Q10 n'a pas de bonne réponse attendue; Q14 : faux. Transition vers personne–situation.
+:::
+
+## Wooclap — Personne et situation
+::: {.columns}
+::: {.column width="76%"}
+**Que signifie l'expression C = f(P, S)?**
+
+1. La situation détermine toujours le comportement.
+2. Le comportement dépend de la personne et de la situation.
+3. La personnalité demeure identique dans toutes les situations.
+4. Le comportement permet de connaître directement la personnalité.
+:::
+::: {.column width="24%"}
+![](assets/wooclap-qr.png){fig-alt="Code QR pour rejoindre Wooclap." width="240"}
+
+[wooclap.com](https://www.wooclap.com/) · **STBKYAN**
+:::
+:::
+
+::: {.notes}
+Q15 de l'export. Réponse attendue : 2.
+:::
+
 # Une discipline en évolution et en application
 
 ## Trois influences ont marqué la discipline
@@ -550,7 +756,7 @@ Le second article est plus spécialisé. Il mobilise les critiques contemporaine
 3. La psychologie sociale transforme ces questions en objets scientifiques.
 
 ::: {.notes}
-Faire le billet de sortie Wooclap avant d'ouvrir la période de questions.
+Conclure oralement et accueillir les dernières questions. Le billet de sortie n'a pas été administré le 1er septembre 2026.
 :::
 
 ## Pour le 8 septembre
