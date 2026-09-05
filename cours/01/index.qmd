@@ -7,11 +7,11 @@ subtitle: "Introduction à la psychologie sociale"
 **Campus de Rimouski · Local J462**<br>
 **Lecture associée :** Vallerand, chapitre 1
 
-::: {.callout-warning title="État de la version"}
-Ces diapositives sont **en préparation**. Elles peuvent être mises à jour jusqu'au cours et précisées après celui-ci.
+::: {.callout-note title="Version finale"}
+**Diapositives finales de la séance du 1er septembre 2026.** Des corrections ponctuelles peuvent encore être apportées.
 :::
 
-[Ouvrir les diapositives en plein écran](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
+[Ouvrir les diapositives finales](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
 
 ## À retenir
 

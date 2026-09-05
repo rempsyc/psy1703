@@ -6,7 +6,7 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 
 | Date | Séance | Lecture | État |
 |---|---|---|---|
-| 1er septembre | [Introduction à la psychologie sociale](cours/01/index.qmd) | Chapitre 1 | En préparation |
+| 1er septembre | [Introduction à la psychologie sociale](cours/01/index.qmd) | Chapitre 1 | Version finale |
 | 8 septembre | Méthodes de recherche | Chapitre 2 | À venir |
 | 15 septembre | Le soi | Chapitre 3 | À venir |
 | 22 septembre | La cognition sociale | Chapitre 4 | À venir |

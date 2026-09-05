@@ -8,12 +8,14 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 ## Prochaine séance
 
-### Cours 1 — Voir le social autrement
+### Cours 2 — Méthodes de recherche
 
-**Mardi 1er septembre 2026 · 13 h 15 à 16 h 05**<br>
+**Mardi 8 septembre 2026 · 13 h 15 à 16 h 05**<br>
 **Campus de Rimouski · Local J462**
 
-[Voir la page du cours 1](cours/01/index.qmd){.btn .btn-primary .btn-lg}
+[Consulter le calendrier](calendrier.qmd){.btn .btn-primary .btn-lg}
+
+Les [diapositives finales du cours 1](cours/01/index.qmd) sont disponibles.
 
 ## Comment utiliser ce site
 
