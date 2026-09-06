@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "cours/*/index.qmd"
+    - "cours/*/diapositives.qmd"
   resources:
     - documents/**
 
@@ -29,6 +33,10 @@ website:
         contents:
           - text: "1 · Introduction"
             href: cours/01/index.qmd
+          - text: "2 · Méthodes de recherche"
+            href: cours/02/index.qmd
+          - text: "3 · Le soi"
+            href: cours/03/index.qmd
   page-footer:
     left: "PSY1703-04 · UQAR · Automne 2026"
     right: "Matériel évolutif — vérifiez la date de mise à jour."

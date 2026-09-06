@@ -1,0 +1,602 @@
+---
+title: "Méthodes de recherche"
+subtitle: "Cours 2 — En préparation"
+author: "Rémi Thériault"
+institute: "UQAR — PSY1703-04"
+date: 2026-09-08
+date-format: "D MMMM YYYY"
+lang: fr-CA
+format:
+  revealjs:
+    theme: [simple, ../../_themes/slides.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.08
+    navigation-mode: linear
+    controls: true
+    progress: true
+    history: true
+    hash: true
+    menu: true
+    overview: true
+    footer: "PSY1703 — Psychologie sociale · Automne 2026"
+    embed-resources: false
+---
+
+## Trois acquis visés
+
+- Formuler une **hypothèse vérifiable** et mesurer ses variables.
+- Distinguer **description, association et causalité**.
+- Améliorer une étude : **méthode, éthique et transparence**.
+
+::: {.notes}
+Objectifs de séance proposés à partir du plan officiel, p. 2–3 : décrire les méthodes, évaluer leurs forces et limites, appliquer les concepts. Exercices formatifs; aucun quiz noté aujourd'hui. Lectures annoncées : chapitres 1 et 2.
+:::
+
+# Questions, hypothèses et mesures
+
+## Retour sur l'activité de la robe
+
+Nous avons observé des perceptions différentes, puis discuté en équipes.
+
+**Question de recherche :** discuter avec des personnes du même avis modifie-t-il notre certitude?
+
+Une expérience vécue peut susciter une question sans suffire à y répondre.
+
+::: {.notes}
+Source : compte rendu de Rémi, bilan interne du cours 1. Un renforcement des convictions a été rapporté qualitativement; aucun effet causal démontré. Les résultats de cohorte restent dans Wooclap/Box. Ne pas inférer de différences de personnalité entre Bleus et Ors à partir des ressemblances recherchées. Ne pas reprendre le long tour de présentation.
+:::
+
+## Théorie et hypothèse
+
+**Théorie :** une explication organisée qui relie plusieurs phénomènes.
+
+**Hypothèse :** une prédiction précise que l'on peut confronter aux observations.
+
+Les résultats peuvent soutenir, limiter ou faire réviser l'explication.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 29–32, encadré 2.1. Les hypothèses peuvent venir d'observations, de résultats contradictoires ou d'une déduction théorique. Ne pas présenter une étude comme la preuve définitive d'une théorie. Exemple original oral : une explication par l'approbation sociale peut conduire à une prédiction sur la certitude après discussion.
+:::
+
+## Une hypothèse vérifiable
+
+**Hypothèse proposée :** après une discussion avec des personnes du même avis, la certitude augmente davantage qu'après une réflexion individuelle.
+
+- Une comparaison explicite.
+- Une mesure de la certitude.
+- Un résultat qui pourrait contredire l'hypothèse.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 29–32.
+
+Exemple original et hypothétique, pas résultat d'une étude. Demander quel résultat nous ferait réviser l'hypothèse. Distinguer une théorie explicative plus générale de cette prédiction précise.
+:::
+
+## Les étapes d'une recherche
+
+1. Formuler les hypothèses.
+2. Choisir la méthode de recherche.
+3. Choisir les mesures.
+4. Analyser les données.
+5. Interpréter les résultats.
+
+Puis : communiquer les méthodes et les résultats, vérifier, réviser.
+
+Les décisions éthiques accompagnent toute la démarche.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 28–29. Présenter la démarche comme itérative : les résultats peuvent susciter de nouvelles questions. Distinguer exploration et mise à l'épreuve d'une prédiction préalable.
+:::
+
+## Définir ce que l'on mesure
+
+| Concept | Exemple d'opérationnalisation |
+|---|---|
+| Certitude | Réponse de 0 à 100 à une question précise |
+| Condition de discussion | Cinq minutes en groupe ou cinq minutes seul |
+| Changement | Score après moins score avant |
+
+Une définition opérationnelle rend la procédure explicite.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 32–34, 45–51.
+
+Exemples proposés pour une étude fictive. Le score n'épuise pas le concept de certitude. La durée de cinq minutes est un choix illustratif, pas le minutage reconstitué du cours 1.
+:::
+
+## Variables indépendante et dépendante
+
+Dans notre **expérience proposée** :
+
+- **VI — ce que l'on manipule :** discussion ou réflexion individuelle.
+- **VD — ce que l'on mesure :** changement du score de certitude.
+
+Une caractéristique simplement mesurée n'est pas une manipulation.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 32. Distinguer l'expérience proposée de l'activité réelle du cours 1. La couleur perçue n'y était pas assignée par l'enseignant. Dans un devis corrélationnel, parler de variables mesurées plutôt que de leur attribuer automatiquement un rôle causal.
+:::
+
+## La qualité d'une mesure
+
+**Fidélité :** la mesure est-elle suffisamment cohérente et reproductible dans des conditions comparables?
+
+**Validité :** les éléments disponibles soutiennent-ils l'interprétation du score pour l'usage visé?
+
+Une mesure peut être cohérente et mal représenter le concept recherché.
+
+::: {.notes}
+Exemple oral : mesurer systématiquement la fréquence des prises de parole ne mesure pas nécessairement la certitude. Source : Vallerand et Chénard-Poirier (2021), p. 32–34. Fidélité temporelle : stabilité des scores si le phénomène reste stable. Fidélité interjuges : accord entre personnes qui codent; cohérence interne : convergence des items d’une échelle. Ne pas confondre stabilité du score et absence de changement réel.
+:::
+
+## Cinq familles de mesures
+
+| Famille | Exemple original | Point de vigilance |
+|---|---|---|
+| Verbale | Certitude déclarée de 0 à 100 | Présentation de soi |
+| Implicite | Temps de réponse à des associations | Interprétation du score |
+| Physiologique | Fréquence cardiaque pendant l'échange | Activation non spécifique |
+| Comportementale | Nombre de prises de parole | Parler n'est pas être certain |
+| Non réactive | Traces d'usage d'un espace commun | Sens de la trace et vie privée |
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 45–51. Ces exemples ne sont pas cinq mesures interchangeables de certitude. Les mesures implicites n'offrent pas une lecture directe d'une personne; la fréquence cardiaque ne révèle pas une émotion unique. Non réactif ne signifie pas exempt d'enjeux éthiques. Le chapitre traite aussi des mégadonnées, p. 47–48 : volume, fréquence, compétences d'analyse et consentement. Ne pas en faire une sixième famille; le mode de collecte ne détermine pas le construit mesuré.
+:::
+
+## Croiser les mesures
+
+Une personne dit se sentir intégrée, intervient peu et revient chaque semaine.
+
+**Ces indices répondent-ils à la même question?**
+
+La **triangulation** confronte plusieurs mesures pour mieux comprendre le phénomène, y compris leurs désaccords.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 50. Exemple original. Faire proposer une explication au désaccord : écouter peut être une manière de participer; un horaire peut expliquer la présence. La convergence est utile, sans être une garantie de validité.
+:::
+
+## Une autre application
+
+On veut étudier le lien entre **sentiment d'appartenance** et **participation en classe**.
+
+En dyade : proposez une mesure pour chaque concept et une limite de chaque mesure.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 45–51.
+
+Laisser quelques minutes. Réponses possibles : autoévaluation de l'appartenance; nombre d'interventions observées. Limites : désirabilité sociale; participation silencieuse non captée. Cet exercice crée un délai de rappel avant la ronde.
+:::
+
+## Wooclap — Ronde 1 · Hypothèse
+
+**Q1. Quelle proposition est la plus directement vérifiable?**
+
+A. Les groupes ont une énergie particulière.<br>
+B. Après cinq minutes de discussion, le score de certitude augmente davantage qu'après cinq minutes seul.<br>
+C. L'être humain est fondamentalement social.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse attendue : B. Population, procédure et mesure restent à préciser. A et C peuvent susciter une réflexion, mais ne définissent pas ici un test suffisamment précis. Lancer les trois questions de la ronde, puis débreffer les erreurs communes.
+:::
+
+## Wooclap — Ronde 1 · Mesure
+
+**Q2. Le score de 0 à 100 est…**
+
+A. une opérationnalisation de la certitude;<br>
+B. une preuve que la certitude est mesurée sans erreur;<br>
+C. une mesure directe de la personnalité.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse : A. Faire expliquer pourquoi la précision numérique ne garantit ni fidélité ni validité. Revenir à l'exemple de participation si nécessaire.
+:::
+
+## Wooclap — Ronde 1 · Construit
+
+**Q3. Compter les prises de parole suffit-il à mesurer la certitude?**
+
+A. Oui, parce que le comptage est précis.<br>
+B. Oui, si deux observateurs obtiennent le même compte.<br>
+C. Non, la prise de parole peut refléter autre chose que la certitude.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse : C. L'accord entre observateurs concerne la fidélité; il ne suffit pas à établir la validité de construit. Demander quel autre facteur influence la prise de parole. Source : Vallerand et Chénard-Poirier (2021), p. 32–34.
+:::
+
+## Pause — 10 minutes
+
+::: {.notes}
+Annoncer oralement l'heure de retour. Tirage indépendant cette semaine pour le rituel des équipes, sans bonus scolaire. Photos et liens préparés localement; modalités de collecte à confirmer.
+:::
+
+# Méthodes et conclusions
+
+## Trois intentions de recherche
+
+| Intention | Question | Exemple |
+|---|---|---|
+| Décrire | Que se passe-t-il? | Observer les prises de parole |
+| Relier | Qu'est-ce qui varie ensemble? | Appartenance et participation |
+| Tester un effet | Que change une intervention? | Comparer deux conditions assignées |
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 34–45.
+
+Les outils (questionnaire, observation) ne déterminent pas à eux seuls le devis. Un questionnaire peut mesurer une variable dépendante dans une expérience.
+:::
+
+## Observation et questionnaire
+
+**Observation :** documenter des conduites dans une situation définie.
+
+**Questionnaire :** recueillir ce que les personnes déclarent.
+
+Pour chaque outil : que voit-on bien, et que risque-t-on de manquer?
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 39–40, 45–50.
+
+Observation : comportements accessibles mais interprétation des états internes limitée; réactivité possible. Questionnaire : accès au vécu déclaré mais mémoire, formulation et présentation de soi peuvent influencer les réponses. Ne pas présenter un outil comme supérieur en toute situation.
+:::
+
+## Association et causalité
+
+Si l'appartenance et la participation varient ensemble :
+
+- l'appartenance pourrait influencer la participation;
+- la participation pourrait renforcer l'appartenance;
+- un autre facteur pourrait influencer les deux.
+
+**L'association seule ne permet pas de choisir entre ces explications.**
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 38–39, 52.
+
+Exemple original, sans données. Un climat accueillant pourrait influencer les deux variables. Aucun coefficient ni résultat empirique n'est supposé ici.
+:::
+
+## Tester l'effet d'une discussion
+
+**Répartition aléatoire** entre deux conditions :
+
+| Discussion en groupe | Réflexion individuelle |
+|---|---|
+| Mesure avant | Mesure avant |
+| Cinq minutes de discussion | Cinq minutes de réflexion |
+| Mesure après | Mesure après |
+
+Même consigne de mesure; comparer les changements.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 34–35.
+
+Devis fictif, à discuter plutôt qu'à administrer comme recherche. VI : condition assignée; VD : changement de certitude. La répartition aléatoire réduit les différences systématiques initiales en moyenne, sans garantir des groupes identiques. Les échanges créent aussi une dépendance des observations au sein des groupes : approfondissement facultatif.
+:::
+
+## Deux usages du hasard
+
+**Échantillonnage aléatoire :** qui est sélectionné dans une population?
+
+**Assignation aléatoire :** qui reçoit quelle condition dans l'étude?
+
+Le premier concerne la sélection; le second aide à comparer les conditions.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 34, 40.
+
+Une expérience avec volontaires peut avoir une assignation aléatoire sans échantillon représentatif. Introduire la distinction avec un exemple oral simple.
+:::
+
+## Quatre devis à distinguer
+
+| Devis | Ce qui permet de le reconnaître |
+|---|---|
+| Expérimental en laboratoire | Manipulation et assignation aléatoire dans un contexte contrôlé |
+| Expérimental sur le terrain | Manipulation et assignation aléatoire en milieu naturel |
+| Quasi expérimental | Intervention ou événement étudié sans assignation aléatoire |
+| Corrélationnel | Relations entre variables mesurées, sans manipulation |
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 34–39. Le lieu seul ne définit pas le devis. Exemple original de quasi-expérience : une classe adopte une nouvelle activité, une autre garde sa pratique; comparer avant/après sans les avoir assignées au hasard. Les différences initiales et les événements concomitants restent des explications rivales. Une série temporelle interrompue multiplie les mesures avant/après, sans supprimer automatiquement ces limites.
+:::
+
+## Trois questions de validité
+
+**Construit :** mesure-t-on bien ce que l'on prétend mesurer?
+
+**Interne :** peut-on attribuer l'effet à la manipulation?
+
+**Externe :** à quelles personnes et situations le résultat peut-il s'appliquer?
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 32–34. Une variable confondue varie avec la condition et peut expliquer le résultat. Exemple : discussion de dix minutes contre réflexion d'une minute. Distinguer le réalisme psychologique de la simple ressemblance de surface avec la vie quotidienne, p. 35. Une expérience de laboratoire n'est pas automatiquement sans portée hors laboratoire.
+:::
+
+## Étudier des traces et des études existantes
+
+| Approche | Travail réalisé |
+|---|---|
+| Étude de cas | Comprendre en profondeur un cas dans son contexte |
+| Analyse de contenu | Coder systématiquement des messages ou des documents |
+| Analyse archivistique | Examiner des données déjà disponibles |
+| Méta-analyse | Synthétiser quantitativement les résultats de plusieurs études |
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 42–45. Une méta-analyse dépend de la qualité et de la sélection des études incluses; elle ne transforme pas des associations en causes. Enquêtes et entrevues : formulation, mémoire et échantillonnage comptent, p. 39–40. Simulation/jeu de rôles : réactions à une situation construite, p. 40–42. Le cas historique de Stanford est discuté avec des critiques dans le manuel; ne pas le présenter comme une démonstration incontestable.
+:::
+
+## Les limites de notre activité en classe
+
+- Les équipes se sont formées selon la perception.
+- La discussion comportait plusieurs interventions et consignes.
+- Il n'y avait pas de condition comparable sans discussion.
+
+**Le ressenti de changement ne suffit pas à isoler la cause.**
+
+::: {.notes}
+Source : compte rendu de Rémi. Déplacement avant/arrière; recherche guidée de ressemblances psychologiques/intérêts; porte-parole. Mentionner aussi le temps et les attentes. Ni les perceptions ni les ressemblances trouvées ne prouvent des différences de personnalité entre équipes.
+:::
+
+## Réduire les biais
+
+| Risque | Amélioration possible |
+|---|---|
+| Les volontaires diffèrent de la population visée | Diversifier le recrutement et décrire l'échantillon |
+| Les personnes devinent la réponse attendue | Consignes neutres et questions sur leur compréhension |
+| L'expérimentateur influence les réponses | Standardiser les consignes; masquer la condition si possible |
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 55–56. Ces précautions réduisent certains risques sans les faire disparaître. Dans notre exemple, l'enseignant pourrait encourager davantage une condition. Les valeurs influencent aussi le choix des questions; elles ne doivent pas conduire à sélectionner les résultats, p. 57–58.
+:::
+
+## Atelier — Améliorer une comparaison
+
+Une équipe discute à voix haute; l'autre lit en silence. Les durées et les questions de mesure diffèrent aussi.
+
+1. Quel effet veut-on isoler?
+2. Quelles différences rendent la conclusion ambiguë?
+3. Quelle modification prioriser?
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 33–38.
+
+Exemple fictif. Faire préciser l'hypothèse avant de standardiser durée et mesure. Faire distinguer validité interne (explication de l'effet) et portée de la généralisation. Garder un délai de rappel avant la ronde suivante.
+:::
+
+## Wooclap — Ronde 2 · Devis
+
+**Q4. Deux classes existantes suivent des activités différentes, sans assignation au hasard. On compare leurs progrès avant/après. Le devis est…**
+
+A. quasi expérimental;<br>
+B. expérimental avec assignation aléatoire;<br>
+C. nécessairement exempt de variables confondues.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse : A. Les classes peuvent déjà différer au départ; le prétest aide à le documenter sans tout contrôler. Source : Vallerand et Chénard-Poirier (2021), p. 37–38. Exemple original.
+:::
+
+## Wooclap — Ronde 2 · Conclusion
+
+**Q5. Appartenance et participation sont associées. Que conclure?**
+
+A. L'appartenance cause la participation.<br>
+B. La participation cause l'appartenance.<br>
+C. Elles varient ensemble; la direction causale reste à établir.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse : C. Faire proposer une troisième variable. Les trois questions de cette ronde se suivent, puis débreffage commun.
+:::
+
+## Wooclap — Ronde 2 · Hasard
+
+**Q6. Des volontaires sont répartis au hasard entre deux conditions. Cela décrit…**
+
+A. un échantillon nécessairement représentatif;<br>
+B. une assignation aléatoire;<br>
+C. une absence garantie de toute différence initiale.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse : B. Le recrutement de volontaires demeure distinct de l'assignation. Le hasard ne garantit pas l'identité des groupes dans un échantillon donné.
+:::
+
+## Pause — 10 minutes
+
+::: {.notes}
+Annoncer oralement l'heure de retour. Aucun horaire fixe affiché.
+:::
+
+# Résultats, éthique et science ouverte
+
+## Lire une différence de moyennes
+
+Dans un **exemple fictif**, le changement moyen de certitude est :
+
+- discussion : **+12 points**;
+- réflexion individuelle : **+4 points**.
+
+L'écart des changements moyens est de **8 points**.
+
+Que manque-t-il pour évaluer ce résultat?
+
+::: {.notes}
+Source conceptuelle : Vallerand et Chénard-Poirier (2021), p. 51. Chiffres inventés pour le calcul, aucune donnée de classe. Réponses : taille des groupes, dispersion, incertitude, devis, qualité de la mesure. Une moyenne ne décrit pas chaque personne. En rappel oral : médiane = valeur centrale une fois les scores ordonnés. Test t et analyse de variance comparent des moyennes sous leurs hypothèses; pas de calcul technique exigé ici. Une interaction signifie que l'effet d'une variable dépend du niveau d'une autre, p. 35 et 51; approfondissement facultatif.
+:::
+
+## Lire une corrélation
+
+![](assets/associations.svg){fig-alt="Trois nuages de points fictifs : relation linéaire positive, négative et sans tendance linéaire nette." width="1300"}
+
+Le signe de **r** donne la direction; sa valeur absolue décrit la force de l'association linéaire.
+
+::: {.credit}
+Schéma original pour PSY1703 · Données fictives, sans résultat de cohorte
+:::
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 52. r varie entre −1 et +1; r proche de zéro n'exclut pas une relation non linéaire. Le schéma illustre les directions sans afficher de coefficients calculés. Corrélation positive ne signifie pas souhaitable; négative ne signifie pas nuisible. Aucun nuage ne permet à lui seul une inférence causale. Le modelage par équations structurales n'est pas développé : même un modèle cohérent avec les associations ne prouve pas sa direction causale.
+:::
+
+## Signification statistique et importance
+
+Une petite valeur **p** indique une incompatibilité des données avec le modèle statistique testé.
+
+Elle ne donne ni la probabilité que l'hypothèse soit vraie, ni la taille de l'effet.
+
+Examiner aussi **l'ampleur, l'incertitude et le devis**.
+
+::: {.notes}
+Complément : American Statistical Association (2016), principes 1, 2 et 5, https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf. Cette formulation précise la présentation introductive du manuel, p. 51. Sous l'hypothèse nulle et les autres hypothèses du modèle, p correspond à la probabilité d'une statistique au moins aussi extrême que celle observée. Ne pas dire que p = 0,01 signifie 1 % de risque que notre conclusion soit fausse. Pas de formules à mémoriser dans cette séance.
+:::
+
+## Les personnes derrière les données
+
+- Une participation libre et un consentement éclairé.
+- Des risques examinés et réduits.
+- Une protection de la vie privée.
+- Des explications adaptées après la participation.
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 56–57. Le chapitre présente stress, duperie, intimité et confidentialité. L’évaluation par un comité d’éthique de la recherche précède la mise en œuvre d’une recherche qui y est assujettie; une bonne intention ne la remplace pas. Distinguer confidentialité et anonymat. Ne pas présenter une activité pédagogique comme une étude autorisée à publier ses données.
+:::
+
+## Duperie et débreffage
+
+Cacher le véritable objectif peut modifier les conditions du consentement.
+
+Cela exige une justification et une évaluation éthique préalable.
+
+Le débreffage explique la démarche et prévoit la possibilité de demander le retrait des données lorsque c'est possible et approprié.
+
+::: {.notes}
+Sources : Vallerand et Chénard-Poirier (2021), p. 56–57; EPTC 2 (2022), art. 3.7A–3.7B, https://ethique.gc.ca/fra/tcps2-eptc2_2022_chapter3-chapitre3.html. Le CER doit notamment vérifier le risque minimal et la protection du bien-être; il ne s'agit pas d'une permission générale de tromper les personnes. Les modalités de débriefing et de retrait dépendent de ce qui est possible, réaliste et approprié. Exemple oral original : cacher une hypothèse précise n'autorise pas à cacher un risque pertinent.
+:::
+
+## Une décision éthique concrète
+
+Une personne accepte que sa photo soit projetée pendant la pause.
+
+**Peut-on en déduire qu'elle accepte sa publication sur un site public?**
+
+Les usages doivent être explicités; les accords ne se présument pas.
+
+::: {.notes}
+Discussion orale : non. Exemple tiré des consignes de préparation du cours, sans afficher de photo étudiante. L'autorisation de projection est distincte de celle de publication.
+:::
+
+## Rendre une recherche vérifiable
+
+**Préenregistrer :** consigner les hypothèses, la méthode et les analyses prévues avant de les mettre à l’épreuve.
+
+**Après :** décrire les méthodes, rapporter les résultats et leurs limites.
+
+**Partager :** rendre accessibles les éléments qui peuvent l'être, en protégeant les personnes.
+
+::: {.notes}
+Source complémentaire au manuel : Center for Open Science, Preregistration, https://www.cos.io/initiatives/prereg, consulté le 6 septembre 2026. Le plan de cours prévoit la science ouverte. Le préenregistrement distingue le travail prévu de l’exploration ajoutée; il ne garantit pas la qualité de l’étude. Une analyse exploratoire est utile lorsqu'elle est identifiée comme telle. Ne jamais assimiler science ouverte et publication obligatoire de données identifiantes.
+:::
+
+## Ce qu'une autre équipe devrait pouvoir comprendre
+
+1. Comment les personnes ont été recrutées et réparties.
+2. Ce qui a été demandé et mesuré.
+3. Comment les données ont été analysées.
+4. Quelles conclusions sont soutenues, et lesquelles restent ouvertes.
+
+::: {.notes}
+Mini-application au devis de discussion. Faire repérer une information manquante. Faire distinguer vérifier une analyse avec les mêmes données et répéter l’étude avec de nouvelles données. Le chapitre insiste sur la réplication et la diversité des populations, p. 34 et 54. Relier les valeurs au choix des questions plutôt qu’à la sélection des résultats souhaités, p. 57–58.
+:::
+
+## Wooclap — Ronde 3 · Résultat
+
+**Q7. Une étude rapporte p = 0,01. Cette information seule permet-elle de conclure que l'effet est important?**
+
+A. Oui : l'hypothèse a 99 % de chances d'être vraie.<br>
+B. Oui : l'effet est nécessairement grand.<br>
+C. Non : il faut aussi connaître son ampleur, son incertitude et le devis.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse : C. Réponse brève : la valeur p ne mesure ni la probabilité de l'hypothèse ni la taille de l'effet. Source : ASA (2016), https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf. Ne pas prolonger en cours de statistique; revenir aux trois informations manquantes.
+:::
+
+## Wooclap — Ronde 3 · Transparence
+
+**Q8. Quelle pratique soutient la transparence?**
+
+A. Distinguer les analyses prévues des explorations ajoutées.<br>
+B. Ne rapporter que les résultats attendus.<br>
+C. Publier les noms des personnes pour rendre les données crédibles.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse : A. B masque une partie de l'information; C ne garantit rien et expose les personnes. Enchaîner la question sur le partage, puis débreffer la ronde.
+:::
+
+## Wooclap — Ronde 3 · Partage
+
+**Q9. Un export contient des noms et des réponses individuelles. Pour partager la méthode, on devrait d'abord…**
+
+A. déposer l'export complet sur le site du cours;<br>
+B. partager les questions et le protocole, puis examiner séparément les conditions de partage des données;<br>
+C. supprimer seulement la colonne des prénoms et tout publier.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Réponse : B. Retirer un prénom ne garantit pas l'anonymat. L'export réel du cours 1 reste dans Box/Wooclap. Aucun export individuel n'est nécessaire à cette activité.
+:::
+
+## Trois questions à poser devant une étude
+
+1. **Qu'a-t-on mesuré ou manipulé?**
+2. **Quelle conclusion le devis permet-il?**
+3. **Que faudrait-il améliorer, protéger ou rendre explicite?**
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 53–55.
+
+Synthèse orale avec un exemple déjà vu. Pas de billet de sortie obligatoire. Si fatigue, conclure directement ici, puis afficher la prochaine séance.
+:::
+
+## Prochaine séance
+
+**15 septembre — Le soi**
+
+Lire le **chapitre 3**. Premier quiz de lecture au début de la séance.
+
+**Examen 1 : 29 septembre, 25 %**<br>
+Chapitres 1 à 4 et matière des séances 1 à 4.
+
+::: {.notes}
+Source : plan officiel, p. 3, 5–6. Les rondes d'aujourd'hui sont formatives et distinctes des quiz notés.
+:::
+
+## Références
+
+Vallerand, R. J., et Chénard-Poirier, L.-A. (2021). Chapitre 2, p. 27–59. Dans R. J. Vallerand (dir.), *Les fondements de la psychologie sociale* (3e éd.). Chenelière Éducation.
+
+Compléments : [ASA — Interprétation des valeurs p](https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf) · [EPTC 2 — Consentement](https://ethique.gc.ca/fra/tcps2-eptc2_2022_chapter3-chapitre3.html) · [COS — Préenregistrement](https://www.cos.io/initiatives/prereg)
+
+::: {.notes}
+Les pages précises sont indiquées dans les notes des diapositives. Les situations discussion/réflexion et appartenance/participation, ainsi que les nombres utilisés pour le calcul, sont des exemples pédagogiques originaux. Aucune page ou figure du manuel n'est reproduite dans ce support.
+:::

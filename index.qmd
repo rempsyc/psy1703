@@ -15,7 +15,13 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 [Consulter le calendrier](calendrier.qmd){.btn .btn-primary .btn-lg}
 
+[Préparer le cours 2](cours/02/index.qmd) · Lectures annoncées : **chapitres 1 et 2**. Diapositives en préparation.
+
 Les [diapositives finales du cours 1](cours/01/index.qmd) sont disponibles.
+
+## Matériel en préparation
+
+[Cours 3 — Le soi · 15 septembre](cours/03/index.qmd) : première version des diapositives en préparation.
 
 ## Comment utiliser ce site
 

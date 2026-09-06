@@ -1,0 +1,33 @@
+---
+title: "Cours 2 — Méthodes de recherche"
+subtitle: "Étudier les conduites sociales"
+---
+
+**Mardi 8 septembre 2026 · 13 h 15 à 16 h 05**<br>
+**Campus de Rimouski · Local J462**
+
+::: {.callout-warning title="En préparation"}
+Version enrichie après lecture du chapitre 2, révisée le 6 septembre 2026. Les modalités Wooclap restent à compléter avant la séance.
+:::
+
+[Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
+
+## Trois acquis visés
+
+1. Formuler une hypothèse vérifiable et préciser comment mesurer ses variables.
+2. Distinguer description, association et conclusion causale en évaluant les forces et les limites d'un devis.
+3. Proposer une amélioration méthodologique et une précaution éthique ou de transparence pour une étude.
+
+## Avant la séance
+
+**Lectures annoncées : chapitres 1 et 2 de Vallerand.** Le chapitre 2 est la lecture associée au 8 septembre dans le [plan officiel](../../plan-de-cours.qmd); le chapitre 1 sert au retour sur l'introduction.
+
+Aucun quiz de lecture noté n'est prévu le 8 septembre. Les rondes Wooclap servent à s'exercer.
+
+## Pour participer
+
+Prévoyez si possible un téléphone, une tablette ou un ordinateur. Le code et le QR de l'événement du cours 2 seront affichés pendant les rondes. Une participation à deux ou sur papier est possible pour ces activités formatives.
+
+## Pour la suite
+
+Le 15 septembre : **le soi, chapitre 3, et quiz de lecture 1** au début de la séance. L'examen 1 du **29 septembre (25 %)** porte sur les chapitres 1 à 4 et la matière des séances 1 à 4, conformément au plan officiel.
