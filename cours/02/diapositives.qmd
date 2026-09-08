@@ -329,7 +329,7 @@ Source : Vallerand et Chénard-Poirier (2021), p. 55–56. Ces précautions réd
 
 **Ronde 1** · Les questions sont présentées dans Wooclap.
 
-[Reprendre le cours après la ronde](#suite-ronde-1)
+[Passer à l’atelier après la pause](#atelier-appartenance)
 
 ::: {.notes}
 Basculer vers Wooclap pour les questions et la correction. Les diapositives suivantes conservent les questions pour les archives publiques, sans QR. Au retour, utiliser le lien pour reprendre le cours sans les parcourir.
@@ -413,7 +413,7 @@ Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie
 
 {{< include _reconnexion.qmd >}}
 
-## Atelier 1 — Comment mesurer l’appartenance?
+## Atelier 1 — Comment mesurer l’appartenance? {#atelier-appartenance}
 
 **8 minutes · Trouvez un binôme de votre équipe Blancs-Ors ou Bleus-Noirs.**
 
