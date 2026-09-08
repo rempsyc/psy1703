@@ -159,7 +159,7 @@ Quitter temporairement les diapositives et ouvrir le PDF du plan de cours. Ne pa
 | Examen 1 | 29 septembre | 25 % |
 | Examen 2 | 10 novembre | 30 % |
 | Examen 3 | 15 décembre | 35 % |
-| Quiz de lecture | 15 septembre–8 décembre | 10 % |
+| Quiz de lecture | 15 septembre–8 décembre | 10 % (8 meilleurs × 1,25 %) |
 
 ::: {.notes}
 [Sources]

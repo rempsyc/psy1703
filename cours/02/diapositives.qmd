@@ -53,7 +53,7 @@ Commencer directement par le quiz test, comme le quiz prévu en début de séanc
 - Qu'est-ce qui rend une réponse correcte?
 - Quelles consignes faut-il clarifier avant le vrai quiz?
 
-**Quiz du 15 septembre : durée envisagée de 10 minutes**, soit deux fois celle de cet essai.
+**Quiz du 15 septembre (1,25 %) : durée envisagée de 10 minutes**, soit deux fois celle de cet essai.
 
 ::: {.notes}
 Cinq minutes pour correction et questions. Les dix minutes concernent la durée, pas nécessairement le nombre de questions. Le vrai quiz sera deux fois plus long; ne pas annoncer cette durée comme définitivement arrêtée. Présenter la correction du test préparé dans la conversation du cours 1.
@@ -61,7 +61,9 @@ Cinq minutes pour correction et questions. Les dix minutes concernent la durée,
 
 ## Quiz et examen — quoi préparer?
 
-**15 septembre — Quiz 1 : chapitres 1–2 et cours 1–2.**
+**15 septembre — Quiz 1 (1,25 %) : chapitres 1–2 et cours 1–2.**
+
+Les **8 meilleurs quiz sur 10** comptent pour **10 %** de la note finale.
 
 **29 septembre — Examen 1 (25 %) : chapitres 1–4 et cours 1–4.**
 
@@ -660,24 +662,6 @@ La science ouverte ne suffit pas à elle seule. Proposition normative : valorise
 Vallerand et Chénard-Poirier (2021), p. 56–57; EPTC 2 (2022), art. 3.7A–3.7B, https://ethique.gc.ca/fra/tcps2-eptc2_2022_chapter3-chapitre3.html. Ne pas confondre confidentialité et anonymat. En recherche assujettie, l'évaluation par le CER précède la mise en œuvre. Toute modification aux exigences de consentement exige notamment risque minimal et protection du bien-être. Le débreffage prévoit le retrait des données lorsque possible, réaliste et approprié. Retirer un prénom ne suffit pas à garantir l'anonymat.
 :::
 
-## Atelier 3 — Que peut-on honnêtement annoncer?
-
-**10 minutes · Même binôme.**
-
-**Cas fictif :** une étude auprès de volontaires d’une université ne soutient pas l’hypothèse prévue. Après avoir vu les résultats, l’équipe retire des réponses et obtient un résultat qui la soutient. Le motif des retraits n’est pas indiqué.
-
-Elle annonce : **« Notre hypothèse est confirmée chez les humains. »**
-
-Rédigez un compte rendu prudent en **trois phrases** :
-
-1. Ce qu’il faut préciser sur les exclusions et leur chronologie.
-2. À qui la conclusion pourrait s’appliquer, et ce qui reste incertain.
-3. Ce qu’on pourrait partager pour vérifier l’étude sans identifier les personnes.
-
-::: {.notes}
-Guide interne, atelier 3 : 1 min lecture, 4 min rédaction, 1 min échange avec un autre binôme, 4 min retour. Ne pas inventer le motif des exclusions. Attendus : indiquer qu’elles ont été choisies après examen des résultats, demander justification et analyses avec/sans exclusions; conclusion exploratoire et limitée par recrutement, devis et mesures; partager protocole, questions, décisions et code, évaluer séparément le partage des données. Une exclusion peut être légitime. Relier la généralisation excessive au MASKing sans réduire le concept à l’échantillonnage. Faire rappeler oralement Making Assumptions based on Skewed Knowledge. Cet atelier précède la ronde 2.
-:::
-
 ## Connectez-vous à Wooclap {#connexion-ronde-2}
 
 {{< include _reconnexion.qmd >}}
@@ -742,7 +726,7 @@ Synthèse orale avec un exemple déjà vu. Pas de billet de sortie obligatoire. 
 
 **15 septembre — Le soi** (**chapitre 3**)
 
-**Quiz 1 en début de séance**<br>
+**Quiz 1 (1,25 %) en début de séance**<br>
 Chapitres 1–2 et cours 1–2.
 
 **Examen 1 : 29 septembre, 25 %**<br>
@@ -818,4 +802,22 @@ L’équipe veut savoir si **discuter augmente davantage la certitude que réfl�
 
 ::: {.notes}
 Guide interne, atelier 2 : 1 min lecture individuelle, 5 min rédaction, 2 min vérification avec un autre binôme de la même équipe, 4 min débreffage. Scénario fictif, pas description du cours 1. Attendus : assignation aléatoire aux conditions indépendante de l’équipe, mêmes durées et consignes comparables, même mesure de certitude avant/après, comparaison des changements moyens. Distinguer équipes servant à l’atelier et conditions du protocole imaginé. Ne pas administrer l’étude. Demander pour chaque correction quelle explication concurrente elle réduit. Le hasard ne garantit pas des groupes identiques; une étude dans cette classe ne représente pas toute l’humanité. Source conceptuelle : Vallerand et Chénard-Poirier (2021), p. 33–40.
+:::
+
+## Atelier 3 — Que peut-on honnêtement annoncer? (si nous avons le temps)
+
+**10 minutes · Même binôme.**
+
+**Cas fictif :** une étude auprès de volontaires d’une université ne soutient pas l’hypothèse prévue. Après avoir vu les résultats, l’équipe retire des réponses et obtient un résultat qui la soutient. Le motif des retraits n’est pas indiqué.
+
+Elle annonce : **« Notre hypothèse est confirmée chez les humains. »**
+
+Rédigez un compte rendu prudent en **trois phrases** :
+
+1. Ce qu’il faut préciser sur les exclusions et leur chronologie.
+2. À qui la conclusion pourrait s’appliquer, et ce qui reste incertain.
+3. Ce qu’on pourrait partager pour vérifier l’étude sans identifier les personnes.
+
+::: {.notes}
+Guide interne, atelier 3 : 1 min lecture, 4 min rédaction, 1 min échange avec un autre binôme, 4 min retour. Ne pas inventer le motif des exclusions. Attendus : indiquer qu’elles ont été choisies après examen des résultats, demander justification et analyses avec/sans exclusions; conclusion exploratoire et limitée par recrutement, devis et mesures; partager protocole, questions, décisions et code, évaluer séparément le partage des données. Une exclusion peut être légitime. Relier la généralisation excessive au MASKing sans réduire le concept à l’échantillonnage. Faire rappeler oralement Making Assumptions based on Skewed Knowledge. Cet atelier précède la ronde 2.
 :::
