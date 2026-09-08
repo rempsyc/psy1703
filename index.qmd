@@ -19,10 +19,6 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 Les [diapositives finales du cours 1](cours/01/index.qmd) sont disponibles.
 
-## Matériel en préparation
-
-[Cours 3 — Le soi · 15 septembre](cours/03/index.qmd) : première version des diapositives en préparation.
-
 ## Comment utiliser ce site
 
 - Chaque séance possède une page stable menant aux diapositives.

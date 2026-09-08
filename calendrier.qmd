@@ -8,7 +8,7 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 |---|---|---|---|
 | 1er septembre | [Introduction à la psychologie sociale](cours/01/index.qmd) | Chapitre 1 | Version finale |
 | 8 septembre | [Méthodes de recherche](cours/02/index.qmd) | Chapitre 2; rappel annoncé : chapitres 1 et 2 | En préparation |
-| 15 septembre | [Le soi](cours/03/index.qmd) | Chapitre 3 | En préparation |
+| 15 septembre | Le soi | Chapitre 3 | En préparation |
 | 22 septembre | La cognition sociale | Chapitre 4 | À venir |
 | 29 septembre | Examen 1 | — | Évaluation |
 | 6 octobre | L'attribution | Chapitre 5 | À venir |
