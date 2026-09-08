@@ -1,6 +1,6 @@
 ---
-title: "Méthodes de recherche"
-subtitle: "Cours 2 — En préparation"
+title: "Psychologie sociale"
+subtitle: "Cours 2 — Méthodes de recherche"
 author: "Rémi Thériault"
 institute: "UQAR — PSY1703-04"
 date: 2026-09-08
@@ -28,7 +28,7 @@ format:
     embed-resources: false
 ---
 
-## Connectez-vous à Wooclap {#connexion-quiz}
+## Pratique de quiz sur Wooclap {#connexion-quiz}
 
 {{< include _reconnexion.qmd >}}
 
@@ -155,8 +155,8 @@ Exemples proposés pour une étude fictive. Le score n'épuise pas le concept de
 
 Dans notre **expérience proposée** :
 
-- **VI (variables indépendante) — l'intervention, ce que l'on manipule :** discussion ou réflexion individuelle.
-- **VD (variables dépendante) — les résultats, ce que l'on mesure :** changement du score de certitude.
+- **VI (variable indépendante) — l'intervention, ce que l'on manipule :** discussion ou réflexion individuelle.
+- **VD (variable dépendante) — les résultats, ce que l'on mesure :** changement du score de certitude.
 
 Une caractéristique simplement mesurée n'est pas une manipulation.
 
@@ -187,7 +187,7 @@ Exemple oral : mesurer systématiquement la fréquence des prises de parole ne m
 | Non réactive | Traces d'usage d'un espace commun | Sens de la trace et vie privée |
 
 ::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 45–51. Ces exemples ne sont pas cinq mesures interchangeables de certitude. Les mesures implicites n'offrent pas une lecture directe d'une personne; la fréquence cardiaque ne révèle pas une émotion unique. Non réactif ne signifie pas exempt d'enjeux éthiques. Le chapitre traite aussi des mégadonnées, p. 47–48 : volume, fréquence, compétences d'analyse et consentement. Ne pas en faire une sixième famille; le mode de collecte ne détermine pas le construit mesuré.
+Source : Vallerand et Chénard-Poirier (2021), p. 45–51. Ces exemples ne sont pas cinq mesures interchangeables de certitude. Les mesures implicites n'offrent pas une lecture directe d'une personne; la fréquence cardiaque ne révèle pas une émotion unique. Non réactif ne signifie pas exempt d'enjeux éthiques. Le chapitre traite aussi des mégadonnées, p. 47–48 : volume, fréquence, compétences d'analyse et consentement. Ne pas en faire une sixième famille; le mode de collecte ne détermine pas le construit mesuré. Exemple non réactive : niveau d'usure sur le plancher au musée en face de différentes toiles ou statues. Quantité de déchets sur le sol suite à un nouvel affichage invitant au recyclage et composte.
 :::
 
 ## Atelier 1 — Comment mesurer l’appartenance?

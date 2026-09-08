@@ -1,5 +1,7 @@
 # Conventions du projet PSY1703-04
 
+- Page titre des diapositives : titre du cours universitaire (« Psychologie sociale » ici), puis sous-titre « Cours N — Titre de la séance », comme au cours 1. Ne pas mettre « En préparation » dans le titre ou le sous-titre; l’état de version appartient à la page de séance.
+
 - Accueil : conserver un bloc « Prochaine séance » universel et minimal (titre du cours, date/horaire, campus/local, unique bouton bleu « Voir la page du cours N » vers sa page). Le calendrier reste accessible dans le menu. Ne pas ajouter dans ce bloc les lectures, modalités, états des diapositives ou annonces des séances précédentes; ces informations appartiennent aux pages concernées. À chaque séance, actualiser le titre, la date et le lien sans modifier la structure. L’accueil est l’unique emplacement des informations courantes d’horaire, de campus et de local sur les pages du site; ne pas les dupliquer sur les pages de séance.
 
 - Source éditable unique du site et des diapositives : `C:/github/psy1703`. Site Quarto unique, pages `cours/NN/index.qmd`, Reveal.js `cours/NN/diapositives.qmd`; aucun dépôt par séance.
