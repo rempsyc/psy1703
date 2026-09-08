@@ -407,7 +407,7 @@ C. une absence garantie de toute différence initiale.
 Réponse : B. Le recrutement de volontaires demeure distinct de l'assignation. Le hasard ne garantit pas l'identité des groupes dans un échantillon donné.
 :::
 
-## Pause 1 — 10 minutes
+## Pause 1 — 10 minutes {#suite-ronde-1}
 
 Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
 
@@ -431,7 +431,7 @@ Une personne rédige; l’autre vérifie ce que chaque mesure permet de conclure
 Guide interne : guide-animation-ateliers.md, atelier 1. Minutage : 1 min formation, 1 min réflexion individuelle, 3 min en binôme, 3 min retour avec deux propositions. Un trio dans chaque équipe si nombre impair; aucun déplacement obligatoire. Exemple de question : « En ce moment, je me sens membre à part entière de ce groupe », de 1 pas du tout d’accord à 7 tout à fait d’accord. Proposition à évaluer, pas échelle validée. Prises de parole, présence et appartenance ne sont pas interchangeables. Introduire la triangulation au retour : confronter plusieurs indices sans supposer qu’ils mesurent tous le même construit. Exemples fictifs; aucune réponse personnelle à remettre. Source conceptuelle : Vallerand et Chénard-Poirier (2021), p. 45–51.
 :::
 
-# Partie 2 — La science ouverte et au-delà {#suite-ronde-1}
+# Partie 2 — La science ouverte et au-delà
 
 ## Pourquoi trouve-t-on si souvent ce que l’on attend?
 
