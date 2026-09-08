@@ -28,6 +28,61 @@ format:
     embed-resources: false
 ---
 
+## Connectez-vous à Wooclap {#connexion-quiz}
+
+{{< include _reconnexion.qmd >}}
+
+**Quiz test — 5 minutes · individuel et non noté.**
+
+## Quiz test — 5 minutes
+
+**Essai individuel, non noté, sur le cours 1.**
+
+L'objectif : essayer le fonctionnement et la **connexion avec votre identifiant UQAR** avant le premier quiz évalué.
+
+Pour chaque quiz, arrivez avec un **téléphone ou un ordinateur portable bien chargé** : une batterie déchargée pourrait vous empêcher de le compléter.
+
+::: {.notes}
+Commencer directement par le quiz test, comme le quiz prévu en début de séance le 15 septembre. Prévoir cinq minutes de réponse. Questions et corrigé à préparer dans la conversation du cours 1; aucun questionnaire administrable n'est encore inclus ici. Le quiz test utilise le même événement Wooclap LTJTCPR que les deux rondes de consolidation. Ne pas confondre ce test avec les neuf QCM formatifs de la séance.
+:::
+
+## Retour sur le quiz test
+
+**Correction expliquée**, puis questions sur le fonctionnement.
+
+- Qu'est-ce qui rend une réponse correcte?
+- Quelles consignes faut-il clarifier avant le vrai quiz?
+
+**Quiz du 15 septembre : durée envisagée de 10 minutes**, soit deux fois celle de cet essai.
+
+::: {.notes}
+Cinq minutes pour correction et questions. Les dix minutes concernent la durée, pas nécessairement le nombre de questions. Le vrai quiz sera deux fois plus long; ne pas annoncer cette durée comme définitivement arrêtée. Présenter la correction du test préparé dans la conversation du cours 1.
+:::
+
+## Quiz et examen — quoi préparer?
+
+**15 septembre — Quiz 1 : chapitres 1–2 et cours 1–2.**
+
+**29 septembre — Examen 1 (25 %) : chapitres 1–4 et cours 1–4.**
+
+Les notions enseignées en cours **peuvent** être évaluées même si elles ne figurent pas dans le manuel, mais en général je m'en tiens au manuel et aux diapositives.
+
+Toute autre ressource ou lien externe n'est pas matière à examen.
+
+::: {.notes}
+Périmètre de l'examen 1 explicitement confirmé : cours 1–4. Chapitre 3 à lire pour le 15 septembre, mais hors quiz 1. Les détails présents uniquement dans les articles cités ne sont pas évaluables. Approfondissements facultatifs non exigibles par leur seule présence dans les diapos.
+:::
+
+## Plan de cours modifié
+
+Des modifications ont été demandées par le **Département**.
+
+Nous allons brièvement parcourir les différences avec la version précédente.
+
+::: {.notes}
+Ouvrir la version révisée et comparer les passages concernés.
+:::
+
 ## Trois acquis visés
 
 - Formuler une **hypothèse vérifiable** et mesurer ses variables.
@@ -38,7 +93,7 @@ format:
 Objectifs de séance proposés à partir du plan officiel, p. 2–3 : décrire les méthodes, évaluer leurs forces et limites, appliquer les concepts. Exercices formatifs; aucun quiz noté aujourd'hui. Lectures annoncées : chapitres 1 et 2.
 :::
 
-# Questions, hypothèses et mesures
+# Partie 1 — Construire et interpréter une étude
 
 ## Retour sur l'activité de la robe
 
@@ -49,33 +104,19 @@ Nous avons observé des perceptions différentes, puis discuté en équipes.
 Une expérience vécue peut susciter une question sans suffire à y répondre.
 
 ::: {.notes}
-Source : compte rendu de Rémi, bilan interne du cours 1. Un renforcement des convictions a été rapporté qualitativement; aucun effet causal démontré. Les résultats de cohorte restent dans Wooclap/Box. Ne pas inférer de différences de personnalité entre Bleus et Ors à partir des ressemblances recherchées. Ne pas reprendre le long tour de présentation.
+Source : bilan interne du cours 1. Un renforcement des convictions a été rapporté qualitativement; aucun effet causal démontré. Les résultats de cohorte restent dans Wooclap/Box. Ne pas inférer de différences de personnalité entre Bleus et Ors à partir des ressemblances recherchées.
 :::
 
-## Théorie et hypothèse
+## De la théorie à une hypothèse vérifiable
 
-**Théorie :** une explication organisée qui relie plusieurs phénomènes.
+Une **théorie** propose une explication; une **hypothèse** en tire une prédiction à vérifier.
 
-**Hypothèse :** une prédiction précise que l'on peut confronter aux observations.
+**Exemple :** la certitude augmente davantage après une discussion avec des personnes du même avis qu'après une réflexion individuelle.
 
-Les résultats peuvent soutenir, limiter ou faire réviser l'explication.
-
-::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 29–32, encadré 2.1. Les hypothèses peuvent venir d'observations, de résultats contradictoires ou d'une déduction théorique. Ne pas présenter une étude comme la preuve définitive d'une théorie. Exemple original oral : une explication par l'approbation sociale peut conduire à une prédiction sur la certitude après discussion.
-:::
-
-## Une hypothèse vérifiable
-
-**Hypothèse proposée :** après une discussion avec des personnes du même avis, la certitude augmente davantage qu'après une réflexion individuelle.
-
-- Une comparaison explicite.
-- Une mesure de la certitude.
-- Un résultat qui pourrait contredire l'hypothèse.
+Quel résultat contredirait cette prédiction?
 
 ::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 29–32.
-
-Exemple original et hypothétique, pas résultat d'une étude. Demander quel résultat nous ferait réviser l'hypothèse. Distinguer une théorie explicative plus générale de cette prédiction précise.
+Vallerand et Chénard-Poirier (2021), p. 29–32. Exemple hypothétique original. Une étude ne prouve pas définitivement une théorie. Faire préciser comparaison et mesure; les hypothèses peuvent aussi naître d'observations ou de résultats contradictoires.
 :::
 
 ## Les étapes d'une recherche
@@ -114,8 +155,8 @@ Exemples proposés pour une étude fictive. Le score n'épuise pas le concept de
 
 Dans notre **expérience proposée** :
 
-- **VI — ce que l'on manipule :** discussion ou réflexion individuelle.
-- **VD — ce que l'on mesure :** changement du score de certitude.
+- **VI (variables indépendante) — l'intervention, ce que l'on manipule :** discussion ou réflexion individuelle.
+- **VD (variables dépendante) — les résultats, ce que l'on mesure :** changement du score de certitude.
 
 Une caractéristique simplement mesurée n'est pas une manipulation.
 
@@ -149,107 +190,64 @@ Exemple oral : mesurer systématiquement la fréquence des prises de parole ne m
 Source : Vallerand et Chénard-Poirier (2021), p. 45–51. Ces exemples ne sont pas cinq mesures interchangeables de certitude. Les mesures implicites n'offrent pas une lecture directe d'une personne; la fréquence cardiaque ne révèle pas une émotion unique. Non réactif ne signifie pas exempt d'enjeux éthiques. Le chapitre traite aussi des mégadonnées, p. 47–48 : volume, fréquence, compétences d'analyse et consentement. Ne pas en faire une sixième famille; le mode de collecte ne détermine pas le construit mesuré.
 :::
 
-## Croiser les mesures
+## Application — Appartenance et participation
 
-Une personne dit se sentir intégrée, intervient peu et revient chaque semaine.
+En dyade : proposez une mesure du **sentiment d'appartenance** et une mesure de la **participation**.
 
-**Ces indices répondent-ils à la même question?**
+Une personne dit se sentir intégrée, intervient peu et revient chaque semaine. Comment interpréter ces indices?
 
-La **triangulation** confronte plusieurs mesures pour mieux comprendre le phénomène, y compris leurs désaccords.
-
-::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 50. Exemple original. Faire proposer une explication au désaccord : écouter peut être une manière de participer; un horaire peut expliquer la présence. La convergence est utile, sans être une garantie de validité.
-:::
-
-## Une autre application
-
-On veut étudier le lien entre **sentiment d'appartenance** et **participation en classe**.
-
-En dyade : proposez une mesure pour chaque concept et une limite de chaque mesure.
+La **triangulation** confronte plusieurs mesures, y compris leurs désaccords.
 
 ::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 45–51.
-
-Laisser quelques minutes. Réponses possibles : autoévaluation de l'appartenance; nombre d'interventions observées. Limites : désirabilité sociale; participation silencieuse non captée. Cet exercice crée un délai de rappel avant la ronde.
+Vallerand et Chénard-Poirier (2021), p. 45–51. Exemples originaux. Quelques minutes en dyades puis deux restitutions. Écouter peut être une manière de participer. Les indices ne mesurent pas nécessairement le même construit; leur convergence ne garantit pas la validité. Cette application prépare un rappel différé : Q1–Q6 sont regroupées à la fin de la Partie 1.
 :::
 
-## Wooclap — Ronde 1 · Hypothèse
+## Lire une différence de moyennes
 
-**Q1. Quelle proposition est la plus directement vérifiable?**
+Dans un **exemple fictif**, le changement moyen de certitude est :
 
-A. Les groupes ont une énergie particulière.<br>
-B. Après cinq minutes de discussion, le score de certitude augmente davantage qu'après cinq minutes seul.<br>
-C. L'être humain est fondamentalement social.
+- discussion : **+12 points**;
+- réflexion individuelle : **+4 points**.
+
+L'écart des changements moyens est de **8 points**.
+
+Que manque-t-il pour évaluer ce résultat?
+
+::: {.notes}
+Source conceptuelle : Vallerand et Chénard-Poirier (2021), p. 51. Chiffres inventés pour le calcul, aucune donnée de classe. Réponses : taille des groupes, dispersion, incertitude, devis, qualité de la mesure. Une moyenne ne décrit pas chaque personne. En rappel oral : médiane = valeur centrale une fois les scores ordonnés. Test t et analyse de variance comparent des moyennes sous leurs hypothèses; pas de calcul technique exigé ici. Une interaction signifie que l'effet d'une variable dépend du niveau d'une autre, p. 35 et 51; approfondissement facultatif.
+:::
+
+## Lire une corrélation
+
+![](assets/associations.svg){fig-alt="Trois nuages de points fictifs : relation linéaire positive, négative et sans tendance linéaire nette." width="1300"}
+
+Le signe de **r** donne la direction; sa valeur absolue décrit la force de l'association linéaire.
+
+::: {.credit}
+Schéma original pour PSY1703 · Données fictives, sans résultat de cohorte
+:::
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 52. r varie entre −1 et +1; r proche de zéro n'exclut pas une relation non linéaire. Le schéma illustre les directions sans afficher de coefficients calculés. Corrélation positive ne signifie pas souhaitable; négative ne signifie pas nuisible. Aucun nuage ne permet à lui seul une inférence causale. Le modelage par équations structurales n'est pas développé : même un modèle cohérent avec les associations ne prouve pas sa direction causale.
+:::
+
+## Signification statistique et importance
+
+Une petite valeur **p** indique une incompatibilité des données avec le modèle statistique testé.
+
+Elle ne donne ni la probabilité que l'hypothèse soit vraie, ni la taille de l'effet.
+
+Examiner aussi **l'ampleur, l'incertitude et le devis**.
+
+::: {.notes}
+Complément : American Statistical Association (2016), principes 1, 2 et 5, https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf. Cette formulation précise la présentation introductive du manuel, p. 51. Sous l'hypothèse nulle et les autres hypothèses du modèle, p correspond à la probabilité d'une statistique au moins aussi extrême que celle observée. Ne pas dire que p = 0,01 signifie 1 % de risque que notre conclusion soit fausse. Pas de formules à mémoriser dans cette séance.
+:::
+
+## Pause 1 — 10 minutes
+
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
 
 {{< include _reconnexion.qmd >}}
-
-::: {.notes}
-Réponse attendue : B. Population, procédure et mesure restent à préciser. A et C peuvent susciter une réflexion, mais ne définissent pas ici un test suffisamment précis. Lancer les trois questions de la ronde, puis débreffer les erreurs communes.
-:::
-
-## Wooclap — Ronde 1 · Mesure
-
-**Q2. Le score de 0 à 100 est…**
-
-A. une opérationnalisation de la certitude;<br>
-B. une preuve que la certitude est mesurée sans erreur;<br>
-C. une mesure directe de la personnalité.
-
-{{< include _reconnexion.qmd >}}
-
-::: {.notes}
-Réponse : A. Faire expliquer pourquoi la précision numérique ne garantit ni fidélité ni validité. Revenir à l'exemple de participation si nécessaire.
-:::
-
-## Wooclap — Ronde 1 · Construit
-
-**Q3. Compter les prises de parole suffit-il à mesurer la certitude?**
-
-A. Oui, parce que le comptage est précis.<br>
-B. Oui, si deux observateurs obtiennent le même compte.<br>
-C. Non, la prise de parole peut refléter autre chose que la certitude.
-
-{{< include _reconnexion.qmd >}}
-
-::: {.notes}
-Réponse : C. L'accord entre observateurs concerne la fidélité; il ne suffit pas à établir la validité de construit. Demander quel autre facteur influence la prise de parole. Source : Vallerand et Chénard-Poirier (2021), p. 32–34.
-:::
-
-## Pause — 10 minutes
-
-::: {.notes}
-Annoncer oralement l'heure de retour. Tirage indépendant cette semaine pour le rituel des équipes, sans bonus scolaire. Photos et liens préparés localement; modalités de collecte à confirmer.
-:::
-
-# Méthodes et conclusions
-
-## Trois intentions de recherche
-
-| Intention | Question | Exemple |
-|---|---|---|
-| Décrire | Que se passe-t-il? | Observer les prises de parole |
-| Relier | Qu'est-ce qui varie ensemble? | Appartenance et participation |
-| Tester un effet | Que change une intervention? | Comparer deux conditions assignées |
-
-::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 34–45.
-
-Les outils (questionnaire, observation) ne déterminent pas à eux seuls le devis. Un questionnaire peut mesurer une variable dépendante dans une expérience.
-:::
-
-## Observation et questionnaire
-
-**Observation :** documenter des conduites dans une situation définie.
-
-**Questionnaire :** recueillir ce que les personnes déclarent.
-
-Pour chaque outil : que voit-on bien, et que risque-t-on de manquer?
-
-::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 39–40, 45–50.
-
-Observation : comportements accessibles mais interprétation des états internes limitée; réactivité possible. Questionnaire : accès au vécu déclaré mais mémoire, formulation et présentation de soi peuvent influencer les réponses. Ne pas présenter un outil comme supérieur en toute situation.
-:::
 
 ## Association et causalité
 
@@ -324,29 +322,16 @@ Source : Vallerand et Chénard-Poirier (2021), p. 34–39. Le lieu seul ne défi
 Source : Vallerand et Chénard-Poirier (2021), p. 32–34. Une variable confondue varie avec la condition et peut expliquer le résultat. Exemple : discussion de dix minutes contre réflexion d'une minute. Distinguer le réalisme psychologique de la simple ressemblance de surface avec la vie quotidienne, p. 35. Une expérience de laboratoire n'est pas automatiquement sans portée hors laboratoire.
 :::
 
-## Étudier des traces et des études existantes
+## Atelier — Améliorer notre comparaison
 
-| Approche | Travail réalisé |
-|---|---|
-| Étude de cas | Comprendre en profondeur un cas dans son contexte |
-| Analyse de contenu | Coder systématiquement des messages ou des documents |
-| Analyse archivistique | Examiner des données déjà disponibles |
-| Méta-analyse | Synthétiser quantitativement les résultats de plusieurs études |
+Dans une étude proposée, une équipe discute; l'autre lit en silence. Les durées et les questions de mesure diffèrent aussi.
 
-::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 42–45. Une méta-analyse dépend de la qualité et de la sélection des études incluses; elle ne transforme pas des associations en causes. Enquêtes et entrevues : formulation, mémoire et échantillonnage comptent, p. 39–40. Simulation/jeu de rôles : réactions à une situation construite, p. 40–42. Le cas historique de Stanford est discuté avec des critiques dans le manuel; ne pas le présenter comme une démonstration incontestable.
-:::
-
-## Les limites de notre activité en classe
-
-- Les équipes se sont formées selon la perception.
-- La discussion comportait plusieurs interventions et consignes.
-- Il n'y avait pas de condition comparable sans discussion.
-
-**Le ressenti de changement ne suffit pas à isoler la cause.**
+1. Quel effet cherche-t-on à isoler?
+2. Quelles différences rendent la conclusion ambiguë?
+3. Quelle modification prioriser?
 
 ::: {.notes}
-Source : compte rendu de Rémi. Déplacement avant/arrière; recherche guidée de ressemblances psychologiques/intérêts; porte-parole. Mentionner aussi le temps et les attentes. Ni les perceptions ni les ressemblances trouvées ne prouvent des différences de personnalité entre équipes.
+Vallerand et Chénard-Poirier (2021), p. 33–38. Exemple fictif. Réponses : préciser l'hypothèse, rendre durée et mesure comparables, assigner les conditions au hasard. Relier à l'activité réelle de la robe : regroupement selon la perception, consignes multiples, absence de comparaison sans discussion. Le ressenti de changement ne démontre pas sa cause et ne prouve aucune différence de personnalité entre Bleus et Ors. Donner 3 minutes de réflexion puis 1 minute de retour.
 :::
 
 ## Réduire les biais
@@ -361,21 +346,55 @@ Source : compte rendu de Rémi. Déplacement avant/arrière; recherche guidée d
 Source : Vallerand et Chénard-Poirier (2021), p. 55–56. Ces précautions réduisent certains risques sans les faire disparaître. Dans notre exemple, l'enseignant pourrait encourager davantage une condition. Les valeurs influencent aussi le choix des questions; elles ne doivent pas conduire à sélectionner les résultats, p. 57–58.
 :::
 
-## Atelier — Améliorer une comparaison
+## Connectez-vous à Wooclap {#connexion-ronde-1}
 
-Une équipe discute à voix haute; l'autre lit en silence. Les durées et les questions de mesure diffèrent aussi.
+{{< include _reconnexion.qmd >}}
 
-1. Quel effet veut-on isoler?
-2. Quelles différences rendent la conclusion ambiguë?
-3. Quelle modification prioriser?
+**Ronde 1** · Les questions sont présentées dans Wooclap.
+
+[Reprendre le cours après la ronde](#suite-ronde-1)
 
 ::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 33–38.
-
-Exemple fictif. Faire préciser l'hypothèse avant de standardiser durée et mesure. Faire distinguer validité interne (explication de l'effet) et portée de la généralisation. Garder un délai de rappel avant la ronde suivante.
+Basculer vers Wooclap pour les questions et la correction. Les diapositives suivantes conservent les questions pour les archives publiques, sans QR. Au retour, utiliser le lien pour reprendre le cours sans les parcourir.
 :::
 
-## Wooclap — Ronde 2 · Devis
+## Wooclap — Ronde 1 · Hypothèse
+
+**Q1. Quelle proposition est la plus directement vérifiable?**
+
+A. Les groupes ont une énergie particulière.<br>
+B. Après cinq minutes de discussion, le score de certitude augmente davantage qu'après cinq minutes seul.<br>
+C. L'être humain est fondamentalement social.
+
+::: {.notes}
+Réponse attendue : B. Population, procédure et mesure restent à préciser. A et C peuvent susciter une réflexion, mais ne définissent pas ici un test suffisamment précis. La ronde 1 regroupe Q1–Q6, à la fin de la Partie 1. Recueillir les réponses puis débreffer les erreurs communes.
+:::
+
+## Wooclap — Ronde 1 · Mesure
+
+**Q2. Le score de 0 à 100 est…**
+
+A. une opérationnalisation de la certitude;<br>
+B. une preuve que la certitude est mesurée sans erreur;<br>
+C. une mesure directe de la personnalité.
+
+::: {.notes}
+Réponse : A. Faire expliquer pourquoi la précision numérique ne garantit ni fidélité ni validité. Revenir à l'exemple de participation si nécessaire.
+:::
+
+## Wooclap — Ronde 1 · Construit
+
+**Q3. Compter les prises de parole suffit-il à mesurer la certitude?**
+
+A. Oui, parce que le comptage est précis.<br>
+B. Oui, si deux observateurs obtiennent le même compte.<br>
+C. Non, la prise de parole peut refléter autre chose que la certitude.
+
+::: {.notes}
+Réponse : C. L'accord entre observateurs concerne la fidélité; il ne suffit pas à établir la validité de construit. Demander quel autre facteur influence la prise de parole. Source : Vallerand et Chénard-Poirier (2021), p. 32–34.
+:::
+
+## Wooclap — Ronde 1 · Devis
 
 **Q4. Deux classes existantes suivent des activités différentes, sans assignation au hasard. On compare leurs progrès avant/après. Le devis est…**
 
@@ -383,13 +402,11 @@ A. quasi expérimental;<br>
 B. expérimental avec assignation aléatoire;<br>
 C. nécessairement exempt de variables confondues.
 
-{{< include _reconnexion.qmd >}}
-
 ::: {.notes}
 Réponse : A. Les classes peuvent déjà différer au départ; le prétest aide à le documenter sans tout contrôler. Source : Vallerand et Chénard-Poirier (2021), p. 37–38. Exemple original.
 :::
 
-## Wooclap — Ronde 2 · Conclusion
+## Wooclap — Ronde 1 · Conclusion
 
 **Q5. Appartenance et participation sont associées. Que conclure?**
 
@@ -397,13 +414,11 @@ A. L'appartenance cause la participation.<br>
 B. La participation cause l'appartenance.<br>
 C. Elles varient ensemble; la direction causale reste à établir.
 
-{{< include _reconnexion.qmd >}}
-
 ::: {.notes}
-Réponse : C. Faire proposer une troisième variable. Les trois questions de cette ronde se suivent, puis débreffage commun.
+Réponse : C. Faire proposer une troisième variable. Q1–Q6 forment une seule ronde, suivie du débreffage.
 :::
 
-## Wooclap — Ronde 2 · Hasard
+## Wooclap — Ronde 1 · Hasard
 
 **Q6. Des volontaires sont répartis au hasard entre deux conditions. Cela décrit…**
 
@@ -411,134 +426,277 @@ A. un échantillon nécessairement représentatif;<br>
 B. une assignation aléatoire;<br>
 C. une absence garantie de toute différence initiale.
 
-{{< include _reconnexion.qmd >}}
-
 ::: {.notes}
 Réponse : B. Le recrutement de volontaires demeure distinct de l'assignation. Le hasard ne garantit pas l'identité des groupes dans un échantillon donné.
 :::
 
-## Pause — 10 minutes
+# Partie 2 — La science ouverte et au-delà {#suite-ronde-1}
 
-::: {.notes}
-Annoncer oralement l'heure de retour. Aucun horaire fixe affiché.
-:::
+## Pourquoi trouve-t-on si souvent ce que l’on attend?
 
-# Résultats, éthique et science ouverte
+![](assets/science-ouverte-2022/winning.png){fig-alt="Capture de Dan Quintana présentant la critique de Gerald Haeffel en 2022." height="540" fig-align="center"}
 
-## Lire une différence de moyennes
-
-Dans un **exemple fictif**, le changement moyen de certitude est :
-
-- discussion : **+12 points**;
-- réflexion individuelle : **+4 points**.
-
-L'écart des changements moyens est de **8 points**.
-
-Que manque-t-il pour évaluer ce résultat?
-
-::: {.notes}
-Source conceptuelle : Vallerand et Chénard-Poirier (2021), p. 51. Chiffres inventés pour le calcul, aucune donnée de classe. Réponses : taille des groupes, dispersion, incertitude, devis, qualité de la mesure. Une moyenne ne décrit pas chaque personne. En rappel oral : médiane = valeur centrale une fois les scores ordonnés. Test t et analyse de variance comparent des moyennes sous leurs hypothèses; pas de calcul technique exigé ici. Une interaction signifie que l'effet d'une variable dépend du niveau d'une autre, p. 35 et 51; approfondissement facultatif.
-:::
-
-## Lire une corrélation
-
-![](assets/associations.svg){fig-alt="Trois nuages de points fictifs : relation linéaire positive, négative et sans tendance linéaire nette." width="1300"}
-
-Le signe de **r** donne la direction; sa valeur absolue décrit la force de l'association linéaire.
+Si seuls les résultats attendus circulent, quelle image de la recherche obtient-on?
 
 ::: {.credit}
-Schéma original pour PSY1703 · Données fictives, sans résultat de cohorte
+Capture conservée de PSY7104 (2022) · Dan Quintana, à propos de [Haeffel (2022)](https://doi.org/10.1098/rsos.220099).
 :::
 
 ::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 52. r varie entre −1 et +1; r proche de zéro n'exclut pas une relation non linéaire. Le schéma illustre les directions sans afficher de coefficients calculés. Corrélation positive ne signifie pas souhaitable; négative ne signifie pas nuisible. Aucun nuage ne permet à lui seul une inférence causale. Le modelage par équations structurales n'est pas développé : même un modèle cohérent avec les associations ne prouve pas sa direction causale.
+Lire la capture comme une critique de la sélection des publications : son pourcentage rhétorique n'est pas une estimation actuelle de toute la psychologie. Introduire la crise de réplicabilité : des tentatives de réplication ne retrouvent pas les résultats attendus; un échec isolé ne prouve ni fraude ni inexistence d'un phénomène. Répéter avec de nouvelles données se distingue de recalculer avec les mêmes données.
 :::
 
-## Signification statistique et importance
+## La confirmation poussée jusqu’à la satire
 
-Une petite valeur **p** indique une incompatibilité des données avec le modèle statistique testé.
+![](assets/science-ouverte-2022/future_og.jpg){fig-alt="Article satirique présentant un déséquilibre caricatural entre hypothèses confirmées et infirmées." height="560" fig-align="center"}
 
-Elle ne donne ni la probabilité que l'hypothèse soit vraie, ni la taille de l'effet.
+**Satire : ces nombres ne sont pas des données empiriques.**
 
-Examiner aussi **l'ampleur, l'incertitude et le devis**.
+::: {.credit}
+Arina K. Bones (2012) · Image reprise de PSY7104 (2022).
+:::
 
 ::: {.notes}
-Complément : American Statistical Association (2016), principes 1, 2 et 5, https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf. Cette formulation précise la présentation introductive du manuel, p. 51. Sous l'hypothèse nulle et les autres hypothèses du modèle, p correspond à la probabilité d'une statistique au moins aussi extrême que celle observée. Ne pas dire que p = 0,01 signifie 1 % de risque que notre conclusion soit fausse. Pas de formules à mémoriser dans cette séance.
+Intermède facultatif d'une minute. Conserver l'humour de la présentation originale; demander où disparaissent les hypothèses non soutenues. Ne pas utiliser le graphique pour estimer un taux de réplication ou de confirmation.
 :::
 
-## Les personnes derrière les données
+## Où les résultats peuvent-ils se déformer?
 
-- Une participation libre et un consentement éclairé.
-- Des risques examinés et réduits.
-- Une protection de la vie privée.
-- Des explications adaptées après la participation.
+![](assets/science-ouverte-2022/wheelofscience.png){fig-alt="Cycle de recherche annoté : sélection des publications, faible puissance, p-hacking et HARKing." height="580" fig-align="center"}
+
+Les chiffres incrustés sont **historiques**; retenons les mécanismes.
+
+::: {.credit}
+Schéma COS, source indiquée sur l’image : cos.io/rr · Archive utilisée en 2022.
+:::
 
 ::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 56–57. Le chapitre présente stress, duperie, intimité et confidentialité. L’évaluation par un comité d’éthique de la recherche précède la mise en œuvre d’une recherche qui y est assujettie; une bonne intention ne la remplace pas. Distinguer confidentialité et anonymat. Ne pas présenter une activité pédagogique comme une étude autorisée à publier ses données.
+Suivre les flèches : hypothèses, devis, collecte, analyse, interprétation, publication. Les références incrustées datent de 1962 à 2012 et renvoient à des indicateurs/populations différents; ne pas les additionner ni les présenter comme des taux actuels ou universels. Définir oralement p-hacking et HARKing à la diapositive suivante. La faible puissance réduit la probabilité de détecter un effet donné; pas de calcul requis.
 :::
 
-## Duperie et débreffage
+## Des choix qui changent l’histoire racontée
 
-Cacher le véritable objectif peut modifier les conditions du consentement.
-
-Cela exige une justification et une évaluation éthique préalable.
-
-Le débreffage explique la démarche et prévoit la possibilité de demander le retrait des données lorsque c'est possible et approprié.
+- **Sélectionner** la mesure, l'exclusion ou l'analyse qui donne le résultat souhaité : risque de *p-hacking*.
+- Présenter une explication imaginée **après les résultats** comme une prédiction préalable : *HARKing*.
+- Rapporter seulement les études qui « fonctionnent » : **biais de publication**.
 
 ::: {.notes}
-Sources : Vallerand et Chénard-Poirier (2021), p. 56–57; EPTC 2 (2022), art. 3.7A–3.7B, https://ethique.gc.ca/fra/tcps2-eptc2_2022_chapter3-chapitre3.html. Le CER doit notamment vérifier le risque minimal et la protection du bien-être; il ne s'agit pas d'une permission générale de tromper les personnes. Les modalités de débriefing et de retrait dépendent de ce qui est possible, réaliste et approprié. Exemple oral original : cacher une hypothèse précise n'autorise pas à cacher un risque pertinent.
+Exemples : multiplier les VD, omettre des conditions, exclusions opportunistes, arrêter la collecte selon p, reclasser les résultats décevants en pilotes. Des exclusions justifiées et des règles d'arrêt planifiées peuvent être légitimes; le problème est la sélection opportuniste et non déclarée. Exploration et fraude ne sont pas synonymes.
 :::
 
-## Une décision éthique concrète
+## La science ouverte
 
-Une personne accepte que sa photo soit projetée pendant la pause.
+![](assets/science-ouverte-2022/open2.png){fig-alt="Visuel ReproducibiliTea : données, matériel, préenregistrement, libre accès, science citoyenne et code ouvert." height="420" fig-align="center"}
 
-**Peut-on en déduire qu'elle accepte sa publication sur un site public?**
+Rendre le travail **accessible, compréhensible et vérifiable**.
 
-Les usages doivent être explicités; les accords ne se présument pas.
+::: {.credit}
+[Visuel ReproducibiliTea](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/04/rtea-3-2-e1587204530638.jpg) · Image conservée de PSY7104 (2022).
+:::
 
 ::: {.notes}
-Discussion orale : non. Exemple tiré des consignes de préparation du cours, sans afficher de photo étudiante. L'autorisation de projection est distincte de celle de publication.
+Traduire brièvement les libellés; l'ouverture concerne plus que les données. Les icônes ne constituent pas un classement de qualité. Transition : comment appliquer ces idées à notre étude fictive?
 :::
 
-## Rendre une recherche vérifiable
+## Pause 2 — 10 minutes
 
-**Préenregistrer :** consigner les hypothèses, la méthode et les analyses prévues avant de les mettre à l’épreuve.
-
-**Après :** décrire les méthodes, rapporter les résultats et leurs limites.
-
-**Partager :** rendre accessibles les éléments qui peuvent l'être, en protégeant les personnes.
-
-::: {.notes}
-Source complémentaire au manuel : Center for Open Science, Preregistration, https://www.cos.io/initiatives/prereg, consulté le 6 septembre 2026. Le plan de cours prévoit la science ouverte. Le préenregistrement distingue le travail prévu de l’exploration ajoutée; il ne garantit pas la qualité de l’étude. Une analyse exploratoire est utile lorsqu'elle est identifiée comme telle. Ne jamais assimiler science ouverte et publication obligatoire de données identifiantes.
-:::
-
-## Ce qu'une autre équipe devrait pouvoir comprendre
-
-1. Comment les personnes ont été recrutées et réparties.
-2. Ce qui a été demandé et mesuré.
-3. Comment les données ont été analysées.
-4. Quelles conclusions sont soutenues, et lesquelles restent ouvertes.
-
-::: {.notes}
-Mini-application au devis de discussion. Faire repérer une information manquante. Faire distinguer vérifier une analyse avec les mêmes données et répéter l’étude avec de nouvelles données. Le chapitre insiste sur la réplication et la diversité des populations, p. 34 et 54. Relier les valeurs au choix des questions plutôt qu’à la sélection des résultats souhaités, p. 57–58.
-:::
-
-## Wooclap — Ronde 3 · Résultat
-
-**Q7. Une étude rapporte p = 0,01. Cette information seule permet-elle de conclure que l'effet est important?**
-
-A. Oui : l'hypothèse a 99 % de chances d'être vraie.<br>
-B. Oui : l'effet est nécessairement grand.<br>
-C. Non : il faut aussi connaître son ampleur, son incertitude et le devis.
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
 
 {{< include _reconnexion.qmd >}}
 
+## Mise des données, matériels et code en ligne
+
+Pour comprendre notre étude de discussion, une autre équipe aurait besoin :
+
+- des consignes et des questions exactes;
+- des règles de recrutement, d'assignation et de traitement des réponses;
+- des étapes d'analyse, avec le code lorsqu'il existe.
+
+Le partage des données dépend du consentement et des risques d'identification.
+
 ::: {.notes}
-Réponse : C. Réponse brève : la valeur p ne mesure ni la probabilité de l'hypothèse ni la taille de l'effet. Source : ASA (2016), https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf. Ne pas prolonger en cours de statistique; revenir aux trois informations manquantes.
+Reprise du titre et de l'argument précédent, en remplacement de la longue citation anglaise de Wiggins et Christopherson (2019). Distinguer reproduire une analyse avec les mêmes données et répliquer une étude avec de nouvelles données. Un code accessible aide la vérification mais ne garantit pas qu'il est correct. Pour l'activité de classe, partager questions et procédure suffit; aucun export individuel à publier.
 :::
 
-## Wooclap — Ronde 3 · Transparence
+## Confirmatoire ou exploratoire?
+
+**Préenregistrer :** dater un plan d'hypothèses, de méthode et d'analyses avant de les mettre à l'épreuve.
+
+**Explorer :** chercher d'autres régularités, puis les présenter comme des pistes à tester.
+
+On peut modifier le plan : il faut documenter **ce qui change et pourquoi**.
+
+
+::: {.credit}
+[COS — Préenregistrement](https://www.cos.io/initiatives/prereg)
+:::
+
+::: {.notes}
+Adaptation de « Tag confirmatoire vs. exploratoire » (2022). L'exploration est utile et légitime; le préenregistrement clarifie la chronologie, sans certifier la qualité du devis. Exemple : l'analyse par couleur perçue apparaît après l'examen des résultats; la déclarer exploratoire et envisager une nouvelle étude. Une justification écrite après coup ne transforme pas une découverte en prédiction préalable.
+:::
+
+## L’importance de la réflexion a priori
+
+Avant de recueillir des réponses :
+
+- Quelle observation pourrait contredire notre idée?
+- Notre mesure répond-elle réellement à la question?
+- Comment comparerons-nous les conditions et traiterons-nous les réponses manquantes?
+
+**Préparer le plan permet aussi de l’améliorer.**
+
+::: {.notes}
+Adaptés au premier cycle. Conserver sa critique de la pression à commencer vite : le temps consacré à la théorie, aux mesures et à l'analyse a de la valeur. La citation attribuée à Lincoln n'est pas reprise. Demander un exemple de décision à prendre avant la collecte, sans enseigner ici les détails d'un plan statistique.
+:::
+
+## Les rapports enregistrés
+
+![](assets/science-ouverte-2022/reports.png){fig-alt="Titre de l’article de Nosek et Lakens sur les Registered Reports." height="230" fig-align="center"}
+
+1. Des pairs évaluent la question et le protocole **avant les résultats**.
+2. La revue peut accorder une **acceptation de principe**.
+3. La revue publie l'étude conforme aux conditions convenues, **quel que soit le résultat**.
+
+
+::: {.credit}
+Nosek et Lakens (2014), capture reprise de 2022 · [Fonctionnement du format — COS](https://www.cos.io/initiatives/registered-reports)
+:::
+
+::: {.notes}
+Distinguer préenregistrement (plan daté) et rapport enregistré (évaluation préalable et engagement éditorial conditionnel). L'acceptation n'est pas automatique : respect du protocole approuvé, contrôles de qualité et transparence des écarts. Faire rappeler ce qu'est une hypothèse vérifiable.
+:::
+
+## Une place pour les hypothèses non soutenues
+
+![](assets/science-ouverte-2022/allen-mehler-2019-fig1.png){fig-alt="Pourcentages d’hypothèses non soutenues dans les rapports enregistrés de réplication et de recherche originale, comparés à des estimations de la littérature traditionnelle." height="570" fig-align="center"}
+
+::: {.credit}
+[Allen et Mehler (2019), figure 1](https://doi.org/10.1371/journal.pbio.3000246) · CC BY · Graphique source du montage présenté en 2022.
+:::
+
+::: {.notes}
+La figure reprend le graphique mobilisé dans magic.png, téléchargé à la source pour éviter sa légende erronée. Les 153 et 143 sont des hypothèses issues, respectivement, de réplications et de recherches originales dans des rapports enregistrés; pas deux groupes RR/traditionnel. La littérature traditionnelle repose sur des estimations antérieures (5–20 %). Comparaison historique exploratoire, pas démonstration causale. Un résultat non significatif ne prouve pas l'absence d'effet.
+:::
+
+## « Big Teams Science »
+
+![](assets/science-ouverte-2022/psa.png){fig-alt="Capture historique du Psychological Science Accelerator avec une carte de son réseau." height="500" fig-align="center"}
+
+Plusieurs équipes appliquent un protocole commun et étudient des populations variées.
+
+::: {.credit}
+Psychological Science Accelerator · Capture conservée de PSY7104 (2022).
+:::
+
+::: {.notes}
+Reprise du titre, de la carte et de l'idée de 2022. Les compteurs de la capture ne décrivent pas le réseau actuel. Relier à la validité externe et à la réplication. Coordonner consignes, traductions et recrutement demande du travail; multiplier les sites ne rend pas automatiquement l'échantillon représentatif du monde.
+:::
+
+## Une étude ouverte peut-elle trop généraliser?
+
+Une étude préenregistrée auprès de volontaires d'une seule université partage ses données et ses analyses.
+
+Elle conclut : **« Les humains deviennent plus certains après une discussion. »**
+
+La transparence suffit-elle à justifier cette conclusion?
+
+**La population étudiée et la population visée doivent être distinguées.**
+
+::: {.credit}
+Exemple fictif
+:::
+
+::: {.notes}
+Deux minutes : demander à qui les résultats s'appliquent et quelles informations manquent. L'ouverture facilite la vérification mais ne suffit pas à établir la généralisation. Un échantillon restreint n'est pas sans valeur : les conclusions doivent correspondre à ce qu'il permet de soutenir. Relier à la validité externe. L'exemple illustre une manifestation du MASKing, dont la définition dépasse le seul échantillonnage.
+:::
+
+## MASKing — un terme à retenir
+
+:::: {.columns}
+::: {.column width="34%"}
+**Making Assumptions based on Skewed Knowledge**
+
+Fonder sa démarche sur des connaissances biaisées ou peu représentatives : théories, échantillons ou méthodes.
+:::
+
+::: {.column width="66%"}
+![](assets/masking-ghai-theriault-2025.png){fig-alt="Cycle du MASKing : population cible non précisée, sélection, diversité négligée, analyses, généralisation excessive et biais de citation." width="100%" fig-align="center"}
+:::
+::::
+
+::: {.credit}
+[Ghai, **Thériault**, et al. (2025), figure 1](https://doi.org/10.1038/s44271-024-00179-1)
+:::
+
+::: {.notes}
+Trois minutes. Terme exigible : mémoriser MASKing et son développement anglais « Making Assumptions based on Skewed Knowledge », expliquer l'idée et reconnaître un exemple. Le concept proposé par Ghai, Thériault et collègues désigne une démarche fondée, parfois involontairement, sur des connaissances biaisées ou non représentatives; il ne se réduit pas à la taille de l'échantillon et ne constitue pas une quatrième catégorie de validité. Sur la figure, commenter population visée, personnes étudiées et portée des conclusions. Pondération et poststratification : ni explication technique ni mémorisation exigées pour cette séance. Article de perspective proposant un cadre conceptuel, pas estimation expérimentale d'un effet. La lecture intégrale de l'article n'est pas exigée; les éléments enseignés ici peuvent être évalués.
+:::
+
+## L’importance de changements structurels
+
+![](assets/science-ouverte-2022/nature.png){fig-alt="Tribune de Jeffrey Flier en 2017 proposant d’évaluer la reproductibilité dans les promotions universitaires." height="350" fig-align="center"}
+
+Que devrait-on valoriser dans une carrière scientifique?
+
+La rigueur des méthodes, les réplications, le partage et les corrections méritent aussi du temps et de la reconnaissance.
+
+
+::: {.credit}
+Jeffrey Flier, *Nature* (2017), tribune · Capture reprise de PSY7104 (2022).
+:::
+
+::: {.notes}
+La science ouverte ne suffit pas à elle seule. Proposition normative : valoriser les pratiques et la formation au-delà du volume de publications et du prestige de la revue. La capture est une tribune de 2017, pas un constat selon lequel toutes les universités appliquent déjà cette politique. Exemple de discussion : récompenser la correction transparente d'une erreur plutôt que son camouflage.
+:::
+
+## L’ouverture doit protéger les personnes
+
+- Participation libre, consentement éclairé et risques réduits.
+- Vie privée protégée, même lorsqu'on partage la méthode.
+- Duperie : justification et évaluation éthique préalable, puis débreffage adapté.
+
+::: {.notes}
+Vallerand et Chénard-Poirier (2021), p. 56–57; EPTC 2 (2022), art. 3.7A–3.7B, https://ethique.gc.ca/fra/tcps2-eptc2_2022_chapter3-chapitre3.html. Ne pas confondre confidentialité et anonymat. En recherche assujettie, l'évaluation par le CER précède la mise en œuvre. Toute modification aux exigences de consentement exige notamment risque minimal et protection du bien-être. Le débreffage prévoit le retrait des données lorsque possible, réaliste et approprié. Retirer un prénom ne suffit pas à garantir l'anonymat.
+:::
+
+## Application — Que faudrait-il rendre explicite?
+
+Notre équipe découvre une différence **seulement après avoir exclu plusieurs réponses**.
+
+En dyade :
+
+1. Quelles informations faut-il donner pour évaluer ce résultat?
+2. Que partager pour permettre la vérification tout en protégeant les personnes?
+
+::: {.notes}
+Attendus : règle d'exclusion, chronologie, justification, résultats avec et sans exclusions lorsque pertinent, distinction prévu/exploratoire; protocole, questions et code; examiner séparément les données partageables et le consentement. Une exclusion peut être justifiée; son opportunisme et son omission sont les problèmes. Laisser deux minutes puis une restitution. Cet exercice ménage un délai avant la ronde 3.
+:::
+
+## Connectez-vous à Wooclap {#connexion-ronde-2}
+
+{{< include _reconnexion.qmd >}}
+
+**Ronde 2** · Les questions sont présentées dans Wooclap.
+
+[Reprendre le cours après la ronde](#suite-ronde-2)
+
+::: {.notes}
+Basculer vers Wooclap pour les questions et la correction. Les diapositives suivantes conservent les questions pour les archives publiques, sans QR. Au retour, utiliser le lien pour reprendre le cours sans les parcourir.
+:::
+
+## Wooclap — Ronde 2 · Rapport enregistré
+
+**Q7. Qu’ajoute un rapport enregistré au simple préenregistrement?**
+
+A. La garantie que l'hypothèse sera confirmée.<br>
+B. La suppression de toute analyse exploratoire.<br>
+C. L'évaluation préalable du protocole et une acceptation de principe sous conditions.
+
+::: {.notes}
+Réponse : C. Le simple préenregistrement date le plan; le rapport enregistré y ajoute l'évaluation préalable et l'engagement éditorial conditionnel. Ni l'un ni l'autre ne garantit un résultat positif. Source : https://www.cos.io/initiatives/registered-reports. Faire voter sur Q7–Q9, puis débreffer ensemble.
+:::
+
+## Wooclap — Ronde 2 · Transparence
 
 **Q8. Quelle pratique soutient la transparence?**
 
@@ -546,13 +704,11 @@ A. Distinguer les analyses prévues des explorations ajoutées.<br>
 B. Ne rapporter que les résultats attendus.<br>
 C. Publier les noms des personnes pour rendre les données crédibles.
 
-{{< include _reconnexion.qmd >}}
-
 ::: {.notes}
 Réponse : A. B masque une partie de l'information; C ne garantit rien et expose les personnes. Enchaîner la question sur le partage, puis débreffer la ronde.
 :::
 
-## Wooclap — Ronde 3 · Partage
+## Wooclap — Ronde 2 · Partage
 
 **Q9. Un export contient des noms et des réponses individuelles. Pour partager la méthode, on devrait d'abord…**
 
@@ -560,13 +716,11 @@ A. déposer l'export complet sur le site du cours;<br>
 B. partager les questions et le protocole, puis examiner séparément les conditions de partage des données;<br>
 C. supprimer seulement la colonne des prénoms et tout publier.
 
-{{< include _reconnexion.qmd >}}
-
 ::: {.notes}
 Réponse : B. Retirer un prénom ne garantit pas l'anonymat. L'export réel du cours 1 reste dans Box/Wooclap. Aucun export individuel n'est nécessaire à cette activité.
 :::
 
-## Trois questions à poser devant une étude
+## Trois questions à poser devant une étude {#suite-ronde-2}
 
 1. **Qu'a-t-on mesuré ou manipulé?**
 2. **Quelle conclusion le devis permet-il?**
@@ -580,23 +734,63 @@ Synthèse orale avec un exemple déjà vu. Pas de billet de sortie obligatoire. 
 
 ## Prochaine séance
 
-**15 septembre — Le soi**
+**15 septembre — Le soi** (**chapitre 3**)
 
-Lire le **chapitre 3**. Premier quiz de lecture au début de la séance.
+**Quiz 1 en début de séance**<br>
+Chapitres 1–2 et cours 1–2.
 
 **Examen 1 : 29 septembre, 25 %**<br>
 Chapitres 1 à 4 et matière des séances 1 à 4.
 
+## Des références maison sur la science ouverte
+
+[**Rémi Thériault (2025)** — *L’importance de la science ouverte en recherche en psychologie*](https://doi.org/10.31234/osf.io/758dx). Fragments : Revue de psychologie.
+
+[**Ghai, Thériault, et al. (2025)** — *A manifesto for a globally diverse, equitable, and inclusive open science*](https://doi.org/10.1038/s44271-024-00179-1). Communications Psychology, 3, article 16.
+
+Pour approfondir : [guide long de Rémi Thériault sur les bonnes pratiques et la science ouverte](https://remi-theriault.com/files/science_ouverte.pdf).
+
+**Références complémentaires : lecture non exigée pour l'examen.**
+
 ::: {.notes}
-Source : plan officiel, p. 3, 5–6. Les rondes d'aujourd'hui sont formatives et distinctes des quiz notés.
+La citation abrégée met volontairement en évidence la contribution du professeur. Auteurs du manifeste : Sakshi Ghai, Rémi Thériault, Patrick Forscher, Yuichi Shoda, Moin Syed, Arathy Puthillam, Hu Chuan Peng, Dana Basnight-Brown, Asifa Majid, Flavio Azevedo et Leher Singh. Le guide long vise initialement le doctorat; il est proposé uniquement comme ressource facultative.
 :::
 
-## Références
+# Pour approfondir
 
-Vallerand, R. J., et Chénard-Poirier, L.-A. (2021). Chapitre 2, p. 27–59. Dans R. J. Vallerand (dir.), *Les fondements de la psychologie sociale* (3e éd.). Chenelière Éducation.
+## Étudier des traces et des études existantes
 
-Compléments : [ASA — Interprétation des valeurs p](https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf) · [EPTC 2 — Consentement](https://ethique.gc.ca/fra/tcps2-eptc2_2022_chapter3-chapitre3.html) · [COS — Préenregistrement](https://www.cos.io/initiatives/prereg)
+| Approche | Travail réalisé |
+|---|---|
+| Étude de cas | Comprendre en profondeur un cas dans son contexte |
+| Analyse de contenu | Coder systématiquement des messages ou des documents |
+| Analyse archivistique | Examiner des données déjà disponibles |
+| Méta-analyse | Synthétiser quantitativement les résultats de plusieurs études |
 
 ::: {.notes}
-Les pages précises sont indiquées dans les notes des diapositives. Les situations discussion/réflexion et appartenance/participation, ainsi que les nombres utilisés pour le calcul, sont des exemples pédagogiques originaux. Aucune page ou figure du manuel n'est reproduite dans ce support.
+Source : Vallerand et Chénard-Poirier (2021), p. 42–45. Une méta-analyse dépend de la qualité et de la sélection des études incluses; elle ne transforme pas des associations en causes. Enquêtes et entrevues : formulation, mémoire et échantillonnage comptent, p. 39–40. Simulation/jeu de rôles : réactions à une situation construite, p. 40–42. Le cas historique de Stanford est discuté avec des critiques dans le manuel; ne pas le présenter comme une démonstration incontestable.
+:::
+
+## Préenregistrement et tailles d’effet : une comparaison historique
+
+![](assets/science-ouverte-2022/effectsize.png){fig-alt="Montage de 2019 comparant des distributions de tailles d’effet avec et sans préenregistrement." height="460" fig-align="center"}
+
+::: {.credit}
+[Schäfer et Schwarz (2019)](https://doi.org/10.3389/fpsyg.2019.00813) · Montage conservé de PSY7104 (2022).
+:::
+
+::: {.notes}
+Réserve, hors parcours prévu. Utiliser précisément comme exercice de lecture critique du titre « magically shrinks ». Les N sont des effets, pas nécessairement autant d'études indépendantes. Des différences d'études, de sujets ou de sélection peuvent contribuer à l'écart; pas de réduction garantie ni de causalité démontrée par le seul préenregistrement. Le résultat est historique, pas une description générale actuelle.
+:::
+
+## Quelques solutions possibles
+
+![](assets/science-ouverte-2022/solutions.png){fig-alt="Schéma de Rémi Thériault reliant des propositions de réforme des pratiques scientifiques." height="580" fig-align="center"}
+
+::: {.credit}
+Rémi Thériault · Schéma original de PSY7104 (2022).
+:::
+
+::: {.notes}
+Réserve, hors parcours prévu. Schéma conservé intégralement comme trace de l'argumentaire de 2022, pas modèle causal validé. Trop dense pour une lecture exhaustive en classe; sélectionner un lien à discuter si le temps le permet. Les propositions sur les institutions et la formation dépassent les acquis exigés aujourd'hui.
 :::

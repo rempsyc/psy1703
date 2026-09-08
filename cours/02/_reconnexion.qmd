@@ -1,3 +1,15 @@
-::: {.credit}
-[wooclap.com](https://www.wooclap.com/) · **Code du cours 2 : À COMPLÉTER** · **QR du cours 2 : À INSÉRER après vérification**
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou rendez-vous sur [wooclap.com](https://app.wooclap.com/LTJTCPR).
+
+**Code : LTJTCPR**
+
+Connectez-vous avec votre **identifiant UQAR**.
+
+Gardez l’onglet ouvert : les questions apparaîtront dans Wooclap au fil de l’activité.
+:::
+
+::: {.column width="42%"}
+[![](assets/wooclap-qr.png){fig-alt="QR de connexion à l’événement Wooclap LTJTCPR" width="480"}](https://app.wooclap.com/LTJTCPR)
+:::
 :::
