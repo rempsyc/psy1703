@@ -3,8 +3,8 @@ title: "Cours 2 — Méthodes de recherche"
 subtitle: "Étudier les conduites sociales"
 ---
 
-**Mardi 8 septembre 2026 · 13 h 15 à 16 h 05**<br>
-**Campus de Rimouski · Local J462**
+**Mardi 8 septembre 2026**<br>
+**Lecture associée :** Vallerand, chapitre 2
 
 ::: {.callout-warning title="En préparation"}
 Version révisée le 7 septembre 2026 : méthodes de recherche et science ouverte.
@@ -12,29 +12,22 @@ Version révisée le 7 septembre 2026 : méthodes de recherche et science ouvert
 
 [Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
 
-## Trois acquis visés
+## À retenir
 
-1. Formuler une hypothèse vérifiable et préciser comment mesurer ses variables.
-2. Distinguer description, association et conclusion causale en évaluant les forces et les limites d'un devis.
-3. Proposer une amélioration méthodologique et une précaution éthique ou de transparence pour une étude.
+À la fin de cette séance, vous devriez pouvoir :
 
-## Deux parties
-
-- **Construire et interpréter une étude** : hypothèses, mesures, devis et conclusions.
-- **La science ouverte et au-delà** : sélection des résultats, pratiques ouvertes, éthique et fonctionnement de la recherche.
-
-Les dernières diapositives proposent des approfondissements facultatifs.
-
-## Avant la séance
-
-**Lectures annoncées : chapitres 1 et 2 de Vallerand.** Le chapitre 2 est la lecture associée au 8 septembre dans le [plan officiel](../../plan-de-cours.qmd); le chapitre 1 sert au retour sur l'introduction.
-
-La séance commence par un **quiz test individuel de cinq minutes, non noté, sur le cours 1**, suivi d'une correction expliquée. Nous testerons aussi la connexion avec l'identifiant UQAR. Les informations sur les évaluations et les modifications au plan de cours précèdent ensuite la matière. Deux rondes Wooclap de consolidation, une à la fin de chaque partie, demeurent des exercices formatifs distincts.
+1. formuler une hypothèse vérifiable et préciser comment mesurer ses variables;
+2. distinguer description, association et causalité;
+3. proposer une amélioration méthodologique, éthique ou de transparence.
 
 ## Pour participer
 
-Pour les quiz, arrivez avec un **téléphone ou un ordinateur portable bien chargé** : une batterie déchargée pourrait vous empêcher de compléter le quiz. Pour le quiz test et les rondes d’engagement : [rejoindre Wooclap avec le code **LTJTCPR**](https://app.wooclap.com/LTJTCPR). Le QR est affiché en grand sur les diapositives de connexion. Les questions des rondes suivent séparément, sans QR, pour les archives publiques. Une participation à deux ou sur papier est possible pour ces activités formatives.
+Apportez un **téléphone, une tablette ou un ordinateur bien chargé** pour participer aux activités Wooclap et compléter les **quiz évalués obligatoires**. L’accès sera affiché en classe.
 
-## Pour la suite
+**Aujourd’hui :** quiz test non noté de 5 minutes sur le cours 1, avec connexion UQAR.
 
-Le 15 septembre : **le soi**, avec le **chapitre 3 à lire**. Le **quiz 1**, en début de séance, porte sur les **chapitres 1–2 et les cours 1–2**, sans le chapitre 3. L'examen 1 du **29 septembre (25 %)** porte sur les chapitres 1 à 4 et la matière des séances 1 à 4, conformément au plan officiel.
+## Après le cours
+
+Pour le **15 septembre**, lire le **chapitre 3**. Le **quiz 1** porte sur les **chapitres 1–2 et les cours 1–2**.
+
+Les diapositives sont mises à jour à cette adresse. Consultez le [plan de cours](../../plan-de-cours.qmd) pour les échéances et modalités.

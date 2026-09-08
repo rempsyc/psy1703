@@ -3,28 +3,29 @@ title: "Cours 1 — Voir le social autrement"
 subtitle: "Introduction à la psychologie sociale"
 ---
 
-**Mardi 1er septembre 2026 · 13 h 15 à 16 h 05**<br>
-**Campus de Rimouski · Local J462**<br>
+**Mardi 1er septembre 2026**<br>
 **Lecture associée :** Vallerand, chapitre 1
 
 ::: {.callout-note title="Version finale"}
 **Diapositives finales de la séance du 1er septembre 2026.** Des corrections ponctuelles peuvent encore être apportées.
 :::
 
-[Ouvrir les diapositives finales](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
+[Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
 
 ## À retenir
 
 À la fin de cette séance, vous devriez pouvoir :
 
-1. définir ce qu'étudie la psychologie sociale;
+1. définir ce qu’étudie la psychologie sociale;
 2. expliquer comment la personne et la situation façonnent le comportement;
-3. reconnaître que notre interprétation d'une situation fait partie de son influence.
+3. reconnaître que notre interprétation d’une situation fait partie de son influence.
 
 ## Pour participer
 
-Apportez si possible un **téléphone intelligent, une tablette ou un ordinateur portable** pour les activités Wooclap. Vous pourrez scanner un code QR, saisir le code de l'événement ou ouvrir le lien de participation. Si vous n'avez pas d'appareil, vous pourrez participer avec une personne voisine.
+Apportez un **téléphone, une tablette ou un ordinateur bien chargé** pour participer aux activités Wooclap et compléter les **quiz évalués obligatoires**. L’accès sera affiché en classe.
 
 ## Après le cours
 
-La même adresse donnera accès à la version la plus récente. En cas d'écart, le [plan de cours officiel](../../plan-de-cours.qmd) demeure la référence.
+Pour le **8 septembre**, lire le **chapitre 2** et revoir le chapitre 1.
+
+Les diapositives sont mises à jour à cette adresse. Consultez le [plan de cours](../../plan-de-cours.qmd) pour les échéances et modalités.
