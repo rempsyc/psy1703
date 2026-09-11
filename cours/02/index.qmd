@@ -6,8 +6,8 @@ subtitle: "Étudier les conduites sociales"
 **Mardi 8 septembre 2026**<br>
 **Lecture associée :** Vallerand, chapitre 2
 
-::: {.callout-warning title="En préparation"}
-Version révisée le 7 septembre 2026 : méthodes de recherche et science ouverte.
+::: {.callout-note title="Version finale"}
+**Diapositives finales de la séance du 8 septembre 2026.** Des corrections ponctuelles peuvent encore être apportées.
 :::
 
 [Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}

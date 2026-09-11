@@ -736,7 +736,7 @@ Source : Vallerand et Chénard-Poirier (2021), p. 53–55.
 Synthèse orale avec un exemple déjà vu. Pas de billet de sortie obligatoire. Si fatigue, conclure directement ici, puis afficher la prochaine séance.
 :::
 
-# Pour approfondir (pas à l'examen) {visibility="hidden"}
+## Pour approfondir (pas à l'examen) {visibility="hidden"}
 
 ## Étudier des traces et des études existantes {visibility="hidden"}
 
