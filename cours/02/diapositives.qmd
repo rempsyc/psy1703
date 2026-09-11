@@ -477,6 +477,12 @@ Schéma COS, source indiquée sur l’image : cos.io/rr · Archive utilisée en 
 Suivre les flèches : hypothèses, devis, collecte, analyse, interprétation, publication. Les références incrustées datent de 1962 à 2012 et renvoient à des indicateurs/populations différents; ne pas les additionner ni les présenter comme des taux actuels ou universels. Définir oralement p-hacking et HARKing à la diapositive suivante. La faible puissance réduit la probabilité de détecter un effet donné; pas de calcul requis.
 :::
 
+## Pause 2 — 10 minutes
+
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
+
+{{< include _reconnexion.qmd >}}
+
 ## Des choix qui changent l’histoire racontée
 
 - **Sélectionner** la mesure, l'exclusion ou l'analyse qui donne le résultat souhaité : risque de *p-hacking*.
@@ -500,12 +506,6 @@ Rendre le travail **accessible, compréhensible et vérifiable**.
 ::: {.notes}
 Traduire brièvement les libellés; l'ouverture concerne plus que les données. Les icônes ne constituent pas un classement de qualité. Transition : comment appliquer ces idées à notre étude fictive?
 :::
-
-## Pause 2 — 10 minutes
-
-Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
-
-{{< include _reconnexion.qmd >}}
 
 ## Mise des données, matériels et code en ligne
 
@@ -652,76 +652,6 @@ Jeffrey Flier, *Nature* (2017), tribune · Capture reprise de PSY7104 (2022).
 La science ouverte ne suffit pas à elle seule. Proposition normative : valoriser les pratiques et la formation au-delà du volume de publications et du prestige de la revue. La capture est une tribune de 2017, pas un constat selon lequel toutes les universités appliquent déjà cette politique. Exemple de discussion : récompenser la correction transparente d'une erreur plutôt que son camouflage.
 :::
 
-## L’ouverture doit protéger les personnes
-
-- Participation libre, consentement éclairé et risques réduits.
-- Vie privée protégée, même lorsqu'on partage la méthode.
-- Duperie : justification et évaluation éthique préalable, puis débreffage adapté.
-
-::: {.notes}
-Vallerand et Chénard-Poirier (2021), p. 56–57; EPTC 2 (2022), art. 3.7A–3.7B, https://ethique.gc.ca/fra/tcps2-eptc2_2022_chapter3-chapitre3.html. Ne pas confondre confidentialité et anonymat. En recherche assujettie, l'évaluation par le CER précède la mise en œuvre. Toute modification aux exigences de consentement exige notamment risque minimal et protection du bien-être. Le débreffage prévoit le retrait des données lorsque possible, réaliste et approprié. Retirer un prénom ne suffit pas à garantir l'anonymat.
-:::
-
-## Connectez-vous à Wooclap {#connexion-ronde-2}
-
-{{< include _reconnexion.qmd >}}
-
-**Ronde 2** · Les questions sont présentées dans Wooclap.
-
-[Reprendre le cours après la ronde](#suite-ronde-2)
-
-::: {.notes}
-Basculer vers Wooclap pour les questions et la correction. Les diapositives suivantes conservent les questions pour les archives publiques, sans QR. Au retour, utiliser le lien pour reprendre le cours sans les parcourir.
-:::
-
-## Wooclap — Ronde 2 · Rapport enregistré
-
-**Q7. Qu’ajoute un rapport enregistré au simple préenregistrement?**
-
-A. La garantie que l'hypothèse sera confirmée.<br>
-B. La suppression de toute analyse exploratoire.<br>
-C. L'évaluation préalable du protocole et une acceptation de principe sous conditions.
-
-::: {.notes}
-Réponse : C. Le simple préenregistrement date le plan; le rapport enregistré y ajoute l'évaluation préalable et l'engagement éditorial conditionnel. Ni l'un ni l'autre ne garantit un résultat positif. Source : https://www.cos.io/initiatives/registered-reports. Faire voter sur Q7–Q9, puis débreffer ensemble.
-:::
-
-## Wooclap — Ronde 2 · Transparence
-
-**Q8. Quelle pratique soutient la transparence?**
-
-A. Distinguer les analyses prévues des explorations ajoutées.<br>
-B. Ne rapporter que les résultats attendus.<br>
-C. Publier les noms des personnes pour rendre les données crédibles.
-
-::: {.notes}
-Réponse : A. B masque une partie de l'information; C ne garantit rien et expose les personnes. Enchaîner la question sur le partage, puis débreffer la ronde.
-:::
-
-## Wooclap — Ronde 2 · Partage
-
-**Q9. Un export contient des noms et des réponses individuelles. Pour partager la méthode, on devrait d'abord…**
-
-A. déposer l'export complet sur le site du cours;<br>
-B. partager les questions et le protocole, puis examiner séparément les conditions de partage des données;<br>
-C. supprimer seulement la colonne des prénoms et tout publier.
-
-::: {.notes}
-Réponse : B. Retirer un prénom ne garantit pas l'anonymat. L'export réel du cours 1 reste dans Box/Wooclap. Aucun export individuel n'est nécessaire à cette activité.
-:::
-
-## Trois questions à poser devant une étude {#suite-ronde-2}
-
-1. **Qu'a-t-on mesuré ou manipulé?**
-2. **Quelle conclusion le devis permet-il?**
-3. **Que faudrait-il améliorer, protéger ou rendre explicite?**
-
-::: {.notes}
-Source : Vallerand et Chénard-Poirier (2021), p. 53–55.
-
-Synthèse orale avec un exemple déjà vu. Pas de billet de sortie obligatoire. Si fatigue, conclure directement ici, puis afficher la prochaine séance.
-:::
-
 ## Prochaine séance
 
 **15 septembre — Le soi** (**chapitre 3**)
@@ -746,9 +676,69 @@ Pour approfondir : [guide long de Rémi Thériault sur les bonnes pratiques et l
 La citation abrégée met volontairement en évidence la contribution du professeur. Auteurs du manifeste : Sakshi Ghai, Rémi Thériault, Patrick Forscher, Yuichi Shoda, Moin Syed, Arathy Puthillam, Hu Chuan Peng, Dana Basnight-Brown, Asifa Majid, Flavio Azevedo et Leher Singh. Le guide long vise initialement le doctorat; il est proposé uniquement comme ressource facultative.
 :::
 
-# Pour approfondir
+## Connectez-vous à Wooclap {#connexion-ronde-2} {visibility="hidden"}
 
-## Étudier des traces et des études existantes
+{{< include _reconnexion.qmd >}}
+
+**Ronde 2** · Les questions sont présentées dans Wooclap.
+
+[Reprendre le cours après la ronde](#suite-ronde-2)
+
+::: {.notes}
+Basculer vers Wooclap pour les questions et la correction. Les diapositives suivantes conservent les questions pour les archives publiques, sans QR. Au retour, utiliser le lien pour reprendre le cours sans les parcourir.
+:::
+
+## Wooclap — Ronde 2 · Rapport enregistré {visibility="hidden"}
+
+**Q7. Qu’ajoute un rapport enregistré au simple préenregistrement?**
+
+A. La garantie que l'hypothèse sera confirmée.<br>
+B. La suppression de toute analyse exploratoire.<br>
+C. L'évaluation préalable du protocole et une acceptation de principe sous conditions.
+
+::: {.notes}
+Réponse : C. Le simple préenregistrement date le plan; le rapport enregistré y ajoute l'évaluation préalable et l'engagement éditorial conditionnel. Ni l'un ni l'autre ne garantit un résultat positif. Source : https://www.cos.io/initiatives/registered-reports. Faire voter sur Q7–Q9, puis débreffer ensemble.
+:::
+
+## Wooclap — Ronde 2 · Transparence {visibility="hidden"}
+
+**Q8. Quelle pratique soutient la transparence?**
+
+A. Distinguer les analyses prévues des explorations ajoutées.<br>
+B. Ne rapporter que les résultats attendus.<br>
+C. Publier les noms des personnes pour rendre les données crédibles.
+
+::: {.notes}
+Réponse : A. B masque une partie de l'information; C ne garantit rien et expose les personnes. Enchaîner la question sur le partage, puis débreffer la ronde.
+:::
+
+## Wooclap — Ronde 2 · Partage {visibility="hidden"}
+
+**Q9. Un export contient des noms et des réponses individuelles. Pour partager la méthode, on devrait d'abord…**
+
+A. déposer l'export complet sur le site du cours;<br>
+B. partager les questions et le protocole, puis examiner séparément les conditions de partage des données;<br>
+C. supprimer seulement la colonne des prénoms et tout publier.
+
+::: {.notes}
+Réponse : B. Retirer un prénom ne garantit pas l'anonymat. L'export réel du cours 1 reste dans Box/Wooclap. Aucun export individuel n'est nécessaire à cette activité.
+:::
+
+## Trois questions à poser devant une étude {#suite-ronde-2} {visibility="hidden"}
+
+1. **Qu'a-t-on mesuré ou manipulé?**
+2. **Quelle conclusion le devis permet-il?**
+3. **Que faudrait-il améliorer, protéger ou rendre explicite?**
+
+::: {.notes}
+Source : Vallerand et Chénard-Poirier (2021), p. 53–55.
+
+Synthèse orale avec un exemple déjà vu. Pas de billet de sortie obligatoire. Si fatigue, conclure directement ici, puis afficher la prochaine séance.
+:::
+
+# Pour approfondir (pas à l'examen) {visibility="hidden"}
+
+## Étudier des traces et des études existantes {visibility="hidden"}
 
 | Approche | Travail réalisé |
 |---|---|
@@ -761,7 +751,7 @@ La citation abrégée met volontairement en évidence la contribution du profess
 Source : Vallerand et Chénard-Poirier (2021), p. 42–45. Une méta-analyse dépend de la qualité et de la sélection des études incluses; elle ne transforme pas des associations en causes. Enquêtes et entrevues : formulation, mémoire et échantillonnage comptent, p. 39–40. Simulation/jeu de rôles : réactions à une situation construite, p. 40–42. Le cas historique de Stanford est discuté avec des critiques dans le manuel; ne pas le présenter comme une démonstration incontestable.
 :::
 
-## Préenregistrement et tailles d’effet : une comparaison historique
+## Préenregistrement et tailles d’effet : une comparaison historique {visibility="hidden"}
 
 ![](assets/science-ouverte-2022/effectsize.png){fig-alt="Montage de 2019 comparant des distributions de tailles d’effet avec et sans préenregistrement." height="460" fig-align="center"}
 
@@ -773,7 +763,7 @@ Source : Vallerand et Chénard-Poirier (2021), p. 42–45. Une méta-analyse dé
 Réserve, hors parcours prévu. Utiliser précisément comme exercice de lecture critique du titre « magically shrinks ». Les N sont des effets, pas nécessairement autant d'études indépendantes. Des différences d'études, de sujets ou de sélection peuvent contribuer à l'écart; pas de réduction garantie ni de causalité démontrée par le seul préenregistrement. Le résultat est historique, pas une description générale actuelle.
 :::
 
-## Quelques solutions possibles
+## Quelques solutions possibles {visibility="hidden"}
 
 ![](assets/science-ouverte-2022/solutions.png){fig-alt="Schéma de Rémi Thériault reliant des propositions de réforme des pratiques scientifiques." height="580" fig-align="center"}
 
@@ -785,7 +775,7 @@ Rémi Thériault · Schéma original de PSY7104 (2022).
 Réserve, hors parcours prévu. Schéma conservé intégralement comme trace de l'argumentaire de 2022, pas modèle causal validé. Trop dense pour une lecture exhaustive en classe; sélectionner un lien à discuter si le temps le permet. Les propositions sur les institutions et la formation dépassent les acquis exigés aujourd'hui.
 :::
 
-## Atelier 2 — Réparez cette étude (si nous avons le temps)
+## Atelier 2 — Réparez cette étude (si nous avons le temps) {visibility="hidden"}
 
 **12 minutes · Même binôme; inversez les rôles.**
 
@@ -804,7 +794,7 @@ L’équipe veut savoir si **discuter augmente davantage la certitude que réfl�
 Guide interne, atelier 2 : 1 min lecture individuelle, 5 min rédaction, 2 min vérification avec un autre binôme de la même équipe, 4 min débreffage. Scénario fictif, pas description du cours 1. Attendus : assignation aléatoire aux conditions indépendante de l’équipe, mêmes durées et consignes comparables, même mesure de certitude avant/après, comparaison des changements moyens. Distinguer équipes servant à l’atelier et conditions du protocole imaginé. Ne pas administrer l’étude. Demander pour chaque correction quelle explication concurrente elle réduit. Le hasard ne garantit pas des groupes identiques; une étude dans cette classe ne représente pas toute l’humanité. Source conceptuelle : Vallerand et Chénard-Poirier (2021), p. 33–40.
 :::
 
-## Atelier 3 — Que peut-on honnêtement annoncer? (si nous avons le temps)
+## Atelier 3 — Que peut-on honnêtement annoncer? (si nous avons le temps) {visibility="hidden"}
 
 **10 minutes · Même binôme.**
 
