@@ -175,12 +175,17 @@ Quitter temporairement les diapositives et ouvrir le PDF du plan de cours. Ne pa
 3. envoyez **\@STBKYAN** au **(855) 910-9662**.
 
 **Gardez l'onglet ouvert** : les questions apparaîtront au fil du cours. Entre deux questions, l'écran d'attente est normal.
+
+([Passer à la prochaine section](#suite-ronde-1))
+
 :::
 
 ::: {.column width="38%"}
 ![](assets/wooclap-qr.png){fig-alt="Code QR permettant de rejoindre l'événement Wooclap du cours." width="430"}
 :::
 :::
+
+<hr>
 
 Sans appareil? Vous pouvez [emprunter un ordinateur portable à la bibliothèque](https://biblio.uqar.ca/espaces-et-equipements/reserver-un-equipement).
 
@@ -235,7 +240,7 @@ Faire les questions essentielles de prise en main et de connaissance du groupe t
 :::
 :::
 
-## Enregistrer les diapositives en PDF
+## Enregistrer les diapositives en PDF {#suite-ronde-1}
 
 Pour conserver une copie et faciliter la prise de notes :
 
@@ -249,21 +254,9 @@ Pour conserver une copie et faciliter la prise de notes :
 Montrer la procédure à l'écran. Le nombre de pages par feuille et le libellé de la destination PDF dépendent du navigateur et du système; consulter les paramètres supplémentaires si nécessaire. Vérifier l'aperçu avant d'enregistrer. La copie PDF conserve la version du jour : consulter le site pour les mises à jour ultérieures.
 :::
 
-## Une pause qui nous ressemble (Pause 1)
+## Pause 1 — 10 minutes
 
-Pendant la pause, vous pourrez proposer :
-
-- une chanson appropriée au contexte de la classe;
-- une photo de votre animal à afficher avec votre autorisation.
-
-**Pause — 10 minutes.**
-
-Envoyez vos suggestions à **Remi_Theriault@uqar.ca**<br>
-Objet suggéré : **PSY1703 — pause**
-
-::: {.notes}
-Demander une autorisation explicite avant d'afficher une photo et ne pas la republier.
-:::
+{{< include _reconnexion.qmd >}}
 
 # Une même image, plusieurs réalités
 
@@ -366,21 +359,9 @@ Services, gestion du temps, stratégies d'étude, prévention du plagiat et réd
 Intervention du 1er septembre : 15 h à 15 h 25, suivie d'une pause jusqu'à 15 h 35. L'enseignant la désigne CRÉ dans son bilan; intitulé officiel à confirmer avant de renommer la diapositive. Le bloc magistral avait déjà commencé avant l'intervention et a repris ensuite; son point d'interruption exact reste à documenter.
 :::
 
-## Pause 2
+## Pause 2 — 10 minutes
 
-Pendant la pause, vous pourrez proposer :
-
-- une chanson appropriée au contexte de la classe;
-- une photo de votre animal à afficher avec votre autorisation.
-
-**Pause — 10 minutes.**
-
-Envoyez vos suggestions à **Remi_Theriault@uqar.ca**<br>
-Objet suggéré : **PSY1703 — pause**
-
-::: {.notes}
-Demander une autorisation explicite avant d'afficher une photo et ne pas la republier.
-:::
+{{< include _reconnexion.qmd >}}
 
 # Comprendre les comportements sociaux
 
@@ -486,6 +467,8 @@ Demander un exemple supplémentaire pour chaque forme de présence. Ne pas laiss
 :::
 :::
 
+([Passer à la prochaine section](#suite-ronde-2))
+
 ::: {.notes}
 Q16 de l'export. Réponse attendue : 2. Souligner le passage à une comparaison systématique.
 :::
@@ -553,7 +536,7 @@ Q12 de l'export. Réponse attendue : 1.
 Q13 de l'export. Réponse attendue : 3. Distinguer norme implicite et présence imaginée.
 :::
 
-## Kurt Lewin relie théorie, expérience et action
+## Kurt Lewin relie théorie, expérience et action {#suite-ronde-2}
 
 ::: {.columns}
 ::: {.column width="68%"}
@@ -679,6 +662,8 @@ Sa personnalité · La situation · Son interprétation de la situation · Les n
 Q10 puis Q14 de l'export : deux votes distincts. Q10 n'a pas de bonne réponse attendue; Q14 : faux. Transition vers personne–situation.
 :::
 
+([Passer à la prochaine section](#suite-ronde-3))
+
 ## Wooclap — Personne et situation
 ::: {.columns}
 ::: {.column width="76%"}
@@ -700,7 +685,7 @@ Q10 puis Q14 de l'export : deux votes distincts. Q10 n'a pas de bonne réponse a
 Q15 de l'export. Réponse attendue : 2.
 :::
 
-# Une discipline en évolution et en application
+# Une discipline en évolution et en application {#suite-ronde-3}
 
 ## Trois influences ont marqué la discipline
 

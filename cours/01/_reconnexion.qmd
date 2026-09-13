@@ -1,0 +1,17 @@
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
+
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou rendez-vous sur [wooclap.com](https://app.wooclap.com/STBKYAN).
+
+**Code : STBKYAN**
+
+Connectez-vous avec votre **identifiant UQAR**.
+
+Gardez l’onglet ouvert : les questions apparaîtront dans Wooclap au fil de l’activité.
+:::
+
+::: {.column width="42%"}
+[![](assets/wooclap-qr.png){fig-alt="QR de connexion à l’événement Wooclap STBKYAN" width="480"}](https://app.wooclap.com/STBKYAN)
+:::
+:::
