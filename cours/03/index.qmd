@@ -7,7 +7,7 @@ subtitle: "Le soi en contexte social"
 **Lecture associée :** Vallerand, chapitre 3
 
 ::: {.callout-warning title="État de la version"}
-Version enrichie à partir du chapitre 3, **en préparation** avant la séance.
+Diapositives publiées, mais la version reste **en préparation** jusqu’au mardi avant la séance.
 :::
 
 [Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}

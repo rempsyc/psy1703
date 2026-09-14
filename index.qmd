@@ -8,12 +8,12 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 ## Prochaine séance
 
-### Cours 2 — Méthodes de recherche
+### Cours 3 — Le soi
 
-**Mardi 8 septembre 2026 · 13 h 15 à 16 h 05**<br>
+**Mardi 15 septembre 2026 · 13 h 15 à 16 h 05**<br>
 **Campus de Rimouski · Local J462**
 
-[Voir la page du cours 2](cours/02/index.qmd){.btn .btn-primary .btn-lg}
+[Voir la page du cours 3](cours/03/index.qmd){.btn .btn-primary .btn-lg}
 
 ## Comment utiliser ce site
 
