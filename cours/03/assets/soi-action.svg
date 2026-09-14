@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="310" viewBox="0 0 1250 310" role="img" aria-labelledby="title desc">
+<title id="title">Le soi dans l’action : le cas d’Andréa</title>
+<desc id="desc">Je me crois peu à l’aise à l’oral; je pense que ma question sera mal reçue; je garde ma question pour moi. Une piste d’analyse, sans effet inévitable.</desc>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10" fill="none" stroke="#007c83" stroke-width="1.5"/></marker></defs>
+<g font-family="Arial, sans-serif" text-anchor="middle" fill="#17212b">
+<path d="M25 80 H375 M450 80 H800 M875 80 H1225" stroke="#e8a23a" stroke-width="7"/>
+<g font-size="32" font-weight="bold" fill="#123b5d"><text x="200" y="55">Croyance sur soi</text><text x="625" y="55">Interprétation</text><text x="1050" y="55">Action possible</text></g>
+<g font-size="29"><text x="200" y="142">« Je suis peu à l’aise</text><text x="200" y="184">à l’oral. »</text><text x="625" y="142">« Ma question sera</text><text x="625" y="184">mal reçue. »</text><text x="1050" y="142">Je garde ma question</text><text x="1050" y="184">pour moi.</text></g>
+<path d="M378 156 H437 M803 156 H862" stroke="#007c83" stroke-width="4" marker-end="url(#a)"/>
+<text x="625" y="285" font-size="25" fill="#566573">Une piste à discuter : le contexte et d’autres explications comptent aussi.</text>
+</g></svg>

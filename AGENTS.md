@@ -30,3 +30,5 @@
 - Pages des séances : indiquer uniquement la lecture associée, sans parenthèse de rappel des chapitres antérieurs. Éviter les rappels redondants déjà présents dans le plan ou les diapositives.
 
 - Diapositives : accompagner les annonces et rappels d’évaluations de leur pondération. Plan actuel : quiz retenu 1,25 % (8 meilleurs sur 10, total 10 %), examens 1/2/3 : 25 %/30 %/35 %. Vérifier le plan officiel lors de sa modification ou de la réutilisation du dépôt. Distinguer le quiz test non noté.
+
+- Préférence rédactionnelle explicite de Rémi : éviter les mises en garde génériques et répétitives qui alourdissent les diapositives et les échanges, notamment « cette association ne suffit pas à établir une causalité » ou « association ≠ causalité ». Formuler directement les résultats avec les verbes appropriés (par exemple « est associé à »). Ne développer une limite méthodologique que lorsqu’elle est précise et utile à la compréhension du résultat, sans ajouter systématiquement un avertissement.

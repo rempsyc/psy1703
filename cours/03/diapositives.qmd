@@ -1,0 +1,943 @@
+---
+title: "Psychologie sociale"
+subtitle: "Cours 3 — Le soi"
+author: "Rémi Thériault"
+institute: "UQAR — PSY1703-04"
+date: 2026-09-15
+date-format: "D MMMM YYYY"
+lang: fr-CA
+format:
+  revealjs:
+    theme: [simple, ../../_themes/slides.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.08
+    navigation-mode: linear
+    controls: true
+    progress: true
+    history: true
+    hash: true
+    menu: true
+    overview: true
+    footer: "PSY1703 — Psychologie sociale · Automne 2026"
+    embed-resources: false
+    auto-play-media: false
+---
+
+
+## Quiz de lecture 1 — 1,25 %
+
+**Chapitres 1–2 et cours 1–2 · Travail individuel**
+
+Les **8 meilleurs quiz sur 10** comptent pour **10 %** de la note finale.
+
+Suivez les consignes de passation données en classe.
+
+::: {.notes}
+Réserver le début de la séance au quiz, avant toute discussion du chapitre. Les questions évaluées et leur corrigé demeurent dans Box; ne pas les inclure dans cette source publique. Source des modalités : plan officiel, calendrier et section Quiz de lecture. Prévision : dix minutes, à confirmer avec les consignes finales. Le périmètre chapitres 1–2 et cours 1–2 est celui annoncé dans les pages et diapositives actuelles; le chapitre 3 est exclu du quiz 1.
+:::
+
+## Quiz et examen — quoi préparer?
+
+**22 septembre — Quiz 2 (1,25 %) : chapitre 3 et cours 3.**
+
+Les **8 meilleurs quiz sur 10** comptent pour **10 %** de la note finale.
+
+**29 septembre — Examen 1 (25 %) : chapitres 1–4 et cours 1–4.**
+
+Certaines notions enseignées en cours **peuvent** être évaluées même si elles ne figurent pas dans le manuel. Cependant, en majorité, je m'en tiens au manuel et aux diapositives.
+
+Toute autre ressource ou lien externe n'est pas matière à examen.
+
+## Mes stratégies d’étude du bac 1/2 : comprendre la structure
+
+**Avant de lire : parcourir le chapitre du début à la fin.**
+
+::: {.columns}
+::: {.column width="48%"}
+### À l’échelle du chapitre
+
+Repérer la longueur, les titres, les sous-titres et les grandes parties, sans encore lire le détail.
+:::
+::: {.column width="48%"}
+### À l’échelle d’une section
+
+Refaire ce survol avant de lire; y revenir pendant la lecture pour situer sa progression.
+:::
+:::
+
+**Chapitre → sections → idées → détails**
+
+La lecture vient remplir une structure que l’on commence déjà à connaître.
+
+::: {.notes}
+Méthode personnelle de Rémi, formulée à partir de son témoignage. « Mapping » : reconnaissance de la structure avant lecture, puis à l’échelle des sections. Ne pas présenter comme une méthode universelle ni comme un protocole expérimental validé. Capsule de cinq minutes au total pour les trois diapositives.
+:::
+
+## Mes stratégies d’étude du bac 2/2 : scanner et faire le tri
+
+1. **Lecture RAPIDE :** (ne perdez pas de temps sur les détails; comprenez l'essentiel)
+2. **Distinguez ce qui est IMPORTANT, de ce qui ne l'est pas**
+3. **Distinguez ce qui est AUTONOME, de ce qui ne l'est pas** (ce qui est logique ou qui vient à l'esprit facilement)
+4. **SIMPLIFIEZ tout ce qui reste ** (listes à puces, trucs mnémotechniques; essayez de conserver aussi peu d'information que possible)
+5. **BOUCLEZ la BOUCLE ** (organisez et regroupez les éléments de manière à se faire une idée claire de la vue d'ensemble, de la façon dont les thèmes ou les idées s'articulent entre eux et dans quel ordre, ainsi que des « limites » du contenu)
+6. **MÉMORISEZ ce qu'il reste**
+
+::: {.notes}
+Traduction adaptée des étapes SPEED read, IMPORTANT et AUTONOMOUS. Interprétation de « autonomous » à partir de la précision donnée par Rémi : logique ou facilement accessible, plutôt que travail autonome. La rapidité sert ici à saisir l’essentiel; revenir aux passages nécessaires à la compréhension. Ces conseils ne changent pas le périmètre annoncé des évaluations. Étapes personnelles SIMPLIFY, CLOSE THE BUCKLE et MEMORIZE, traduites sans ajouter de méthode que Rémi n’a pas indiquée. « Simplifier » vise une représentation concise qui conserve les distinctions importantes, pas la suppression des nuances nécessaires. Éventuellement illustrer oralement avec un exemple de sa propre pratique.
+:::
+
+## Enregistrer les diapositives en PDF
+
+Pour conserver une copie et faciliter la prise de notes :
+
+1. Ouvrez le **menu « hamburger »** (trois barres) des diapositives.
+2. Cliquez sur **Tools**.
+3. Choisissez **PDF Export Mode**.
+4. Appuyez sur **Ctrl + P** (ou **⌘ + P** sur Mac).
+5. Choisissez **Enregistrer au format PDF**, ajustez le nombre de **pages par feuille**, puis enregistrez.
+
+::: {.notes}
+Montrer la procédure à l'écran. Le nombre de pages par feuille et le libellé de la destination PDF dépendent du navigateur et du système; consulter les paramètres supplémentaires si nécessaire. Vérifier l'aperçu avant d'enregistrer. La copie PDF conserve la version du jour : consulter le site pour les mises à jour ultérieures.
+:::
+
+## Plan de la séance
+
+1. **Le soi comme contenu** — soi corporel, concept de soi, schémas et estime de soi
+2. **Les sources du soi** — apprendre à se connaître par soi-même et par les autres
+3. **Le soi comme processus et ses conséquences** — conscience de soi, autorégulation et présentation de soi
+
+**Pour commencer : expérimenter son corps et se représenter soi-même.**
+
+::: {.notes}
+Organisation pédagogique fondée sur Vallerand (2021), p. 63 : contenu, déterminants, conscience de soi, conséquences intrapersonnelles et interpersonnelles. Les deux dernières familles sont réunies dans la partie 3. La clarté et l’autocompassion sont des ouvertures identifiées; elles ne remplacent pas le noyau du manuel.
+:::
+
+## Voir l’expérience {#video-rhi}
+
+::: {style="display: flex; justify-content: center;"}
+{{< video https://vimeo.com/209325612 width="1248" height="702" title="The Rubber Hand Illusion: Investigation at the Raz Lab" >}}
+:::
+
+::: {.notes}
+Vidéo proposée par Rémi. Lecture manuelle; arrêter la vidéo avant de quitter la diapo. La vidéo n’est pas jouable dans une copie PDF. Repérer avec le groupe ce qui est vu, ressenti et inféré. La vidéo illustre le protocole : les réactions montrées ne sont pas une comparaison contrôlée de résultats. Prévoir environ trois minutes de vidéo comme amorce, sans prédiction ni analyse des résultats de Thériault et al. (2022). Référence de la recherche : https://doi.org/10.1177/17470218221078858. Ne pas présenter cette capsule comme un gros plan expérimental.
+:::
+
+## Soi corporel vs soi conceptuel
+
+**Soi corporel** : l’expérience de son corps comme sien, situé ici, capable d’agir.
+
+**Concept de soi** : les connaissances et croyances que l’on entretient à propos de soi.
+
+« Cette main est la mienne » et « je suis habile de mes mains » concernent le même corps, sous deux angles différents.
+
+::: {.notes}
+Krol, Thériault, Olson, Raz et Bartz (2020), https://doi.org/10.1177/0146167219879126. Corporel/conceptuel n’est pas un synonyme de contenu/processus : des processus construisent et actualisent les représentations corporelles comme conceptuelles. Employer « conceptuel » plutôt que « mental » évite de laisser entendre que l’expérience corporelle serait dépourvue de dimensions psychologiques.
+:::
+
+## Un concept de soi peut être plus ou moins clair
+
+**Clarté du concept de soi** : des croyances sur soi clairement définies, cohérentes entre elles et relativement stables dans le temps.
+
+**Clarté** : « Est-ce que je sais comment je me décris? »
+
+**Estime** : « Quelle valeur est-ce que je m’accorde? »
+
+Un portrait clair n’est pas nécessairement favorable, exact ou immuable.
+
+La clarté est **associée au bien-être**.
+
+::: {.notes}
+Définition de Campbell et al. (1996), reprise dans Krol, Thériault, Olson, Raz et Bartz (2020). Les liens avec le bien-être appartiennent à la littérature sur la clarté; notre étude de 2020 examine surtout son association avec la malléabilité corporelle. Ne pas présenter cette étude comme une intervention démontrant qu’augmenter la clarté améliore le bien-être.
+:::
+
+## La clarté du soi se retrouve-t-elle dans le corps?
+
+**Krol, Thériault, Olson, Raz et Bartz (2020)**
+
+| Étude | Expérience corporelle |
+|---|---|
+| **1 · Main en caoutchouc** | Des contacts synchrones ou asynchrones avec une main artificielle |
+| **2 · Échange corporel** | Voir le corps d’une autre personne à travers un casque pendant des mouvements coordonnés |
+
+Dans les deux études, on mesure la **clarté du concept de soi** et le **sentiment d’appropriation corporelle**.
+
+::: {.notes}
+Source : https://doi.org/10.1177/0146167219879126. Étude 1 : N = 80, lien avec la clarté dans la condition asynchrone, pas de lien détecté dans la condition synchrone. La figure fournie par Rémi est la figure 3 et concerne l’étude 2 : ne pas l’attribuer à la main en caoutchouc. Les mouvements sont coordonnés mais imparfaitement synchrones en pratique. Le volet préjugés et la vidéo body swap restent réservés à une autre séance.
+:::
+
+## Clarté du soi et appropriation corporelle {#krol-resultats}
+
+::: {.columns}
+::: {.column width="65%"}
+![](assets/krol2020-figure3-originale.png){width="797" height="620" fig-alt="Figure originale de l’étude 2 : nuage de points montrant une association négative entre clarté du concept de soi et appropriation corporelle lors de l’illusion d’échange corporel, avec droite de régression et bande de confiance à 95 %."}
+:::
+::: {.column width="33%"}
+**Étude 2 · Échange corporel**
+
+**Horizontal** : clarté du concept de soi.
+
+**Vertical** : sentiment que le corps vu est le sien.
+
+Une clarté plus faible est associée à une appropriation plus forte.
+
+**Association ≠ causalité.**
+:::
+:::
+
+::: {.credit}
+Krol, Thériault, Olson, Raz et Bartz (2020), figure 3. Original fourni par Rémi Thériault.
+:::
+
+::: {.notes}
+Chaque point représente une personne; la bande représente l’intervalle de confiance à 95 % autour de la droite moyenne, pas la dispersion individuelle. Étude 2 : 34 personnes, b = −0,48, p = 0,006, IC 95 % [−0,81; −0,15]. Les axes originaux anglais sont conservés; leurs sens sont donnés en français à côté. La clarté du concept de soi est mesurée par questionnaire. Ne pas présenter la susceptibilité à l’illusion comme un déficit personnel. Cette figure ne porte ni sur l’empathie ni sur les préjugés. Source : https://doi.org/10.1177/0146167219879126.
+:::
+
+# Le soi comme contenu
+
+## Deux façons d’étudier le soi
+
+| **Le soi comme contenu** | **Le soi comme processus** |
+|---|---|
+| Ce que je me représente à propos de moi | Les activités par lesquelles je prends conscience de moi et j’agis |
+| Concept de soi, schémas, estime de soi | Attention à soi, régulation, présentation de soi |
+
+**Le « moi » connu et le « je » connaissant sont deux angles sur une même personne.**
+
+::: {.notes}
+Vallerand (2021), p. 63. Le manuel inclut également les soi possibles dans le contenu; ils ne sont pas développés dans cette séance. Corporel/conceptuel ne recouvre pas contenu/processus : nous pouvons avoir des représentations du corps et des processus qui les élaborent.
+:::
+
+## Le concept de soi : que contient-il?
+
+**« Ensemble des représentations sur soi. »**
+
+::: {.credit}
+Vallerand (2021), glossaire, p. 439 — définition citée.
+:::
+
+| Contenu | Exemple |
+|---|---|
+| Trait que je m’attribue | « Je suis persévérante. » |
+| Valeur ou conviction | « L’entraide est importante pour moi. » |
+| Rôle ou appartenance | « Je suis étudiante en psychologie. » |
+| Représentation corporelle | « Je me trouve grande. » |
+
+::: {.notes}
+Vallerand (2021), p. 63–64 et 439. Les traits de personnalité sont des tendances relativement durables; les traits que l’on s’attribue sont des représentations, pas nécessairement une mesure objective de ces tendances. Définition exacte courte du glossaire; exemples originaux.
+:::
+
+## Qui suis-je? · 10 réponses
+
+Sur une feuille (ou votre ordinateur, votre téléphone), écrivez **10 réponses** à la question « Qui suis-je? », en commençant par **« Je suis… »**.
+
+Écrivez ce qui vous vient, sans chercher le portrait idéal.
+
+**Gardez votre liste : nous y reviendrons.** Vous choisissez ce que vous partagez.
+
+::: {.notes}
+Quatre minutes d’écriture individuelle. Version abrégée à 10 réponses, selon le choix de Rémi, inspirée des 20 énoncés présentés par Vallerand (2021), p. 64. Aucune collecte, aucun score de personnalité; ne pas faire de la complétion une performance. Autoriser à passer un élément ou à travailler sur un personnage fictif. Le partage éventuel sera volontaire. Prévoir papier ou notes personnelles.
+:::
+
+## Les schémas sur le soi
+
+**Des connaissances organisées, issues de nos expériences, qui orientent le traitement de l’information sur soi.**
+
+« Être sportive me définit. »
+
+Cette dimension relie des souvenirs, des attentes et des façons d’interpréter une nouvelle expérience.
+
+**Le concept de soi désigne les représentations; les schémas expliquent leur organisation et leur influence.**
+
+::: {.credit}
+D’après Vallerand (2021), p. 67–69 et glossaire, p. 447 — définition reformulée.
+:::
+
+
+::: {.notes}
+Un schéma n’est pas un simple adjectif ni un synonyme de personnalité. Reprendre une réponse de l’exercice et demander quels souvenirs ou comportements lui sont associés. Être schématique ou aschématique se définit relativement à une dimension particulière, pas à la personne dans son ensemble.
+:::
+
+## Une carte de mon soi
+
+![](assets/carte-soi-remi-sans-liens.svg){width="1300" fig-alt="Rémi au centre, relié à huit facettes. Aucun lien transversal n’est encore affiché entre les facettes."}
+
+**Ces éléments du soi sont-ils reliés entre eux?**
+
+::: {.notes}
+Première étape : laisser proposer quelques associations avant d’avancer. Carte originale à partir des facettes communiquées par Rémi, inspirée des exemples fournis dont celui de Jennifer Bartz. Relier à Vallerand (2021), p. 63–64, 72 et 77–79.
+:::
+
+## Des facettes reliées entre elles {#soi-liens}
+
+![](assets/carte-soi-remi.svg){width="1300" fig-alt="La même carte avec trois liens supplémentaires : professeur et psychologue social, skater et breakdancer, breakdancer et rappeur."}
+
+**Quelle facette devient saillante lorsque j’enseigne?**
+
+::: {.notes}
+Deuxième étape : les liens apparaissent, les positions restent identiques. Commenter brièvement les associations entre enseignement et psychologie sociale, pratiques corporelles, puis breakdance et rap. Poser ensuite la question de la saillance avant d’avancer.
+:::
+
+## Quand j’enseigne {#soi-professeur-saillant}
+
+![](assets/carte-soi-remi-professeur.svg){width="1300" fig-alt="Même réseau du soi de Rémi. La facette Professeur est mise en évidence en doré, avec son lien vers Rémi épaissi. Les autres facettes restent visibles."}
+
+**En classe, ma facette « professeur » devient saillante.**
+
+::: {.notes}
+Avancer depuis la carte précédente : la disposition reste identique, seule la facette professeur est mise en évidence. Expliquer « saillante » : particulièrement présente à l’esprit dans ce contexte. Revenir en arrière si utile pour comparer. Les trois liens transversaux illustrent les associations professeur–psychologue social, skater–breakdancer et breakdancer–rappeur.
+:::
+
+## Une étude classique : les schémas sur le soi
+
+**Markus (1977)** · Des étudiantes sont sélectionnées selon leur rapport à l’indépendance : schéma d’indépendance, de dépendance, ou absence de schéma marqué.
+
+Elles voient des adjectifs et indiquent **« moi » / « pas moi »**. On mesure notamment le temps de réponse.
+
+**Répondre « moi » sera-t-il aussi rapide pour tous les adjectifs?**
+
+::: {.notes}
+Texte primaire : https://web.stanford.edu/~hazelm/cgi-bin/wordpress/wp-content/uploads/2011/02/1977_Markus_Self-Schemata-and-Processing-Information-About-the-Self.pdf. Étude 1, 48 étudiantes sélectionnées, trois groupes de 16. Les schémas préexistants servent à sélectionner les groupes : ils ne sont pas attribués au hasard. Prédiction individuelle, puis résultat sur la diapo suivante. Relier explicitement une définition à une opération de mesure.
+:::
+
+## Quand l’information correspond à notre schéma
+
+| Schéma préalable | Réponses « moi » plus rapides pour… |
+|---|---|
+| Indépendance | Les adjectifs d’indépendance |
+| Dépendance | Les adjectifs de dépendance |
+
+**Une même tâche révèle des façons différentes de traiter l’information sur soi.**
+
+Ce résultat ne montre pas que les descriptions les plus rapides sont les plus exactes.
+
+::: {.credit}
+Markus (1977), étude 1. Résultats qualitatifs; aucune valeur simulée.
+:::
+
+
+::: {.notes}
+Comparer la prédiction au résultat. Le groupe aschématique ne présente pas cette différenciation de vitesse. L’étude comprend aussi des tâches de production d’exemples comportementaux et de prévision de comportements. DOI 10.1037/0022-3514.35.2.63.
+:::
+
+## Quand le « nous » entre dans le soi
+
+| Se définir par… | Exemple |
+|---|---|
+| Une caractéristique | « Je suis curieuse. » |
+| Une relation | « Je suis l’amie de cette personne. » |
+| Une appartenance collective | « Je fais partie des Bleus / des Ors. » |
+
+**Que change une appartenance dans ce qui compte pour nous?**
+
+::: {.notes}
+Vallerand (2021), p. 63–65, 72 et 77–79. Exemples fictifs, sauf les équipes créées en classe. L’identité sociale concerne la place des appartenances dans la définition de soi; ne pas classer les personnes de façon exclusive. Les Bleus/Ors sont une identité pédagogique intentionnelle, sans inférence de personnalité. Revenir à la carte : une institution ou un collectif peut aussi devenir une appartenance signifiante.
+:::
+
+## L’estime de soi
+
+L’évaluation subjective, positive ou négative, que l’on fait de soi-même.
+
+::: {.columns}
+::: {.column width="50%"}
+**Se décrire**
+
+« Je prends rarement la parole en grand groupe. »
+:::
+::: {.column width="50%"}
+**S’évaluer**
+
+« Je me sens insatisfait de moi quand je reste silencieux. »
+:::
+:::
+
+::: {.credit}
+D’après Vallerand (2021), p. 64–67; glossaire, p. 442 — reformulation.
+:::
+
+::: {.notes}
+Source : Vallerand (2021), p. 64–67. La deuxième phrase illustre une évaluation située; elle ne permet pas de diagnostiquer une faible estime de soi globale. Demander comment la même description pourrait recevoir une évaluation différente.
+:::
+
+## L’estime de soi : préciser de quoi on parle
+
+| Distinction | Exemple de question |
+|---|---|
+| Globale ou propre à un domaine | Ma valeur générale ou ma satisfaction comme étudiante? |
+| Disposition ou état | Habituellement ou après cet exposé? |
+| Individuelle, relationnelle ou collective | Moi, ma place dans une relation ou mon appartenance? |
+
+**Une réaction située ne résume pas la personne.**
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 64–67. Les mesures explicites et implicites constituent une autre distinction abordée dans le manuel; ne pas présenter une mesure indirecte comme accès au vrai soi. Le narcissisme ne se réduit pas à une estime de soi élevée.
+:::
+
+## L’estime de soi au fil des événements
+
+![](assets/estime-etat.svg){width="1200" fig-alt="Illustration fictive : l’évaluation de soi fluctue autour d’une tendance habituelle, après un exposé, une rétroaction et une nouvelle tentative. Aucune donnée réelle."}
+
+**Un moment de déception suffit-il à décrire une disposition?**
+
+::: {.notes}
+Vallerand (2021), p. 65–66. Inspiration pédagogique : Blais, cours 3 (2020), diapos 47–49. Visuel original, valeurs et événements fictifs. La tendance habituelle peut évoluer; les réactions aux événements varient. Ne pas présenter le tracé comme une mesure ou un résultat expérimental.
+:::
+
+## Quand une image de soi est menacée
+
+**Se reconnaître de la valeur** et **se croire supérieur aux autres** sont distincts.
+
+Dans les expériences de **Bushman et Baumeister (1998)**, l’association du **narcissisme et d’une insulte** s’accompagne d’une agressivité particulièrement élevée envers l’auteur de l’insulte.
+
+**Une haute estime de soi ne suffit pas à expliquer l’agressivité.**
+
+::: {.credit}
+Bushman et Baumeister (1998), https://doi.org/10.1037/0022-3514.75.1.219.
+:::
+
+::: {.notes}
+Deux expériences distinguent mesures d’estime et de narcissisme, puis réaction à une insulte ou à un éloge. Dans ces expériences, l’estime de soi seule ne prédit pas l’agression. Référence vérifiée : https://pubmed.ncbi.nlm.nih.gov/9686460/. Les formulations fournies des diapositives de Blais sont trop générales si elles sont appliquées à toute haute estime de soi. Préciser le narcissisme et la menace, sans prétendre que le narcissisme masque toujours une faible estime. Aucun diagnostic ni assimilation directe entre une mesure d’agression en laboratoire et toute violence réelle.
+:::
+
+## Retour à vos 10 réponses
+
+Repérez, sans les partager si vous préférez :
+
+- une caractéristique, un rôle ou une appartenance;
+- une description de vous-même;
+- une éventuelle évaluation de vous-même.
+
+**Une même phrase peut contenir plusieurs éléments.**
+
+## Connectez-vous à Wooclap · Ronde 1
+
+{{< include _reconnexion.qmd >}}
+
+**Deux questions pour consolider les distinctions.**
+
+[Reprendre après la ronde : pause de 10 minutes](#pause-1)
+
+## Ronde 1 · Décrire ou évaluer?
+
+« Je suis membre de l’équipe de débat. » Cette phrase exprime surtout :
+
+A. Une description de soi<br>
+B. Une évaluation de sa valeur<br>
+C. Une preuve de compétence en débat
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+W01 — Réponse A. Appartenance exprimée dans le concept de soi; la phrase seule n’établit ni la valeur personnelle ni la compétence. Réflexion individuelle 30 secondes, vote, puis débreffage. Masquer les résultats pendant le vote.
+:::
+
+## Ronde 1 · Ce qu’une phrase permet de conclure
+
+« Je me sens déçu de moi après cet exposé. » Que peut-on conclure?
+
+A. La personne a toujours une faible estime de soi<br>
+B. Elle exprime une évaluation négative dans cette situation<br>
+C. Son exposé était objectivement mauvais
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+W02 — Réponse B. Distinguer l’évaluation exprimée, sa généralisation à la personne et la qualité mesurée de l’exposé. Ne pas supposer que l’émotion rapporte fidèlement une performance objective. 30 secondes de réflexion avant vote, puis discussion.
+:::
+
+## Pause {#pause-1}
+
+**10 minutes**
+
+## Une même rétroaction, plusieurs interprétations
+
+Une personne reçoit : **« Ton argument serait plus clair avec un exemple. »**
+
+En binôme de la même équipe (trio si nécessaire), préparez :
+
+1. deux interprétations possibles;
+2. une information qui aiderait à les départager;
+3. une façon de demander une précision.
+
+**Production : trois phrases. Une personne porte-parole par équipe présente une proposition.**
+
+::: {.notes}
+Atelier de vingt minutes au retour de pause : deux minutes de consigne, huit minutes en binômes, six minutes de partage avec les porte-parole, quatre minutes de débreffage. Exemple fictif. Accommodement de proximité possible. Distinguer le commentaire reçu, le sens attribué et les informations manquantes. Reprendre les propositions dans le thème « Se connaître ». Aucune révélation personnelle requise.
+:::
+
+# Les sources du soi
+
+## D’où viennent nos idées sur nous-mêmes?
+
+| Source | Question que l’on peut se poser |
+|---|---|
+| **Introspection** | Que ressens-je? Qu’est-ce que je pense? |
+| **Observation de ses comportements** | Qu’est-ce que mes actions m’apprennent? |
+| **Autrui** | Que me renvoient les autres? À qui me comparer? |
+| **Souvenirs autobiographiques** | Quel récit est-ce que je fais de mon passé? |
+| **Culture** | Quels rôles et quelles façons d’être sont valorisés? |
+
+::: {.credit}
+Organisation inspirée du cours de Sullivan; liens avec Vallerand (2021), p. 69–79 et 84–85.
+:::
+
+
+::: {.notes}
+La liste de cinq sources est un repère pédagogique inspiré de l’exemple fourni par Rémi; ce n’est pas le découpage exact du manuel. Les sources se recoupent. Introspection : observation de ses pensées et sentiments. Ne pas supposer un accès transparent aux causes de tout comportement.
+:::
+
+## Théorie de l’autoperception (Bem)
+
+Nous pouvons **inférer nos attitudes à partir de nos comportements et de leur contexte**.
+
+« J’ai proposé mon aide plusieurs fois; peut-être que je suis serviable. »
+
+Selon Bem, nos comportements deviennent particulièrement informatifs lorsque :
+
+- nos indices internes sont **faibles ou ambigus**;
+- une **pression extérieure** n’explique pas déjà l’action.
+
+**Aider volontairement ou parce qu’on l’exige : même indice?**
+
+::: {.credit}
+D’après Vallerand (2021), p. 69–70 — reformulation.
+:::
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 69–70. Théorie de l’autoperception de Bem, telle que présentée dans le manuel. Il ne s’agit pas de prétendre que toutes les attitudes proviennent de l’observation du comportement. Ajouter la recherche d’informations diagnostiques : une tâche un peu difficile peut mieux renseigner sur ses capacités qu’une réussite garantie (Trope, p. 70–71).
+:::
+
+## Une expérience sur l’autoperception
+
+**Chaiken et Baldwin (1981)** · Des questionnaires rendent saillants des comportements passés favorables ou défavorables à l’écologie.
+
+::: {.fragment}
+| Attitude préalable | Résultat de la manipulation |
+|---|---|
+| Peu définie | L’attitude exprimée varie dans le sens des comportements évoqués |
+| Bien définie | Ce même effet n’est pas observé |
+:::
+
+**Ce que je rappelle de mes actions peut informer ce que je pense de moi.**
+
+::: {.notes}
+https://www.mcgill.ca/social-intelligence/files/social-intelligence/Chaiken_Baldwin_1981.pdf. N = 80 présents aux deux séances. « Bien définie » est opérationnalisé par la cohérence affective-cognitive préalable; cette caractéristique n’est pas manipulée. Ce sont les comportements rendus saillants par le questionnaire qui varient expérimentalement. Demander une prédiction sur la sensibilité des deux groupes avant de révéler oralement le tableau; ne pas assimiler absence d’effet détecté et impossibilité absolue de changement.
+:::
+
+## Le regard des autres est interprété
+
+« Mes collègues me demandent d’expliquer les consignes. »
+
+Je peux y voir de la compétence… ou simplement de la disponibilité.
+
+**L’autovérification : rechercher une confirmation de l’idée que l’on a déjà de soi.**
+
+Confirmer son idée de soi et rechercher une image plus favorable peuvent conduire à des choix différents.
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 72–75. Interactionnisme symbolique et autovérification, tels que présentés dans le chapitre. Reprendre deux interprétations de l’atelier. Confirmation et exactitude sont distinctes. Le sociomètre est un modèle liant l’estime de soi aux indices d’acceptation sociale, pas une mesure de la valeur objective.
+:::
+
+## La comparaison sociale : dans quel but?
+
+**Évaluer ses opinions ou capacités en se comparant à autrui.**
+
+| But | Point de comparaison possible |
+|---|---|
+| M’évaluer | Une personne aux conditions semblables |
+| M’améliorer | Une personne qui réussit mieux |
+| Me revaloriser | Une personne qui réussit moins bien |
+
+**Comparer vers le haut peut inspirer ou décourager. Le sens dépend du contexte.**
+
+::: {.credit}
+D’après Vallerand (2021), p. 71–72; glossaire, p. 439 — reformulation.
+:::
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 71–72. Festinger et développements présentés dans le manuel. Conserver oralement l’exemple 7/10 comparé à 5/10 ou 9/10. Les directions ne déterminent pas mécaniquement les émotions; importance du domaine, proximité et possibilité de progresser comptent.
+:::
+
+## Une expérience : qui se trouve en face de moi?
+
+**Morse et Gergen** · Des candidats à un emploi rencontrent un autre candidat joué par un complice.
+
+::: {.fragment}
+| Présentation du complice | Variation de l’estime de soi rapportée |
+|---|---|
+| Soignée, assurée, préparée | Baisse |
+| Négligée, désorientée | Hausse |
+:::
+
+**La comparaison modifie l’évaluation de soi sans modifier les qualifications du candidat.**
+
+::: {.notes}
+Source primaire : communication originale de 1967, https://files.eric.ed.gov/fulltext/ED019680.pdf; article publié en 1970, DOI 10.1037/h0029862. N = 78 étudiants hommes dans le rapport. Les variations du tableau résument les résultats, sans inventer de valeurs. La présentation est manipulée; le caractère compétitif est également varié. Le protocole repose sur des normes sociales de présentation et ne montre pas que l’apparence révèle la compétence réelle. Ce résultat de contraste n’est pas une loi universelle des comparaisons ascendantes ou descendantes. Avant de révéler le résultat, faire prédire les deux variations.
+:::
+
+## Se souvenir de soi : reconstruire son passé
+
+**Les souvenirs autobiographiques** concernent les événements de notre propre vie.
+
+Le **rappel sélectif** peut rendre le récit du passé plus cohérent avec l’image actuelle de soi.
+
+« Maintenant que je me vois comme sociable, quelles rencontres me viennent d’abord en mémoire? »
+
+::: {.credit}
+D’après Vallerand (2021), p. 84–85 et glossaire, p. 447 — reformulation.
+:::
+
+
+::: {.notes}
+Exemple fictif, pas résultat expérimental. Un souvenir sélectionné n’est pas nécessairement faux; la sélection et la reconstruction peuvent néanmoins orienter le portrait que l’on se fait de soi. Cette fonction mnésique est reliée ici aux sources du soi; le manuel la traite dans les conséquences cognitives.
+:::
+
+## Culture et contexte : quelles facettes du soi?
+
+Le soi peut être défini davantage par :
+
+- ses caractéristiques et ses choix personnels (**indépendance**);
+- ses relations et ses obligations envers autrui (**interdépendance**).
+
+**Ces orientations varient entre personnes et selon les contextes.**
+
+Une nationalité ne permet pas de déduire le soi d’une personne.
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 77–79. Le chapitre traite aussi de stabilité et de changement : des croyances peuvent résister au retour reçu, mais des transitions et de nouvelles expériences peuvent les modifier. Relier aux 10 réponses initiales sans essentialiser les cultures.
+:::
+
+# Le soi comme processus et ses conséquences
+
+## Le soi comme processus : porter attention à soi
+
+**Conscience de soi** : état dans lequel l’attention se porte sur des aspects de soi-même.
+
+Le contenu devient alors un objet d’attention : une valeur, une émotion, une apparence, un comportement.
+
+**« Je suis patiente » est une représentation. « Je remarque mon impatience » est une activité d’attention à soi.**
+
+::: {.credit}
+D’après Vallerand (2021), p. 81–83 et glossaire, p. 439 — définition reformulée.
+:::
+
+
+::: {.notes}
+Distinguer cette définition opérationnelle de la conscience phénoménale (éprouver subjectivement quelque chose). Le témoin peut servir de métaphore contemplative, pas de preuve d’une entité séparée. La courte section du manuel sur le soi comme processus introduit ensuite ses conséquences; elle ne réduit pas toute la matière pertinente à deux pages.
+:::
+
+## Porter attention à soi : privé ou public?
+
+| **Conscience de soi privée** | **Conscience de soi publique** |
+|---|---|
+| Attention aux aspects de soi peu visibles pour autrui : pensées, émotions, valeurs | Attention aux aspects susceptibles d’être observés ou évalués par autrui |
+| « Suis-je en accord avec ce que je dis? » | « Quelle impression est-ce que je donne? » |
+
+**On peut éprouver les deux dans la même situation.**
+
+::: {.credit}
+D’après Vallerand (2021), p. 81–83 et glossaire, p. 439–440 — reformulation.
+:::
+
+
+::: {.notes}
+Privée ne signifie pas être seul. L’attention à soi peut être suscitée par la situation ou refléter des différences individuelles. Demander une situation où l’attention passe d’une valeur personnelle à l’image donnée.
+:::
+
+## Pause {#pause-2}
+
+**10 minutes**
+
+## « Je peux le faire » : l’autoefficacité
+
+**Une croyance dans sa capacité à réaliser une tâche précise.**
+
+« Je peux formuler une question claire » diffère de « Je suis une personne de valeur ».
+
+Quatre sources possibles :
+
+- expériences de réussite;
+- observation d’autres personnes;
+- persuasion verbale;
+- indices émotionnels et physiologiques.
+
+::: {.credit}
+D’après Vallerand (2021), p. 89; glossaire, p. 438 — reformulation.
+:::
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 89. Bandura tel que présenté dans le chapitre. Croyance spécifique, distincte d’une capacité objectivement mesurée et de l’estime de soi globale. Demander quel type d’expérience permettrait de mieux estimer sa capacité. Définition reformulée du glossaire p. 438 : croyance de pouvoir agir efficacement dans une tâche donnée.
+:::
+
+## L’autorégulation : tester, agir, tester, sortir
+
+**Modifier ses états internes ou ses comportements en fonction d’un but.**
+
+Exemple : vérifier sa compréhension d’une notion.
+
+1. **Tester** : puis-je l’expliquer sans mes notes?
+2. **Agir** : revoir le passage qui me pose problème.
+3. **Tester** : puis-je maintenant l’expliquer?
+4. **Sortir** si le but est atteint; sinon, ajuster l’action.
+
+::: {.credit}
+D’après Vallerand (2021), p. 93–94 et glossaire, p. 438 — reformulation.
+:::
+
+
+::: {.notes}
+La boucle TATS est un modèle de régulation. Exemple pédagogique général, pas une méthode personnelle attribuée à Rémi. Sortir signifie terminer la boucle. Le but peut également être révisé.
+:::
+
+## Se sentir mieux ou mieux réguler son action?
+
+**Baumeister : « Rethinking Self-Esteem »**
+
+Augmenter l’estime de soi ne garantit pas, à lui seul, une amélioration des comportements ou des compétences.
+
+D’où sa proposition : accorder davantage de place au **contrôle de soi**.
+
+**Cela ne signifie pas que l’estime de soi est sans bénéfices.**
+
+::: {.credit}
+Baumeister, « Rethinking Self-Esteem »; mise en perspective : Orth et Robins (2022).
+:::
+
+::: {.notes}
+Texte de vulgarisation et de positionnement fourni par Rémi, Stanford Social Innovation Review, p. 34–41; la couverture porte Winter 2005. Baumeister y défend le contrôle de soi et reconnaît certains bénéfices de l’estime, notamment bonheur et initiative. Ne pas confondre sa proposition d’intervention avec une démonstration que tout contrôle ou toute autocompassion surpasse toute estime pour tous les résultats. Actualisation : Orth et Robins (2022), https://doi.org/10.1037/amp0000922, synthèse d’études longitudinales rapportant des bénéfices prospectifs de l’estime dans plusieurs domaines; pas un essai randomisé d’intervention ni une preuve que toute hausse artificielle produit ces bénéfices. Distinguer corrélations, prédictions longitudinales et efficacité des interventions.
+:::
+
+## Le contrôle de soi
+
+**Réguler ses réponses lorsqu’une impulsion entre en conflit avec un but.**
+
+« Je veux terminer cette lecture, mais j’ai envie de consulter mon téléphone. »
+
+Éloigner le téléphone ou modifier ses notifications peut changer la difficulté de la situation.
+
+**Le contrôle de soi inclut les stratégies que l’on met en place.**
+
+::: {.notes}
+Vallerand (2021), p. 93–95; de Ridder et al. (2012), DOI 10.1177/1088868311418749. Définition de travail distincte de celle, plus large, de l’autorégulation. Exemple original, sans promesse d’efficacité universelle. L’étude de Mischel suit pour illustrer une manipulation expérimentale de l’attention.
+:::
+
+## Contrôle de soi : déplacer son attention
+
+**Mischel, Ebbesen et Zeiss (1972)** · Des enfants peuvent obtenir une récompense moins appréciée maintenant ou attendre pour une récompense préférée.
+
+::: {.fragment}
+| Attention centrée sur les récompenses | Distraction externe ou pensée agréable |
+|---|---|
+| Attente plus courte | Attente plus longue |
+:::
+
+**La stratégie utilisée fait partie du contrôle de soi.**
+
+::: {.notes}
+https://doi.org/10.1037/h0032198; texte primaire archivé : https://communities.pacificu.edu/wp-content/uploads/sites/1534/2023/05/Cognitive-and-Attentional-Mechanisms-in-Delay-of-Gratification.pdf. Synthèse qualitative des manipulations des expériences de 1972, pas de valeurs chiffrées reconstruites. La distraction n’est pas toujours utile : détourner son attention de la tentation diffère de se distraire de la tâche visée. Il ne s’agit pas ici des corrélations longitudinales entre attente et réussite ultérieure; aucun destin scolaire ne se déduit de ce test. Faire anticiper le résultat avant de révéler le tableau.
+:::
+
+## Soutenir une action choisie
+
+Trois besoins dans la théorie de l’autodétermination :
+
+- **Autonomie** : agir avec un sentiment de choix.
+- **Compétence** : se sentir capable de progresser.
+- **Appartenance sociale** : se sentir relié aux autres.
+
+**Dans un cours, qu’est-ce qui pourrait rendre la participation plus volontaire?**
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 90. Présentation introductive. Autonomie ne signifie pas agir seule; une activité peut être choisie pour sa valeur, même sans plaisir immédiat. Ne pas promettre qu’une seule action satisfait nécessairement les trois besoins.
+:::
+
+## La présentation de soi
+
+**Les conduites par lesquelles on influence l’image que les autres se font de nous.**
+
+**Stratégique :** orienter l’impression produite.
+
+Alex met en avant son expérience de bénévolat auprès d’une nouvelle équipe.
+
+**Authentique :** présenter aux autres des aspects réels de soi pour se faire connaître.
+
+Ces deux intentions peuvent coexister.
+
+::: {.credit}
+D’après Vallerand (2021), p. 100–104; glossaire, p. 446 — reformulation.
+:::
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 100–104. La présentation stratégique n’implique pas un mensonge; l’authenticité n’oblige pas à tout révéler. L’autosurveillance concerne l’ajustement de sa présentation aux indices sociaux : ne pas opposer moralement personnes fausses et honnêtes.
+:::
+
+## L’autocompassion face à une difficulté
+
+Se traiter avec compréhension et bienveillance lorsque l’on souffre ou rencontre une difficulté.
+
+- **Bienveillance envers soi** : répondre à sa difficulté avec compréhension.
+- **Humanité commune** : reconnaître que les difficultés font partie de la vie humaine.
+- **Pleine conscience** : reconnaître l’expérience sans s’y laisser entièrement absorber.
+
+Exemple : **« Cet exposé a été difficile. Je peux reconnaître ma déception et préparer la suite. »**
+
+::: {.notes}
+Modèle de Neff (2023), https://self-compassion.org/wp-content/uploads/2023/01/Neff-2023.pdf. L’autocompassion permet de reconnaître une erreur sans réduire la personne à cette erreur. Exemple original. Ne pas confondre compassion avec absence de responsabilité ou de standards.
+:::
+
+## Dignité, estime et capacité : trois plans distincts
+
+| Plan | Ce dont on parle |
+|---|---|
+| **Dignité humaine** | Le respect dû à chaque personne, indépendamment de ses réussites |
+| **Estime de soi** | Le jugement subjectif que l’on porte sur sa propre valeur |
+| **Autoefficacité** | La croyance en sa capacité de réussir une tâche donnée |
+
+**Échouer à une tâche ne diminue pas la dignité d’une personne.**
+
+::: {.notes}
+Distinction pédagogique proposée à partir du point de vue de Rémi. L’égale dignité est un principe éthique, pas une variable mesurée par une échelle d’estime. Dans la littérature anglophone, self-worth désigne souvent le sentiment subjectif de valeur et recoupe self-esteem : utiliser « dignité humaine » pour éviter de redéfinir silencieusement un terme standard. Autoefficacité et estime sont des construits distincts, mais cette distinction ne signifie pas qu’ils sont nécessairement statistiquement indépendants.
+:::
+
+## Estime, efficacité, contrôle et compassion pour soi
+
+| Notion | Question centrale |
+|---|---|
+| **Estime de soi** | Quelle valeur est-ce que je m’accorde? |
+| **Autoefficacité** | Est-ce que je me crois capable de réaliser cette tâche? |
+| **Contrôle de soi** | Comment réguler une impulsion qui s’oppose à mon but? |
+| **Autocompassion** | Comment me traiter lorsque je rencontre une difficulté? |
+
+**Se valoriser, se croire capable, se réguler et se traiter avec bienveillance sont distincts.**
+
+::: {.notes}
+Tableau de consolidation après les définitions, pas introduction simultanée de quatre notions. Terme du manuel : autoefficacité (Vallerand, p. 89 et glossaire p. 438). Contrôle de soi : composante de l’autorégulation, plus large; autocompassion : ouverture selon Neff (2023), https://doi.org/10.1146/annurev-psych-032420-031047. Ces quatre notions ne sont pas quatre composantes parallèles du soi comme contenu.
+:::
+
+## Distinguer les notions dans une situation
+
+Après un résultat décevant, une personne pense :
+
+1. « Ce résultat ne résume pas ma valeur. »
+2. « Je crois pouvoir mieux expliquer ce chapitre. »
+3. « Je vais m’organiser pour éviter les distractions. »
+4. « Je peux reconnaître ma difficulté sans me dénigrer. »
+
+**Associez chaque phrase à une notion et justifiez votre choix.**
+
+::: {.notes}
+Quatre minutes de consolidation, en binôme puis une mise en commun brève. Associations attendues : estime, autoefficacité, contrôle, autocompassion. Exemples illustratifs, aucune inférence sur un trait ou diagnostic à partir d’une seule phrase.
+:::
+
+## Ouverture : notre rapport aux descriptions de soi
+
+**« Je suis formidable » / « Je suis sans valeur »**
+
+Peut-on, dans les deux cas, s’attacher rigidement à un jugement sur soi?
+
+**« Je remarque que je porte un jugement sur moi. »**
+
+Une question contemplative, inspirée notamment du bouddhisme : que change cette prise de recul?
+
+::: {.notes}
+Ouverture philosophique, pas résultat établissant que le soi est illusoire ou que haute et faible estime ont les mêmes conséquences. Ryan et Brown (2003), https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2003_RyanBrown_CommentPI.pdf, proposent un dialogue entre soi comme objet et soi comme processus. Une identification rigide peut être interrogée sans invalider la valeur de la personne. Une minute de réflexion facultative; aucune révélation personnelle. Le contrôle de soi peut aussi servir à défendre une image de soi : ne pas le présenter comme automatiquement exempt d’identification. Les conceptions bouddhistes sont diverses; ne pas assimiler non-soi et Grand Soi.
+:::
+
+## Connectez-vous à Wooclap · Ronde 2
+
+{{< include _reconnexion.qmd >}}
+
+**Quatre questions pour relier connaissance de soi et action.**
+
+[Reprendre après la ronde : trois acquis](#synthese)
+
+## Ronde 2 · Confirmer son idée de soi
+
+Une personne se croit peu créative. Elle préfère un retour crédible qui confirme ce portrait à un retour tout aussi crédible qui souligne son originalité. Cela illustre surtout :
+
+A. L’autovérification<br>
+B. La recherche d’une image plus favorable<br>
+C. Une mesure objective de sa créativité
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+W03 — Réponse A. Vallerand (2021), p. 74–75. Nommer auparavant le contraste avec la recherche d’une image favorable. Confirmer une croyance ne garantit pas son exactitude. Inspiration pédagogique : question de départage des motifs dans le dossier West, week 2, diapo 60.
+:::
+
+## Ronde 2 · Changer de comparaison
+
+Une personne obtient le même résultat à deux exercices, mais se compare à des personnes différentes. Qu’est-ce qui peut changer?
+
+A. Le résultat déjà obtenu<br>
+B. L’interprétation qu’elle fait de ce résultat<br>
+C. Nécessairement sa personnalité
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+W04 — Réponse B. Le point de comparaison peut modifier l’interprétation sans modifier le résultat. « Peut » ne signifie pas que l’effet est automatique ou identique chez tout le monde. 30 secondes avant le vote.
+:::
+
+## Ronde 2 · Répondre à une difficulté
+
+Une personne reconnaît sa déception sans se dénigrer, puis reprend son travail malgré son envie de l’éviter. Quelles dimensions sont illustrées?
+
+A. Autocompassion et contrôle de soi<br>
+B. Narcissisme et comparaison sociale<br>
+C. Estime de soi élevée et compétence démontrée
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+W05 — Réponse A. L’attitude face à la difficulté et la régulation de l’action sont distinguées. L’exemple n’établit ni son niveau d’estime globale ni sa compétence. Vote individuel, puis demander quelle partie de l’énoncé correspond à chaque notion.
+:::
+
+## Ronde 2 · Ajuster son action
+
+Une personne révise un passage, puis vérifie si elle comprend mieux la notion. Cette dernière étape illustre :
+
+A. Le second test dans la boucle d’autorégulation<br>
+B. Une mesure de sa valeur personnelle<br>
+C. Une preuve que les autres l’apprécient
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Source : Vallerand (2021), chapitre 3, p. 93–94. W06 — Réponse A. Elle compare le résultat au but de compréhension. Si le but n’est pas atteint, elle peut ajuster sa démarche. Réflexion individuelle 30 secondes, vote, puis débreffage.
+:::
+
+## Trois acquis à emporter {#synthese}
+
+1. **Distinguer** concept de soi, schémas sur le soi et estime de soi.
+2. **Expliquer** comment les comportements, autrui, les souvenirs et la culture façonnent le soi.
+3. **Reconnaître** la conscience de soi, l’autorégulation et la présentation de soi dans une situation concrète.
+
+::: {.notes}
+Questions et retour sur un exemple; pas de billet de sortie obligatoire. Clarté, autoefficacité et autocompassion sont reliées à ces acquis sans remplacer les grandes catégories.
+:::
+
+## Quiz et examen — quoi préparer?
+
+**22 septembre — Quiz 2 (1,25 %) : chapitre 3 et cours 3.**
+
+Les **8 meilleurs quiz sur 10** comptent pour **10 %** de la note finale.
+
+**29 septembre — Examen 1 (25 %) : chapitres 1–4 et cours 1–4.**
+
+Certaines notions enseignées en cours **peuvent** être évaluées même si elles ne figurent pas dans le manuel. Cependant, en majorité, je m'en tiens au manuel et aux diapositives.
+
+Toute autre ressource ou lien externe n'est pas matière à examen.
+
+## Pour la prochaine séance
+
+**22 septembre · La cognition sociale**
+
+Lecture : **Vallerand, chapitre 4**
+
+Comment sélectionnons-nous et interprétons-nous l’information sociale?

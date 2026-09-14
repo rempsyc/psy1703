@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600" role="img" aria-labelledby="title desc">
+<title id="title">Une carte du soi de Rémi</title>
+<desc id="desc">Rémi au centre est relié à huit facettes : professeur, psychologue social, homme, Québécois, rappeur, breakdancer, skater et méditant. Des liens relient aussi professeur et psychologue social, skater et breakdancer, puis breakdancer et rappeur.</desc>
+<g stroke="#80a6ac" stroke-width="2" fill="none">
+<path d="M430 95 L500 65"/>
+<path d="M430 505 L500 535"/>
+<path d="M900 535 L970 505"/>
+</g>
+<g stroke="#007c83" stroke-width="3" fill="none">
+<path d="M700 300 L230 95"/>
+<path d="M700 300 L700 65"/>
+<path d="M700 300 L1170 95"/>
+<path d="M700 300 L1170 300"/>
+<path d="M700 300 L1170 505"/>
+<path d="M700 300 L700 535"/>
+<path d="M700 300 L230 505"/>
+<path d="M700 300 L230 300"/>
+</g><g font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#123b5d">
+<ellipse cx="230" cy="95" rx="200" ry="52" fill="#edf7f7" stroke="#007c83" stroke-width="3"/>
+<text x="230" y="106">Professeur</text>
+<ellipse cx="700" cy="65" rx="200" ry="52" fill="#edf7f7" stroke="#007c83" stroke-width="3"/>
+<text x="700" y="76">Psychologue social</text>
+<ellipse cx="1170" cy="95" rx="200" ry="52" fill="#edf7f7" stroke="#007c83" stroke-width="3"/>
+<text x="1170" y="106">Homme</text>
+<ellipse cx="1170" cy="300" rx="200" ry="52" fill="#edf7f7" stroke="#007c83" stroke-width="3"/>
+<text x="1170" y="311">Québécois</text>
+<ellipse cx="1170" cy="505" rx="200" ry="52" fill="#edf7f7" stroke="#007c83" stroke-width="3"/>
+<text x="1170" y="516">Rappeur</text>
+<ellipse cx="700" cy="535" rx="200" ry="52" fill="#edf7f7" stroke="#007c83" stroke-width="3"/>
+<text x="700" y="546">Breakdancer</text>
+<ellipse cx="230" cy="505" rx="200" ry="52" fill="#edf7f7" stroke="#007c83" stroke-width="3"/>
+<text x="230" y="516">Skater</text>
+<ellipse cx="230" cy="300" rx="200" ry="52" fill="#edf7f7" stroke="#007c83" stroke-width="3"/>
+<text x="230" y="311">Méditant</text>
+<ellipse cx="700" cy="300" rx="135" ry="85" fill="#123b5d"/>
+<text x="700" y="317" fill="white" font-size="52" font-weight="bold">Rémi</text>
+</g></svg>
