@@ -90,7 +90,7 @@ Méthode personnelle de Rémi, formulée à partir de son témoignage. « Mappin
 6. **MÉMORISEZ ce qu'il reste**
 
 ::: {.notes}
-Traduction adaptée des étapes SPEED read, IMPORTANT et AUTONOMOUS. Interprétation de « autonomous » à partir de la précision donnée par Rémi : logique ou facilement accessible, plutôt que travail autonome. La rapidité sert ici à saisir l’essentiel; revenir aux passages nécessaires à la compréhension. Ces conseils ne changent pas le périmètre annoncé des évaluations. Étapes personnelles SIMPLIFY, CLOSE THE BUCKLE et MEMORIZE, traduites sans ajouter de méthode que Rémi n’a pas indiquée. « Simplifier » vise une représentation concise qui conserve les distinctions importantes, pas la suppression des nuances nécessaires. Éventuellement illustrer oralement avec un exemple de sa propre pratique.
+Traduction adaptée des étapes SPEED read, IMPORTANT et AUTONOMOUS. Interprétation de « autonomous » : logique ou facilement accessible, plutôt que travail autonome. La rapidité sert ici à saisir l’essentiel; revenir aux passages nécessaires à la compréhension. Ces conseils ne changent pas le périmètre annoncé des évaluations. Étapes personnelles SIMPLIFY, CLOSE THE BUCKLE et MEMORIZE. « Simplifier » vise une représentation concise qui conserve les distinctions importantes, pas la suppression des nuances nécessaires. Éventuellement illustrer oralement avec un exemple de sa propre pratique.
 :::
 
 ## Enregistrer les diapositives en PDF
@@ -126,7 +126,7 @@ Organisation pédagogique fondée sur Vallerand (2021), p. 63 : contenu, déterm
 :::
 
 ::: {.notes}
-Vidéo proposée par Rémi. Lecture manuelle; arrêter la vidéo avant de quitter la diapo. La vidéo n’est pas jouable dans une copie PDF. Repérer avec le groupe ce qui est vu, ressenti et inféré. La vidéo illustre le protocole : les réactions montrées ne sont pas une comparaison contrôlée de résultats. Prévoir environ trois minutes de vidéo comme amorce, sans prédiction ni analyse des résultats de Thériault et al. (2022). Référence de la recherche : https://doi.org/10.1177/17470218221078858. Ne pas présenter cette capsule comme un gros plan expérimental.
+Lecture manuelle; arrêter la vidéo avant de quitter la diapo. La vidéo n’est pas jouable dans une copie PDF. Repérer avec le groupe ce qui est vu, ressenti et inféré. La vidéo illustre le protocole : les réactions montrées ne sont pas une comparaison contrôlée de résultats. Référence de la recherche : https://doi.org/10.1177/17470218221078858.
 :::
 
 ## Soi corporel vs soi conceptuel
@@ -169,7 +169,7 @@ Définition de Campbell et al. (1996), reprise dans Krol, Thériault, Olson, Raz
 Dans les deux études, on mesure la **clarté du concept de soi** et le **sentiment d’appropriation corporelle**.
 
 ::: {.notes}
-Source : https://doi.org/10.1177/0146167219879126. Étude 1 : N = 80, lien avec la clarté dans la condition asynchrone, pas de lien détecté dans la condition synchrone. La figure fournie par Rémi est la figure 3 et concerne l’étude 2 : ne pas l’attribuer à la main en caoutchouc. Les mouvements sont coordonnés mais imparfaitement synchrones en pratique. Le volet préjugés et la vidéo body swap restent réservés à une autre séance.
+Source : https://doi.org/10.1177/0146167219879126. Étude 1 : N = 80, lien avec la clarté dans la condition asynchrone, pas de lien détecté dans la condition synchrone. La figure fournie est la figure 3 et concerne l’étude 2 : ne pas l’attribuer à la main en caoutchouc. Les mouvements sont coordonnés mais imparfaitement synchrones en pratique. Le volet préjugés et la vidéo body swap restent réservés à une autre séance.
 :::
 
 ## Clarté du soi et appropriation corporelle {#krol-resultats}
@@ -242,7 +242,7 @@ Sur une feuille (ou votre ordinateur, votre téléphone), écrivez **10 réponse
 **Gardez votre liste : nous y reviendrons.** Vous choisissez ce que vous partagez.
 
 ::: {.notes}
-Quatre minutes d’écriture individuelle. Version abrégée à 10 réponses, selon le choix de Rémi, inspirée des 20 énoncés présentés par Vallerand (2021), p. 64. Aucune collecte, aucun score de personnalité; ne pas faire de la complétion une performance. Autoriser à passer un élément ou à travailler sur un personnage fictif. Le partage éventuel sera volontaire. Prévoir papier ou notes personnelles.
+Quatre minutes d’écriture individuelle. Version abrégée à 10 réponses, inspirée des 20 énoncés présentés par Vallerand (2021), p. 64. Aucune collecte, aucun score de personnalité; ne pas faire de la complétion une performance. Autoriser à passer un élément ou à travailler sur un personnage fictif. Le partage éventuel sera volontaire. Prévoir papier ou notes personnelles.
 :::
 
 ## Les schémas sur le soi
@@ -271,7 +271,7 @@ Un schéma n’est pas un simple adjectif ni un synonyme de personnalité. Repre
 **Ces éléments du soi sont-ils reliés entre eux?**
 
 ::: {.notes}
-Première étape : laisser proposer quelques associations avant d’avancer. Carte originale à partir des facettes communiquées par Rémi, inspirée des exemples fournis dont celui de Jennifer Bartz. Relier à Vallerand (2021), p. 63–64, 72 et 77–79.
+Première étape : laisser proposer quelques associations avant d’avancer. Carte originale inspirée des exemples fournis dont celui de Jennifer Bartz. Relier à Vallerand (2021), p. 63–64, 72 et 77–79.
 :::
 
 ## Des facettes reliées entre elles {#soi-liens}
