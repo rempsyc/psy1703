@@ -290,20 +290,17 @@ Texte primaire : https://web.stanford.edu/~hazelm/cgi-bin/wordpress/wp-content/u
 
 ## Quand l’information correspond à notre schéma
 
-| Schéma préalable | Réponses « moi » plus rapides pour… |
-|---|---|
-| Indépendance | Les adjectifs d’indépendance |
-| Dépendance | Les adjectifs de dépendance |
+![](assets/markus1977-latences.svg){width="1250" fig-alt="Reconstitution du profil de latence de Markus 1977. Les participantes ayant un schéma de dépendance répondent plus lentement aux adjectifs d’indépendance; celles ayant un schéma d’indépendance y répondent plus rapidement; le profil aschématique varie peu."}
 
-**Une même tâche révèle des façons différentes de traiter l’information sur soi.**
+**Un adjectif correspondant au schéma est traité plus rapidement.**
 
 ::: {.credit}
-Markus (1977), étude 1. Résultats qualitatifs; aucune valeur simulée.
+Markus (1977), étude 1, figure 1. Reconstitution graphique; valeurs approximativement relevées de la figure originale.
 :::
 
 
 ::: {.notes}
-Comparer la prédiction au résultat. Le groupe aschématique ne présente pas cette différenciation de vitesse. L’étude comprend aussi des tâches de production d’exemples comportementaux et de prévision de comportements. DOI 10.1037/0022-3514.35.2.63.
+Comparer la prédiction au résultat. Le graphique redessine le panneau des jugements « moi » de la figure 1; les valeurs ont été relevées approximativement et servent à montrer le profil, pas à refaire les analyses. Le groupe aschématique ne présente pas cette différenciation de vitesse. L’étude comprend aussi des tâches de production d’exemples comportementaux et de prévision de comportements. DOI 10.1037/0022-3514.35.2.63.
 :::
 
 ## Quand le « nous » entre dans le soi
@@ -387,13 +384,19 @@ Deux expériences distinguent mesures d’estime et de narcissisme, puis réacti
 
 ## Retour à vos 10 réponses
 
-Repérez, sans les partager si vous préférez :
+1. **Reliez deux ou trois éléments** qui se renforcent, se recoupent ou deviennent saillants ensemble.
+
+2. Ensuite, repérez, sans les partager si vous préférez :
 
 - une caractéristique, un rôle ou une appartenance;
 - une description de vous-même;
 - une éventuelle évaluation de vous-même.
 
-**Une même phrase peut contenir plusieurs éléments.**
+**Que révèle la forme de votre réseau, au-delà de chaque réponse prise séparément?**
+
+::: {.notes}
+Accorder deux ou trois minutes. Les traits représentent des associations subjectives, pas nécessairement des relations permanentes. Proposer quelques critères : mêmes activités, mêmes valeurs, mêmes personnes ou mêmes contextes. Demander ensuite si une facette semble particulièrement centrale ou si certaines forment un petit ensemble. Aucun partage obligatoire.
+:::
 
 ## Connectez-vous à Wooclap {#connexion-ronde-1}
 
