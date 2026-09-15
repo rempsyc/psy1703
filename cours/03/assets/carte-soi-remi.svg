@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600" role="img" aria-labelledby="title desc">
 <title id="title">Une carte du soi de Rémi</title>
 <desc id="desc">Rémi au centre est relié à huit facettes : professeur, psychologue social, homme, Québécois, rappeur, breakdancer, skater et méditant. Des liens relient aussi professeur et psychologue social, skater et breakdancer, puis breakdancer et rappeur.</desc>
-<g stroke="#80a6ac" stroke-width="2" fill="none">
+<g stroke="#d66a1f" stroke-width="6" fill="none">
 <path d="M430 95 L500 65"/>
 <path d="M430 505 L500 535"/>
 <path d="M900 535 L970 505"/>
