@@ -434,6 +434,8 @@ W02 — Réponse B. Distinguer l’évaluation exprimée, sa généralisation à
 
 ## Pause 1 — 10 minutes {#pause-1}
 
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
+
 {{< include _reconnexion.qmd >}}
 
 # Le soi comme processus et ses conséquences
@@ -703,6 +705,8 @@ Source : Vallerand (2021), chapitre 3, p. 93–94. W06 — Réponse A. Elle comp
 :::
 
 ## Pause 2 — 10 minutes {#pause-2}
+
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
 
 {{< include _reconnexion.qmd >}}
 
