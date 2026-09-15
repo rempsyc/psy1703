@@ -1,3 +1,15 @@
-::: {.credit}
-**Wooclap · connexion à compléter** — code et QR du cours 3 à insérer ici après vérification de l’événement.
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou rendez-vous sur [wooclap.com](https://app.wooclap.com/NFMQCOD).
+
+**Code : NFMQCOD**
+
+Connectez-vous avec votre **identifiant UQAR**.
+
+Gardez l’onglet ouvert : les questions apparaîtront dans Wooclap au fil de l’activité.
+:::
+
+::: {.column width="42%"}
+[![](assets/wooclap-qr.png){fig-alt="QR de connexion à l’événement Wooclap NFMQCOD" width="480"}](https://app.wooclap.com/NFMQCOD)
+:::
 :::

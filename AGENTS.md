@@ -32,3 +32,7 @@
 - Diapositives : accompagner les annonces et rappels d’évaluations de leur pondération. Plan actuel : quiz retenu 1,25 % (8 meilleurs sur 10, total 10 %), examens 1/2/3 : 25 %/30 %/35 %. Vérifier le plan officiel lors de sa modification ou de la réutilisation du dépôt. Distinguer le quiz test non noté.
 
 - Préférence rédactionnelle explicite de Rémi : éviter les mises en garde génériques et répétitives qui alourdissent les diapositives et les échanges, notamment « cette association ne suffit pas à établir une causalité » ou « association ≠ causalité ». Formuler directement les résultats avec les verbes appropriés (par exemple « est associé à »). Ne développer une limite méthodologique que lorsqu’elle est précise et utile à la compréhension du résultat, sans ajouter systématiquement un avertissement.
+
+- Terminologie du soi corporel : employer « sentiment de propriété de corps » pour traduire *feeling of body ownership*. Éviter « appropriation corporelle », qui évoque inutilement l’appropriation culturelle.
+
+- Réutiliser autant que possible les structures des séances précédentes, en particulier celles du cours 2, pour les connexions Wooclap, pauses, quiz et annonces d’examen. Adapter seulement le contenu propre à la séance et préserver les modifications de Rémi. Pour le cours 3, le QR fourni correspond à NFMQCOD et sert au quiz comme aux activités d’engagement; même bloc de connexion sur le quiz, les deux rondes et les pauses, sans répéter le QR sur chaque question archivée.
