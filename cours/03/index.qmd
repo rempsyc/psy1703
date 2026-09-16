@@ -6,8 +6,8 @@ subtitle: "Le soi en contexte social"
 **Mardi 15 septembre 2026**<br>
 **Lecture associée :** Vallerand, chapitre 3
 
-::: {.callout-warning title="État de la version"}
-Diapositives publiées, mais la version reste **en préparation** jusqu’à ce que la version finale soit disponible.
+::: {.callout-note title="Version finale"}
+**Diapositives finales de la séance du 15 septembre 2026.** Des corrections ponctuelles peuvent encore être apportées.
 :::
 
 [Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
