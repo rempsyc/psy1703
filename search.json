@@ -11,6 +11,54 @@
     ]
   },
   {
+    "objectID": "cours/04/index.html",
+    "href": "cours/04/index.html",
+    "title": "Cours 4 — La cognition sociale",
+    "section": "",
+    "text": "Mardi 22 septembre 2026 Lecture associée : Vallerand, chapitre 4\nOuvrir les diapositives",
+    "crumbs": [
+      "Accueil",
+      "Séances",
+      "4 · Les cognitions sociales"
+    ]
+  },
+  {
+    "objectID": "cours/04/index.html#à-retenir",
+    "href": "cours/04/index.html#à-retenir",
+    "title": "Cours 4 — La cognition sociale",
+    "section": "À retenir",
+    "text": "À retenir\nÀ la fin de cette séance, vous devriez pouvoir :\n\nexpliquer comment les schémas, la cible, le percevant et le contexte orientent une perception sociale;\ndistinguer catégorisation, recatégorisation et traitement individualisé sur le continuum de formation d’impression;\nrepérer une heuristique ou une attente confirmatoire et proposer une stratégie de vérification adaptée.",
+    "crumbs": [
+      "Accueil",
+      "Séances",
+      "4 · Les cognitions sociales"
+    ]
+  },
+  {
+    "objectID": "cours/04/index.html#pour-participer",
+    "href": "cours/04/index.html#pour-participer",
+    "title": "Cours 4 — La cognition sociale",
+    "section": "Pour participer",
+    "text": "Pour participer\nApportez un téléphone, une tablette ou un ordinateur bien chargé pour participer aux activités Wooclap et compléter les quiz évalués obligatoires. L’accès sera affiché en classe.\nVous travaillerez en équipe de trois ou quatre à partir d’un même cas ambigu.",
+    "crumbs": [
+      "Accueil",
+      "Séances",
+      "4 · Les cognitions sociales"
+    ]
+  },
+  {
+    "objectID": "cours/04/index.html#après-le-cours",
+    "href": "cours/04/index.html#après-le-cours",
+    "title": "Cours 4 — La cognition sociale",
+    "section": "Après le cours",
+    "text": "Après le cours\nPour le 29 septembre, préparez-vous à l’examen 1 (25 %), qui porte sur les chapitres 1–4 et les cours 1–4.",
+    "crumbs": [
+      "Accueil",
+      "Séances",
+      "4 · Les cognitions sociales"
+    ]
+  },
+  {
     "objectID": "cours/03/index.html",
     "href": "cours/03/index.html",
     "title": "Cours 3 — Le soi",
@@ -1188,6 +1236,454 @@
     "text": "Pour la prochaine séance\n22 septembre · La cognition sociale\nLecture : Vallerand, chapitre 4\nComment sélectionnons-nous et interprétons-nous l’information sociale?"
   },
   {
+    "objectID": "cours/04/diapositives.html#quiz-de-lecture-2-125",
+    "href": "cours/04/diapositives.html#quiz-de-lecture-2-125",
+    "title": "Psychologie sociale",
+    "section": "Quiz de lecture 2 — 1,25 %",
+    "text": "Quiz de lecture 2 — 1,25 %\nChapitre 3 et cours 3 · Travail individuel\n\n\nRendez-vous sur wooclap.com.\nLe code de l’événement du cours 4 sera affiché en classe.\nConnectez-vous avec votre identifiant UQAR et gardez l’onglet ouvert.\n\nÉvénement à finaliser\nLe code et le QR seront ajoutés lors de la préparation du quiz et de son fichier d’import.\n\n\nRéserver dix minutes au début de la séance. Les questions évaluées et leur corrigé ne figurent pas dans cette première version : ils seront préparés dans la dernière étape, avec l’événement Wooclap et le fichier d’import. Vérifier la connexion UQAR avant le début."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#quiz-et-examen-quoi-préparer",
+    "href": "cours/04/diapositives.html#quiz-et-examen-quoi-préparer",
+    "title": "Psychologie sociale",
+    "section": "Quiz et examen — quoi préparer?",
+    "text": "Quiz et examen — quoi préparer?\n6 octobre — Quiz 4 (1,25 %) : chapitre 4 et cours 4.\nLes 8 meilleurs quiz sur 10 comptent pour 10 % de la note finale.\n29 septembre — Examen 1 (25 %) : chapitres 1–4 et cours 1–4.\n\n50 % des questions viendront du matériel du cours vu en classe\n50 % des questions viendront du matériel du manuel (même si la matière n’a PAS été vue en classe)\n\nCertaines notions enseignées en cours peuvent être évaluées même si elles ne figurent pas sur les diapositives et qu’il s’agisse de quelque chose dont nous avons simplement discuté. Cependant, en majorité, je m’en tiens au manuel et aux diapositives. Toute autre ressource ou lien externe n’est pas matière à examen."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#trois-acquis-visés",
+    "href": "cours/04/diapositives.html#trois-acquis-visés",
+    "title": "Psychologie sociale",
+    "section": "Trois acquis visés",
+    "text": "Trois acquis visés\n\nExpliquer comment les schémas, la cible, le percevant et le contexte orientent une perception.\nSituer une impression sur un continuum allant de la catégorisation au traitement individualisé.\nRepérer une heuristique ou une attente confirmatoire et choisir une stratégie de vérification.\n\n\nPrésenter le fil conducteur : sélectionner, organiser, juger et interagir. Objectifs alignés sur Vallerand (2021), chapitre 4, p. 106 et 110–136."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#un-même-événement-plusieurs-lectures",
+    "href": "cours/04/diapositives.html#un-même-événement-plusieurs-lectures",
+    "title": "Psychologie sociale",
+    "section": "Un même événement, plusieurs lectures",
+    "text": "Un même événement, plusieurs lectures\nVous écrivez à une collègue : « Peux-tu m’envoyer ta partie aujourd’hui? »\nElle répond deux heures plus tard : « D’accord. »\nQue s’est-il passé?\n\n\nElle est contrariée.\nElle est pressée.\nElle répond simplement à la demande.\n\n\n\nFaire produire silencieusement une première interprétation, puis recueillir trois possibilités. Le comportement observé est maigre; l’interprétation mobilise attentes, contexte et buts. Ce cas reviendra dans l’atelier."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#la-cognition-sociale",
+    "href": "cours/04/diapositives.html#la-cognition-sociale",
+    "title": "Psychologie sociale",
+    "section": "La cognition sociale",
+    "text": "La cognition sociale\nÉtudier les structures et les processus qui nous permettent de percevoir les personnes et de penser à elles.\nTrois opérations pour la séance :\n\nSélectionner ce qui reçoit notre attention\nOrganiser l’information avec des schémas\nJuger avec des informations limitées\nInteragir avec une cible qui réagit à son tour\n\n\nSource : Vallerand (2021), chapitre 4, p. 108–111 et 131–135. Le traitement de l’information sociale est dynamique : cible, percevant et contexte s’influencent. Faire le lien avec le cours 3 : les schémas sur le soi constituent une famille de schémas."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#un-système-dynamique",
+    "href": "cours/04/diapositives.html#un-système-dynamique",
+    "title": "Psychologie sociale",
+    "section": "Un système dynamique",
+    "text": "Un système dynamique\n\n\n\n\n\n\n\n\nPercevant\nContexte\nCible\n\n\n\n\nMotivation, humeur, distance psychologique\nSaillance, amorçage, charge cognitive\nComportement, apparence, culture\n\n\n\nCes éléments influencent les schémas activés, le rappel, le jugement et la profondeur du traitement.\nLa cible peut ensuite réagir au comportement du percevant.\n\nSynthèse originale de la figure 4.1 du manuel, p. 110, sans la reproduire. Le modèle regroupe structure des connaissances, caractéristiques du percevant, de la cible et du contexte, puis dynamique du traitement. Annoncer que chaque composante sera reprise dans la séance."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#lattention-est-sélective",
+    "href": "cours/04/diapositives.html#lattention-est-sélective",
+    "title": "Psychologie sociale",
+    "section": "L’attention est sélective",
+    "text": "L’attention est sélective\nNous ne traitons pas avec la même profondeur tout ce qui est disponible.\nAttirent notamment l’attention :\n\nce qui est saillant ou inattendu;\nce qui correspond à notre but actuel;\nce qui semble menaçant ou pertinent pour nous.\n\nCe qui attire l’attention devient souvent surreprésenté dans notre interprétation.\n\nExemple oral : dans une réunion, une intervention très vive peut dominer le souvenir même si elle est brève. Saillance signifie qu’un élément ressort dans un contexte; elle ne signifie pas automatiquement importance objective."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#un-changement-sous-nos-yeux",
+    "href": "cours/04/diapositives.html#un-changement-sous-nos-yeux",
+    "title": "Psychologie sociale",
+    "section": "Un changement sous nos yeux",
+    "text": "Un changement sous nos yeux\n\n\n\n\n\n\n\n\n1\n2\n3\n\n\n\n\nUne personne demande son chemin\nUne porte bloque brièvement la vue\nUne autre personne poursuit la conversation\n\n\n\nQue manque le passant pendant cette conversation?\n\n\n\n\nSimons et Levin (1998) · Vidéo publiée par Daniel Simons\n\n\nInspiré de l’usage de la cécité au changement dans le cours de Caroline Blais. Faire regarder sans annoncer le remplacement. Dans l’étude originale, un expérimentateur demandait son chemin à un passant; deux personnes transportant une porte interrompaient brièvement la vue et un autre expérimentateur prenait sa place. Environ la moitié des passants ont détecté le changement. La démonstration montre qu’un changement important peut échapper à l’attention dans une interaction réelle. Source primaire : Simons et Levin (1998), https://doi.org/10.3758/BF03208840. Arrêter la vidéo avant de quitter la diapositive."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#traitement-ascendant-et-descendant",
+    "href": "cours/04/diapositives.html#traitement-ascendant-et-descendant",
+    "title": "Psychologie sociale",
+    "section": "Traitement ascendant et descendant",
+    "text": "Traitement ascendant et descendant\n\n\n\n\n\n\n\nSource du traitement\nQuestion\n\n\n\n\nAscendant\nQuels indices la situation fournit-elle?\n\n\nDescendant\nQuels schémas, buts et souvenirs organisent ces indices?\n\n\n\nL’impression résulte de leur rencontre, puis dépend de ce qui sera encodé et récupéré.\n\nDistinction mise en valeur dans le cours de Caroline Blais et compatible avec Vallerand (2021), p. 108–115. Utiliser le message « D’accord. » : le texte et la ponctuation fournissent les indices ascendants; les attentes et les souvenirs contribuent au traitement descendant. Les deux sources interagissent."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#les-schémas-organisent-lexpérience",
+    "href": "cours/04/diapositives.html#les-schémas-organisent-lexpérience",
+    "title": "Psychologie sociale",
+    "section": "Les schémas organisent l’expérience",
+    "text": "Les schémas organisent l’expérience\nUn schéma est une structure de connaissances qui organise ce que nous savons d’un objet, d’une personne, d’un rôle ou d’une situation.\nIl aide à :\n\norienter l’attention;\ncombler des éléments manquants;\ninterpréter rapidement;\nguider la mémoire et l’action.\n\n\nSource : Vallerand (2021), p. 111–114. Rappel du cours 3, élargi au traitement social. Les schémas poursuivent un objectif d’économie mentale lorsque l’information est abondante et l’attention limitée."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#quatre-familles-de-schémas",
+    "href": "cours/04/diapositives.html#quatre-familles-de-schémas",
+    "title": "Psychologie sociale",
+    "section": "Quatre familles de schémas",
+    "text": "Quatre familles de schémas\n\n\n\n\n\n\n\n\nFamille\nCe qu’elle organise\nExemple\n\n\n\n\nSoi\nConnaissances sur soi\n« Je suis méthodique »\n\n\nPersonnes\nTraits associés à une personne ou un prototype\nUne personne chaleureuse\n\n\nRôles ou groupes sociaux\nAttentes liées à une position ou une catégorie\nLe rôle de porte-parole\n\n\nÉvénements\nSéquence habituelle d’une situation\nLe scénario d’un restaurant\n\n\n\n\nSource : Vallerand (2021), p. 111–114. Les schémas sur les groupes sociaux peuvent prendre la forme de stéréotypes comprenant des dimensions cognitives, affectives et comportementales. Garder ce point bref : les préjugés seront approfondis au cours 13. Un prototype est une représentation abstraite des caractéristiques typiques d’une catégorie, pas une description de chaque membre."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#une-même-personne-différents-schémas-activés",
+    "href": "cours/04/diapositives.html#une-même-personne-différents-schémas-activés",
+    "title": "Psychologie sociale",
+    "section": "Une même personne, différents schémas activés",
+    "text": "Une même personne, différents schémas activés\nAlex coupe la parole pendant une discussion.\nSelon le contexte, ce comportement peut être lu comme :\n\n\n\nContexte activé\nInterprétation possible\n\n\n\n\nUrgence\nAlex veut éviter une erreur\n\n\nDébat compétitif\nAlex veut dominer l’échange\n\n\nCollaboration familière\nAlex manifeste son enthousiasme\n\n\n\nLe comportement ne change pas; le cadre d’interprétation change.\n\nExemple original. Faire nommer les indices qui permettraient de choisir entre les lectures plutôt que de décider immédiatement laquelle est vraie."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#accessibilité-ce-qui-vient-facilement-à-lesprit",
+    "href": "cours/04/diapositives.html#accessibilité-ce-qui-vient-facilement-à-lesprit",
+    "title": "Psychologie sociale",
+    "section": "Accessibilité : ce qui vient facilement à l’esprit",
+    "text": "Accessibilité : ce qui vient facilement à l’esprit\nUn concept accessible a davantage de chances d’être utilisé pour interpréter une information ambiguë.\nL’accessibilité peut venir :\n\nd’une activation très récente;\nd’un usage fréquent;\nd’un but ou d’une préoccupation du moment.\n\n\nSource : Vallerand (2021), p. 114–115. Exemple : après avoir discuté de compétition, une interruption peut être plus facilement interprétée comme dominatrice. Distinguer accessibilité momentanée et disponibilité chronique."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#amorçage-une-idée-rendue-momentanément-accessible",
+    "href": "cours/04/diapositives.html#amorçage-une-idée-rendue-momentanément-accessible",
+    "title": "Psychologie sociale",
+    "section": "Amorçage : une idée rendue momentanément accessible",
+    "text": "Amorçage : une idée rendue momentanément accessible\nUne exposition préalable peut faciliter l’utilisation ultérieure d’un concept, parfois sans que ce lien soit le but conscient de la personne.\nExemple pédagogique : lire plusieurs mots liés à l’entraide pourrait rendre une interprétation coopérative plus accessible.\n\nSource : Vallerand (2021), p. 110, 114 et 127. Exemple hypothétique, pas résultat d’une étude présentée. L’amorçage dépend des procédures et du contexte; éviter les affirmations spectaculaires sur des comportements complexes."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#quel-schéma-devient-actif",
+    "href": "cours/04/diapositives.html#quel-schéma-devient-actif",
+    "title": "Psychologie sociale",
+    "section": "Quel schéma devient actif?",
+    "text": "Quel schéma devient actif?\n\n\n\nSource\nExemple d’influence\n\n\n\n\nCible\nComportement, apparence, familiarité\n\n\nPercevant\nMotivation, humeur, distance psychologique\n\n\nContexte\nSaillance, intensité, charge cognitive, amorçage\n\n\n\nLe même comportement peut donc activer des schémas différents.\n\nSource : Vallerand (2021), p. 115–123. La cible contribue par ses actions et son apparence; le percevant par ses buts, son humeur et la distance psychologique; le contexte par ce qui rend certains indices saillants ou accessibles. Les caractéristiques associées à des catégories sociales peuvent aussi déclencher des attentes stéréotypées."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#distance-psychologique",
+    "href": "cours/04/diapositives.html#distance-psychologique",
+    "title": "Psychologie sociale",
+    "section": "Distance psychologique",
+    "text": "Distance psychologique\nUn événement perçu comme lointain tend à être représenté de façon plus abstraite.\nUn événement perçu comme proche tend à être représenté avec davantage de détails concrets.\nPréparer un voyage l’an prochain : « découvrir une région »\nPréparer le départ demain : horaire, bagages et trajet\n\nSource : Vallerand (2021), p. 118–119, théorie des niveaux de construit de Trope et Liberman. La distance peut être temporelle, spatiale, sociale ou liée à la probabilité. L’exemple du voyage adapte celui du manuel."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#culture-et-attention-au-contexte",
+    "href": "cours/04/diapositives.html#culture-et-attention-au-contexte",
+    "title": "Psychologie sociale",
+    "section": "Culture et attention au contexte",
+    "text": "Culture et attention au contexte\nCertaines traditions culturelles favorisent davantage :\n\nune perception analytique, centrée sur l’objet focal;\nune perception holistique, attentive aux relations et au contexte.\n\nCes tendances moyennes ne permettent pas de déduire la perception d’une personne.\n\nSource : Vallerand (2021), p. 122–123, synthèse de travaux associés notamment à Nisbett. Le manuel oppose des tendances observées dans plusieurs échantillons nord-américains et est-asiatiques. Éviter d’en faire deux catégories fixes ou d’attribuer un style à une personne d’après son origine."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#connexion-ronde-1",
+    "href": "cours/04/diapositives.html#connexion-ronde-1",
+    "title": "Psychologie sociale",
+    "section": "Connectez-vous à Wooclap",
+    "text": "Connectez-vous à Wooclap\n\n\nRendez-vous sur wooclap.com.\nLe code de l’événement du cours 4 sera affiché en classe.\nConnectez-vous avec votre identifiant UQAR et gardez l’onglet ouvert.\n\nÉvénement à finaliser\nLe code et le QR seront ajoutés lors de la préparation du quiz et de son fichier d’import.\n\nRonde 1 · Consolidation de la partie 1\nPasser à la pause\n\nEmplacement réservé. Les questions, réponses et le débreffage seront construits seulement à l’étape finale avec le quiz Wooclap. Le lien permet de reprendre sans parcourir ultérieurement les diapositives archivées de questions."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#ronde-1-questions-dans-wooclap",
+    "href": "cours/04/diapositives.html#ronde-1-questions-dans-wooclap",
+    "title": "Psychologie sociale",
+    "section": "Ronde 1 — questions dans Wooclap",
+    "text": "Ronde 1 — questions dans Wooclap\nSélectionner · Organiser · Vérifier\nLes questions seront affichées dans Wooclap.\n\nNe pas transformer cette diapositive en banque provisoire. Prévoir éventuellement trois questions : attention/saillance, schéma/accessibilité et information qui pourrait contredire une interprétation. À finaliser seulement à l’étape 4."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#pause-1",
+    "href": "cours/04/diapositives.html#pause-1",
+    "title": "Psychologie sociale",
+    "section": "Pause 1 — 10 minutes",
+    "text": "Pause 1 — 10 minutes\nEnvoyez vos suggestions de chansons ou photos de votre animal de compagnie directement sur Wooclap.\n\n\nRendez-vous sur wooclap.com.\nLe code de l’événement du cours 4 sera affiché en classe.\nConnectez-vous avec votre identifiant UQAR et gardez l’onglet ouvert.\n\nÉvénement à finaliser\nLe code et le QR seront ajoutés lors de la préparation du quiz et de son fichier d’import.\n\n\nL’activité ouverte de pause sera ajoutée au fichier d’import à l’étape 4. Prévoir réponses multiples, mentions J’aime, images autorisées, compte à rebours de dix minutes et affichage en liste ou en grille; modération désactivée."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#atelier",
+    "href": "cours/04/diapositives.html#atelier",
+    "title": "Psychologie sociale",
+    "section": "Atelier — l’énigme du « D’accord. »",
+    "text": "Atelier — l’énigme du « D’accord. »\nVotre collègue répond « D’accord. » deux heures après votre demande.\nEn équipe de 3 ou 4, produisez :\n\ntrois interprétations plausibles;\npour chacune, l’indice qui vous y conduit;\nune question ou observation qui permettrait de mieux les départager.\n\nUne personne porte-parole présentera votre meilleur test.\n\nAtelier principal de 22 minutes : 2 minutes de consigne et formation; 9 minutes de production; 7 minutes de partage; 4 minutes de débreffage. Faire varier la composition des équipes tout en respectant les accommodements de proximité. La production attendue est un petit tableau hypothèse–indice–test. Le but n’est pas de trouver la « vraie » humeur de la collègue, mais d’apprendre à générer et discriminer des interprétations."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#atelier-un-canevas-pour-raisonner",
+    "href": "cours/04/diapositives.html#atelier-un-canevas-pour-raisonner",
+    "title": "Psychologie sociale",
+    "section": "Atelier — un canevas pour raisonner",
+    "text": "Atelier — un canevas pour raisonner\n\n\n\n\n\n\n\n\nInterprétation\nIndice utilisé\nCe qui la distinguerait des autres\n\n\n\n\nElle est contrariée\nRéponse brève\nDemander si la demande pose un problème\n\n\nElle est pressée\nDélai et brièveté\nVérifier sa charge de travail aujourd’hui\n\n\nElle répond simplement\nContenu conforme\nComparer à son style habituel de messages\n\n\n\nUne bonne vérification peut modifier notre première histoire.\n\nNe révéler le canevas qu’après quelques minutes si les équipes bloquent, ou l’utiliser au débreffage. Souligner que le ton ne se lit pas directement dans un message bref. Plusieurs questions peuvent aussi influencer la relation : privilégier une formulation neutre."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#deux-modes-de-traitement",
+    "href": "cours/04/diapositives.html#deux-modes-de-traitement",
+    "title": "Psychologie sociale",
+    "section": "Deux modes de traitement",
+    "text": "Deux modes de traitement\n\n\n\n\n\n\n\nTraitement rapide\nTraitement plus délibéré\n\n\n\n\nPeu d’effort conscient\nDavantage d’attention et d’effort\n\n\nS’appuie sur associations et habitudes\nCompare plus explicitement les possibilités\n\n\nUtile pour agir vite\nUtile lorsque l’enjeu ou l’ambiguïté augmente\n\n\n\nLe traitement rapide n’est pas toujours erroné; le traitement délibéré n’est pas infaillible.\n\nSource : Vallerand (2021), p. 126–127. Le manuel emploie processus délibérés ou contrôlés et processus automatiques ou implicites. Le temps, la motivation et la capacité influencent la profondeur du traitement."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#une-démonstration-collective-de-liat",
+    "href": "cours/04/diapositives.html#une-démonstration-collective-de-liat",
+    "title": "Psychologie sociale",
+    "section": "Une démonstration collective de l’IAT",
+    "text": "Une démonstration collective de l’IAT\nRépondez en levant une main aussi rapidement que possible.\n\nLa catégorie de gauche correspond à la main gauche.\nLa catégorie de droite correspond à la main droite.\nUne erreur n’a aucune conséquence. Corrigez simplement votre réponse.\n\nNous cherchons à comprendre la tâche, pas à mesurer votre résultat.\n\nPrésenter cette activité comme une imitation collective du Test d’association implicite. Aucun temps de réponse individuel n’est enregistré et cette courte séquence ne permet aucune interprétation personnelle. Demander aux étudiantes et étudiants de garder les mains libres et d’éviter de regarder les réponses des autres."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#entraînement-1",
+    "href": "cours/04/diapositives.html#entraînement-1",
+    "title": "Psychologie sociale",
+    "section": "Entraînement 1",
+    "text": "Entraînement 1\n\n\nMAIN GAUCHECHAT\n\n\nMAIN DROITECHIEN\n\n\nDeux essais pour prendre le rythme."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai",
+    "href": "cours/04/diapositives.html#essai",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT\n\n\nMAIN DROITECHIEN\n\n\n\nMIAOU"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-1",
+    "href": "cours/04/diapositives.html#essai-1",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT\n\n\nMAIN DROITECHIEN\n\n\n\nCHIOT"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#entraînement-2",
+    "href": "cours/04/diapositives.html#entraînement-2",
+    "title": "Psychologie sociale",
+    "section": "Entraînement 2",
+    "text": "Entraînement 2\n\n\nMAIN GAUCHEMOI\n\n\nMAIN DROITEAUTRUI\n\n\nDeux nouveaux essais."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-2",
+    "href": "cours/04/diapositives.html#essai-2",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHEMOI\n\n\nMAIN DROITEAUTRUI\n\n\n\nJE"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-3",
+    "href": "cours/04/diapositives.html#essai-3",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHEMOI\n\n\nMAIN DROITEAUTRUI\n\n\n\nLEUR"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#premier-jumelage",
+    "href": "cours/04/diapositives.html#premier-jumelage",
+    "title": "Psychologie sociale",
+    "section": "Premier jumelage",
+    "text": "Premier jumelage\n\n\nMAIN GAUCHECHAT ou MOI\n\n\nMAIN DROITECHIEN ou AUTRUI\n\n\nMême règle, quatre essais rapides.\n\nEnchaîner les quatre diapositives suivantes rapidement. Observer le groupe sans commenter les différences individuelles."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-4",
+    "href": "cours/04/diapositives.html#essai-4",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT ou MOI\n\n\nMAIN DROITECHIEN ou AUTRUI\n\n\n\nCHATON"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-5",
+    "href": "cours/04/diapositives.html#essai-5",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT ou MOI\n\n\nMAIN DROITECHIEN ou AUTRUI\n\n\n\nJE"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-6",
+    "href": "cours/04/diapositives.html#essai-6",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT ou MOI\n\n\nMAIN DROITECHIEN ou AUTRUI\n\n\n\nCANIN"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-7",
+    "href": "cours/04/diapositives.html#essai-7",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT ou MOI\n\n\nMAIN DROITECHIEN ou AUTRUI\n\n\n\nEUX"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#jumelage-inversé",
+    "href": "cours/04/diapositives.html#jumelage-inversé",
+    "title": "Psychologie sociale",
+    "section": "Jumelage inversé",
+    "text": "Jumelage inversé\n\n\nMAIN GAUCHECHAT ou AUTRUI\n\n\nMAIN DROITECHIEN ou MOI\n\n\nLa règle vient de changer. Quatre autres essais.\n\nLaisser quelques secondes pour lire les nouvelles catégories, puis reprendre un rythme rapide."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-8",
+    "href": "cours/04/diapositives.html#essai-8",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT ou AUTRUI\n\n\nMAIN DROITECHIEN ou MOI\n\n\n\nJE"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-9",
+    "href": "cours/04/diapositives.html#essai-9",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT ou AUTRUI\n\n\nMAIN DROITECHIEN ou MOI\n\n\n\nMIAOU"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-10",
+    "href": "cours/04/diapositives.html#essai-10",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT ou AUTRUI\n\n\nMAIN DROITECHIEN ou MOI\n\n\n\nLEUR"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essai-11",
+    "href": "cours/04/diapositives.html#essai-11",
+    "title": "Psychologie sociale",
+    "section": "Essai",
+    "text": "Essai\n\n\nMAIN GAUCHECHAT ou AUTRUI\n\n\nMAIN DROITECHIEN ou MOI\n\n\n\nCHIOT"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#quavez-vous-remarqué",
+    "href": "cours/04/diapositives.html#quavez-vous-remarqué",
+    "title": "Psychologie sociale",
+    "section": "Qu’avez-vous remarqué?",
+    "text": "Qu’avez-vous remarqué?\nDans quel jumelage avez-vous dû réfléchir davantage, même légèrement?\nL’IAT compare la facilité avec laquelle une personne classe des stimuli lorsque deux concepts partagent la même réponse.\nNotre démonstration ne mesure aucun effet individuel. Elle comporte trop peu d’essais, ne mesure pas les temps de réponse et impose le même ordre à tout le groupe.\n\nRecueillir quelques impressions. Une hésitation peut venir du changement de règle, de la familiarité avec les mots, de la latéralité ou du fait de regarder les autres. Éviter d’attribuer une préférence implicite à une personne ou au groupe. La véritable tâche utilise beaucoup plus d’essais, enregistre la vitesse et les erreurs, puis compare les blocs."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#essayer-un-véritable-iat",
+    "href": "cours/04/diapositives.html#essayer-un-véritable-iat",
+    "title": "Psychologie sociale",
+    "section": "Essayer un véritable IAT",
+    "text": "Essayer un véritable IAT\nProject Implicit propose plusieurs tests en français.\nAccéder à Project Implicit Canada\nLa participation est volontaire. Les résultats demandent une interprétation prudente et peuvent varier d’une passation à l’autre.\n\nLe site présente des activités de recherche. Ne pas exiger une participation ni demander aux étudiantes et étudiants de révéler leur résultat. Source consultée : Project Implicit Canada, page « Participer à un test »."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#un-continuum-de-formation-dimpression",
+    "href": "cours/04/diapositives.html#un-continuum-de-formation-dimpression",
+    "title": "Psychologie sociale",
+    "section": "Un continuum de formation d’impression",
+    "text": "Un continuum de formation d’impression\n\nCatégorisation initiale : une catégorie accessible fournit une première lecture.\nCatégorisation confirmatoire : les informations compatibles renforcent cette lecture.\nRecatégorisation : une sous-catégorie ou un nouveau schéma intègre les écarts.\nTraitement individualisé : les attributs particuliers de la personne dominent le jugement.\n\nUne information difficile à intégrer peut déplacer le traitement vers l’étape suivante.\n\nSource : Vallerand (2021), p. 124–126, continuum de Fiske et collaborateurs. Le traitement individualisé demande généralement davantage de ressources. Le modèle ne dit pas que toute impression parcourt nécessairement les quatre étapes."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#plusieurs-informations-une-seule-impression",
+    "href": "cours/04/diapositives.html#plusieurs-informations-une-seule-impression",
+    "title": "Psychologie sociale",
+    "section": "Plusieurs informations, une seule impression",
+    "text": "Plusieurs informations, une seule impression\nDeux façons de former une impression :\n\nmodèle algébrique : combiner les informations avec un poids différent;\nmodèle configurationnel : interpréter chaque information à la lumière des autres et d’un schéma global.\n\nUne information négative ou inhabituelle peut recevoir davantage de poids parce qu’elle est plus diagnostique.\n\nSource : Vallerand (2021), p. 123–125. Anderson représente l’approche algébrique; Asch et les modèles de schémas illustrent l’approche configurationnelle. « Froid » ne prend pas exactement le même sens au milieu d’autres traits différents."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#une-heuristique",
+    "href": "cours/04/diapositives.html#une-heuristique",
+    "title": "Psychologie sociale",
+    "section": "Une heuristique",
+    "text": "Une heuristique\nUne heuristique est une règle de jugement simple qui réduit l’effort nécessaire.\nElle peut donner une réponse utile rapidement, mais certains contextes la rendent prévisible­ment trompeuse.\nQuestion diagnostique : quelle information remplace-t-on par une information plus facile à utiliser?\n\nSource : Vallerand (2021), p. 127–129. Le manuel retient cinq familles : représentativité, disponibilité, simulation, ancrage et affect. Ne pas présenter les heuristiques comme des défauts de personnalité."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#disponibilité-est-ce-que-des-exemples-me-viennent-facilement",
+    "href": "cours/04/diapositives.html#disponibilité-est-ce-que-des-exemples-me-viennent-facilement",
+    "title": "Psychologie sociale",
+    "section": "Disponibilité : « Est-ce que des exemples me viennent facilement? »",
+    "text": "Disponibilité : « Est-ce que des exemples me viennent facilement? »\nNous pouvons estimer la fréquence ou la probabilité d’un événement à partir de la facilité avec laquelle des exemples viennent à l’esprit.\nCette facilité dépend aussi de :\n\nla récence;\nla vivacité;\nla répétition médiatique;\nl’expérience personnelle.\n\nSchwarz et ses collègues (1991) : après avoir rappelé 6 comportements assurés, les personnes se jugeaient plus assurées qu’après avoir peiné à en rappeler 12.\n\nExemple relevé dans le cours de Caroline Blais, puis vérifié dans la source primaire : Schwarz et al. (1991), https://doi.org/10.1037/0022-3514.61.2.195. La difficulté de produire douze exemples devient elle-même informative : « si c’est difficile, je dois être moins assuré que je le pensais ». Demander de prédire si 6 ou 12 exemples conduiraient à la cote la plus élevée avant de révéler le résultat. La disponibilité peut être informative lorsque la facilité de rappel reflète bien la fréquence réelle."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#représentativité-à-quoi-ce-cas-ressemble-t-il",
+    "href": "cours/04/diapositives.html#représentativité-à-quoi-ce-cas-ressemble-t-il",
+    "title": "Psychologie sociale",
+    "section": "Représentativité : « À quoi ce cas ressemble-t-il? »",
+    "text": "Représentativité : « À quoi ce cas ressemble-t-il? »\nNous pouvons juger qu’un cas appartient à une catégorie parce qu’il ressemble au prototype de cette catégorie.\nDeux informations risquent alors d’être négligées :\n\nla fréquence de base des catégories;\nla qualité réelle des indices disponibles.\n\n\nExemple oral sans personnage stéréotypé : un test imparfait pour une condition rare. La ressemblance est parfois informative, mais doit être combinée aux taux de base et à la validité des indices."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#simulation-puis-je-facilement-imaginer-une-autre-issue",
+    "href": "cours/04/diapositives.html#simulation-puis-je-facilement-imaginer-une-autre-issue",
+    "title": "Psychologie sociale",
+    "section": "Simulation : « Puis-je facilement imaginer une autre issue? »",
+    "text": "Simulation : « Puis-je facilement imaginer une autre issue? »\nNous pouvons juger une issue à partir de la facilité avec laquelle nous pouvons simuler mentalement ce qui aurait pu arriver.\nUne autre issue facile à imaginer peut intensifier :\n\nle regret après une décision;\nle soulagement d’avoir évité un résultat;\nl’impression qu’un événement était prévisible.\n\n\nSource : Vallerand (2021), p. 128. L’heuristique par simulation soutient les raisonnements contrefactuels. Exemple oral : rater un train de deux minutes suscite souvent davantage de contrefactuels que le rater de trente minutes."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#ancrage-partir-dune-valeur",
+    "href": "cours/04/diapositives.html#ancrage-partir-dune-valeur",
+    "title": "Psychologie sociale",
+    "section": "Ancrage : partir d’une valeur",
+    "text": "Ancrage : partir d’une valeur\nUne valeur initiale peut servir de point de départ, puis l’ajustement demeure insuffisant.\nL’ancre peut venir :\n\nd’une question;\nd’un prix affiché;\nd’une première estimation;\nmême d’une valeur arbitraire.\n\n\nPréparer l’étude de Tversky et Kahneman. Recueillir une prédiction individuelle avant de révéler les résultats : une roue truquée donnant 10 ou 65 devrait-elle influencer une estimation qui ne lui est pas logiquement liée?"
+  },
+  {
+    "objectID": "cours/04/diapositives.html#prédisez-le-résultat",
+    "href": "cours/04/diapositives.html#prédisez-le-résultat",
+    "title": "Psychologie sociale",
+    "section": "Prédisez le résultat",
+    "text": "Prédisez le résultat\nTversky et Kahneman (1974)\nUne roue s’arrête à 10 ou 65. Les personnes doivent ensuite estimer :\n\nQuel pourcentage des pays membres de l’ONU se trouve en Afrique?\n\nLa valeur arbitraire de la roue influencera-t-elle l’estimation médiane?\n\nFaire voter à main levée ou réfléchir individuellement; fermer la prédiction avant les résultats. La formulation historique parlait de nations africaines parmi les Nations Unies. La roue était arrangée pour s’arrêter à 10 ou 65. Ne pas présenter la prédiction pédagogique comme un préenregistrement scientifique."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#une-valeur-arbitraire-déplace-le-jugement",
+    "href": "cours/04/diapositives.html#une-valeur-arbitraire-déplace-le-jugement",
+    "title": "Psychologie sociale",
+    "section": "Une valeur arbitraire déplace le jugement",
+    "text": "Une valeur arbitraire déplace le jugement\n\nRoue : 10 → estimation médiane : 25 %\nRoue : 65 → estimation médiane : 45 %\n\nRedessin original dans R · Valeurs rapportées par Tversky et Kahneman (1974), Science, https://doi.org/10.1126/science.185.4157.1124\n\n\nRésultats réels rapportés dans l’article, et non données simulées. Expliquer le profil : les personnes savaient que la roue était aléatoire, mais l’estimation demeurait déplacée vers le nombre initial. L’article regroupe plusieurs démonstrations; la figure reproduit uniquement les deux médianes explicitement rapportées pour cet exemple."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#pourquoi-lancre-persiste-t-elle",
+    "href": "cours/04/diapositives.html#pourquoi-lancre-persiste-t-elle",
+    "title": "Psychologie sociale",
+    "section": "Pourquoi l’ancre persiste-t-elle?",
+    "text": "Pourquoi l’ancre persiste-t-elle?\nUne ancre peut :\n\nfournir un point de départ pour l’ajustement;\nrendre accessibles des informations compatibles;\nsembler pertinente dans une situation incertaine.\n\nComparer plusieurs points de référence avant de décider réduit la dépendance à une seule valeur.\n\nPrésenter ces mécanismes comme des explications complémentaires développées dans la littérature, pas comme une conclusion unique de l’expérience de 1974. Stratégie concrète : produire d’abord une estimation indépendante ou considérer une ancre opposée plausible."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#le-rôle-de-laffect",
+    "href": "cours/04/diapositives.html#le-rôle-de-laffect",
+    "title": "Psychologie sociale",
+    "section": "Le rôle de l’affect",
+    "text": "Le rôle de l’affect\nNos réactions affectives peuvent fournir rapidement une information de valeur :\n\nattirant ou repoussant;\nsûr ou menaçant;\nagréable ou désagréable.\n\nL’heuristique affective consiste à utiliser cette réaction comme raccourci pour juger un risque, une préférence ou une décision.\n\nSource : Vallerand (2021), p. 128–129. Exemple oral : une humeur liée à une journée difficile colore l’évaluation d’un échange ambigu. Ne pas opposer émotion et cognition comme deux systèmes étanches; l’affect fait partie du traitement de l’information."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#corriger-un-premier-jugement-demande-des-ressources",
+    "href": "cours/04/diapositives.html#corriger-un-premier-jugement-demande-des-ressources",
+    "title": "Psychologie sociale",
+    "section": "Corriger un premier jugement demande des ressources",
+    "text": "Corriger un premier jugement demande des ressources\nRéviser une impression devient plus probable lorsque :\n\nl’enjeu est important;\nune contradiction est visible;\nnous avons du temps et de l’attention;\nune norme nous invite à justifier notre conclusion.\n\nRalentir aide surtout si l’on sait quoi vérifier.\n\nFaire le lien avec l’atelier : générer plusieurs hypothèses et chercher un indice discriminant donne une tâche précise au traitement délibéré. La motivation seule ne garantit pas une correction si les mêmes informations sont réutilisées."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#une-boîte-à-outils-de-vérification",
+    "href": "cours/04/diapositives.html#une-boîte-à-outils-de-vérification",
+    "title": "Psychologie sociale",
+    "section": "Une boîte à outils de vérification",
+    "text": "Une boîte à outils de vérification\n\n\n\n\n\n\n\nRisque\nQuestion à se poser\n\n\n\n\nPremière impression dominante\nQuelle autre explication est plausible?\n\n\nExemple très mémorable\nQuelle est la fréquence de base?\n\n\nRessemblance convaincante\nQuelle est la qualité des indices?\n\n\nAutre issue facile à imaginer\nQuelles autres issues étaient réellement possibles?\n\n\nNombre initial saillant\nQuelle estimation ferais-je sans ce nombre?\n\n\n\n\nTableau de consolidation, non protocole universel. Faire choisir la question la plus utile pour le cas du « D’accord. » : autre explication et qualité des indices."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#pause-2",
+    "href": "cours/04/diapositives.html#pause-2",
+    "title": "Psychologie sociale",
+    "section": "Pause 2 — 10 minutes",
+    "text": "Pause 2 — 10 minutes\nEnvoyez vos suggestions de chansons ou photos de votre animal de compagnie directement sur Wooclap.\n\n\nRendez-vous sur wooclap.com.\nLe code de l’événement du cours 4 sera affiché en classe.\nConnectez-vous avec votre identifiant UQAR et gardez l’onglet ouvert.\n\nÉvénement à finaliser\nLe code et le QR seront ajoutés lors de la préparation du quiz et de son fichier d’import.\n\n\nL’activité ouverte de pause sera ajoutée au fichier d’import à l’étape 4 avec les mêmes réglages que la pause 1."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#la-vérification-confirmatoire",
+    "href": "cours/04/diapositives.html#la-vérification-confirmatoire",
+    "title": "Psychologie sociale",
+    "section": "La vérification confirmatoire",
+    "text": "La vérification confirmatoire\nUne attente peut orienter :\n\nles questions posées;\nles réponses obtenues;\nl’interprétation des réponses;\nce qui sera retenu ensuite.\n\nQuestion utile : qu’est-ce que j’observerais si mon interprétation était fausse?\n\nSource : Vallerand (2021), p. 117 et 131–132. Exemple du manuel : des questions orientées vers l’introversion ou l’extraversion peuvent susciter des réponses qui semblent confirmer l’hypothèse. Ne pas assimiler toute attente à une erreur : certaines attentes résument de l’information valable."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#la-cible-réagit-au-percevant",
+    "href": "cours/04/diapositives.html#la-cible-réagit-au-percevant",
+    "title": "Psychologie sociale",
+    "section": "La cible réagit au percevant",
+    "text": "La cible réagit au percevant\n\nLe percevant forme une attente.\nCette attente modifie son comportement envers la cible.\nLa cible réagit à ce comportement.\nSa réaction peut sembler confirmer l’attente initiale.\n\nUne prophétie autoréalisante transforme ainsi une croyance initialement erronée en interaction qui produit le comportement attendu.\n\nSource : Vallerand (2021), p. 131–135, figure 4.4. Donner un exemple prudent : s’attendre à une personne froide, lui parler peu, puis interpréter sa réserve comme une confirmation. Le manuel note que les effets varient et restent généralement modestes; les cibles peuvent résister ou modifier l’interaction."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#transformer-un-désaccord-en-question-vérifiable",
+    "href": "cours/04/diapositives.html#transformer-un-désaccord-en-question-vérifiable",
+    "title": "Psychologie sociale",
+    "section": "Transformer un désaccord en question vérifiable",
+    "text": "Transformer un désaccord en question vérifiable\nAu lieu de : « Tu interprètes mal son message. »\nEssayer :\n\nQu’avons-nous réellement observé?\nQuelles interprétations concurrentes avons-nous?\nQuel indice les distinguerait?\nComment obtenir cet indice sans détériorer l’échange?\n\n\nRéutiliser une proposition d’équipe. Ce cadre articule cognition sociale et compétence relationnelle, sans supposer qu’une vérification directe soit toujours possible ou souhaitable."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#connexion-ronde-2",
+    "href": "cours/04/diapositives.html#connexion-ronde-2",
+    "title": "Psychologie sociale",
+    "section": "Connectez-vous à Wooclap",
+    "text": "Connectez-vous à Wooclap\n\n\nRendez-vous sur wooclap.com.\nLe code de l’événement du cours 4 sera affiché en classe.\nConnectez-vous avec votre identifiant UQAR et gardez l’onglet ouvert.\n\nÉvénement à finaliser\nLe code et le QR seront ajoutés lors de la préparation du quiz et de son fichier d’import.\n\nRonde 2 · Consolidation de la partie 2\nReprendre après la ronde\n\nEmplacement réservé. Les questions et le fichier d’import seront créés à l’étape 4. Prévoir un délai de récupération après plusieurs diapositives, puis un débreffage centré sur disponibilité, représentativité, ancrage et stratégie de vérification."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#ronde-2-questions-dans-wooclap",
+    "href": "cours/04/diapositives.html#ronde-2-questions-dans-wooclap",
+    "title": "Psychologie sociale",
+    "section": "Ronde 2 — questions dans Wooclap",
+    "text": "Ronde 2 — questions dans Wooclap\nDisponibilité · Représentativité · Ancrage · Vérification\nLes questions seront affichées dans Wooclap.\n\nNe pas ajouter de questions administrables à cette première version. Cette diapositive maintient l’architecture publique et sera suivie des questions archivées à l’étape 4."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#synthese",
+    "href": "cours/04/diapositives.html#synthese",
+    "title": "Psychologie sociale",
+    "section": "Trois acquis à emporter",
+    "text": "Trois acquis à emporter\n\nLes schémas, la cible, le percevant et le contexte orientent ce qui devient significatif.\nUne impression peut passer de la catégorisation à un traitement plus individualisé.\nLes heuristiques et les attentes se vérifient mieux lorsqu’on cherche une information discriminante.\n\n\nFaire revenir au cas initial : distinguer observation, interprétation et test. Demander un exemple de question de vérification à emporter."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#quiz-et-examen-quoi-préparer-1",
+    "href": "cours/04/diapositives.html#quiz-et-examen-quoi-préparer-1",
+    "title": "Psychologie sociale",
+    "section": "Quiz et examen — quoi préparer?",
+    "text": "Quiz et examen — quoi préparer?\n6 octobre — Quiz 4 (1,25 %) : chapitre 4 et cours 4.\nLes 8 meilleurs quiz sur 10 comptent pour 10 % de la note finale.\n29 septembre — Examen 1 (25 %) : chapitres 1–4 et cours 1–4.\n\n50 % des questions viendront du matériel du cours vu en classe\n50 % des questions viendront du matériel du manuel (même si la matière n’a PAS été vue en classe)\n\nCertaines notions enseignées en cours peuvent être évaluées même si elles ne figurent pas sur les diapositives et qu’il s’agisse de quelque chose dont nous avons simplement discuté. Cependant, en majorité, je m’en tiens au manuel et aux diapositives. Toute autre ressource ou lien externe n’est pas matière à examen."
+  },
+  {
+    "objectID": "cours/04/diapositives.html#après-lexamen",
+    "href": "cours/04/diapositives.html#après-lexamen",
+    "title": "Psychologie sociale",
+    "section": "Après l’examen",
+    "text": "Après l’examen\n6 octobre · L’attribution\nLecture : Vallerand, chapitre 5\nComment expliquons-nous les comportements d’autrui et les nôtres?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "PSY1703 — Psychologie sociale",
@@ -1203,7 +1699,7 @@
     "href": "index.html#prochaine-séance",
     "title": "PSY1703 — Psychologie sociale",
     "section": "Prochaine séance",
-    "text": "Prochaine séance\n\nCours 3 — Le soi\nMardi 15 septembre 2026 · 13 h 15 à 16 h 05 Campus de Rimouski · Local J462\nVoir la page du cours 3",
+    "text": "Prochaine séance\n\nCours 4 — Les cognitions sociales\nMardi 22 septembre 2026 · 13 h 15 à 16 h 05 Campus de Rimouski · Local J462\nVoir la page du cours 4",
     "crumbs": [
       "Accueil",
       "PSY1703 — Psychologie sociale"
