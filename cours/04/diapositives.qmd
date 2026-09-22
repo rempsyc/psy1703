@@ -420,7 +420,7 @@ Source : Vallerand (2021), p. 122–123, synthèse de travaux associés notammen
 Les trois questions de cette ronde portent sur le cours 4. Les présenter dans Wooclap, puis reprendre à la pause sans parcourir les diapositives archivées de questions.
 :::
 
-## Cours 4 · Ronde 1 · Le changement de personne
+## Ronde 1 · Le changement de personne
 
 Dans la vidéo de la porte, que montre le remplacement non remarqué par plusieurs passants?
 
@@ -432,7 +432,7 @@ C. Une personne remarque toujours un changement si elle regarde dans la bonne di
 Q1 — Réponse B. La cécité au changement montre qu’un changement pourtant important peut échapper à l’attention. Faire voter avant de revenir à la vidéo; ne pas présenter le phénomène comme une incapacité générale à voir.
 :::
 
-## Cours 4 · Ronde 1 · Un geste, plusieurs lectures
+## Ronde 1 · Un geste, plusieurs lectures
 
 Alex coupe la parole. Pourquoi le geste peut-il être interprété différemment selon la situation?
 
@@ -444,7 +444,7 @@ C. L’interprétation ne dépend que des mots prononcés par Alex.
 Q2 — Réponse A. Reprendre l’exemple d’Alex : un même comportement peut activer plusieurs schémas selon le contexte. Demander quel indice supplémentaire aiderait à départager les interprétations.
 :::
 
-## Cours 4 · Ronde 1 · Amorçage sémantique
+## Ronde 1 · Amorçage sémantique
 
 Après CHIEN, une personne reconnait CHAT plus vite que TABLE en moyenne. Quelle notion cet exemple illustre-t-il?
 
@@ -972,7 +972,7 @@ Réutiliser une proposition d’équipe. Ce cadre articule cognition sociale et 
 Les quatre questions de cette ronde portent sur le cours 4. Les présenter dans Wooclap, puis reprendre à la synthèse sans parcourir les diapositives archivées de questions.
 :::
 
-## Cours 4 · Ronde 2 · Facilité de rappel
+## Ronde 2 · Facilité de rappel
 
 Pourquoi rappeler 12 comportements assurés peut-il mener à se juger moins assuré que d’en rappeler 6?
 
@@ -984,7 +984,7 @@ C. Le nombre 12 provoque nécessairement une émotion négative.
 Q4 — Réponse B. La difficulté éprouvée à trouver des exemples peut peser davantage que leur nombre. Rattacher la réponse à l’expérience présentée dans le cours.
 :::
 
-## Cours 4 · Ronde 2 · Ressemblance et fréquence
+## Ronde 2 · Ressemblance et fréquence
 
 Une personne juge un cas probable parce qu’il ressemble au prototype, sans considérer la fréquence de base. Quelle heuristique domine?
 
@@ -996,7 +996,7 @@ C. La simulation.
 Q5 — Réponse A. Le jugement suit la ressemblance au prototype et néglige la fréquence de base. Demander quelle information manque pour mieux estimer la probabilité.
 :::
 
-## Cours 4 · Ronde 2 · Une estimation orientée
+## Ronde 2 · Une estimation orientée
 
 Après avoir vu 65 sur une roue aléatoire, une personne donne une estimation plus élevée qu’après avoir vu 10. Quelle heuristique est illustrée?
 
@@ -1008,7 +1008,7 @@ C. L’ancrage.
 Q6 — Réponse C. Le nombre initial sert de point d’ancrage, bien qu’il provienne d’une roue aléatoire. Faire distinguer cet effet de la simple facilité à rappeler un exemple.
 :::
 
-## Cours 4 · Ronde 2 · Une attente autoréalisante
+## Ronde 2 · Une attente autoréalisante
 
 Une personne s’attend à ce qu’Alex soit froid, lui parle peu, puis interprète sa réserve comme une confirmation. Qu’est-ce qui peut rendre l’attente autoréalisante?
 
