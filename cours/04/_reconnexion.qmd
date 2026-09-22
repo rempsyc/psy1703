@@ -4,8 +4,6 @@ Scannez le **code QR**, ou rendez-vous sur [Wooclap](https://app.wooclap.com/UCN
 
 **Code de l’évènement : UCNTBJY**
 
-Connectez-vous avec votre **identifiant UQAR**.
-
 Gardez l’onglet ouvert : les questions apparaitront dans Wooclap au fil de l’activité.
 :::
 
