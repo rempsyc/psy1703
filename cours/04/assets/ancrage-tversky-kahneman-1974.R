@@ -1,5 +1,5 @@
-svg("ancrage-tversky-kahneman-1974.svg", width = 10.5, height = 5.8,
-    family = "sans", bg = "transparent")
+svglite::svglite("ancrage-tversky-kahneman-1974.svg", width = 10.5, height = 5.8,
+                 system_fonts = list(sans = "Arial"), bg = "transparent")
 
 par(mar = c(5.2, 6.2, 1.2, 1.2), las = 1)
 valeurs <- c(25, 45)
@@ -12,7 +12,7 @@ bp <- barplot(
   col = couleurs,
   border = NA,
   ylim = c(0, 55),
-  ylab = "Estimation médiane (%)",
+  ylab = paste0("Estimation m", intToUtf8(233), "diane (%)"),
   cex.names = 1.25,
   cex.axis = 1.1,
   cex.lab = 1.2
