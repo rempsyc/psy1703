@@ -6,7 +6,7 @@ subtitle: "Sélectionner, organiser et juger l’information sociale"
 **Mardi 22 septembre 2026**<br>
 **Lecture associée :** Vallerand, chapitre 4
 
-::: {.callout-note title="Version révisée avec le manuel"}
+::: {.callout-note title="Version en préparation"}
 **Diapositives en préparation**.
 :::
 
