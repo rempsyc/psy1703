@@ -254,6 +254,118 @@ Une exposition préalable peut faciliter l’utilisation ultérieure d’un conc
 Source : Vallerand (2021), p. 110, 114 et 127. Exemple hypothétique, pas résultat d’une étude présentée. L’amorçage dépend des procédures et du contexte; éviter les affirmations spectaculaires sur des comportements complexes.
 :::
 
+<style>
+.reveal .slides section:has(> .amorcage-stimulus) > h2 {
+  display: none;
+}
+.amorcage-stimulus {
+  margin-top: 32vh;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 700;
+}
+</style>
+
+## Deux mots qui se suivent
+
+Un mot apparait, puis un second. **Répondez seulement au second mot**, le plus vite possible :
+
+- **Main droite** : c’est un mot français.
+- **Main gauche** : ce n’est pas un mot français.
+
+Gardez les mains baissées entre les essais.
+
+::: {.notes}
+Faire une courte démonstration de décision lexicale, sans mesurer les temps de réponse. Passer rapidement de l’amorce à la cible et laisser un moment pour répondre avant la prochaine paire. Le premier essai avec un mot inventé sert à pratiquer les deux réponses. Les paires CHIEN–CHAT et CHIEN–TABLE sont des exemples pédagogiques créés pour la classe, pas les stimuli attribués à l’étude citée ensuite.
+:::
+
+## Mot 1
+
+<div class="amorcage-stimulus">POMME</div>
+
+::: {.notes}
+Essai d’entrainement : mot-amorce. Ne demander aucune réponse. Passer à TAVRIN.
+:::
+
+## Mot 2
+
+<div class="amorcage-stimulus">TAVRIN</div>
+
+::: {.notes}
+Essai d’entrainement : cible inventée, main gauche. Laisser les mains redescendre avant la prochaine paire.
+:::
+
+## Mot 3
+
+<div class="amorcage-stimulus">CHIEN</div>
+
+::: {.notes}
+Première paire : mot-amorce. Ne demander aucune réponse. Passer rapidement à CHAT.
+:::
+
+## Mot 4
+
+<div class="amorcage-stimulus">CHAT</div>
+
+::: {.notes}
+Première paire : cible liée, main droite. Laisser les mains redescendre avant la prochaine paire.
+:::
+
+## Mot 5
+
+<div class="amorcage-stimulus">CHIEN</div>
+
+::: {.notes}
+Deuxième paire : même mot-amorce. Ne demander aucune réponse. Passer rapidement à TABLE.
+:::
+
+## Mot 6
+
+<div class="amorcage-stimulus">TABLE</div>
+
+::: {.notes}
+Deuxième paire : cible sans lien sémantique proche, main droite. Aucun temps de réponse n’est enregistré.
+:::
+
+## Deux paires à comparer
+
+| Premier mot | Mot à reconnaitre |
+|---|---|
+| **CHIEN** | **CHAT** |
+| **CHIEN** | **TABLE** |
+
+**Dans une véritable tâche chronométrée, quel second mot serait reconnu plus vite, en moyenne?**
+
+::: {.notes}
+Demander une prédiction à main levée avant de montrer le résultat. Ne pas conclure à partir des impressions ou des mains levées : cette version collective comporte trop peu d’essais, un ordre fixe et aucune mesure du temps. Garder l’explication pour la diapositive suivante.
+:::
+
+## L’amorçage sémantique
+
+Dans une tâche chronométrée, un mot est généralement reconnu **plus vite** après un mot lié qu’après un mot sans lien.
+
+L’étude de Buchanan et collègues a observé cet effet dans **19 langues**, auprès de **25 163 personnes analysées**.
+
+::: {.credit}
+[Buchanan et al. (2025)](https://doi.org/10.1038/s41562-025-02254-x), avec **Rémi Thériault**
+:::
+
+::: {.notes}
+Le résultat de cette étude porte sur l’amorçage sémantique dans la reconnaissance de mots : comparaison des temps de réponse pour des paires liées et non liées. Le premier mot rend certains concepts liés plus accessibles. Faire ensuite le pont avec les schémas sociaux, sans prétendre que cette étude a mesuré une interprétation de personne ou un comportement social. Source primaire : Buchanan et al. (2025), Measuring the semantic priming effect across many languages, Nature Human Behaviour, https://doi.org/10.1038/s41562-025-02254-x. Article publié en ligne en 2025; volume imprimé en 2026.
+:::
+
+## L’amorçage sémantique selon la langue
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-025-02254-x/MediaObjects/41562_2025_2254_Fig5_HTML.png?as=webp" alt="Figure 5 de Buchanan et collègues : effets moyens d’amorçage sémantique dans 19 langues, tous positifs et d’amplitude légèrement variable." style="display:block; max-width:100%; max-height:90vh; margin:0.2rem auto; object-fit:contain;">
+
+::: {.credit}
+[Buchanan et al. (2025), figure 5](https://doi.org/10.1038/s41562-025-02254-x), avec **Rémi Thériault**
+:::
+
+::: {.notes}
+La figure compare les effets moyens d’amorçage pour 19 langues selon trois traitements des valeurs extrêmes. Tous les effets moyens sont positifs; leur variation entre langues est faible. L’axe horizontal présente un effet standardisé, et non un temps en millisecondes. Les différences observées ne permettent pas d’isoler une cause culturelle : langue, lieu de collecte et caractéristiques des échantillons peuvent se confondre. Source : Buchanan et al. (2025), figure 5 et texte de l’hypothèse 2, https://doi.org/10.1038/s41562-025-02254-x. L’image est intégrée depuis Springer Nature et nécessite une connexion Internet pendant la présentation.
+:::
+
 ## Quel schéma devient actif?
 
 | Source | Exemple d’influence |
@@ -298,22 +410,48 @@ Source : Vallerand (2021), p. 122–123, synthèse de travaux associés notammen
 
 {{< include _reconnexion.qmd >}}
 
-**Ronde 1** · Consolidation de la partie 1
+**Cours 4 — Ronde 1** · Consolidation de la partie 1
 
 [Passer à la pause](#pause-1)
 
 ::: {.notes}
-Emplacement réservé. Les questions, réponses et le débreffage seront construits seulement à l’étape finale avec le quiz Wooclap. Le lien permet de reprendre sans parcourir ultérieurement les diapositives archivées de questions.
+Les trois questions de cette ronde portent sur le cours 4. Les présenter dans Wooclap, puis reprendre à la pause sans parcourir les diapositives archivées de questions.
 :::
 
-## Ronde 1 — questions dans Wooclap
+## Cours 4 · Ronde 1 · Le changement de personne
 
-**Sélectionner · Organiser · Vérifier**
+Dans la vidéo de la porte, que montre le remplacement non remarqué par plusieurs passants?
 
-Les questions seront affichées dans Wooclap.
+A. Nous enregistrons nécessairement tous les détails d’une interaction.<br>
+B. L’attention peut laisser passer un changement important pendant une interaction.<br>
+C. Une personne remarque toujours un changement si elle regarde dans la bonne direction.
 
 ::: {.notes}
-Ne pas transformer cette diapositive en banque provisoire. Prévoir éventuellement trois questions : attention/saillance, schéma/accessibilité et information qui pourrait contredire une interprétation. À finaliser seulement à l’étape 4.
+Q1 — Réponse B. La cécité au changement montre qu’un changement pourtant important peut échapper à l’attention. Faire voter avant de revenir à la vidéo; ne pas présenter le phénomène comme une incapacité générale à voir.
+:::
+
+## Cours 4 · Ronde 1 · Un geste, plusieurs lectures
+
+Alex coupe la parole. Pourquoi le geste peut-il être interprété différemment selon la situation?
+
+A. Le contexte peut rendre différents schémas accessibles.<br>
+B. Le geste révèle toujours le même trait de personnalité.<br>
+C. L’interprétation ne dépend que des mots prononcés par Alex.
+
+::: {.notes}
+Q2 — Réponse A. Reprendre l’exemple d’Alex : un même comportement peut activer plusieurs schémas selon le contexte. Demander quel indice supplémentaire aiderait à départager les interprétations.
+:::
+
+## Cours 4 · Ronde 1 · Amorçage sémantique
+
+Après CHIEN, une personne reconnait CHAT plus vite que TABLE en moyenne. Quelle notion cet exemple illustre-t-il?
+
+A. La distance psychologique.<br>
+B. L’ancrage numérique.<br>
+C. L’amorçage sémantique.
+
+::: {.notes}
+Q3 — Réponse C. CHIEN active plus facilement un concept lié comme CHAT. La différence de vitesse porte sur des moyennes mesurées dans une véritable tâche; l’exemple présenté en classe ne mesure pas les temps individuels.
 :::
 
 ## Pause 1 — 10 minutes {#pause-1}
@@ -360,7 +498,7 @@ Ne révéler le canevas qu’après quelques minutes si les équipes bloquent, o
 
 ## Deux modes de traitement
 
-| Traitement rapide | Traitement plus délibéré |
+| Traitement rapide (« système 1 ») | Traitement plus délibéré (« système 2 ») |
 |---|---|
 | Peu d’effort conscient | Davantage d’attention et d’effort |
 | S’appuie sur associations et habitudes | Compare plus explicitement les possibilités |
@@ -369,7 +507,7 @@ Ne révéler le canevas qu’après quelques minutes si les équipes bloquent, o
 **Le traitement rapide n’est pas toujours erroné; le traitement délibéré n’est pas infaillible.**
 
 ::: {.notes}
-Source : Vallerand (2021), p. 126–127. Le manuel emploie processus délibérés ou contrôlés et processus automatiques ou implicites. Le temps, la motivation et la capacité influencent la profondeur du traitement.
+Source : Vallerand (2021), p. 126–127. Le manuel emploie processus délibérés ou contrôlés et processus automatiques ou implicites. « Système 1 » et « système 2 » sont les appellations courantes popularisées par Kahneman pour ces deux modes de traitement, et non deux systèmes cérébraux distincts. Le temps, la motivation et la capacité influencent la profondeur du traitement.
 :::
 
 <style>
@@ -824,22 +962,60 @@ Réutiliser une proposition d’équipe. Ce cadre articule cognition sociale et 
 
 {{< include _reconnexion.qmd >}}
 
-**Ronde 2** · Consolidation de la partie 2
+**Cours 4 — Ronde 2** · Consolidation de la partie 2
 
 [Reprendre après la ronde](#synthese)
 
 ::: {.notes}
-Emplacement réservé. Les questions et le fichier d’import seront créés à l’étape 4. Prévoir un délai de récupération après plusieurs diapositives, puis un débreffage centré sur disponibilité, représentativité, ancrage et stratégie de vérification.
+Les quatre questions de cette ronde portent sur le cours 4. Les présenter dans Wooclap, puis reprendre à la synthèse sans parcourir les diapositives archivées de questions.
 :::
 
-## Ronde 2 — questions dans Wooclap
+## Cours 4 · Ronde 2 · Facilité de rappel
 
-**Disponibilité · Représentativité · Ancrage · Vérification**
+Pourquoi rappeler 12 comportements assurés peut-il mener à se juger moins assuré que d’en rappeler 6?
 
-Les questions seront affichées dans Wooclap.
+A. Le nombre 12 réduit réellement la fréquence des comportements assurés.<br>
+B. La difficulté à trouver des exemples devient elle-même un indice pour le jugement.<br>
+C. Le nombre 12 provoque nécessairement une émotion négative.
 
 ::: {.notes}
-Ne pas ajouter de questions administrables à cette première version. Cette diapositive maintient l’architecture publique et sera suivie des questions archivées à l’étape 4.
+Q4 — Réponse B. La difficulté éprouvée à trouver des exemples peut peser davantage que leur nombre. Rattacher la réponse à l’expérience présentée dans le cours.
+:::
+
+## Cours 4 · Ronde 2 · Ressemblance et fréquence
+
+Une personne juge un cas probable parce qu’il ressemble au prototype, sans considérer la fréquence de base. Quelle heuristique domine?
+
+A. La représentativité.<br>
+B. La disponibilité.<br>
+C. La simulation.
+
+::: {.notes}
+Q5 — Réponse A. Le jugement suit la ressemblance au prototype et néglige la fréquence de base. Demander quelle information manque pour mieux estimer la probabilité.
+:::
+
+## Cours 4 · Ronde 2 · Une estimation orientée
+
+Après avoir vu 65 sur une roue aléatoire, une personne donne une estimation plus élevée qu’après avoir vu 10. Quelle heuristique est illustrée?
+
+A. La disponibilité.<br>
+B. La représentativité.<br>
+C. L’ancrage.
+
+::: {.notes}
+Q6 — Réponse C. Le nombre initial sert de point d’ancrage, bien qu’il provienne d’une roue aléatoire. Faire distinguer cet effet de la simple facilité à rappeler un exemple.
+:::
+
+## Cours 4 · Ronde 2 · Une attente autoréalisante
+
+Une personne s’attend à ce qu’Alex soit froid, lui parle peu, puis interprète sa réserve comme une confirmation. Qu’est-ce qui peut rendre l’attente autoréalisante?
+
+A. La première attente suffit à établir le caractère d’Alex.<br>
+B. L’attente modifie la conduite envers Alex, qui peut ensuite réagir avec réserve.<br>
+C. La réserve d’Alex prouve que l’attente initiale était exacte.
+
+::: {.notes}
+Q7 — Réponse B. L’attente change d’abord la manière d’interagir avec Alex; sa réaction peut ensuite sembler confirmer l’attente. Demander quelle autre interaction aurait permis de tester l’interprétation.
 :::
 
 ## Trois acquis à emporter {#synthese}
