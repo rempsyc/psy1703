@@ -1,15 +1,15 @@
 ::: {.columns}
-::: {.column width="60%"}
-Rendez-vous sur [wooclap.com](https://www.wooclap.com/).
+::: {.column width="58%"}
+Scannez le **code QR**, ou rendez-vous sur [Wooclap](https://app.wooclap.com/UCNTBJY).
 
-**Le code de l’événement du cours 4 sera affiché en classe.**
+**Code de l’évènement : UCNTBJY**
 
-Connectez-vous avec votre **identifiant UQAR** et gardez l’onglet ouvert.
+Connectez-vous avec votre **identifiant UQAR**.
+
+Gardez l’onglet ouvert : les questions apparaitront dans Wooclap au fil de l’activité.
 :::
 
-::: {.column width="40%"}
-### Événement à finaliser
-
-Le code et le QR seront ajoutés lors de la préparation du quiz et de son fichier d’import.
+::: {.column width="42%"}
+[![](assets/wooclap-engagement-qr.png){fig-alt="QR de connexion à l’évènement Wooclap UCNTBJY" width="480"}](https://app.wooclap.com/UCNTBJY)
 :::
 :::

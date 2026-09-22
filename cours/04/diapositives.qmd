@@ -32,10 +32,10 @@ format:
 
 **Chapitre 3 et cours 3 · Travail individuel**
 
-{{< include _reconnexion.qmd >}}
+{{< include _connexion-quiz.qmd >}}
 
 ::: {.notes}
-Réserver dix minutes au début de la séance. Les questions évaluées et leur corrigé ne figurent pas dans cette première version : ils seront préparés dans la dernière étape, avec l’événement Wooclap et le fichier d’import. Vérifier la connexion UQAR avant le début.
+Réserver dix minutes au début de la séance. Les questions évaluées et leur corrigé demeurent dans Box et ne doivent pas apparaitre dans cette source publique. Vérifier la connexion UQAR avant le début. Le quiz utilise le code PCLEFBG, distinct de l’évènement d’engagement.
 :::
 
 ## Quiz et examen — quoi préparer?
@@ -51,6 +51,25 @@ Les **8 meilleurs quiz sur 10** comptent pour **10 %** de la note finale.
 
 Certaines notions enseignées en cours **peuvent** être évaluées même si elles ne figurent pas sur les diapositives et qu'il s'agisse de quelque chose dont nous avons simplement discuté. Cependant, en majorité, je m'en tiens au manuel et aux diapositives. Toute autre ressource ou lien externe n'est pas matière à examen.
 
+## Guide d’étude pour l’examen 1 (25 %)
+
+Le **guide d’étude** sera disponible plus tard cette semaine.
+
+L’examen aura lieu le **29 septembre** et portera sur les **chapitres 1–4** et les **cours 1–4**.
+
+- 50 % des questions viendront du matériel du **cours** vu en classe
+- 50 % des questions viendront du matériel du **manuel** (même si la matière n'a PAS été vue en classe)
+
+Pour le manuel, tous les termes en gras aux chapitres évalués seront possiblement examinés à l’examen, plus tout autre concept, théorie, processus, ou principe essentiel qui est mise en évidence dans les chapitres.
+
+## Temps supplémentaire aux examens (25 %)
+
+Si vous avez besoin de temps supplémentaire pour les examens, écrivez dès que possible aux **Services à la communauté étudiante — Aide aux besoins particuliers** à :
+
+[abp-examens-rim@uqar.ca](mailto:abp-examens-rim@uqar.ca)
+
+**AUCUN temps supplémentaire ne pourra être accordé sans leur approbation.**
+
 ## Trois acquis visés
 
 1. Expliquer comment les **schémas, la cible, le percevant et le contexte** orientent une perception.
@@ -61,7 +80,7 @@ Certaines notions enseignées en cours **peuvent** être évaluées même si ell
 Présenter le fil conducteur : sélectionner, organiser, juger et interagir. Objectifs alignés sur Vallerand (2021), chapitre 4, p. 106 et 110–136.
 :::
 
-## Un même événement, plusieurs lectures
+## Un même évènement, plusieurs lectures
 
 Vous écrivez à une collègue : « Peux-tu m’envoyer ta partie aujourd’hui? »
 
@@ -128,22 +147,28 @@ Exemple oral : dans une réunion, une intervention très vive peut dominer le so
 
 ## Un changement sous nos yeux
 
-| 1 | 2 | 3 |
-|---|---|---|
-| Une personne demande son chemin | Une porte bloque brièvement la vue | Une autre personne poursuit la conversation |
-
-**Que manque le passant pendant cette conversation?**
-
 ::: {style="display: flex; justify-content: center;"}
 {{< video https://www.youtube.com/watch?v=FWSxSQsspiQ width="1120" height="630" title="The Door Study, par Daniel Simons" >}}
 :::
 
+::: {.notes}
+Faire regarder sans annoncer le remplacement. À la fin, demander oralement : « Qu’avez-vous remarqué? » Arrêter la vidéo avant de quitter la diapositive. Vidéo publiée par Daniel Simons, à partir de l’étude de Simons et Levin (1998), https://doi.org/10.3758/BF03208840. Démonstration inspirée de son usage dans le cours de Caroline Blais.
+:::
+
+## Le remplacement passe inaperçu
+
+| 1 | 2 | 3 |
+|---|---|---|
+| Une personne demande son chemin | Une porte bloque brièvement la vue | Une autre personne poursuit la conversation |
+
+**Environ la moitié des passants n’ont pas remarqué le changement de personne.**
+
 ::: {.credit}
-Simons et Levin (1998) · Vidéo publiée par Daniel Simons
+Simons et Levin (1998)
 :::
 
 ::: {.notes}
-Inspiré de l’usage de la cécité au changement dans le cours de Caroline Blais. Faire regarder sans annoncer le remplacement. Dans l’étude originale, un expérimentateur demandait son chemin à un passant; deux personnes transportant une porte interrompaient brièvement la vue et un autre expérimentateur prenait sa place. Environ la moitié des passants ont détecté le changement. La démonstration montre qu’un changement important peut échapper à l’attention dans une interaction réelle. Source primaire : Simons et Levin (1998), https://doi.org/10.3758/BF03208840. Arrêter la vidéo avant de quitter la diapositive.
+Dans l’étude originale, un expérimentateur demandait son chemin à un passant; deux personnes transportant une porte interrompaient brièvement la vue et un autre expérimentateur prenait sa place. Environ la moitié des passants ont détecté le changement. La démonstration montre qu’un changement important peut échapper à l’attention dans une interaction réelle. Source primaire : Simons et Levin (1998), https://doi.org/10.3758/BF03208840.
 :::
 
 ## Traitement ascendant et descendant
@@ -181,7 +206,7 @@ Source : Vallerand (2021), p. 111–114. Rappel du cours 3, élargi au traitemen
 | **Soi** | Connaissances sur soi | « Je suis méthodique » |
 | **Personnes** | Traits associés à une personne ou un prototype | Une personne chaleureuse |
 | **Rôles ou groupes sociaux** | Attentes liées à une position ou une catégorie | Le rôle de porte-parole |
-| **Événements** | Séquence habituelle d’une situation | Le scénario d’un restaurant |
+| **Évènements** | Séquence habituelle d’une situation | Le scénario d’un restaurant |
 
 ::: {.notes}
 Source : Vallerand (2021), p. 111–114. Les schémas sur les groupes sociaux peuvent prendre la forme de stéréotypes comprenant des dimensions cognitives, affectives et comportementales. Garder ce point bref : les préjugés seront approfondis au cours 13. Un prototype est une représentation abstraite des caractéristiques typiques d’une catégorie, pas une description de chaque membre.
@@ -245,9 +270,9 @@ Source : Vallerand (2021), p. 115–123. La cible contribue par ses actions et s
 
 ## Distance psychologique
 
-Un événement perçu comme **lointain** tend à être représenté de façon plus abstraite.
+Un évènement perçu comme **lointain** tend à être représenté de façon plus abstraite.
 
-Un événement perçu comme **proche** tend à être représenté avec davantage de détails concrets.
+Un évènement perçu comme **proche** tend à être représenté avec davantage de détails concrets.
 
 **Préparer un voyage l’an prochain :** « découvrir une région »  
 **Préparer le départ demain :** horaire, bagages et trajet
@@ -599,7 +624,7 @@ Source : Vallerand (2021), p. 127–129. Le manuel retient cinq familles : repr�
 
 ## Disponibilité : « Est-ce que des exemples me viennent facilement? »
 
-Nous pouvons estimer la fréquence ou la probabilité d’un événement à partir de la **facilité avec laquelle des exemples viennent à l’esprit**.
+Nous pouvons estimer la fréquence ou la probabilité d’un évènement à partir de la **facilité avec laquelle des exemples viennent à l’esprit**.
 
 Cette facilité dépend aussi de :
 
@@ -635,7 +660,7 @@ Une autre issue facile à imaginer peut intensifier :
 
 - le regret après une décision;
 - le soulagement d’avoir évité un résultat;
-- l’impression qu’un événement était prévisible.
+- l’impression qu’un évènement était prévisible.
 
 ::: {.notes}
 Source : Vallerand (2021), p. 128. L’heuristique par simulation soutient les raisonnements contrefactuels. Exemple oral : rater un train de deux minutes suscite souvent davantage de contrefactuels que le rater de trente minutes.

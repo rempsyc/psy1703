@@ -1,0 +1,15 @@
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou rendez-vous sur [Wooclap](https://app.wooclap.com/PCLEFBG).
+
+**Code du quiz : PCLEFBG**
+
+Connectez-vous avec votre **identifiant UQAR**.
+
+Le quiz évalué est individuel et distinct des activités d’engagement du cours.
+:::
+
+::: {.column width="42%"}
+[![](assets/quiz-02-qr.png){fig-alt="QR du quiz évalué 2, code PCLEFBG" width="480"}](https://app.wooclap.com/PCLEFBG)
+:::
+:::
