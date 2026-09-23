@@ -157,7 +157,7 @@ La clarté est **associée au bien-être**.
 Définition de Campbell et al. (1996), reprise dans Krol, Thériault, Olson, Raz et Bartz (2020). Les liens avec le bien-être appartiennent à la littérature sur la clarté; notre étude de 2020 examine surtout son association avec la malléabilité corporelle. Ne pas présenter cette étude comme une intervention démontrant qu’augmenter la clarté améliore le bien-être.
 :::
 
-## Clarté du soi et sentiment de propriété de corps {#krol-resultats}
+## Clarté du soi et sentiment de propriété de corps (fausse main) {#krol-resultats}
 
 ::: {.columns}
 ::: {.column width="65%"}
@@ -166,9 +166,9 @@ Définition de Campbell et al. (1996), reprise dans Krol, Thériault, Olson, Raz
 ::: {.column width="33%"}
 **Horizontal** : clarté du concept de soi.
 
-**Vertical** : sentiment que le corps vu est le sien.
+**Vertical** : sentiment que la main en caoutchouc est la sienne.
 
-Une clarté plus faible est associée à un sentiment de propriété de corps plus fort.
+Une clarté plus faible est associée à un sentiment de propriété de corps plus fort (**de la fausse main**). En d'autres termes, plus la clarté du concept de soi est forte, plus **l'illusion** de la main en caoutchouc est faible.
 
 :::
 :::
