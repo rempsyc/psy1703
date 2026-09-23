@@ -750,6 +750,16 @@ Une information négative ou inhabituelle peut recevoir davantage de poids parce
 Source : Vallerand (2021), p. 123–125. Anderson représente l’approche algébrique; Asch et les modèles de schémas illustrent l’approche configurationnelle. « Froid » ne prend pas exactement le même sens au milieu d’autres traits différents.
 :::
 
+## Pause 2 — 10 minutes {#pause-2}
+
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+L’activité ouverte de pause sera ajoutée au fichier d’import à l’étape 4 avec les mêmes réglages que la pause 1.
+:::
+
 ## Une heuristique
 
 Une **heuristique** est une règle de jugement simple qui réduit l’effort nécessaire.
@@ -905,16 +915,6 @@ Faire le lien avec l’atelier : générer plusieurs hypothèses et chercher un 
 
 ::: {.notes}
 Tableau de consolidation, non protocole universel. Faire choisir la question la plus utile pour le cas du « D’accord. » : autre explication et qualité des indices.
-:::
-
-## Pause 2 — 10 minutes {#pause-2}
-
-Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap.
-
-{{< include _reconnexion.qmd >}}
-
-::: {.notes}
-L’activité ouverte de pause sera ajoutée au fichier d’import à l’étape 4 avec les mêmes réglages que la pause 1.
 :::
 
 ## La vérification confirmatoire
