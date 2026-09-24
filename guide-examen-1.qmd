@@ -70,16 +70,29 @@ L’examen comprendra une question à développement très court associée à ch
 - Variables indépendantes et variables dépendantes
 - Fidélité, fidélité temporelle et fidélité interjuges
 - Validité de construit, validité interne et validité externe
+- Population, échantillon et échantillonnage
 - Sélection aléatoire et assignation aléatoire
 - Devis expérimental, quasi expérimental, corrélationnel et observationnel
-- Recherche en laboratoire et recherche sur le terrain
+- Devis prétest–posttest avec groupe témoin non équivalent
+- Recherche expérimentale en laboratoire et en terrain naturel
+- Méthodes de recherche non expérimentales
 - Études transversales et longitudinales
-- Mesures verbales, comportementales, implicites, physiologiques et non réactives
-- Réactivité, réalisme expérimental et réalisme mondain
-- Différences de moyennes, corrélations, associations et causalité
-- Triangulation, effets de confusion et interactions
+- Enquêtes, entrevues et questionnaires autorapportés
+- Simulations et jeux de rôles
+- Observation systématique
 - Analyse de contenu, analyse archivistique, étude de cas et méta-analyse
-- Biais, principes éthiques et limites des méthodes
+- Mégadonnées (*big data*)
+- Mesures verbales, comportementales, implicites, physiologiques, neuropsychologiques et non réactives
+- Réactivité, réalisme expérimental et réalisme mondain
+- Analyses quantitatives et qualitatives
+- Moyenne, médiane et tendance centrale
+- Différences de moyennes, corrélations, covariation, associations et causalité
+- Analyse de variance, effet principal, effet d’interaction statistique et modelage
+- Triangulation et effets de confusion
+- Biais des participants volontaires et biais dus au contexte expérimental
+- Duperie, séance d’information postexpérimentale ou débreffage
+- Intimité, confidentialité et valeurs en recherche
+- Principes éthiques et limites des méthodes
 - Crise de réplication, préenregistrement, rapports enregistrés et science ouverte
 - *p*-hacking, HARKing et biais de publication
 - MASKing : développement de l’acronyme et concept
@@ -131,7 +144,7 @@ L’examen comprendra une question à développement très court associée à ch
 - Perception sociale
 - Cognitions explicites et cognitions implicites
 - Attention sélective et cécité au changement
-- Étude de la porte vue en vidéo en classe
+- Étude de la porte vue en vidéo en classe (cécité au changement)
 - Traitements ascendant et descendant
 - Schémas sur le soi, les personnes, les rôles ou groupes et les évènements
 - Prototypes, stéréotypes et scripts
