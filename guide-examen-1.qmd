@@ -128,21 +128,28 @@ L’examen comprendra une question à développement très court associée à ch
 **Cours 4 et chapitre 4**
 
 - Cognition sociale et traitement dynamique de l’information sociale
+- Perception sociale
+- Cognitions explicites et cognitions implicites
 - Attention sélective et cécité au changement
 - Étude de la porte vue en vidéo en classe
 - Traitements ascendant et descendant
-- Schémas et familles de schémas
+- Schémas sur le soi, les personnes, les rôles ou groupes et les évènements
+- Prototypes, stéréotypes et scripts
 - Accessibilité et amorçage
-- Facteurs d’activation des schémas
+- Facteurs d’activation des schémas liés à la cible, au percevant et au contexte
+- Humeur, distance psychologique et culture
+- Tendances analytique et holistique
 - Amorçage sémantique selon la langue
 - Charge cognitive
-- Distance psychologique
 - Processus automatiques et délibérés; systèmes 1 et 2
 - Test d’association implicite (IAT)
+- Intégration de plusieurs informations dans la formation d’impression
 - Modèles algébrique et configurationnel de la formation d’impression
 - Continuum entre catégorisation et traitement individualisé
+- Catégorisation initiale, catégorisation confirmatoire et recatégorisation
 - Heuristiques de disponibilité, de représentativité, de simulation, d’ancrage et d’affect
-- Interaction entre cible et percevant
+- Radicalisation des opinions
+- Interaction et négociation entre cible et percevant
 - Vérification confirmatoire et prophétie autoréalisante
 
 ## Une méthode de préparation
