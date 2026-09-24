@@ -46,7 +46,9 @@ Vous n’avez pas à reproduire une définition mot à mot. Une formulation prov
 
 L’examen comprendra une question à développement très court associée à chacun des cours 1 à 4 et une associée à chacun des chapitres 1 à 4. Les huit questions seront courtes et ne prendront pas la forme de longues études de cas.
 
-## Cours 1 — Voir le social autrement
+## Bloc 1 — Voir le social autrement
+
+### Cours 1
 
 Vous devriez pouvoir :
 
@@ -57,11 +59,13 @@ Vous devriez pouvoir :
 - distinguer les niveaux d’explication personnel, interpersonnel, groupal et intersociétal;
 - expliquer pourquoi la présence sociale peut améliorer la performance dans une activité bien maitrisée, mais réduire la performance dans une activité nouvelle ou complexe, et relier cette nuance à l’exemple des cyclistes.
 
-## Chapitre 1
+### Chapitre 1
 
 Revoyez la définition et les caractéristiques de la psychologie sociale, ses repères historiques, ses niveaux d’analyse et ses principaux champs d’application. Assurez-vous aussi de comprendre le rôle d’une théorie, les limites du sens commun et le sens général des principales influences théoriques présentées, notamment les approches cognitive, de l’apprentissage social et de l’échange social.
 
-## Cours 2 — Méthodes de recherche
+## Bloc 2 — Méthodes de recherche
+
+### Cours 2
 
 Vous devriez pouvoir :
 
@@ -75,11 +79,13 @@ Vous devriez pouvoir :
 - expliquer la crise de réplication et le rôle de pratiques de science ouverte;
 - expliquer le MASKing, son développement anglais et son sens.
 
-## Chapitre 2
+### Chapitre 2
 
 Revoyez les étapes d’une recherche, les variables, la fidélité, les validités, les méthodes et devis, les familles de mesures, l’interprétation des résultats, les biais, les principes éthiques et les limites propres à chaque méthode. Certaines questions peuvent porter sur des éléments du chapitre qui n’ont pas été repris en détail en classe.
 
-## Cours 3 — Le soi
+## Bloc 3 — Le soi
+
+### Cours 3
 
 Vous devriez pouvoir :
 
@@ -92,11 +98,13 @@ Vous devriez pouvoir :
 - expliquer l’expérience de la guimauve et le lien observé avec des résultats ultérieurs;
 - comprendre que l’étude de la main en caoutchouc porte sur le sentiment que la **fausse main** fait partie de son propre corps et qu’une clarté plus faible du concept de soi était associée à un sentiment plus fort de propriété envers cette fausse main.
 
-## Chapitre 3
+### Chapitre 3
 
 Revoyez les composantes et les sources du soi, les formes de l’estime de soi, les soi possibles, les schémas, l’autoperception, l’autovérification, la comparaison sociale, la conscience de soi, la mémoire liée au soi, l’autoefficacité, l’autorégulation, la présentation de soi et l’autohandicap. Le manuel contient aussi des notions moins développées en classe qui peuvent être évaluées dans la moitié réservée au manuel.
 
-## Cours 4 — Cognitions sociales
+## Bloc 4 — Cognitions sociales
+
+### Cours 4
 
 Vous devriez pouvoir :
 
@@ -114,7 +122,7 @@ Vous devriez pouvoir :
 - distinguer disponibilité, représentativité, simulation, ancrage et affect;
 - distinguer la vérification confirmatoire d’une prophétie autoréalisante : la seconde exige que l’attente modifie le comportement envers la cible et contribue à provoquer sa réaction.
 
-## Chapitre 4
+### Chapitre 4
 
 Revoyez les schémas et leur activation, l’intégration de plusieurs informations, les modèles de formation d’impression, les processus automatiques et délibérés, les cinq heuristiques, l’interaction entre cible et percevant, la vérification confirmatoire et les prophéties autoréalisantes.
 
