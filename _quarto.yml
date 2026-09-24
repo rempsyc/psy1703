@@ -31,7 +31,6 @@ website:
       - index.qmd
       - calendrier.qmd
       - plan-de-cours.qmd
-      - guide-examen-1.qmd
       - section: "Séances"
         contents:
           - text: "1 · Introduction"
@@ -42,6 +41,8 @@ website:
             href: cours/03/index.qmd
           - text: "4 · Les cognitions sociales"
             href: cours/04/index.qmd
+          - text: "5 · Examen 1"
+            href: guide-examen-1.qmd
   page-footer:
     left: "PSY1703-04 · UQAR · Automne 2026"
     right: "Matériel évolutif — vérifiez la date de mise à jour."
