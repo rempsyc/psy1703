@@ -33,7 +33,7 @@ Apprenez également le nom et le sens des **théories, concepts, processus et pr
 Vous n’avez pas à mémoriser :
 
 - les valeurs statistiques exactes;
-- les pourcentages ou les nombres précis dans les tableaux et les figures, sauf le résultat approximatif de l’étude de la porte explicitement signalé en classe : **environ la moitié (environ 50 %) des passants n’ont pas remarqué le remplacement**;
+- les pourcentages ou les nombres précis dans les tableaux et les figures (sauf si l'emphase a été explicitement mise sur un pourcentage particulier en classe);
 - les noms et les années des autrices, auteurs ou équipes de recherche;
 - les références bibliographiques;
 - les détails d’une procédure qui ne sont pas nécessaires pour comprendre le concept ou le résultat principal.
