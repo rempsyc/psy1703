@@ -51,13 +51,24 @@ L’examen comprendra une question à développement très court associée à ch
 **Cours 1 et chapitre 1**
 
 - Définition, objet et caractéristiques de la psychologie sociale
+- Psychologie sociale appliquée, science psychologique sociale et psychologie positive
 - Présence réelle, imaginée ou implicite d’autrui
 - Psychologie sociale, intuition et sens commun
 - Personne, situation et formule de Lewin `C = f(P, S)`
 - Niveaux d’explication personnel, interpersonnel, groupal et intersociétal
+- Liens entre la psychologie sociale et les autres disciplines
 - Repères historiques et champs d’application de la psychologie sociale
+- Principaux thèmes de recherche en psychologie sociale
+- Développements contemporains : culture, processus automatiques, mesures implicites et neurosciences sociales
+- Interaction entre composantes biologiques, évolutives et sociales
+- Crise de reproductibilité, réplications et science ouverte
 - Théories, hypothèses et fonctions d’une théorie
-- Principales influences théoriques : rôles, apprentissage social, échange social, cognition, théorie du champ et approche évolutionniste
+- Théories des rôles
+- Renforcement et apprentissage social
+- Théorie de l’échange social
+- Approches cognitives
+- Théorie du champ de Lewin
+- Approches évolutionnistes
 - Apprentissage vicariant
 - Facilitation sociale et étude de Triplett
 
