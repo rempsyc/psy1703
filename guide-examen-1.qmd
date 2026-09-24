@@ -48,83 +48,87 @@ L’examen comprendra une question à développement très court associée à ch
 
 ## Bloc 1 — Voir le social autrement
 
-### Cours 1
+**Cours 1 et chapitre 1**
 
-Vous devriez pouvoir :
-
-- expliquer ce qu’étudie la psychologie sociale;
-- reconnaitre l’influence d’une présence réelle, imaginaire ou implicite;
-- expliquer pourquoi une intuition plausible ne remplace pas une vérification;
-- utiliser l’idée de Lewin selon laquelle le comportement dépend de la personne et de la situation;
-- distinguer les niveaux d’explication personnel, interpersonnel, groupal et intersociétal;
-- expliquer pourquoi la présence sociale peut améliorer la performance dans une activité bien maitrisée, mais réduire la performance dans une activité nouvelle ou complexe, et relier cette nuance à l’exemple des cyclistes.
-
-### Chapitre 1
-
-Revoyez la définition et les caractéristiques de la psychologie sociale, ses repères historiques, ses niveaux d’analyse et ses principaux champs d’application. Assurez-vous aussi de comprendre le rôle d’une théorie, les limites du sens commun et le sens général des principales influences théoriques présentées, notamment les approches cognitive, de l’apprentissage social et de l’échange social.
+- Définition, objet et caractéristiques de la psychologie sociale
+- Présence réelle, imaginée ou implicite d’autrui
+- Psychologie sociale, intuition et sens commun
+- Personne, situation et formule de Lewin `C = f(P, S)`
+- Niveaux d’explication personnel, interpersonnel, groupal et intersociétal
+- Repères historiques et champs d’application de la psychologie sociale
+- Théories, hypothèses et fonctions d’une théorie
+- Principales influences théoriques : rôles, apprentissage social, échange social, cognition, théorie du champ et approche évolutionniste
+- Apprentissage vicariant
+- Facilitation sociale et étude de Triplett
 
 ## Bloc 2 — Méthodes de recherche
 
-### Cours 2
+**Cours 2 et chapitre 2**
 
-Vous devriez pouvoir :
-
-- passer d’une théorie à une hypothèse vérifiable;
-- distinguer construit, définition opérationnelle, variable indépendante et variable dépendante;
-- évaluer la fidélité et les principales formes de validité;
-- distinguer les familles de mesures et les principaux devis;
-- interpréter prudemment une différence de moyennes ou une corrélation;
-- distinguer sélection aléatoire et assignation aléatoire;
-- expliquer comment certaines pratiques peuvent déformer les résultats;
-- expliquer la crise de réplication et le rôle de pratiques de science ouverte;
-- expliquer le MASKing, son développement anglais et son sens.
-
-### Chapitre 2
-
-Revoyez les étapes d’une recherche, les variables, la fidélité, les validités, les méthodes et devis, les familles de mesures, l’interprétation des résultats, les biais, les principes éthiques et les limites propres à chaque méthode. Certaines questions peuvent porter sur des éléments du chapitre qui n’ont pas été repris en détail en classe.
+- Étapes d’une recherche, théories et hypothèses
+- Construits et définitions opérationnelles
+- Variables indépendantes et variables dépendantes
+- Fidélité, fidélité temporelle et fidélité interjuges
+- Validité de construit, validité interne et validité externe
+- Sélection aléatoire et assignation aléatoire
+- Devis expérimental, quasi expérimental, corrélationnel et observationnel
+- Recherche en laboratoire et recherche sur le terrain
+- Études transversales et longitudinales
+- Mesures verbales, comportementales, implicites, physiologiques et non réactives
+- Réactivité, réalisme expérimental et réalisme mondain
+- Différences de moyennes, corrélations, associations et causalité
+- Triangulation, effets de confusion et interactions
+- Analyse de contenu, analyse archivistique, étude de cas et méta-analyse
+- Biais, principes éthiques et limites des méthodes
+- Crise de réplication, préenregistrement, rapports enregistrés et science ouverte
+- *p*-hacking, HARKing et biais de publication
+- MASKing : développement de l’acronyme et concept
 
 ## Bloc 3 — Le soi
 
-### Cours 3
+**Cours 3 et chapitre 3**
 
-Vous devriez pouvoir :
-
-- distinguer soi corporel et soi conceptuel;
-- expliquer la clarté du concept de soi et les schémas sur le soi;
-- distinguer les principales formes de l’estime de soi;
-- expliquer conscience de soi, présentation de soi, contrôle de soi, autoefficacité et autocompassion;
-- expliquer comment l’autoperception, le regard des autres et la comparaison sociale contribuent à la connaissance de soi;
-- reconnaitre le rôle de la culture et du contexte;
-- expliquer l’expérience de la guimauve et le lien observé avec des résultats ultérieurs;
-- comprendre que l’étude de la main en caoutchouc porte sur le sentiment que la **fausse main** fait partie de son propre corps et qu’une clarté plus faible du concept de soi était associée à un sentiment plus fort de propriété envers cette fausse main.
-
-### Chapitre 3
-
-Revoyez les composantes et les sources du soi, les formes de l’estime de soi, les soi possibles, les schémas, l’autoperception, l’autovérification, la comparaison sociale, la conscience de soi, la mémoire liée au soi, l’autoefficacité, l’autorégulation, la présentation de soi et l’autohandicap. Le manuel contient aussi des notions moins développées en classe qui peuvent être évaluées dans la moitié réservée au manuel.
+- Soi corporel et soi conceptuel
+- Sentiment de propriété du corps et expérience de la main en caoutchouc
+- Concept de soi, clarté du concept de soi et schémas sur le soi
+- Soi individuel, soi relationnel et soi collectif
+- Culture, contexte et concept de soi
+- Formes et niveaux de l’estime de soi
+- Soi possibles
+- Théorie de l’autoperception
+- Autovérification et regard d’autrui
+- Comparaison sociale
+- Conscience de soi privée et conscience de soi publique
+- Mémoire autobiographique, mémoire autoréférentielle et rappel sélectif
+- Autoefficacité
+- Autorégulation et contrôle de soi
+- Autocompassion et ses composantes
+- Présentation de soi authentique et présentation de soi stratégique
+- Monitorage de soi
+- Écarts entre les sois et autohandicap
+- Expérience de la guimauve et résultats ultérieurs
 
 ## Bloc 4 — Cognitions sociales
 
-### Cours 4
+**Cours 4 et chapitre 4**
 
-Vous devriez pouvoir :
-
-- expliquer le caractère dynamique de la cognition sociale et la sélection de l’attention;
-- définir la cécité au changement, la reconnaitre dans une situation et retenir que, dans l’étude de la porte, environ la moitié des passants n’ont pas remarqué le remplacement;
-- distinguer traitement ascendant et traitement descendant;
-- expliquer les schémas, leur accessibilité — notamment en termes de facilité ou de rapidité d’accès — et leur amorçage;
-- interpréter le résultat général de l’étude sur l’amorçage sémantique selon la langue, sans mémoriser le nombre de langues, la taille de l’échantillon ou les valeurs de la figure;
-- reconnaitre les facteurs qui rendent un schéma actif;
-- expliquer comment la charge cognitive peut réduire les ressources disponibles pour un traitement approfondi;
-- relier la distance psychologique à une représentation plus abstraite ou plus concrète;
-- distinguer le traitement rapide (« système 1 ») du traitement plus délibéré (« système 2 »), sans supposer que le premier est toujours erroné ou que le second est infaillible;
-- expliquer ce que compare un véritable Test d’association implicite (IAT) : la vitesse et les erreurs entre des blocs où les catégories sont jumelées différemment;
-- comparer les façons de former une impression;
-- distinguer disponibilité, représentativité, simulation, ancrage et affect;
-- distinguer la vérification confirmatoire d’une prophétie autoréalisante : la seconde exige que l’attente modifie le comportement envers la cible et contribue à provoquer sa réaction.
-
-### Chapitre 4
-
-Revoyez les schémas et leur activation, l’intégration de plusieurs informations, les modèles de formation d’impression, les processus automatiques et délibérés, les cinq heuristiques, l’interaction entre cible et percevant, la vérification confirmatoire et les prophéties autoréalisantes.
+- Cognition sociale et traitement dynamique de l’information sociale
+- Attention sélective et cécité au changement
+- Étude de la porte et pourcentage approximatif signalé en classe
+- Traitements ascendant et descendant
+- Schémas et familles de schémas
+- Accessibilité et amorçage
+- Facteurs d’activation des schémas
+- Amorçage sémantique selon la langue
+- Charge cognitive
+- Distance psychologique
+- Processus automatiques et délibérés; systèmes 1 et 2
+- Test d’association implicite (IAT)
+- Modèles algébrique et configurationnel de la formation d’impression
+- Continuum entre catégorisation et traitement individualisé
+- Heuristiques de disponibilité, de représentativité, de simulation, d’ancrage et d’affect
+- Interaction entre cible et percevant
+- Vérification confirmatoire et prophétie autoréalisante
 
 ## Une méthode de préparation
 
