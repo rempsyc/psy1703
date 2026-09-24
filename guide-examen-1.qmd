@@ -1,0 +1,123 @@
+---
+title: "Guide d’étude — Examen 1"
+subtitle: "Cours 1–4 et chapitres 1–4"
+date: "2026-09-23"
+date-format: "D MMMM YYYY"
+---
+## Repères
+
+- Date : 29 septembre 2026.
+- Durée : 90 minutes.
+- Pondération : 25 % de la note finale.
+- Matière : cours 1 à 4 et chapitres 1 à 4 du manuel.
+- L’examen comportera 32 questions à choix multiples et 8 questions à développement très court.
+- 50 % des points proviendront du matériel du cours et 50 % du manuel. Une notion peut se trouver dans les deux sources.
+- Les liens externes et les articles cités pour approfondir ne constituent pas de la matière supplémentaire à étudier.
+
+## Ce que vous devriez pouvoir faire
+
+Préparez-vous à reconnaitre et définir les concepts, à distinguer des notions proches, à expliquer un résultat ou un mécanisme et à appliquer les notions à une situation nouvelle. Les questions à développement demanderont de définir de grands concepts en quelques phrases. Certaines consignes pourront aussi demander de développer un acronyme, de nommer des composantes ou de distinguer deux modes de traitement. Chaque réponse sera évaluée à partir de trois éléments essentiels, pour un total de trois points.
+
+## Comment étudier le manuel efficacement
+
+Concentrez-vous d’abord sur les **termes en gras**, particulièrement ceux qui sont mis en évidence en **bleu** et qui se retrouvent souvent dans le glossaire. Vous devriez pouvoir reconnaitre ces termes, les définir dans vos mots et les distinguer d’un concept voisin.
+
+Apprenez également le nom et le sens des **théories, concepts, processus et principes centraux**, même lorsqu’ils ne correspondent pas à une entrée isolée du glossaire. Pour une étude présentée dans le chapitre, retenez surtout :
+
+- la question générale examinée;
+- le concept illustré;
+- la comparaison importante;
+- la direction ou le profil général des résultats;
+- la conclusion conceptuelle que l’étude permet de comprendre.
+
+Vous n’avez pas à mémoriser :
+
+- les valeurs statistiques exactes;
+- les pourcentages ou les nombres précis dans les tableaux et les figures, sauf le résultat approximatif de l’étude de la porte explicitement signalé en classe : **environ la moitié (environ 50 %) des passants n’ont pas remarqué le remplacement**;
+- les noms et les années des autrices, auteurs ou équipes de recherche;
+- les références bibliographiques;
+- les détails d’une procédure qui ne sont pas nécessaires pour comprendre le concept ou le résultat principal.
+
+Par exemple, vous pourriez devoir expliquer ce qu’illustre une expérience ou reconnaitre le résultat général attendu. Vous n’auriez pas à donner le nom de l’équipe, l’année de publication ou une moyenne exacte.
+
+## Comment les réponses à développement seront corrigées
+
+Vous n’avez pas à reproduire une définition mot à mot. Une formulation provenant des diapositives, du texte du manuel ou du glossaire sera acceptée si elle exprime correctement les éléments essentiels. Une paraphrase exacte dans vos propres mots sera également acceptée. Chaque réponse vaudra trois points, généralement un point par élément important. Lorsqu’une consigne demande explicitement le développement d’un acronyme, des composantes ou une distinction, ces éléments font partie de la réponse attendue.
+
+L’examen comprendra une question à développement très court associée à chacun des cours 1 à 4 et une associée à chacun des chapitres 1 à 4. Les huit questions seront courtes et ne prendront pas la forme de longues études de cas.
+
+## Cours 1 — Voir le social autrement
+
+Vous devriez pouvoir :
+
+- expliquer ce qu’étudie la psychologie sociale;
+- reconnaitre l’influence d’une présence réelle, imaginaire ou implicite;
+- expliquer pourquoi une intuition plausible ne remplace pas une vérification;
+- utiliser l’idée de Lewin selon laquelle le comportement dépend de la personne et de la situation;
+- distinguer les niveaux d’explication personnel, interpersonnel, groupal et intersociétal;
+- expliquer pourquoi la présence sociale peut améliorer la performance dans une activité bien maitrisée, mais réduire la performance dans une activité nouvelle ou complexe, et relier cette nuance à l’exemple des cyclistes.
+
+## Chapitre 1
+
+Revoyez la définition et les caractéristiques de la psychologie sociale, ses repères historiques, ses niveaux d’analyse et ses principaux champs d’application. Assurez-vous aussi de comprendre le rôle d’une théorie, les limites du sens commun et le sens général des principales influences théoriques présentées, notamment les approches cognitive, de l’apprentissage social et de l’échange social.
+
+## Cours 2 — Méthodes de recherche
+
+Vous devriez pouvoir :
+
+- passer d’une théorie à une hypothèse vérifiable;
+- distinguer construit, définition opérationnelle, variable indépendante et variable dépendante;
+- évaluer la fidélité et les principales formes de validité;
+- distinguer les familles de mesures et les principaux devis;
+- interpréter prudemment une différence de moyennes ou une corrélation;
+- distinguer sélection aléatoire et assignation aléatoire;
+- expliquer comment certaines pratiques peuvent déformer les résultats;
+- expliquer la crise de réplication et le rôle de pratiques de science ouverte;
+- expliquer le MASKing, son développement anglais et son sens.
+
+## Chapitre 2
+
+Revoyez les étapes d’une recherche, les variables, la fidélité, les validités, les méthodes et devis, les familles de mesures, l’interprétation des résultats, les biais, les principes éthiques et les limites propres à chaque méthode. Certaines questions peuvent porter sur des éléments du chapitre qui n’ont pas été repris en détail en classe.
+
+## Cours 3 — Le soi
+
+Vous devriez pouvoir :
+
+- distinguer soi corporel et soi conceptuel;
+- expliquer la clarté du concept de soi et les schémas sur le soi;
+- distinguer les principales formes de l’estime de soi;
+- expliquer conscience de soi, présentation de soi, contrôle de soi, autoefficacité et autocompassion;
+- expliquer comment l’autoperception, le regard des autres et la comparaison sociale contribuent à la connaissance de soi;
+- reconnaitre le rôle de la culture et du contexte;
+- expliquer l’expérience de la guimauve et le lien observé avec des résultats ultérieurs;
+- comprendre que l’étude de la main en caoutchouc porte sur le sentiment que la **fausse main** fait partie de son propre corps et qu’une clarté plus faible du concept de soi était associée à un sentiment plus fort de propriété envers cette fausse main.
+
+## Chapitre 3
+
+Revoyez les composantes et les sources du soi, les formes de l’estime de soi, les soi possibles, les schémas, l’autoperception, l’autovérification, la comparaison sociale, la conscience de soi, la mémoire liée au soi, l’autoefficacité, l’autorégulation, la présentation de soi et l’autohandicap. Le manuel contient aussi des notions moins développées en classe qui peuvent être évaluées dans la moitié réservée au manuel.
+
+## Cours 4 — Cognitions sociales
+
+Vous devriez pouvoir :
+
+- expliquer le caractère dynamique de la cognition sociale et la sélection de l’attention;
+- définir la cécité au changement, la reconnaitre dans une situation et retenir que, dans l’étude de la porte, environ la moitié des passants n’ont pas remarqué le remplacement;
+- distinguer traitement ascendant et traitement descendant;
+- expliquer les schémas, leur accessibilité — notamment en termes de facilité ou de rapidité d’accès — et leur amorçage;
+- interpréter le résultat général de l’étude sur l’amorçage sémantique selon la langue, sans mémoriser le nombre de langues, la taille de l’échantillon ou les valeurs de la figure;
+- reconnaitre les facteurs qui rendent un schéma actif;
+- expliquer comment la charge cognitive peut réduire les ressources disponibles pour un traitement approfondi;
+- relier la distance psychologique à une représentation plus abstraite ou plus concrète;
+- distinguer le traitement rapide (« système 1 ») du traitement plus délibéré (« système 2 »), sans supposer que le premier est toujours erroné ou que le second est infaillible;
+- expliquer ce que compare un véritable Test d’association implicite (IAT) : la vitesse et les erreurs entre des blocs où les catégories sont jumelées différemment;
+- comparer les façons de former une impression;
+- distinguer disponibilité, représentativité, simulation, ancrage et affect;
+- distinguer la vérification confirmatoire d’une prophétie autoréalisante : la seconde exige que l’attente modifie le comportement envers la cible et contribue à provoquer sa réaction.
+
+## Chapitre 4
+
+Revoyez les schémas et leur activation, l’intégration de plusieurs informations, les modèles de formation d’impression, les processus automatiques et délibérés, les cinq heuristiques, l’interaction entre cible et percevant, la vérification confirmatoire et les prophéties autoréalisantes.
+
+## Une méthode de préparation
+
+Pour chaque notion, essayez d’abord de la définir sans vos notes. Comparez-la ensuite à une notion proche et inventez un court exemple. Vérifiez votre réponse dans les diapositives, le chapitre ou le glossaire, puis notez les deux ou trois éléments que toute bonne définition devrait contenir. Pour les méthodes de recherche, entrainez-vous aussi à identifier les variables, le devis, la conclusion permise et une limite précise.

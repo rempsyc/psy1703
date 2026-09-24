@@ -8,12 +8,12 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 ## Prochaine séance
 
-### Cours 4 — Les cognitions sociales
+### Examen 1
 
-**Mardi 22 septembre 2026 · 13 h 15 à 16 h 05**<br>
+**Mardi 29 septembre 2026 · 13 h 15 à 14 h 45**<br>
 **Campus de Rimouski · Local J462**
 
-[Voir la page du cours 4](cours/04/index.qmd){.btn .btn-primary .btn-lg}
+[Consulter le guide d’étude](guide-examen-1.qmd){.btn .btn-primary .btn-lg}
 
 ## Comment utiliser ce site
 

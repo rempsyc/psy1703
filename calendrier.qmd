@@ -10,7 +10,7 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 | 8 septembre | [Méthodes de recherche](cours/02/index.qmd) | Chapitre 2 | Version finale |
 | 15 septembre | [Le soi](cours/03/index.qmd) | Chapitre 3 | Version finale |
 | 22 septembre | [La cognition sociale](cours/04/index.qmd) | Chapitre 4 | Version finale |
-| 29 septembre | Examen 1 | — | Évaluation |
+| 29 septembre | [Examen 1 — Guide d’étude](guide-examen-1.qmd) | — | Évaluation |
 | 6 octobre | L'attribution | Chapitre 5 | À venir |
 | 13 octobre | Les attitudes | Chapitre 6 | À venir |
 | 20 octobre | Les relations interpersonnelles | Chapitre 8 | À venir |

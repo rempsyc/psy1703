@@ -22,6 +22,8 @@ website:
         href: calendrier.qmd
       - text: "Plan de cours"
         href: plan-de-cours.qmd
+      - text: "Guide d’étude"
+        href: guide-examen-1.qmd
   sidebar:
     style: docked
     search: true
@@ -29,6 +31,7 @@ website:
       - index.qmd
       - calendrier.qmd
       - plan-de-cours.qmd
+      - guide-examen-1.qmd
       - section: "Séances"
         contents:
           - text: "1 · Introduction"
