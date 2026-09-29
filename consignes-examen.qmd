@@ -1,0 +1,38 @@
+---
+pagetitle: "Consignes de l’examen — PSY1703"
+lang: fr-CA
+format:
+  revealjs:
+    theme: [simple, _themes/slides.scss]
+    slide-number: false
+    transition: fade
+    background-transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.08
+    navigation-mode: linear
+    controls: false
+    progress: false
+    history: true
+    hash: true
+    menu: false
+    overview: false
+    footer: "PSY1703 — Psychologie sociale"
+    embed-resources: false
+---
+
+## Consignes
+
+- **90 minutes** · 32 choix multiples · 8 développements courts
+- Seuls la **copie d’examen** et le **matériel d’écriture** sont permis.
+- Manuel, notes, téléphone, ordinateur et IA : **interdits**.
+- Gardez le **silence** et ne communiquez pas avec vos camarades.
+- **Aucune sortie** avant d’avoir remis votre copie.
+- Choix multiples : entourez **une seule lettre**; aucune pénalité pour une mauvaise réponse.
+- Développements : répondez **brièvement et précisément**, dans vos propres mots.
+- Avant de remettre votre copie, vérifiez les **40 questions**.
+
+::: {.callout-important appearance="simple" icon="false"}
+Lorsque vous avez terminé, remettez votre copie à l’avant et quittez la salle en silence.
+:::
