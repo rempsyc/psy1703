@@ -10,6 +10,7 @@ project:
 
 website:
   title: "PSY1703 — Psychologie sociale"
+  favicon: assets/favicon.svg
   site-url: "https://rempsyc.github.io/psy1703/"
   repo-url: "https://github.com/rempsyc/psy1703"
   repo-actions: [source]
