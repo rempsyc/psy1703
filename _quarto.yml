@@ -23,8 +23,14 @@ website:
         href: calendrier.qmd
       - text: "Plan de cours"
         href: plan-de-cours.qmd
-      - text: "Guide d’étude"
-        href: guide-examen-1.qmd
+      - text: "Examens"
+        menu:
+          - text: "Examen 1"
+            href: examen-1.qmd
+          - text: "Examen 2"
+            href: examen-2.qmd
+          - text: "Examen 3"
+            href: examen-3.qmd
   sidebar:
     style: docked
     search: true
@@ -42,8 +48,14 @@ website:
             href: cours/03/index.qmd
           - text: "4 · Les cognitions sociales"
             href: cours/04/index.qmd
-          - text: "5 · Examen 1"
-            href: guide-examen-1.qmd
+      - section: "Examens"
+        contents:
+          - text: "Examen 1"
+            href: examen-1.qmd
+          - text: "Examen 2"
+            href: examen-2.qmd
+          - text: "Examen 3"
+            href: examen-3.qmd
   page-footer:
     left: "PSY1703-04 · UQAR · Automne 2026"
     right: "Matériel évolutif — vérifiez la date de mise à jour."
