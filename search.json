@@ -117,6 +117,54 @@
     ]
   },
   {
+    "objectID": "cours/05/index.html",
+    "href": "cours/05/index.html",
+    "title": "Cours 5 — L’attribution",
+    "section": "",
+    "text": "Mardi 6 octobre 2026 Lecture associée : Vallerand, chapitre 5\nOuvrir les diapositives",
+    "crumbs": [
+      "Accueil",
+      "Séances",
+      "5 · L’attribution"
+    ]
+  },
+  {
+    "objectID": "cours/05/index.html#à-retenir",
+    "href": "cours/05/index.html#à-retenir",
+    "title": "Cours 5 — L’attribution",
+    "section": "À retenir",
+    "text": "À retenir\nÀ la fin de cette séance, vous devriez pouvoir :\n\ndistinguer les causes liées à la personne, à la cible et aux circonstances;\nutiliser les trois indices de covariation pour comparer des explications;\nanalyser un biais attributionnel et les conséquences d’une explication.",
+    "crumbs": [
+      "Accueil",
+      "Séances",
+      "5 · L’attribution"
+    ]
+  },
+  {
+    "objectID": "cours/05/index.html#pour-participer",
+    "href": "cours/05/index.html#pour-participer",
+    "title": "Cours 5 — L’attribution",
+    "section": "Pour participer",
+    "text": "Pour participer\nApportez un téléphone, une tablette ou un ordinateur bien chargé pour participer aux activités Wooclap et compléter les quiz évalués obligatoires. L’accès sera affiché en classe.\nLe quiz 3 (1,25 % par quiz retenu) porte sur le chapitre 4 et le cours 4. L’atelier se fera en équipe de trois ou quatre.",
+    "crumbs": [
+      "Accueil",
+      "Séances",
+      "5 · L’attribution"
+    ]
+  },
+  {
+    "objectID": "cours/05/index.html#après-le-cours",
+    "href": "cours/05/index.html#après-le-cours",
+    "title": "Cours 5 — L’attribution",
+    "section": "Après le cours",
+    "text": "Après le cours\nPour le 13 octobre, lire le chapitre 6 : les attitudes. Le quiz 4 (1,25 % par quiz retenu) portera sur le chapitre 5 et le cours 5.",
+    "crumbs": [
+      "Accueil",
+      "Séances",
+      "5 · L’attribution"
+    ]
+  },
+  {
     "objectID": "cours/04/index.html",
     "href": "cours/04/index.html",
     "title": "Cours 4 — La cognition sociale",
@@ -320,7 +368,7 @@
     "href": "calendrier.html",
     "title": "Calendrier",
     "section": "",
-    "text": "Le calendrier ci-dessous sert d’accès aux diapositives. En cas d’écart, le plan de cours officiel demeure la référence.\n\n\n\nDate\nSéance\nLecture\nÉtat\n\n\n\n\n1er septembre\nIntroduction à la psychologie sociale\nChapitre 1\nVersion finale\n\n\n8 septembre\nMéthodes de recherche\nChapitre 2\nVersion finale\n\n\n15 septembre\nLe soi\nChapitre 3\nVersion finale\n\n\n22 septembre\nLa cognition sociale\nChapitre 4\nVersion finale\n\n\n29 septembre\nExamen 1\n—\nÉvaluation\n\n\n6 octobre\nL’attribution\nChapitre 5\nÀ venir\n\n\n13 octobre\nLes attitudes\nChapitre 6\nÀ venir\n\n\n20 octobre\nLes relations interpersonnelles\nChapitre 8\nÀ venir\n\n\n27 octobre\nSemaine de lecture\n—\nPas de cours\n\n\n3 novembre\nL’agression\nChapitre 9\nÀ venir\n\n\n10 novembre\nExamen 2\n—\nÉvaluation\n\n\n17 novembre\nLes comportements d’aide\nChapitre 10\nÀ venir\n\n\n24 novembre\nL’influence sociale et le conformisme\nChapitre 11\nÀ venir\n\n\n1er décembre\nLes groupes\nChapitre 12\nÀ venir\n\n\n8 décembre\nLes relations intergroupes et les préjugés\nChapitre 13\nÀ venir\n\n\n15 décembre\nExamen 3\n—\nÉvaluation",
+    "text": "Le calendrier ci-dessous sert d’accès aux diapositives. En cas d’écart, le plan de cours officiel demeure la référence.\n\n\n\nDate\nSéance\nLecture\nÉtat\n\n\n\n\n1er septembre\nIntroduction à la psychologie sociale\nChapitre 1\nVersion finale\n\n\n8 septembre\nMéthodes de recherche\nChapitre 2\nVersion finale\n\n\n15 septembre\nLe soi\nChapitre 3\nVersion finale\n\n\n22 septembre\nLa cognition sociale\nChapitre 4\nVersion finale\n\n\n29 septembre\nExamen 1\n—\nSéance passée\n\n\n6 octobre\nL’attribution\nChapitre 5\nEn préparation\n\n\n13 octobre\nLes attitudes\nChapitre 6\nÀ venir\n\n\n20 octobre\nLes relations interpersonnelles\nChapitre 8\nÀ venir\n\n\n27 octobre\nSemaine de lecture\n—\nPas de cours\n\n\n3 novembre\nL’agression\nChapitre 9\nÀ venir\n\n\n10 novembre\nExamen 2\n—\nÉvaluation\n\n\n17 novembre\nLes comportements d’aide\nChapitre 10\nÀ venir\n\n\n24 novembre\nL’influence sociale et le conformisme\nChapitre 11\nÀ venir\n\n\n1er décembre\nLes groupes\nChapitre 12\nÀ venir\n\n\n8 décembre\nLes relations intergroupes et les préjugés\nChapitre 13\nÀ venir\n\n\n15 décembre\nExamen 3\n—\nÉvaluation",
     "crumbs": [
       "Accueil",
       "Calendrier"
@@ -1923,6 +1971,356 @@
     "text": "Après l’examen\n6 octobre · L’attribution\nLecture : Vallerand, chapitre 5\nComment expliquons-nous les comportements d’autrui et les nôtres?"
   },
   {
+    "objectID": "cours/05/diapositives.html#quiz-de-lecture-3-125",
+    "href": "cours/05/diapositives.html#quiz-de-lecture-3-125",
+    "title": "Psychologie sociale",
+    "section": "Quiz de lecture 3 — 1,25 %",
+    "text": "Quiz de lecture 3 — 1,25 %\nChapitre 4 et cours 4 · Travail individuel\nL’accès et les consignes seront affichés en classe.\n\nRéserver 10 minutes. Quiz évalué distinct du formatif : questionnaire, clé et accès à préparer et vérifier dans Box. Ne pas utiliser le mode de repli collectif des rondes pour ce quiz. Respecter les accommodements."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#du-jugement-à-lexplication",
+    "href": "cours/05/diapositives.html#du-jugement-à-lexplication",
+    "title": "Psychologie sociale",
+    "section": "Du jugement à l’explication",
+    "text": "Du jugement à l’explication\nCours 4 : comment je perçois une personne.\nCours 5 : pourquoi je pense qu’elle agit ainsi.\nUn même comportement peut recevoir plusieurs explications.\n\n3 minutes. Faire rappeler observation versus interprétation sans refaire le cours 4."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#trois-objectifs",
+    "href": "cours/05/diapositives.html#trois-objectifs",
+    "title": "Psychologie sociale",
+    "section": "Trois objectifs",
+    "text": "Trois objectifs\n\nDistinguer une cause liée à la personne, à la cible ou aux circonstances.\nUtiliser consensus, caractère distinctif et consistance pour comparer des explications.\nAnalyser un biais attributionnel et les conséquences d’une explication.\n\n\nPrésenter le parcours : outils, première ronde, pause, enquête en équipe, biais et conséquences, seconde ronde. Ce premier tour ne constitue pas un relevé exhaustif du manuel."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#andréa-arrive-en-retard",
+    "href": "cours/05/diapositives.html#andréa-arrive-en-retard",
+    "title": "Psychologie sociale",
+    "section": "Andréa arrive en retard",
+    "text": "Andréa arrive en retard\nÀ une réunion d’équipe, Andréa arrive 15 minutes après le début.\nVotre première explication?\nÉcrivez une hypothèse, puis une autre qui implique le contexte.\n\n4 minutes : 45 secondes seul, 90 secondes en binôme de proximité, deux réponses. Situation fictive; ne pas solliciter des confidences. Garder les propositions pour la reprise finale."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#une-attribution-causale",
+    "href": "cours/05/diapositives.html#une-attribution-causale",
+    "title": "Psychologie sociale",
+    "section": "Une attribution causale",
+    "text": "Une attribution causale\nUne attribution est une explication de la cause d’un comportement ou d’un évènement.\n« Andréa arrive en retard » : observation.\n« Andréa manque de respect » : attribution à une disposition.\n\nDistinguer expliquer le retard et inférer une disposition durable. Une explication peut être plausible sans être correcte. Cadre historique présenté par Kelley (1973), qui situe les contributions de Heider."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#personne-cible-circonstances",
+    "href": "cours/05/diapositives.html#personne-cible-circonstances",
+    "title": "Psychologie sociale",
+    "section": "Personne, cible, circonstances",
+    "text": "Personne, cible, circonstances\n\nPersonne : habitude d’organisation d’Andréa.\nCible ou situation particulière : réunion dont l’horaire est difficile à trouver.\nCirconstances : panne du transport ce jour-là.\n\nPlusieurs causes peuvent contribuer au même évènement.\n\nCause interne versus externe est utile, mais ne distingue pas la cible relativement constante d’une circonstance ponctuelle. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#expliquer-nest-pas-excuser",
+    "href": "cours/05/diapositives.html#expliquer-nest-pas-excuser",
+    "title": "Psychologie sociale",
+    "section": "Expliquer n’est pas excuser",
+    "text": "Expliquer n’est pas excuser\nComprendre une contrainte aide à choisir une action :\n\nclarifier l’horaire;\nadapter l’organisation;\ndiscuter d’un engagement non respecté.\n\nLa réponse dépend de l’explication que l’on retient.\n\nExemple original. Faire distinguer cause, intention et responsabilité : une panne ne nous dit pas si la personne a prévenu l’équipe."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#quand-une-action-informe-sur-une-disposition",
+    "href": "cours/05/diapositives.html#quand-une-action-informe-sur-une-disposition",
+    "title": "Psychologie sociale",
+    "section": "Quand une action informe sur une disposition",
+    "text": "Quand une action informe sur une disposition\nUne action est plus informative si la personne :\n\npouvait choisir autrement;\nconnaissait les conséquences;\navait réellement la capacité d’agir.\n\nUne conduite imposée renseigne moins sur une préférence personnelle.\n\nInférences correspondantes : cadre de Jones et Davis discuté dans Kelley (1973), et testé par Jones et Harris (1967). Présentation simplifiée; vérifier effets non communs et désirabilité sociale dans le manuel avant de développer davantage."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#choix-ou-rôle-imposé",
+    "href": "cours/05/diapositives.html#choix-ou-rôle-imposé",
+    "title": "Psychologie sociale",
+    "section": "Choix ou rôle imposé?",
+    "text": "Choix ou rôle imposé?\nAlex défend une proposition lors d’un débat.\nCas A : Alex a choisi cette position. Cas B : la position a été assignée.\nDans quel cas le discours vous informe-t-il davantage sur son opinion?\n\n3 minutes. Exemple original, vote à main levée, réponse A. Un texte imposé peut laisser des indices, mais sa position ne suffit pas à connaitre celle de l’auteur."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#comparer-plutôt-que-deviner",
+    "href": "cours/05/diapositives.html#comparer-plutôt-que-deviner",
+    "title": "Psychologie sociale",
+    "section": "Comparer plutôt que deviner",
+    "text": "Comparer plutôt que deviner\nPour expliquer le retard, chercher des comparaisons :\nD’autres personnes? D’autres réunions? D’autres jours?\n\nIntroduire les trois dimensions par les questions, puis leurs noms. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#trois-indices-de-covariation",
+    "href": "cours/05/diapositives.html#trois-indices-de-covariation",
+    "title": "Psychologie sociale",
+    "section": "Trois indices de covariation",
+    "text": "Trois indices de covariation\n\n\n\n\n\n\n\nIndice\nComparaison\n\n\n\n\nConsensus\nD’autres personnes réagissent-elles ainsi à la même cible?\n\n\nCaractère distinctif\nLa personne réagit-elle ainsi à d’autres cibles?\n\n\nConsistance\nLa personne réagit-elle ainsi à cette cible à d’autres moments?\n\n\n\n\nExpliquer distinctif élevé : le comportement est spécifique à cette cible; consistance élevée : il se répète envers cette même cible. Ne pas confondre variété des cibles et répétition temporelle. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#profil-orienté-vers-la-personne",
+    "href": "cours/05/diapositives.html#profil-orienté-vers-la-personne",
+    "title": "Psychologie sociale",
+    "section": "Profil orienté vers la personne",
+    "text": "Profil orienté vers la personne\nAndréa est souvent en retard :\n\nles autres arrivent à l’heure à cette réunion;\nAndréa arrive aussi en retard à d’autres réunions;\ncela se répète pour cette réunion.\n\nConsensus faible · caractère distinctif faible · consistance élevée\n\nDemander d’abord la cause plausible, puis lire le profil. Attribution à la personne favorisée dans le modèle; il reste possible qu’une contrainte personnelle durable contribue. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#profil-orienté-vers-la-cible",
+    "href": "cours/05/diapositives.html#profil-orienté-vers-la-cible",
+    "title": "Psychologie sociale",
+    "section": "Profil orienté vers la cible",
+    "text": "Profil orienté vers la cible\nPour cette réunion :\n\nplusieurs personnes sont en retard;\nAndréa est à l’heure à ses autres réunions;\nle retard se répète pour cette réunion.\n\nConsensus élevé · caractère distinctif élevé · consistance élevée\n\nLa réunion ou ses propriétés deviennent une explication plausible. Exemple : lieu ou horaire mal indiqué. Le modèle organise une inférence, pas une mesure directe de la cause. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#une-circonstance-ponctuelle",
+    "href": "cours/05/diapositives.html#une-circonstance-ponctuelle",
+    "title": "Psychologie sociale",
+    "section": "Une circonstance ponctuelle",
+    "text": "Une circonstance ponctuelle\nAndréa arrive habituellement à l’heure à cette réunion.\nAujourd’hui, une panne a interrompu le transport.\nConsistance faible : chercher ce qui a changé cette fois-ci.\n\nNe pas enseigner que consistance faible suffit à prouver quelle circonstance a causé l’effet. Le renseignement sur la panne ajoute un mécanisme concret. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#il-manque-souvent-de-linformation",
+    "href": "cours/05/diapositives.html#il-manque-souvent-de-linformation",
+    "title": "Psychologie sociale",
+    "section": "Il manque souvent de l’information",
+    "text": "Il manque souvent de l’information\nUne seule observation ne fournit pas les trois indices.\nInformation inconnue ≠ indice faible.\nQuelle comparaison demanderiez-vous avant de conclure?\n\n2 minutes de rappel différé sur le cas initial; faire nommer les trois questions sans afficher le tableau précédent. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#une-autre-cause-réduit-le-poids-dun-indice",
+    "href": "cours/05/diapositives.html#une-autre-cause-réduit-le-poids-dun-indice",
+    "title": "Psychologie sociale",
+    "section": "Une autre cause réduit le poids d’un indice",
+    "text": "Une autre cause réduit le poids d’un indice\nUn vendeur vous complimente.\nLe compliment peut refléter une appréciation sincère, mais aussi une incitation à vendre.\nPrincipe de réduction : une cause alternative plausible réduit le poids accordé à une explication.\n\nPrincipe de discounting; traduction provisoire à vérifier. Ne pas conclure que le vendeur ment ou que deux causes s’annulent. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#agir-malgré-un-obstacle",
+    "href": "cours/05/diapositives.html#agir-malgré-un-obstacle",
+    "title": "Psychologie sociale",
+    "section": "Agir malgré un obstacle",
+    "text": "Agir malgré un obstacle\nUne personne aide alors que cela lui coute du temps et des efforts.\nUn obstacle connu peut rendre la motivation à aider plus informative.\nPrincipe d’augmentation : l’action malgré un frein renforce une inférence sur une cause facilitante.\n\nAugmentation dans les schémas causaux de Kelley; ce n’est pas une règle permettant de lire la motivation avec certitude. Exemple original. Kelley (1973), https://doi.org/10.1037/h0034225. Terminologie française à harmoniser avec le chapitre 5 au second tour."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#connexion-ronde-1",
+    "href": "cours/05/diapositives.html#connexion-ronde-1",
+    "title": "Psychologie sociale",
+    "section": "Connectez-vous à Wooclap",
+    "text": "Connectez-vous à Wooclap\nRendez-vous sur wooclap.com.\nL’adresse de l’évènement, le code et le QR seront affichés en classe.\nSi l’accès n’est pas disponible, les mêmes questions seront présentées ici pour un vote individuel sans appareil.\nRonde 1 · Réflexion individuelle, puis discussion.\nReprendre après la ronde\n\nAccès propre au cours 5 à vérifier avant la séance. À défaut, afficher les questions archivées une par une : 30 secondes seul, vote A/B/C à main levée ou sur papier, discussion puis second vote. Formatif sans points. Le lien de reprise saute uniquement les questions archivées."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ronde-1-une-comparaison-temporelle",
+    "href": "cours/05/diapositives.html#ronde-1-une-comparaison-temporelle",
+    "title": "Psychologie sociale",
+    "section": "Ronde 1 · Une comparaison temporelle",
+    "text": "Ronde 1 · Une comparaison temporelle\nAndréa est-elle en retard à cette même réunion chaque semaine? Quel indice cherche-t-on?\nA. Le consensus. B. La consistance. C. Le caractère distinctif.\n\nW01 — Réponse B. Même personne, même cible, autres moments : consistance."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ronde-1-un-profil-de-covariation",
+    "href": "cours/05/diapositives.html#ronde-1-un-profil-de-covariation",
+    "title": "Psychologie sociale",
+    "section": "Ronde 1 · Un profil de covariation",
+    "text": "Ronde 1 · Un profil de covariation\nTout le monde rit de ce spectacle; Sam rit rarement d’autres spectacles et rit à chaque représentation de celui-ci. Quelle attribution le profil favorise-t-il?\nA. Une propriété du spectacle. B. Une disposition de Sam à rire de tout. C. Une circonstance exceptionnelle de ce soir.\n\nW02 — Réponse A. Consensus, caractère distinctif et consistance élevés orientent vers la cible."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ronde-1-un-indice-manquant",
+    "href": "cours/05/diapositives.html#ronde-1-un-indice-manquant",
+    "title": "Psychologie sociale",
+    "section": "Ronde 1 · Un indice manquant",
+    "text": "Ronde 1 · Un indice manquant\nOn ignore si les autres arrivent en retard. Quelle conclusion est justifiée?\nA. Le consensus est faible. B. Le consensus est élevé. C. Le consensus reste inconnu.\n\nW03 — Réponse C. L’absence d’information ne donne pas la valeur de l’indice."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#pause-1",
+    "href": "cours/05/diapositives.html#pause-1",
+    "title": "Psychologie sociale",
+    "section": "Pause — 10 minutes",
+    "text": "Pause — 10 minutes\n\nSi l’évènement Wooclap est prêt, activer la question ouverte de pause : réponses multiples, mentions J’aime, images, compte à rebours de dix minutes; modération désactivée, liste ou grille. Sinon pause libre. Annoncer oralement l’heure du retour. Ne pas publier les propositions ni les photos sans autorisation distincte."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#atelier",
+    "href": "cours/05/diapositives.html#atelier",
+    "title": "Psychologie sociale",
+    "section": "Atelier : le dossier du retard",
+    "text": "Atelier : le dossier du retard\nÉquipes de trois ou quatre, dans votre équipe Bleus/Ors.\nProduisez :\n\ndeux explications concurrentes;\nun tableau des trois indices, avec les inconnues;\nune question qui départage les explications;\nun message constructif à Andréa.\n\n\n25 minutes protégées : 2 minutes consigne, 6 hypothèses, 5 nouveaux indices, 5 rédaction, 7 partage. Une personne porte-parole par équipe; entendre trois équipes, puis synthèse. Proximité et trio au besoin. Travail sans IA; aucune expérience personnelle requise."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#dossier-a-ce-que-vous-savez",
+    "href": "cours/05/diapositives.html#dossier-a-ce-que-vous-savez",
+    "title": "Psychologie sociale",
+    "section": "Dossier A : ce que vous savez",
+    "text": "Dossier A : ce que vous savez\nAndréa a été en retard deux fois à cette réunion.\nLes autres personnes arrivent à l’heure.\nVous ne savez rien des autres réunions d’Andréa.\nQuelle information manque avant d’inférer une habitude générale?\n\nNe pas révéler la réponse immédiatement. Attendu : consensus faible, deux répétitions suggèrent de la consistance mais historique limité, caractère distinctif inconnu. Examiner aussi une contrainte de transport spécifique à Andréa. Faire noter une hypothèse de personne et une hypothèse de contexte."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#dossier-b-un-nouvel-indice",
+    "href": "cours/05/diapositives.html#dossier-b-un-nouvel-indice",
+    "title": "Psychologie sociale",
+    "section": "Dossier B : un nouvel indice",
+    "text": "Dossier B : un nouvel indice\nAndréa arrive à l’heure à ses autres réunions.\nCette réunion commence cinq minutes après la fin d’une activité obligatoire située dans un autre bâtiment.\nRévisez votre explication et votre message.\n\nAttendu : caractère distinctif élevé; profil faible consensus, distinctif élevé, répétition envers même cible : interaction personne–cible plausible, pas le profil pur de la cible ni celui de la personne. L’activité obligatoire apporte une contrainte concrète; chercher trajet et possibilités réelles de changement."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#partager-une-conclusion-révisable",
+    "href": "cours/05/diapositives.html#partager-une-conclusion-révisable",
+    "title": "Psychologie sociale",
+    "section": "Partager une conclusion révisable",
+    "text": "Partager une conclusion révisable\nVotre porte-parole présente :\n\n« Nous pensions que… »\n« Le nouvel indice nous fait privilégier… »\n« Il reste à vérifier… »\n« Nous proposerions… »\n\n\nFaire comparer une formulation accusatrice et une demande précise. Critères de débreffage : fidélité aux observations, juste classement des indices, hypothèse concurrente, question discriminante et action proportionnée. Aucune note scolaire."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#pourquoi-une-disposition-vient-elle-vite-à-lesprit",
+    "href": "cours/05/diapositives.html#pourquoi-une-disposition-vient-elle-vite-à-lesprit",
+    "title": "Psychologie sociale",
+    "section": "Pourquoi une disposition vient-elle vite à l’esprit?",
+    "text": "Pourquoi une disposition vient-elle vite à l’esprit?\nLe comportement et la personne sont souvent visibles.\nLes contraintes peuvent être moins accessibles.\nBiais de correspondance : inférer une disposition à partir d’une conduite qui peut être expliquée par la situation.\n\nFaire le lien avec la saillance et les schémas du cours 4. Éviter de présenter toute attribution interne comme une erreur. Jones et Harris mettent à l’épreuve l’inférence d’attitude sous contrainte. Jones et Harris (1967), https://doi.org/10.1016/0022-1031(67)90034-0."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#une-étude-classique-le-texte-imposé",
+    "href": "cours/05/diapositives.html#une-étude-classique-le-texte-imposé",
+    "title": "Psychologie sociale",
+    "section": "Une étude classique : le texte imposé",
+    "text": "Une étude classique : le texte imposé\nDes personnes lisent un texte favorable ou défavorable à Castro.\nL’auteur a choisi sa position, ou elle lui a été imposée.\nLes personnes estiment ensuite l’attitude réelle de l’auteur.\n\nPrésenter le contraste central de l’expérience I; le résultat numérique suivant vient de son tableau 1. Contexte politique historique; l’exercice ne demande aucune opinion sur Castro. Jones et Harris (1967), https://doi.org/10.1016/0022-1031(67)90034-0."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#votre-prédiction",
+    "href": "cours/05/diapositives.html#votre-prédiction",
+    "title": "Psychologie sociale",
+    "section": "Votre prédiction",
+    "text": "Votre prédiction\nSi la position est imposée, les estimations de l’attitude réelle seront-elles :\nA. identiques pour les deux textes; B. encore différentes selon la position du texte?\nChoisissez avant de voir le résultat.\n\n45 secondes individuellement, vote puis fermer le vote. Consigner seulement une prédiction pédagogique; pas de statistiques de cohorte publiques. Jones et Harris (1967), https://doi.org/10.1016/0022-1031(67)90034-0."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#la-position-du-texte-colore-encore-le-jugement",
+    "href": "cours/05/diapositives.html#la-position-du-texte-colore-encore-le-jugement",
+    "title": "Psychologie sociale",
+    "section": "La position du texte colore encore le jugement",
+    "text": "La position du texte colore encore le jugement\n\n\nMoyennes exactes du tableau 1, expérience I · Redessin original dans R · Jones et Harris (1967), p. 6.\n\n\nLes personnes tiennent compte de la contrainte, mais donnent encore une attitude davantage conforme au texte même sans choix. Valeurs du tableau 1 de la source primaire, transcription publique consultée sur Scribd : 59,62 et 17,38 avec choix; 44,10 et 22,87 sans choix. Échelle 10–70, sans vrai point neutre selon les auteurs. Aucune barre d’incertitude ajoutée. La figure porte uniquement sur l’expérience I. Sa principale hypothèse d’interaction n’a pas été confirmée; la différence pro–anti persiste sans choix. Ne pas demander de mémoriser ces valeurs. Jones et Harris (1967), https://doi.org/10.1016/0022-1031(67)90034-0."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ce-que-létude-permet-dexpliquer",
+    "href": "cours/05/diapositives.html#ce-que-létude-permet-dexpliquer",
+    "title": "Psychologie sociale",
+    "section": "Ce que l’étude permet d’expliquer",
+    "text": "Ce que l’étude permet d’expliquer\nLa contrainte change le jugement, sans toujours effacer l’inférence tirée du comportement.\nUne position défendue peut devenir, à tort, une opinion attribuée.\nExemple : débat assigné, fonction de porte-parole, service à la clientèle.\n\nFaire revenir au vote. La conclusion n’est pas que les personnes ne perçoivent aucune contrainte. Les exemples sont des applications pédagogiques, non des réplications testées dans l’article. Jones et Harris (1967), https://doi.org/10.1016/0022-1031(67)90034-0."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#une-erreur-fondamentale-dattribution",
+    "href": "cours/05/diapositives.html#une-erreur-fondamentale-dattribution",
+    "title": "Psychologie sociale",
+    "section": "Une erreur fondamentale d’attribution?",
+    "text": "Une erreur fondamentale d’attribution?\nOn peut accorder trop de poids aux dispositions d’autrui et trop peu aux contraintes.\nPour vérifier :\n\nquelle liberté d’action avait la personne?\nquel rôle devait-elle remplir?\nquelle contrainte connue change l’interprétation?\n\n\nDistinguer le terme général erreur fondamentale d’attribution et le biais de correspondance ciblé par l’étude. Vérifier les termes et le découpage exact du manuel au second tour. Ne pas traiter cette tendance comme une loi universelle."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#acteur-et-observateur-lhypothèse-classique",
+    "href": "cours/05/diapositives.html#acteur-et-observateur-lhypothèse-classique",
+    "title": "Psychologie sociale",
+    "section": "Acteur et observateur : l’hypothèse classique",
+    "text": "Acteur et observateur : l’hypothèse classique\n« Moi, j’étais pressé; cette personne est impatiente. »\nL’hypothèse acteur–observateur propose davantage de causes situationnelles pour soi, et personnelles pour autrui.\n\nPréparer la nuance suivante : exemple illustratif de l’hypothèse, pas preuve de sa généralité."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#un-effet-général-moins-solide-quattendu",
+    "href": "cours/05/diapositives.html#un-effet-général-moins-solide-quattendu",
+    "title": "Psychologie sociale",
+    "section": "Un effet général moins solide qu’attendu",
+    "text": "Un effet général moins solide qu’attendu\nUne méta-analyse de 173 études trouve une asymétrie moyenne générale très faible.\nLe profil dépend notamment du type d’évènement et de sa valence positive ou négative.\nConserver la distinction des points de vue; éviter une règle universelle.\n\nMalle (2006), https://pubmed.ncbi.nlm.nih.gov/17073526/. Taille moyenne rapportée selon analyses de d = −0,016 à 0,095. La méta-analyse trouve un profil classique pour les évènements négatifs et inversé pour les positifs. Ces chiffres sont des repères enseignants, pas une cible de mémorisation."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#pause-2",
+    "href": "cours/05/diapositives.html#pause-2",
+    "title": "Psychologie sociale",
+    "section": "Pause — 10 minutes",
+    "text": "Pause — 10 minutes\n\nSi l’évènement Wooclap est prêt, activer la question ouverte de pause : réponses multiples, mentions J’aime, images, compte à rebours de dix minutes; modération désactivée, liste ou grille. Sinon pause libre. Annoncer oralement l’heure du retour. Ne pas publier les propositions ni les photos sans autorisation distincte."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#une-explication-favorable-au-soi",
+    "href": "cours/05/diapositives.html#une-explication-favorable-au-soi",
+    "title": "Psychologie sociale",
+    "section": "Une explication favorable au soi",
+    "text": "Une explication favorable au soi\nAprès une réussite : « J’ai de bonnes capacités. »\nAprès un échec : « Les circonstances étaient défavorables. »\nBiais de complaisance : expliquer plus favorablement ses réussites que ses échecs.\n\nMezulis et al. (2004), https://pubmed.ncbi.nlm.nih.gov/15367078/. Méta-analyse de 266 études; variabilité selon les échantillons et les contextes culturels. Exemple original. Les explications favorables peuvent parfois être exactes; le biais porte sur le profil systématique."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ne-pas-confondre-les-biais",
+    "href": "cours/05/diapositives.html#ne-pas-confondre-les-biais",
+    "title": "Psychologie sociale",
+    "section": "Ne pas confondre les biais",
+    "text": "Ne pas confondre les biais\n\n\n\nComparaison\nQuestion\n\n\n\n\nCorrespondance\nInfère-t-on une disposition malgré une contrainte?\n\n\nActeur–observateur\nExplique-t-on différemment soi et autrui?\n\n\nComplaisance\nExplique-t-on différemment ses succès et ses échecs?\n\n\n\n\nFaire produire un exemple pour une seule ligne. Distinctions pédagogiques fondées sur Jones et Harris, Malle et Mezulis. Harmoniser les appellations françaises avec le manuel."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#les-causes-perçues-ont-plusieurs-dimensions",
+    "href": "cours/05/diapositives.html#les-causes-perçues-ont-plusieurs-dimensions",
+    "title": "Psychologie sociale",
+    "section": "Les causes perçues ont plusieurs dimensions",
+    "text": "Les causes perçues ont plusieurs dimensions\n\n\n\n\n\n\n\nDimension\nQuestion\n\n\n\n\nLieu\nLa cause se situe-t-elle dans la personne ou à l’extérieur?\n\n\nStabilité\nLa cause devrait-elle persister?\n\n\nContrôlabilité\nLa personne peut-elle agir sur cette cause?\n\n\n\nUne cause interne n’est pas forcément contrôlable.\n\nWeiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Trois dimensions du modèle de motivation et d’émotion. La contrôlabilité concerne une cause perçue; distinguer le contrôle de l’acteur de celui d’autrui si la discussion le nécessite."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#même-échec-explications-différentes",
+    "href": "cours/05/diapositives.html#même-échec-explications-différentes",
+    "title": "Psychologie sociale",
+    "section": "Même échec, explications différentes",
+    "text": "Même échec, explications différentes\n« Je n’ai pas utilisé une stratégie adaptée. »\n« Le système de remise était en panne. »\n« Je suis incapable dans tous les domaines. »\nClassez les causes perçues : lieu, stabilité, contrôlabilité.\n\n4 minutes : seul puis binôme. Stratégie : interne, modifiable, contrôle souvent possible mais moyens à préciser. Panne : externe, ponctuelle dans cet énoncé, hors contrôle immédiat de l’étudiant. Incapacité globale : perçue interne et stable, peu contrôlable. Ce sont les croyances du personnage, pas des diagnostics. Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#stabilité-et-attentes",
+    "href": "cours/05/diapositives.html#stabilité-et-attentes",
+    "title": "Psychologie sociale",
+    "section": "Stabilité et attentes",
+    "text": "Stabilité et attentes\nUne cause perçue comme durable peut faire attendre la répétition du résultat.\nUne cause perçue comme modifiable peut ouvrir une nouvelle tentative.\nQuelle action concrète rendrait la nouvelle explication crédible?\n\nWeiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. La stabilité influence les changements d’attentes; éviter de promettre qu’une reformulation suffit à améliorer la performance. Exemple : comparer une méthode de révision sur des exercices de difficulté semblable."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#contrôle-perçu-et-relations",
+    "href": "cours/05/diapositives.html#contrôle-perçu-et-relations",
+    "title": "Psychologie sociale",
+    "section": "Contrôle perçu et relations",
+    "text": "Contrôle perçu et relations\nLa manière d’expliquer une difficulté peut orienter :\n\nla colère ou la compassion;\nle blâme;\nl’aide proposée.\n\nAvant de juger le contrôle : quels moyens étaient réellement disponibles?\n\nWeiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Dans le modèle, les dimensions causales organisent attentes et émotions. Exemple original : retard lié à un choix évitable versus transport interrompu. Ne pas attribuer automatiquement une émotion unique à chaque dimension."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#une-rétroaction-qui-ouvre-une-action",
+    "href": "cours/05/diapositives.html#une-rétroaction-qui-ouvre-une-action",
+    "title": "Psychologie sociale",
+    "section": "Une rétroaction qui ouvre une action",
+    "text": "Une rétroaction qui ouvre une action\nAu lieu de : « Tu es désorganisé. »\n« Deux échéances ont été manquées. Quel obstacle s’est répété? Quel changement peut-on essayer? »\nObservation précise → cause à vérifier → action testable.\n\nApplication originale du cadre; ne pas affirmer que cette formulation a été directement testée dans les études citées. Faire reprendre le message produit dans l’atelier."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#connexion-ronde-2",
+    "href": "cours/05/diapositives.html#connexion-ronde-2",
+    "title": "Psychologie sociale",
+    "section": "Connectez-vous à Wooclap",
+    "text": "Connectez-vous à Wooclap\nRendez-vous sur wooclap.com.\nL’adresse de l’évènement, le code et le QR seront affichés en classe.\nSi l’accès n’est pas disponible, les mêmes questions seront présentées ici pour un vote individuel sans appareil.\nRonde 2 · Réflexion individuelle, puis discussion.\nReprendre après la ronde\n\nAccès propre au cours 5 à vérifier avant la séance. À défaut, afficher les questions archivées une par une : 30 secondes seul, vote A/B/C à main levée ou sur papier, discussion puis second vote. Formatif sans points. Le lien de reprise saute uniquement les questions archivées."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ronde-2-une-position-imposée",
+    "href": "cours/05/diapositives.html#ronde-2-une-position-imposée",
+    "title": "Psychologie sociale",
+    "section": "Ronde 2 · Une position imposée",
+    "text": "Ronde 2 · Une position imposée\nUn texte défend une position assignée. Que montre l’étude de Jones et Harris?\nA. Les jugements suivent encore en partie la position du texte. B. Les personnes ignorent complètement la consigne. C. La consigne supprime toute différence de jugement.\n\nW04 — Réponse A. La contrainte est prise en compte, mais la correspondance texte–attitude persiste."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ronde-2-acteur-et-observateur",
+    "href": "cours/05/diapositives.html#ronde-2-acteur-et-observateur",
+    "title": "Psychologie sociale",
+    "section": "Ronde 2 · Acteur et observateur",
+    "text": "Ronde 2 · Acteur et observateur\nQuelle formulation convient le mieux aux résultats de Malle?\nA. L’asymétrie acteur–observateur est universelle. B. L’asymétrie moyenne générale est très faible et dépend du contexte. C. Personne ne donne d’explication situationnelle.\n\nW05 — Réponse B. Distinguer une hypothèse historique d’un effet général robuste."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ronde-2-interne-et-contrôlable",
+    "href": "cours/05/diapositives.html#ronde-2-interne-et-contrôlable",
+    "title": "Psychologie sociale",
+    "section": "Ronde 2 · Interne et contrôlable",
+    "text": "Ronde 2 · Interne et contrôlable\nUne fatigue liée à une maladie est une cause interne. Que peut-on conclure?\nA. Elle est nécessairement contrôlable. B. Elle est nécessairement stable. C. Le lieu ne détermine ni le contrôle ni la stabilité.\n\nW06 — Réponse C. Trois dimensions distinctes; demander quelles informations supplémentaires les renseigneraient."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#ronde-2-réviser-une-explication",
+    "href": "cours/05/diapositives.html#ronde-2-réviser-une-explication",
+    "title": "Psychologie sociale",
+    "section": "Ronde 2 · Réviser une explication",
+    "text": "Ronde 2 · Réviser une explication\nAprès un échec, Jo dit : « Je suis incapable dans tous les domaines. » Quelle réponse ouvre une vérification utile?\nA. Confirmer ce trait global. B. Identifier les difficultés précises et tester une stratégie adaptée. C. Promettre que tout dépend de l’effort.\n\nW07 — Réponse B. Une reformulation doit rester crédible et conduire à une action testable; elle ne garantit pas un résultat."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#synthese",
+    "href": "cours/05/diapositives.html#synthese",
+    "title": "Psychologie sociale",
+    "section": "Trois acquis à emporter",
+    "text": "Trois acquis à emporter\n\nUn comportement peut avoir des causes liées à la personne, à la cible et aux circonstances.\nLes trois indices de covariation aident à comparer les explications.\nUne attribution oriente le jugement, les attentes et l’action.\n\n\n5 minutes : reprendre les deux hypothèses individuelles du début. Demander quelle information permettrait de les départager; une réponse par équipe, sans billet de sortie obligatoire."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#pour-la-prochaine-séance",
+    "href": "cours/05/diapositives.html#pour-la-prochaine-séance",
+    "title": "Psychologie sociale",
+    "section": "Pour la prochaine séance",
+    "text": "Pour la prochaine séance\n13 octobre · Les attitudes · Chapitre 6\nQuiz 4 : chapitre 5 et cours 5 · 1,25 % par quiz retenu.\nLes 8 meilleurs quiz sur 10 comptent pour 10 %.\nExamen 2 : 10 novembre · Chapitres 5, 6, 8 et 9 · 30 %.\n\nPérimètre du quiz conforme à la progression du quiz précédent; confirmer les consignes finales de Rémi. Guide examen 2 à construire cumulativement lors de la vérification du manuel; ne pas annoncer ici un guide exhaustif déjà disponible."
+  },
+  {
+    "objectID": "cours/05/diapositives.html#sources-et-état-du-contenu",
+    "href": "cours/05/diapositives.html#sources-et-état-du-contenu",
+    "title": "Psychologie sociale",
+    "section": "Sources et état du contenu",
+    "text": "Sources et état du contenu\nJones et Harris (1967) · Kelley (1973)\nWeiner (1985) · Malle (2006)\nMezulis et al. (2004)\nVersion préliminaire : correspondance et terminologie du chapitre 5 à vérifier.\n\nRéférences scientifiques, pas lectures intégrales obligatoires. Le chapitre 5 du manuel n’a pas été lu ni vérifié dans ce premier tour. Pas de reproduction d’images ou de pages du manuel; exemples et schéma originaux. Les notes sont publiques."
+  },
+  {
     "objectID": "examen-1.html",
     "href": "examen-1.html",
     "title": "Examen 1",
@@ -2010,7 +2408,7 @@
     "href": "index.html#prochaine-séance",
     "title": "PSY1703 — Psychologie sociale",
     "section": "Prochaine séance",
-    "text": "Prochaine séance\n\nExamen 1\nMardi 29 septembre 2026 · 13 h 15 à 14 h 45 Campus de Rimouski · Local J462\nConsulter le guide d’étude",
+    "text": "Prochaine séance\n\nCours 5 — L’attribution\nMardi 6 octobre 2026 · 13 h 15 à 16 h 05 Campus de Rimouski · Local J462\nVoir la page du cours 5",
     "crumbs": [
       "Accueil",
       "PSY1703 — Psychologie sociale"
