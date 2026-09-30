@@ -1,0 +1,31 @@
+---
+title: "Cours 5 — L’attribution"
+subtitle: "Expliquer les comportements et réviser ses jugements"
+---
+
+**Mardi 6 octobre 2026**<br>
+**Lecture associée :** Vallerand, chapitre 5
+
+::: {.callout-note title="Version en préparation"}
+Première version publiée le **30 septembre 2026**. Le contenu et la terminologie seront précisés après vérification du chapitre 5 du manuel; cette version ne constitue pas une liste exhaustive de la matière à étudier.
+:::
+
+[Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
+
+## À retenir
+
+À la fin de cette séance, vous devriez pouvoir :
+
+1. distinguer les causes liées à la personne, à la cible et aux circonstances;
+2. utiliser les trois indices de covariation pour comparer des explications;
+3. analyser un biais attributionnel et les conséquences d’une explication.
+
+## Pour participer
+
+Apportez un **téléphone, une tablette ou un ordinateur bien chargé** pour participer aux activités Wooclap et compléter les **quiz évalués obligatoires**. L’accès sera affiché en classe.
+
+Le **quiz 3 (1,25 % par quiz retenu)** porte sur le chapitre 4 et le cours 4. L’atelier se fera en équipe de trois ou quatre.
+
+## Après le cours
+
+Pour le **13 octobre**, lire le **chapitre 6 : les attitudes**. Le **quiz 4 (1,25 % par quiz retenu)** portera sur le chapitre 5 et le cours 5.

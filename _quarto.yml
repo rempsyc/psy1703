@@ -48,6 +48,8 @@ website:
             href: cours/03/index.qmd
           - text: "4 · Les cognitions sociales"
             href: cours/04/index.qmd
+          - text: "5 · L’attribution"
+            href: cours/05/index.qmd
       - section: "Examens"
         contents:
           - text: "Examen 1"
