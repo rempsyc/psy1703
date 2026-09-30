@@ -7,7 +7,7 @@ subtitle: "Expliquer les comportements et réviser ses jugements"
 **Lecture associée :** Vallerand, chapitre 5
 
 ::: {.callout-note title="Version en préparation"}
-Première version publiée le **30 septembre 2026**. Le contenu et la terminologie seront précisés après vérification du chapitre 5 du manuel; cette version ne constitue pas une liste exhaustive de la matière à étudier.
+Version enrichie le **30 septembre 2026** après lecture du chapitre 5 et de son glossaire. Révision de l’enseignant à venir; le contenu réellement enseigné sera confirmé après la séance.
 :::
 
 [Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
@@ -16,9 +16,9 @@ Première version publiée le **30 septembre 2026**. Le contenu et la terminolog
 
 À la fin de cette séance, vous devriez pouvoir :
 
-1. distinguer les causes liées à la personne, à la cible et aux circonstances;
+1. distinguer les types d’attributions et les causes proposées;
 2. utiliser les trois indices de covariation pour comparer des explications;
-3. analyser un biais attributionnel et les conséquences d’une explication.
+3. relier une explication aux biais, aux émotions et à la motivation.
 
 ## Pour participer
 

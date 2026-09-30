@@ -7,12 +7,12 @@ title: "Examen 2"
 Cette page rassemblera les ressources utiles pour l’examen 2.
 
 ::: {.exam-resource-grid}
-::: {.exam-resource-card .exam-resource-card-pending}
+::: {.exam-resource-card}
 ## Guide d’étude
 
-Le guide d’étude sera ajouté progressivement à mesure que la matière sera enseignée et vérifiée.
+Le chapitre 5 est maintenant intégré au guide cumulatif. Les prochains chapitres et la confirmation de la matière enseignée suivront.
 
-**À venir**
+[Consulter le guide cumulatif](guide-examen-2.qmd){.btn .btn-primary}
 :::
 
 ::: {.exam-resource-card}
