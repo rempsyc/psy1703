@@ -66,10 +66,12 @@ Présenter le parcours : outils, première ronde, pause, enquête en équipe, bi
 
 Votre première explication?
 
-Écrivez une hypothèse, puis une autre qui implique le contexte.
+Notez votre première explication et votre confiance de **0 à 100**.
+
+Gardez cette réponse pour la suite.
 
 ::: {.notes}
-4 minutes : 45 secondes seul, 90 secondes en binôme de proximité, deux réponses. Situation fictive; ne pas solliciter des confidences. Garder les propositions pour la reprise finale.
+4 minutes : 45 secondes seul avant tout échange, puis 90 secondes en binôme de proximité et deux réponses. Ne pas demander immédiatement une cause situationnelle : conserver la première explication spontanée. Confiance = assurance dans cette explication, pas probabilité scientifique calibrée. Situation fictive; ne pas solliciter des confidences. Rémi a demandé de faire de l’erreur attributionnelle fondamentale un fil conducteur. Garder les réponses privées pour comparaison au dossier B et à la synthèse; aucun classement de personnes ou d’équipes.
 :::
 
 ## Une attribution causale
@@ -226,7 +228,7 @@ Introduire les trois dimensions par les questions, puis leurs noms. Kelley (1973
 | **Consistance** | La personne réagit-elle ainsi à cette cible à d’autres moments? |
 
 ::: {.notes}
-Expliquer distinction élevéee : le comportement est spécifique à cette cible; consistance élevée : il se répète envers cette même cible. Ne pas confondre variété des cibles et répétition temporelle. Kelley (1973), https://doi.org/10.1037/h0034225. Manuel, chapitre 5, p. 148–150; glossaire, p. 440 et 446.
+Expliquer distinction élevée : le comportement est spécifique à cette cible; consistance élevée : il se répète envers cette même cible. Ne pas confondre variété des cibles et répétition temporelle. Kelley (1973), https://doi.org/10.1037/h0034225. Manuel, chapitre 5, p. 148–150; glossaire, p. 440 et 446.
 :::
 
 ## Profil orienté vers la personne
@@ -399,7 +401,7 @@ Vous ne savez rien des autres réunions d’Andréa.
 **Quelle information manque avant d’inférer une habitude générale?**
 
 ::: {.notes}
-Ne pas révéler la réponse immédiatement. Attendu : consensus faible, deux répétitions suggèrent de la consistance mais historique limité, distinction inconnu. Examiner aussi une contrainte de transport spécifique à Andréa. Faire noter une hypothèse de personne et une hypothèse de contexte.
+Ne pas révéler la réponse immédiatement. Attendu : consensus faible, deux répétitions suggèrent de la consistance mais historique limité, distinction inconnue. Examiner aussi une contrainte de transport spécifique à Andréa. Faire noter une hypothèse de personne et une hypothèse de contexte.
 :::
 
 ## Dossier B : un nouvel indice
@@ -408,10 +410,12 @@ Andréa arrive à l’heure à ses autres réunions.
 
 Cette réunion commence cinq minutes après la fin d’une activité obligatoire située dans un autre bâtiment.
 
-**Révisez votre explication et votre message.**
+**Reprenez votre première explication et votre confiance.**
+
+Qu’est-ce qui change? Quel trait attribué à Andréa reste à vérifier?
 
 ::: {.notes}
-Attendu : distinction élevée; profil faible consensus, distinction élevéee, répétition envers même cible : interaction personne–cible plausible, pas le profil pur de la cible ni celui de la personne. L’activité obligatoire apporte une contrainte concrète; chercher trajet et possibilités réelles de changement.
+Attendu : distinction élevée; profil faible consensus, distinction élevée, répétition envers même cible : interaction personne–cible plausible, pas le profil pur de la cible ni celui de la personne. L’activité obligatoire apporte une contrainte concrète; chercher trajet et possibilités réelles de changement. Faire réviser aussi le message prévu. Comparer réponse initiale et réponse actuelle, sans appeler toute première attribution personnelle une erreur : la contrainte était alors inconnue. Pour analyser l’erreur attributionnelle fondamentale, demander quel poids on donne maintenant à cette contrainte connue et quelles étiquettes personnelles on conserve sans indice suffisant. Changer sa réponse montre ici une révision avec nouvelle information, pas une mesure expérimentale du biais.
 :::
 
 ## Partager une conclusion révisable
@@ -424,7 +428,7 @@ Votre porte-parole présente :
 - « Nous proposerions… »
 
 ::: {.notes}
-Faire comparer une formulation accusatrice et une demande précise. Critères de débreffage : fidélité aux observations, juste classement des indices, hypothèse concurrente, question discriminante et action proportionnée. Aucune note scolaire.
+Demander : « Quel trait avez-vous attribué? Quelle contrainte a changé son interprétation? Que concluriez-vous si cette contrainte était présente pour une autre personne? » Faire comparer une formulation accusatrice et une demande précise. Critères de débreffage : fidélité aux observations, juste classement des indices, hypothèse concurrente, question discriminante et action proportionnée. Aucune note scolaire.
 :::
 
 ## Pourquoi une disposition vient-elle vite à l’esprit?
@@ -779,7 +783,7 @@ W07 — Réponse B. Une reformulation doit rester crédible et conduire à une a
 3. Une attribution oriente le **jugement, les attentes et l’action**.
 
 ::: {.notes}
-5 minutes : reprendre les deux hypothèses individuelles du début. Demander quelle information permettrait de les départager; une réponse par équipe, sans billet de sortie obligatoire.
+5 minutes : reprendre l’explication et la confiance notées au début. Faire nommer ce que la contrainte change et ce que l’on peut encore inférer de la personne. Question de transfert : « Quel comportement attribuez-vous vite au caractère, et quelle information de contexte demanderiez-vous? » Utiliser un cas fictif de service à la clientèle ou de débat assigné, sans confidence personnelle. Une réponse par équipe, sans billet de sortie obligatoire. Fil conducteur : prendre en compte le contexte connu sans conclure que la personne ne joue jamais de rôle.
 :::
 
 ## Pour la prochaine séance
