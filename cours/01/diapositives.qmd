@@ -166,6 +166,18 @@ Quitter temporairement les diapositives et ouvrir le PDF du plan de cours. Ne pa
 - Plan de cours officiel PSY1703-04, automne 2026, échéancier des évaluations.
 :::
 
+## À prévoir pour les examens
+
+- Votre **carte étudiante UQAR** sera requise.
+- Si vous n’en avez pas encore, faites-la produire au **guichet étudiant** avant le premier examen.
+- Assurez-vous de connaitre votre **identifiant UQAR** : vous devrez l’inscrire sur votre copie.
+
+Un rappel du matériel à apporter et des consignes sera publié sur Moodle la veille de chaque examen.
+
+::: {.notes}
+Signaler cette exigence dès le début du trimestre afin de laisser suffisamment de temps pour obtenir la carte. Avant chaque examen, rappeler aussi d’apporter un crayon et une gomme à effacer, ou un stylo et du ruban correcteur, et d’aller aux toilettes avant la séance puisqu’aucune sortie n’est permise avant la remise de la copie.
+:::
+
 ## Connectez-vous à Wooclap
 
 ::: {.columns}
