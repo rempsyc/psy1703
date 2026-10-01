@@ -1,18 +1,18 @@
 ---
-title: "Examen 1"
+title: "Examen 2"
 ---
 
-**29 septembre 2026 · 25 %**
+**10 novembre 2026 · 30 %**
 
-Cette page rassemble les ressources utiles pour l’examen 1.
+Cette page rassemblera les ressources utiles pour l’examen 2.
 
 ::: {.exam-resource-grid}
 ::: {.exam-resource-card}
 ## Guide d’étude
 
-Matière des cours 1 à 4 et des chapitres 1 à 4, priorités d’étude et format de l’évaluation.
+Le guide couvre actuellement le chapitre 5 et sera complété au fil des prochaines séances.
 
-[Ouvrir le guide d’étude](guide.qmd){.btn .btn-primary}
+[Consulter le guide cumulatif](guide.qmd){.btn .btn-primary}
 :::
 
 ::: {.exam-resource-card}

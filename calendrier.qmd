@@ -10,15 +10,15 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 | 8 septembre | [Méthodes de recherche](cours/02/index.qmd) | Chapitre 2 | Version finale |
 | 15 septembre | [Le soi](cours/03/index.qmd) | Chapitre 3 | Version finale |
 | 22 septembre | [La cognition sociale](cours/04/index.qmd) | Chapitre 4 | Version finale |
-| 29 septembre | [Examen 1](examens/01/index.qmd) | — | Version finale |
-| 6 octobre | [L’attribution](cours/05/index.qmd) | Chapitre 5 | En préparation |
+| 29 septembre | [Examen 1](cours/05/index.qmd) | — | Version finale |
+| 6 octobre | [L’attribution](cours/06/index.qmd) | Chapitre 5 | En préparation |
 | 13 octobre | Les attitudes | Chapitre 6 | À venir |
 | 20 octobre | Les relations interpersonnelles | Chapitre 8 | À venir |
 | 27 octobre | Semaine de lecture | — | Pas de cours |
 | 3 novembre | L'agression | Chapitre 9 | À venir |
-| 10 novembre | [Examen 2](examens/02/index.qmd) | — | Évaluation |
+| 10 novembre | [Examen 2](cours/10/index.qmd) | — | Évaluation |
 | 17 novembre | Les comportements d'aide | Chapitre 10 | À venir |
 | 24 novembre | L'influence sociale et le conformisme | Chapitre 11 | À venir |
 | 1er décembre | Les groupes | Chapitre 12 | À venir |
 | 8 décembre | Les relations intergroupes et les préjugés | Chapitre 13 | À venir · appréciations d’enseignement en classe |
-| 15 décembre | [Examen 3](examens/03/index.qmd) | — | Évaluation |
+| 15 décembre | [Examen 3](cours/15/index.qmd) | — | Évaluation |

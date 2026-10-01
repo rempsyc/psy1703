@@ -50,3 +50,5 @@
 - Site public : ne jamais suggérer que le contenu a été préparé avec une IA, même indirectement par des formulations comme « révision de l’enseignant à venir ». Les mentions de version restent sobres et centrées sur les ressources, la date et la progression de la matière. Garder les comptes rendus de lecture, de vérification et de validation interne dans Box; cette règle vaut aussi pour les notes Reveal, accessibles publiquement.
 
 - Chaque séance comporte au début (après le quiz du jour) et à la fin une diapositive « Quiz et examen — quoi préparer? » avec prochain quiz, prochain examen, dates, matière et pondérations. Reprendre le format des cours précédents pour QR, quiz, rondes et pauses; distinguer le QR du quiz de celui de l’engagement lorsque les évènements sont séparés. Les dernières consignes explicites de Rémi prévalent sur les anciennes formulations des pauses.
+
+- Numérotation des adresses alignée sur les séances du plan, examens compris : cours/05 = examen 1, cours/06 = attribution, cours/10 = examen 2, cours/15 = examen 3. Les prochaines séances suivent leurs numéros officiels (attitudes 07, relations 08, agression 09, etc.).

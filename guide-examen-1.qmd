@@ -3,8 +3,8 @@ title: "Guide d’étude — Examen 1"
 toc: false
 ---
 
-Cette page a été déplacée. [Ouvrir la nouvelle page](examens/01/guide.html).
+Cette page a été déplacée. [Ouvrir la nouvelle page](cours/05/guide.html).
 
 ```{=html}
-<script>window.location.replace("examens/01/guide.html");</script>
+<script>window.location.replace("cours/05/guide.html");</script>
 ```
