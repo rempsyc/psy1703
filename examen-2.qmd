@@ -10,7 +10,7 @@ Cette page rassemblera les ressources utiles pour l’examen 2.
 ::: {.exam-resource-card}
 ## Guide d’étude
 
-Le chapitre 5 est maintenant intégré au guide cumulatif. Les prochains chapitres et la confirmation de la matière enseignée suivront.
+Le guide couvre actuellement le chapitre 5 et sera complété au fil des prochaines séances.
 
 [Consulter le guide cumulatif](guide-examen-2.qmd){.btn .btn-primary}
 :::

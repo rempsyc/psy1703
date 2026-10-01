@@ -5,7 +5,7 @@ title: "Guide d’étude — Examen 2"
 **10 novembre 2026 · 30 % · Chapitres 5, 6, 8 et 9**
 
 ::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **30 septembre 2026**. Le chapitre 5 et ses entrées du glossaire ont été vérifiés directement. La révision de l’enseignant, la confirmation de la matière réellement enseignée et les chapitres 6, 8 et 9 restent à compléter. Ce guide n’est pas encore la version figée de l’examen.
+Mise à jour du **30 septembre 2026**. Ce guide couvre actuellement le chapitre 5. Les chapitres 6, 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
 :::
 
 Utilisez cette liste pour retrouver les notions, les expliquer avec vos propres mots et les appliquer à des exemples. L’examen prélèvera un échantillon représentatif de la matière admissible; chaque entrée n’a pas nécessairement sa propre question.
@@ -65,10 +65,10 @@ Les statistiques exactes, les valeurs des tableaux, les noms et années des cher
 
 ### Matière réellement enseignée et ajouts oraux
 
-La séance du 6 octobre est à venir. Les développements oraux et les ajustements de périmètre seront intégrés après confirmation par l’enseignant.
+La séance du 6 octobre est à venir. Les précisions apportées en classe seront intégrées après la séance.
 
 ## Chapitres 6, 8 et 9
 
-Les listes de notions seront ajoutées après lecture et vérification de chaque chapitre, puis ajustées à la matière enseignée.
+Les listes de notions seront ajoutées au fil des prochaines séances.
 
 [Retour aux ressources de l’examen 2](examen-2.qmd)
