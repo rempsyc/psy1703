@@ -1,0 +1,15 @@
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou rendez-vous sur [Wooclap](https://app.wooclap.com/ECAXDXK).
+
+**Code du quiz : ECAXDXK**
+
+Connectez-vous avec votre **identifiant UQAR**.
+
+Le quiz évalué est individuel et distinct des activités d’engagement du cours.
+:::
+
+::: {.column width="42%"}
+[![](assets/quiz-03-qr.png){fig-alt="QR du quiz évalué 3, code ECAXDXK" width="480"}](https://app.wooclap.com/ECAXDXK)
+:::
+:::

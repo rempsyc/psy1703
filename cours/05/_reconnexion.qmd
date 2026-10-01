@@ -1,5 +1,13 @@
-Rendez-vous sur [wooclap.com](https://www.wooclap.com/).
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou rendez-vous sur [Wooclap](https://app.wooclap.com/LNIHHZZ).
 
-**L’adresse de l’évènement, le code et le QR seront affichés en classe.**
+**Code de l’évènement : LNIHHZZ**
 
-Si l’accès n’est pas disponible, les mêmes questions seront présentées ici pour un vote individuel sans appareil.
+Gardez l’onglet ouvert : les questions apparaitront dans Wooclap au fil de l’activité.
+:::
+
+::: {.column width="42%"}
+[![](assets/wooclap-engagement-qr.png){fig-alt="QR de connexion à l’évènement Wooclap LNIHHZZ" width="480"}](https://app.wooclap.com/LNIHHZZ)
+:::
+:::

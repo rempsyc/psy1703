@@ -32,11 +32,26 @@ format:
 
 **Chapitre 4 et cours 4 · Travail individuel**
 
-L’accès et les consignes seront affichés en classe.
+{{< include _connexion-quiz.qmd >}}
 
 ::: {.notes}
-Réserver 10 minutes. Quiz évalué distinct du formatif : questionnaire, clé et accès à préparer et vérifier dans Box. Ne pas utiliser le mode de repli collectif des rondes pour ce quiz. Respecter les accommodements.
+Réserver 10 minutes. Quiz évalué ECAXDXK, distinct du formatif LNIHHZZ. Vérifier la connexion UQAR avant le début. Questionnaire et clé restent dans Box. Ne pas utiliser le mode de repli collectif des rondes pour ce quiz. Respecter les accommodements.
 :::
+
+## Quiz et examen — quoi préparer?
+
+**13 octobre — Quiz 4 (1,25 %) : chapitre 5 et cours 6.**
+
+Les **8 meilleurs quiz sur 10** comptent pour **10 %** de la note finale.
+
+**10 novembre — Examen 2 (30 %) : chapitres 5, 6, 8 et 9 et matière enseignée correspondante.**
+
+Temps alloué : **90 minutes**.
+
+- 50 % des questions portent sur le matériel du **cours** vu en classe.
+- 50 % portent sur le matériel du **manuel**, même si la matière n’a pas été vue en classe.
+
+Les notions discutées en classe peuvent aussi être évaluées. Les liens externes ne sont pas des lectures supplémentaires à étudier intégralement; les éléments enseignés sont évaluables.
 
 ## Du jugement à l’explication
 
@@ -328,7 +343,7 @@ Manuel, p. 150–153 : approche pragmatique, économie cognitive et modèle de G
 [Reprendre après la ronde](#pause-1)
 
 ::: {.notes}
-Accès propre au cours 6 à vérifier avant la séance. À défaut, afficher les questions archivées une par une : 30 secondes seul, vote A/B/C à main levée ou sur papier, discussion puis second vote. Formatif sans points. Le lien de reprise saute uniquement les questions archivées.
+Évènement d’engagement LNIHHZZ. Tester l’accès participant avant la séance. En cas de panne, afficher les questions archivées une par une : 30 secondes seul, vote A/B/C à main levée ou sur papier, discussion puis second vote. Formatif sans points. Le lien de reprise saute uniquement les questions archivées.
 :::
 
 ## Ronde 1 · Une comparaison temporelle
@@ -369,10 +384,14 @@ W03 — Réponse C. L’absence d’information ne donne pas la valeur de l’in
 
 ## Pause — 10 minutes {#pause-1}
 
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap.
+
+{{< include _reconnexion.qmd >}}
+
 
 
 ::: {.notes}
-Si l’évènement Wooclap est prêt, activer la question ouverte de pause : réponses multiples, mentions J’aime, images, compte à rebours de dix minutes; modération désactivée, liste ou grille. Sinon pause libre. Annoncer oralement l’heure du retour. Ne pas publier les propositions ni les photos sans autorisation distincte.
+Dans l’évènement LNIHHZZ, activer la question ouverte de pause : réponses multiples, mentions J’aime, images, compte à rebours de dix minutes; modération désactivée, liste ou grille. Sinon pause libre. Annoncer oralement l’heure du retour. Ne pas publier les propositions ni les photos sans autorisation distincte.
 :::
 
 ## Atelier : le dossier du retard {#atelier}
@@ -554,10 +573,14 @@ Manuel, p. 158–159; glossaire p. 438 et 443. Exemple original : après un vol,
 
 ## Pause — 10 minutes {#pause-2}
 
+Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap.
+
+{{< include _reconnexion.qmd >}}
+
 
 
 ::: {.notes}
-Si l’évènement Wooclap est prêt, activer la question ouverte de pause : réponses multiples, mentions J’aime, images, compte à rebours de dix minutes; modération désactivée, liste ou grille. Sinon pause libre. Annoncer oralement l’heure du retour. Ne pas publier les propositions ni les photos sans autorisation distincte.
+Dans l’évènement LNIHHZZ, activer la question ouverte de pause : réponses multiples, mentions J’aime, images, compte à rebours de dix minutes; modération désactivée, liste ou grille. Sinon pause libre. Annoncer oralement l’heure du retour. Ne pas publier les propositions ni les photos sans autorisation distincte.
 :::
 
 ## Une explication favorable au soi
@@ -729,7 +752,7 @@ Application originale du cadre; ne pas affirmer que cette formulation a été di
 [Reprendre après la ronde](#synthese)
 
 ::: {.notes}
-Accès propre au cours 6 à vérifier avant la séance. À défaut, afficher les questions archivées une par une : 30 secondes seul, vote A/B/C à main levée ou sur papier, discussion puis second vote. Formatif sans points. Le lien de reprise saute uniquement les questions archivées.
+Évènement d’engagement LNIHHZZ. Tester l’accès participant avant la séance. En cas de panne, afficher les questions archivées une par une : 30 secondes seul, vote A/B/C à main levée ou sur papier, discussion puis second vote. Formatif sans points. Le lien de reprise saute uniquement les questions archivées.
 :::
 
 ## Ronde 2 · Une position imposée
@@ -790,19 +813,24 @@ W07 — Réponse B. Une reformulation doit rester crédible et conduire à une a
 5 minutes : reprendre l’explication et la confiance notées au début. Faire nommer ce que la contrainte change et ce que l’on peut encore inférer de la personne. Question de transfert : « Quel comportement attribuez-vous vite au caractère, et quelle information de contexte demanderiez-vous? » Utiliser un cas fictif de service à la clientèle ou de débat assigné, sans confidence personnelle. Une réponse par équipe, sans billet de sortie obligatoire. Fil conducteur : prendre en compte le contexte connu sans conclure que la personne ne joue jamais de rôle.
 :::
 
+## Quiz et examen — quoi préparer?
+
+**13 octobre — Quiz 4 (1,25 %) : chapitre 5 et cours 6.**
+
+Les **8 meilleurs quiz sur 10** comptent pour **10 %** de la note finale.
+
+**10 novembre — Examen 2 (30 %) : chapitres 5, 6, 8 et 9 et matière enseignée correspondante.**
+
+Temps alloué : **90 minutes**.
+
+- 50 % des questions portent sur le matériel du **cours** vu en classe.
+- 50 % portent sur le matériel du **manuel**, même si la matière n’a pas été vue en classe.
+
+Les notions discutées en classe peuvent aussi être évaluées. Les liens externes ne sont pas des lectures supplémentaires à étudier intégralement; les éléments enseignés sont évaluables.
+
 ## Pour la prochaine séance
 
-**13 octobre · Les attitudes · Chapitre 6**
-
-**Quiz 4 : chapitre 5 et cours 6 · 1,25 % par quiz retenu.**
-
-Les **8 meilleurs quiz sur 10** comptent pour **10 %**.
-
-**Examen 2 : 10 novembre · Chapitres 5, 6, 8 et 9 · 30 %.**
-
-::: {.notes}
-Périmètre du quiz conforme à la progression du quiz précédent; confirmer les consignes finales de Rémi. Guide examen 2 mis à jour cumulativement pour le chapitre 5; les autres chapitres et les ajouts réellement enseignés restent à vérifier.
-:::
+**13 octobre · Cours 7 — Les attitudes · Chapitre 6**
 
 ## Sources et état du contenu
 
