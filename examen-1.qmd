@@ -1,25 +1,10 @@
 ---
 title: "Examen 1"
+toc: false
 ---
 
-**29 septembre 2026 · 25 %**
+Cette page a été déplacée. [Ouvrir la nouvelle page](examens/01/).
 
-Cette page rassemble les ressources utiles pour l’examen 1.
-
-::: {.exam-resource-grid}
-::: {.exam-resource-card}
-## Guide d’étude
-
-Matière des cours 1 à 4 et des chapitres 1 à 4, priorités d’étude et format de l’évaluation.
-
-[Ouvrir le guide d’étude](guide-examen-1.qmd){.btn .btn-primary}
-:::
-
-::: {.exam-resource-card}
-## Consignes de l’examen
-
-Matériel permis, déroulement de la séance et minuterie de 90 minutes.
-
-[Afficher les consignes](consignes-examen.qmd){.btn .btn-outline-primary}
-:::
-:::
+```{=html}
+<script>window.location.replace("examens/01/");</script>
+```

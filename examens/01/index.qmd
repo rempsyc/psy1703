@@ -1,0 +1,25 @@
+---
+title: "Examen 1"
+---
+
+**29 septembre 2026 · 25 %**
+
+Cette page rassemble les ressources utiles pour l’examen 1.
+
+::: {.exam-resource-grid}
+::: {.exam-resource-card}
+## Guide d’étude
+
+Matière des cours 1 à 4 et des chapitres 1 à 4, priorités d’étude et format de l’évaluation.
+
+[Ouvrir le guide d’étude](guide.qmd){.btn .btn-primary}
+:::
+
+::: {.exam-resource-card}
+## Consignes de l’examen
+
+Matériel permis, déroulement de la séance et minuterie de 90 minutes.
+
+[Afficher les consignes](../consignes.qmd){.btn .btn-outline-primary}
+:::
+:::

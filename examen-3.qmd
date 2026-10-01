@@ -1,25 +1,10 @@
 ---
 title: "Examen 3"
+toc: false
 ---
 
-**15 décembre 2026 · 35 %**
+Cette page a été déplacée. [Ouvrir la nouvelle page](examens/03/).
 
-Cette page rassemblera les ressources utiles pour l’examen 3.
-
-::: {.exam-resource-grid}
-::: {.exam-resource-card .exam-resource-card-pending}
-## Guide d’étude
-
-Le guide d’étude sera ajouté progressivement à mesure que la matière sera enseignée et vérifiée.
-
-**À venir**
-:::
-
-::: {.exam-resource-card}
-## Consignes de l’examen
-
-Matériel permis, déroulement de la séance et minuterie de 90 minutes.
-
-[Afficher les consignes](consignes-examen.qmd){.btn .btn-outline-primary}
-:::
-:::
+```{=html}
+<script>window.location.replace("examens/03/");</script>
+```

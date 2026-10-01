@@ -1,76 +1,10 @@
 ---
 title: "Guide d’étude — Examen 2"
+toc: false
 ---
 
-**10 novembre 2026 · 30 % · Chapitres 5, 6, 8 et 9**
+Cette page a été déplacée. [Ouvrir la nouvelle page](examens/02/guide.html).
 
-::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **30 septembre 2026**. Ce guide couvre actuellement le chapitre 5. Les chapitres 6, 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
-:::
-
-Utilisez cette liste pour retrouver les notions, les expliquer avec vos propres mots et les appliquer à des exemples. L’examen prélèvera un échantillon représentatif de la matière admissible; chaque entrée n’a pas nécessairement sa propre question.
-
-Les statistiques exactes, les valeurs des tableaux, les noms et années des chercheurs, les références bibliographiques et les détails procéduraux secondaires ne sont pas à mémoriser, sauf indication explicite en classe. Les articles liés dans les diapositives ne sont pas des lectures intégrales obligatoires.
-
-## Chapitre 5 — Les attributions
-
-### Notions et types d’explications
-
-- Attribution; acteur, observateur et attributeur.
-- Attributions causales, dispositionnelles et de responsabilité.
-- Dimensions causales : lieu de causalité, stabilité, contrôlabilité et globalité.
-- Contrôle personnel et contrôle par autrui.
-- Style attributionnel et mesure des attributions : CDS II et ASQ.
-- Attributions spontanées et réactives; situations favorisant la recherche d’une cause.
-- Désir de contrôle, complexité attributionnelle et besoin de structure cognitive.
-- Théories de l’attribution et théories attributionnelles.
-
-### Formation des attributions
-
-- Théorie naïve de l’action.
-- Théorie des inférences correspondantes : correspondance, choix, désirabilité sociale et effets distinctifs.
-- Pertinence hédonique et personnalisme.
-- Théorie de la perception de soi et conditions d’application.
-- Principe de covariation : consensus, distinction et consistance.
-- Raisonnement à partir des indices, informations manquantes et interactions entre causes.
-- Schémas causaux; principes d’ignorement et d’augmentation.
-- Approche pragmatique, économie cognitive et correction d’une première inférence.
-- Explications par les raisons et attributions relationnelles.
-- Raisonnement contrefactuel et conséquences affectives ou comportementales.
-
-### Biais et contexte
-
-- Biais attributionnels; biais égocentrique.
-- Erreur attributionnelle fondamentale et inférence de correspondance.
-- Biais acteur–observateur : hypothèse classique, mécanismes proposés et limites de généralisation.
-- Attention, information disponible, motivation et contexte culturel.
-- Attribution de responsabilité injustifiée; hypothèse du monde juste.
-- Biais de connaissance après les faits.
-- Effet temporel sur les explications.
-- Analyser les causes perçues dans une application médiatique ou sociale.
-- Avantage du rôle et inférence de compétence dans un jeu de questions.
-- Évaluer une explication par une prédiction ou une comparaison pertinente.
-- Étude du texte choisi ou imposé : contraste central, profil des résultats et portée de la conclusion.
-
-### Conséquences et modification
-
-- Modèle bifactoriel de l’émotion et limites des résultats classiques.
-- Théorie attributionnelle des émotions.
-- Motivation à l’accomplissement : attentes, émotions et action.
-- Théorie attributionnelle des conduites sociales : responsabilité, réactions et aide.
-- Motivation intrinsèque et surjustification; conditions de l’étude de la récompense attendue.
-- Résignation acquise, reformulation attributionnelle et modèle du désespoir.
-- Blâme personnel caractériel et comportemental.
-- Excuses et conséquences interpersonnelles.
-- Attributions, adaptation, relations et santé physique.
-- Mésattribution et réattribution; conditions d’une intervention crédible.
-
-### Matière réellement enseignée et ajouts oraux
-
-La séance du 6 octobre est à venir. Les précisions apportées en classe seront intégrées après la séance.
-
-## Chapitres 6, 8 et 9
-
-Les listes de notions seront ajoutées au fil des prochaines séances.
-
-[Retour aux ressources de l’examen 2](examen-2.qmd)
+```{=html}
+<script>window.location.replace("examens/02/guide.html");</script>
+```

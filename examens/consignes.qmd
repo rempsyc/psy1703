@@ -1,0 +1,175 @@
+---
+pagetitle: "Consignes de l’examen — PSY1703"
+lang: fr-CA
+format:
+  revealjs:
+    theme: [simple, ../_themes/slides.scss]
+    slide-number: false
+    transition: fade
+    background-transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.08
+    navigation-mode: linear
+    controls: false
+    progress: false
+    history: true
+    hash: true
+    menu: false
+    overview: false
+    footer: "PSY1703 — Psychologie sociale"
+    embed-resources: false
+---
+
+## Consignes
+
+```{=html}
+<div id="exam-timer" class="exam-timer" role="timer" aria-live="polite">
+  <div id="exam-timer-display" class="exam-timer-display">90:00</div>
+  <div class="exam-timer-controls">
+    <button id="exam-timer-start" type="button">Démarrer</button>
+    <button id="exam-timer-pause" type="button" disabled>Pause</button>
+    <button id="exam-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+```
+
+- **90 minutes** · 32 choix multiples · 8 développements courts
+- Seuls la **carte étudiante UQAR**, la **copie d’examen** et le **matériel d’écriture** sont permis.
+- Gardez votre **carte étudiante visible** et inscrivez votre **identifiant UQAR** sur la copie.
+- Manuel, notes, téléphone, ordinateur et IA : **interdits**.
+- Gardez le **silence** et ne communiquez pas avec vos camarades.
+- **Aucune sortie** avant d’avoir remis votre copie.
+- Choix multiples : entourez **une seule lettre**; aucune pénalité pour une mauvaise réponse.
+- Développements : répondez **brièvement et précisément**, dans vos propres mots.
+- Avant de remettre votre copie, vérifiez les **40 questions**.
+
+::: {.callout-important appearance="simple" icon="false"}
+Lorsque vous avez terminé, remettez votre copie à l’avant et quittez la salle en silence.
+:::
+
+<style>
+.exam-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 470px;
+  text-align: center;
+  padding: 0.35rem 0.55rem 0.45rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.4rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+}
+
+.exam-timer-display {
+  color: #123b5d;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.exam-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.45rem;
+  margin-top: 0.35rem;
+}
+
+.exam-timer-controls button {
+  margin: 0;
+  padding: 0.28rem 0.55rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.exam-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.exam-timer.warning {
+  border-color: #c62828;
+}
+
+.exam-timer.warning .exam-timer-display {
+  color: #c62828;
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 90 * 60 * 1000;
+  const storageKey = "psy1703-exam-timer-v1";
+  const timer = document.getElementById("exam-timer");
+  const display = document.getElementById("exam-timer-display");
+  const startButton = document.getElementById("exam-timer-start");
+  const pauseButton = document.getElementById("exam-timer-pause");
+  const resetButton = document.getElementById("exam-timer-reset");
+
+  let state = { running: false, remaining: duration, end: null };
+
+  try {
+    const saved = JSON.parse(localStorage.getItem(storageKey));
+    if (saved && typeof saved.remaining === "number") state = saved;
+  } catch (_) {}
+
+  function remainingNow() {
+    return state.running && state.end
+      ? Math.max(0, state.end - Date.now())
+      : Math.max(0, state.remaining);
+  }
+
+  function save() {
+    localStorage.setItem(storageKey, JSON.stringify(state));
+  }
+
+  function render() {
+    const remaining = remainingNow();
+    const totalSeconds = Math.ceil(remaining / 1000);
+    const minutes = Math.floor(totalSeconds / 60);
+    const seconds = totalSeconds % 60;
+    display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+    timer.classList.toggle("warning", remaining <= 10 * 60 * 1000);
+    startButton.disabled = state.running || remaining === 0;
+    startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+    pauseButton.disabled = !state.running;
+
+    if (state.running && remaining === 0) {
+      state = { running: false, remaining: 0, end: null };
+      save();
+      startButton.disabled = true;
+      pauseButton.disabled = true;
+    }
+  }
+
+  startButton.addEventListener("click", () => {
+    state = { running: true, remaining: remainingNow(), end: Date.now() + remainingNow() };
+    save();
+    render();
+  });
+
+  pauseButton.addEventListener("click", () => {
+    state = { running: false, remaining: remainingNow(), end: null };
+    save();
+    render();
+  });
+
+  resetButton.addEventListener("click", () => {
+    state = { running: false, remaining: duration, end: null };
+    save();
+    render();
+  });
+
+  render();
+  window.setInterval(render, 250);
+});
+</script>

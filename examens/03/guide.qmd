@@ -1,0 +1,56 @@
+---
+title: "Guide d’étude — Examen 3"
+---
+
+::: {.callout-note title="Guide cumulatif en préparation"}
+Mise à jour du **30 septembre 2026**. Les listes de notions seront ajoutées progressivement après la vérification des chapitres et des contenus réellement enseignés. Cette version ne constitue pas encore une liste exhaustive.
+:::
+
+## Repères
+
+- Date : 15 décembre 2026.
+- Durée : 90 minutes.
+- Pondération : 35 % de la note finale.
+- Matière : cours associés aux chapitres 10, 11, 12 et 13 du manuel.
+- L’examen comportera 32 questions à choix multiples et 8 questions à développement très court.
+- 50 % des points proviendront du matériel du cours et 50 % du manuel. Une notion peut se trouver dans les deux sources.
+- Les liens externes et les articles cités pour approfondir ne constituent pas de la matière supplémentaire à étudier.
+
+## Ce que vous devriez pouvoir faire
+
+Préparez-vous à reconnaitre et définir les concepts, à distinguer des notions proches, à expliquer un résultat ou un mécanisme et à appliquer les notions à une situation nouvelle. Les questions à développement demanderont de définir de grands concepts en quelques phrases. Certaines consignes pourront aussi demander de développer un acronyme, de nommer des composantes ou de distinguer des processus. Chaque réponse sera évaluée à partir de trois éléments essentiels, pour un total de trois points.
+
+## Comment étudier le manuel efficacement
+
+Concentrez-vous d’abord sur les **termes en gras**, particulièrement ceux qui sont mis en évidence en **bleu** et qui se retrouvent souvent dans le glossaire. Vous devriez pouvoir reconnaitre ces termes, les définir dans vos mots et les distinguer d’un concept voisin.
+
+Apprenez également le nom et le sens des **théories, concepts, processus et principes centraux**, même lorsqu’ils ne correspondent pas à une entrée isolée du glossaire. Pour une étude présentée dans le chapitre, retenez surtout :
+
+- la question générale examinée;
+- le concept illustré;
+- la comparaison importante;
+- la direction ou le profil général des résultats;
+- la conclusion conceptuelle que l’étude permet de comprendre.
+
+Vous n’avez pas à mémoriser :
+
+- les valeurs statistiques exactes;
+- les pourcentages ou les nombres précis dans les tableaux et les figures, sauf indication explicite en classe;
+- les noms et les années des autrices, auteurs ou équipes de recherche;
+- les références bibliographiques;
+- les détails d’une procédure qui ne sont pas nécessaires pour comprendre le concept ou le résultat principal.
+
+Par exemple, vous pourriez devoir expliquer ce qu’illustre une expérience ou reconnaitre le résultat général attendu. Vous n’auriez pas à donner le nom de l’équipe, l’année de publication ou une moyenne exacte.
+
+## Comment les réponses à développement seront corrigées
+
+Vous n’avez pas à reproduire une définition mot à mot. Une formulation provenant des diapositives, du texte du manuel ou du glossaire sera acceptée si elle exprime correctement les éléments essentiels. Une paraphrase exacte dans vos propres mots sera également acceptée. Chaque réponse vaudra trois points, généralement un point par élément important. Lorsqu’une consigne demande explicitement des composantes ou une distinction, ces éléments font partie de la réponse attendue.
+
+L’examen comprendra une question à développement très court associée à chacun des quatre cours évalués et une associée à chacun des quatre chapitres. Les huit questions seront courtes et ne prendront pas la forme de longues études de cas.
+
+
+## Chapitres 10 à 13
+
+Les listes de notions seront ajoutées au fil des séances sur les comportements d’aide, l’influence sociale et le conformisme, les groupes, ainsi que les relations intergroupes et les préjugés.
+
+[Retour aux ressources de l’examen 3](index.qmd)

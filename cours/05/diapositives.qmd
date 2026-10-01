@@ -850,7 +850,7 @@ Références scientifiques, pas lectures intégrales obligatoires. Vallerand (di
 
 Les thèmes suivants prolongent le parcours de la séance.
 
-Le [guide cumulatif de l’examen 2](../../guide-examen-2.qmd) indique les notions à travailler et l’état des vérifications.
+Le [guide cumulatif de l’examen 2](../../examens/02/guide.qmd) indique les notions à travailler et l’état des vérifications.
 
 ::: {.notes}
 Ne pas parcourir obligatoirement ces diapositives en classe. Adapter les développements oraux au temps disponible. Chapitre entier reste lecture associée.
