@@ -48,15 +48,13 @@ website:
             href: cours/03/index.qmd
           - text: "4 · Les cognitions sociales"
             href: cours/04/index.qmd
-          - text: "5 · L’attribution"
-            href: cours/05/index.qmd
-      - section: "Examens"
-        contents:
-          - text: "Examen 1"
+          - text: "5 · Examen 1 — 29 septembre"
             href: examen-1.qmd
-          - text: "Examen 2"
+          - text: "6 · L’attribution"
+            href: cours/05/index.qmd
+          - text: "10 · Examen 2 — 10 novembre"
             href: examen-2.qmd
-          - text: "Examen 3"
+          - text: "15 · Examen 3 — 15 décembre"
             href: examen-3.qmd
   page-footer:
     left: "PSY1703-04 · UQAR · Automne 2026"

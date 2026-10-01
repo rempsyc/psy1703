@@ -48,6 +48,8 @@ Les statistiques exactes, les valeurs des tableaux, les noms et années des cher
 - Biais de connaissance après les faits.
 - Effet temporel sur les explications.
 - Analyser les causes perçues dans une application médiatique ou sociale.
+- Avantage du rôle et inférence de compétence dans un jeu de questions.
+- Évaluer une explication par une prédiction ou une comparaison pertinente.
 - Étude du texte choisi ou imposé : contraste central, profil des résultats et portée de la conclusion.
 
 ### Conséquences et modification
