@@ -57,7 +57,7 @@ Les notions discutées en classe peuvent aussi être évaluées. Les liens exter
 
 1. **Construire une explication** — causes, choix et indices de covariation
 2. **Réviser nos inférences** — enquête en équipe, rôles et biais attributionnels
-3. **Comprendre les conséquences** — émotions, motivation et possibilités d’action
+3. **Préserver des possibilités d’action** — états d’esprit, résignation acquise et santé
 
 **Pour commencer : proposer une première explication au retard d’Andréa.**
 
@@ -657,98 +657,116 @@ Paraphrases de trois paires du tableau 5.2, manuel p. 142; CDS II (McAuley et al
 4 minutes : seul puis binôme. Stratégie : interne, modifiable, contrôle souvent possible mais moyens à préciser. Panne : externe, ponctuelle dans cet énoncé, hors contrôle immédiat de l’étudiant. Incapacité globale : perçue interne et stable, peu contrôlable. Ce sont les croyances du personnage, pas des diagnostics. Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548.
 :::
 
-## Du résultat à l’action : Weiner
+## De l’explication à la possibilité d’agir
 
-**Résultat → explication → dimensions causales → attentes et émotions → action**
+**Résultat → explication → attentes et émotions → action**
 
-Une même note peut donc conduire à des décisions différentes selon la cause perçue.
+« Je ne peux rien changer » et « Je peux essayer une autre stratégie » n’ouvrent pas les mêmes possibilités.
 
 ::: {.notes}
-Schéma original du modèle de motivation à l’accomplissement, manuel p. 162–164. Le résultat est d’abord évalué comme succès/échec; émotions générales puis émotions associées aux causes. Lieu lié à l’estime/compétence, stabilité aux attentes, contrôlabilité notamment aux émotions sociales; pas de correspondances exclusives ou automatiques.
+1 minute. Modèle de Weiner, manuel p. 162–164. Partir des dimensions déjà travaillées; annoncer états d’esprit, résignation et santé. Le bloc suivant dispose de 15 minutes dans les vingt minutes après la pause; réserver cinq minutes aux dimensions et au biais égocentrique.
 :::
 
-## L’émotion dépend aussi de l’interprétation
+## États d’esprit : les capacités peuvent-elles évoluer?
 
-**Modèle bifactoriel de Schachter**
+**État d’esprit fixe :** concevoir les capacités comme peu modifiables.
 
-Activation physiologique + interprétation de sa cause contribuent à l’émotion ressentie.
+**État d’esprit de développement :** concevoir qu’elles peuvent se développer par l’apprentissage.
 
-Un cœur qui accélère peut être interprété différemment selon la situation.
+Ce sont des **croyances sur les capacités**, qui peuvent varier selon le domaine.
 
 ::: {.notes}
-Manuel, p. 161–162. Modèle historique. L’expérience classique obtient des résultats plus nets pour l’euphorie que pour la colère; des réplications sont moins concluantes. Ne pas enseigner ces deux facteurs comme une loi suffisante de toute émotion. Exemple original.
+2 minutes avec la diapositive suivante. Ouverture explicite sur les théories implicites des capacités; prolongement du passage sur Dweck et la réattribution, manuel p. 172. Source primaire : Blackwell, Trzesniewski et Dweck (2007), https://doi.org/10.1111/j.1467-8624.2007.00995.x. Ne pas assimiler la recherche de Dweck (1975) sur la réattribution à une intervention moderne sur les états d’esprit. Les exemples suivants sont originaux.
 :::
 
-## Stabilité et attentes
+## Un même échec, deux lectures possibles
 
-Une cause perçue comme durable peut faire attendre la répétition du résultat.
+« Ce résultat prouve que je n’ai pas la capacité. »
 
-Une cause perçue comme temporaire peut laisser attendre un résultat différent.
+« Ce résultat montre ce que je dois encore apprendre. »
 
-**Quelle action concrète rendrait la nouvelle explication crédible?**
+**Quelle stratégie, quelle aide ou quelle occasion de pratiquer devient possible?**
+
+Développer une capacité demande des moyens; l’effort seul ne garantit pas la réussite.
 
 ::: {.notes}
-Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. La stabilité influence les changements d’attentes; éviter de promettre qu’une reformulation suffit à améliorer la performance. Exemple : comparer une méthode de révision sur des exercices de difficulté semblable.
+Faire proposer une action concrète, sans vote Wooclap supplémentaire. Distinguer la croyance générale sur la capacité et l’attribution de cet échec particulier; ne pas traiter deux phrases comme un questionnaire validé ou un diagnostic.
 :::
 
-## Contrôle perçu et relations
+## Résignation acquise : apprendre que l’action ne change rien
 
-La manière d’expliquer une difficulté peut orienter :
+Après des expériences d’**incontrôlabilité**, la personne peut moins tenter d’agir, même lorsqu’une possibilité de contrôle apparait.
 
-- la colère ou la compassion;
-- le blâme;
-- l’aide proposée.
-
-Avant de juger le contrôle : **quels moyens étaient réellement disponibles?**
+**Le problème concerne le lien perçu entre l’action et son résultat.**
 
 ::: {.notes}
-Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Dans le modèle, les dimensions causales organisent attentes et émotions. Exemple original : retard lié à un choix évitable versus transport interrompu. Ne pas attribuer automatiquement une émotion unique à chaque dimension.
+2 minutes. Manuel p. 166–167 : paradigme historique d’évènements incontrôlables, puis difficultés à agir dans une situation ultérieure. Exemple fictif : plusieurs démarches sans effet, puis renoncement à une démarche devenue possible. Ne pas appeler toute baisse de motivation résignation acquise.
 :::
 
-## Une récompense peut changer l’explication
+## Pourquoi l’échec semble-t-il durable et généralisé?
 
-**Motivation intrinsèque :** faire une activité pour le plaisir qu’elle procure.
+Après un échec : « C’est à cause de moi, cela ne changera jamais, et ce sera pareil partout. »
 
-**Surjustification :** une récompense attendue peut conduire à expliquer une activité aimée par cette récompense.
+**Interne · stable · globale**
+
+La stabilité concerne la durée; la globalité concerne les situations auxquelles l’explication s’étend.
 
 ::: {.notes}
-Manuel, p. 165–166, étude du dessin présentée secondairement. Récompense annoncée avant participation : intérêt ultérieur réduit; récompense inattendue ne produit pas le même profil. Ne pas généraliser à toutes les récompenses. Relier perception de soi et ignorement.
+2 minutes. Reformulation attributionnelle de la résignation, manuel p. 167. Incontrôlabilité, puis explications de ses causes : ne pas confondre les deux niveaux. Style négatif et évènements négatifs : vulnérabilité dans un modèle, pas cause suffisante de dépression. Reprendre Jo sans solliciter de confidences.
 :::
 
-## Quand une cause devient globale
+## Réattribution : reconstruire une possibilité testable
 
-**Stabilité :** la cause devrait-elle durer?
+**Observation précise → cause à vérifier → action et résultat à comparer**
 
-**Globalité :** s’applique-t-elle à plusieurs situations?
+« Cette stratégie n’a pas fonctionné sur ces exercices. Quelle autre méthode pouvons-nous essayer? »
 
-« Cette méthode a mal fonctionné ici » et « Je suis incapable partout » n’ouvrent pas les mêmes attentes.
+Stratégie, ressources, aide et contraintes comptent dans l’explication.
 
 ::: {.notes}
-Manuel, p. 141 et 166–168; glossaire p. 442, 447–448. Globalité est une dimension supplémentaire de la reformulation attributionnelle de la résignation acquise, distincte des trois dimensions de Weiner.
+2 minutes. Manuel p. 171–172. Dweck (1975) compare une réattribution après l’échec et des expériences de succès seulement : les enfants du premier groupe maintiennent ou améliorent davantage leur performance après un nouvel échec. Source : https://doi.org/10.1037/h0077149. Ne pas appliquer automatiquement une attribution au manque d’effort : si l’effort a été maximal, chercher d’autres moyens. Retrouver le message à Andréa dans l’atelier.
 :::
 
-## Résignation et réattribution
+## Attributions et santé : trois voies à examiner
 
-Des expériences répétées d’absence de contrôle peuvent diminuer les tentatives d’action.
+Nos explications peuvent orienter :
 
-La **réattribution** vise une explication plus adaptée, accompagnée de moyens concrets de changement.
+- les émotions et le stress;
+- les comportements de santé;
+- les attentes face à la maladie et l’adaptation.
 
-Stratégie, ressources, aide et contraintes à vérifier ensemble.
+**Une explication constructive doit rester compatible avec les faits et les soins.**
 
 ::: {.notes}
-Manuel, p. 166–168 et 171–172. Résignation acquise : conséquences cognitives, affectives et motivationnelles. Style attributionnel vulnérable et évènements négatifs interagissent; pas de diagnostic individuel à partir d’une phrase. Éviter toujours plus d’effort : après effort maximal et échec répété, cette attribution peut renforcer une inférence d’incapacité. Réattribution distincte de mésattribution physiologique.
+1 minute. Manuel p. 169–170. Présenter ces voies comme des pistes distinctes; ne pas attribuer toutes les études de la section à Taylor. Le contrôle perçu ne signifie pas que la personne contrôle effectivement toute l’évolution d’une maladie.
 :::
 
-## Une rétroaction qui ouvre une action
+## Taylor : optimisme, contrôle perçu et sens
 
-Au lieu de : **« Tu es désorganisé. »**
+Un programme de recherches examine ces ressources psychologiques chez des personnes vivant avec une maladie grave.
 
-« Deux échéances ont été manquées. Quel obstacle s’est répété? Quel changement peut-on essayer? »
+Dans des suivis d’hommes vivant avec le VIH, certaines croyances positives sont **associées à une progression moins rapide de la maladie**.
 
-**Observation précise → cause à vérifier → action testable.**
+::: {.credit}
+Taylor et collègues (2000) · Synthèse d’un programme de recherches
+:::
 
 ::: {.notes}
-Application originale du cadre; ne pas affirmer que cette formulation a été directement testée dans les études citées. Faire reprendre le message produit dans l’atelier.
+2 minutes. Source primaire : https://doi.org/10.1037/0003-066X.55.1.99, texte https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/10/2000_Psychological-Resources-Positive-Illusions-Health.pdf. Article de synthèse, pas expérience randomisée démontrant que la pensée positive guérit. Études historiques antérieures aux traitements actuels; ne pas extrapoler leurs résultats à un pronostic individuel. Le rôle du sens et des croyances est étudié; une attribution causale particulière et l’optimisme ne sont pas des concepts interchangeables.
+:::
+
+## Ce qu’une explication constructive permet
+
+**Préserver des possibilités d’action sans promettre le résultat.**
+
+Face à une difficulté :
+
+1. préciser ce qui s’est produit;
+2. distinguer ce qui peut changer des contraintes;
+3. choisir une action, une aide ou une stratégie à tester.
+
+::: {.notes}
+1 minute. Synthèse pédagogique originale. Santé : les résultats présentés n’attribuent pas aux personnes la responsabilité de leur maladie ou de son évolution. Faire relier développement des capacités, contrôle perçu et action concrète.
 :::
 
 ## Connectez-vous à Wooclap {#connexion-ronde-2}
@@ -775,40 +793,40 @@ C. La consigne supprime toute différence de jugement.
 W04 — Réponse A. La contrainte est prise en compte, mais la correspondance texte–attitude persiste.
 :::
 
-## Ronde 2 · Acteur et observateur
+## Ronde 2 · États d’esprit
 
-Quelle formulation convient le mieux à la synthèse des études présentée?
+Après un échec, quelle formulation correspond le mieux à un état d’esprit de développement?
 
-A. L’asymétrie acteur–observateur est universelle.<br>
-B. L’asymétrie moyenne générale est très faible et dépend du contexte.<br>
-C. Personne ne donne d’explication situationnelle.
+A. Cet échec révèle une capacité définitivement limitée.<br>
+B. Mes capacités peuvent évoluer; je peux tester une autre stratégie et demander de l’aide.<br>
+C. Si je fais suffisamment d’efforts, la réussite est garantie.
 
 ::: {.notes}
-W05 — Réponse B. L’asymétrie comparée concerne les explications de soi versus autrui : davantage de situation pour soi, de disposition pour autrui, selon l’hypothèse classique. La synthèse ne retrouve pas une différence générale forte et constante. Des profils de sens opposés, notamment entre évènements négatifs et positifs, peuvent se compenser dans la moyenne. Cela ne signifie pas que chaque situation présente un effet faible. A transforme une hypothèse en règle universelle; C confond absence de différence générale et absence d’explications situationnelles. À dire : « La situation pour moi, le caractère pour les autres : ce contraste varie selon les évènements; il n’est pas une règle générale robuste. » Malle (2006), https://pubmed.ncbi.nlm.nih.gov/17073526/.
+W05 — Réponse B. Une capacité peut se développer; cela ne garantit pas la réussite et ne réduit pas l’apprentissage au seul effort.
 :::
 
-## Ronde 2 · Interne et contrôlable
+## Ronde 2 · Attributions et santé
 
-Une fatigue liée à une maladie est une cause interne. Que peut-on conclure?
+Quelle conclusion respecte les recherches sur les ressources psychologiques et la santé présentées?
 
-A. Elle est nécessairement contrôlable.<br>
-B. Elle est nécessairement stable.<br>
-C. Le lieu ne détermine ni le contrôle ni la stabilité.
+A. La pensée positive garantit la guérison.<br>
+B. L’évolution d’une maladie dépend uniquement des attributions de la personne.<br>
+C. Certaines ressources psychologiques sont associées à la santé; leur rôle ne garantit pas une guérison.
 
 ::: {.notes}
-W06 — Réponse C. Trois dimensions distinctes; demander quelles informations supplémentaires les renseigneraient.
+W06 — Réponse C. Distinguer association observée, mécanisme envisagé et garantie individuelle; les soins et contraintes restent essentiels.
 :::
 
-## Ronde 2 · Réviser une explication
+## Ronde 2 · Résignation et réattribution
 
-Après un échec, Jo dit : « Je suis incapable dans tous les domaines. » Quelle réponse ouvre une vérification utile?
+Après plusieurs échecs, Jo dit : « Quoi que je fasse, rien ne changera. » Quelle réponse aide à vérifier cette attente?
 
-A. Confirmer ce trait global.<br>
-B. Identifier les difficultés précises et tester une stratégie adaptée.<br>
-C. Promettre que tout dépend de l’effort.
+A. Confirmer que toute tentative est inutile.<br>
+B. Repérer ce qui peut changer et tester une stratégie avec les ressources nécessaires.<br>
+C. Promettre que la volonté suffit à réussir.
 
 ::: {.notes}
-W07 — Réponse B. Une reformulation doit rester crédible et conduire à une action testable; elle ne garantit pas un résultat.
+W07 — Réponse B. L’attente porte sur l’absence de contrôle. Chercher une possibilité réelle d’action, sans promettre le résultat.
 :::
 
 ## Trois acquis à emporter {#synthese}
@@ -846,6 +864,8 @@ Les notions discutées en classe peuvent aussi être évaluées. Les liens exter
 
 [Weiner (1985)](https://doi.org/10.1037/0033-295X.92.4.548) · [Malle (2006)](https://doi.org/10.1037/0033-2909.132.6.895)
 
+[Taylor et collègues (2000)](https://doi.org/10.1037/0003-066X.55.1.99) · [Blackwell et collègues (2007)](https://doi.org/10.1111/j.1467-8624.2007.00995.x)
+
 [Ross, Amabile et Steinmetz (1977)](https://doi.org/10.1037/0022-3514.35.7.485) · [Mezulis et al. (2004)](https://doi.org/10.1037/0033-2909.130.5.711)
 
 **Mise à jour : 5 octobre 2026.**
@@ -862,6 +882,42 @@ Le [guide cumulatif de l’examen 2](../../cours/10/guide.qmd) indique les notio
 
 ::: {.notes}
 Ne pas parcourir obligatoirement ces diapositives en classe. Adapter les développements oraux au temps disponible. Chapitre entier reste lecture associée.
+:::
+
+## L’émotion dépend aussi de l’interprétation
+
+**Modèle bifactoriel de Schachter**
+
+Activation physiologique + interprétation de sa cause contribuent à l’émotion ressentie.
+
+Un cœur qui accélère peut être interprété différemment selon la situation.
+
+::: {.notes}
+Manuel, p. 161–162. Modèle historique. L’expérience classique obtient des résultats plus nets pour l’euphorie que pour la colère; des réplications sont moins concluantes. Ne pas enseigner ces deux facteurs comme une loi suffisante de toute émotion. Exemple original.
+:::
+
+## Contrôle perçu et relations
+
+La manière d’expliquer une difficulté peut orienter :
+
+- la colère ou la compassion;
+- le blâme;
+- l’aide proposée.
+
+Avant de juger le contrôle : **quels moyens étaient réellement disponibles?**
+
+::: {.notes}
+Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Dans le modèle, les dimensions causales organisent attentes et émotions. Exemple original : retard lié à un choix évitable versus transport interrompu. Ne pas attribuer automatiquement une émotion unique à chaque dimension.
+:::
+
+## Une récompense peut changer l’explication
+
+**Motivation intrinsèque :** faire une activité pour le plaisir qu’elle procure.
+
+**Surjustification :** une récompense attendue peut conduire à expliquer une activité aimée par cette récompense.
+
+::: {.notes}
+Manuel, p. 165–166, étude du dessin présentée secondairement. Récompense annoncée avant participation : intérêt ultérieur réduit; récompense inattendue ne produit pas le même profil. Ne pas généraliser à toutes les récompenses. Relier perception de soi et ignorement.
 :::
 
 ## Pourquoi certaines explications sont plus élaborées
