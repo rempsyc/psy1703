@@ -57,7 +57,7 @@ Les notions discutées en classe peuvent aussi être évaluées. Les liens exter
 
 1. **Construire une explication** — causes, choix et indices de covariation
 2. **Réviser nos inférences** — enquête en équipe, rôles et biais attributionnels
-3. **Préserver des possibilités d’action** — états d’esprit, résignation acquise et santé
+3. **Préserver des possibilités d’action** — mentalités, résignation acquise et santé
 
 **Pour commencer : proposer une première explication au retard d’Andréa.**
 
@@ -680,19 +680,19 @@ Paraphrases de trois paires du tableau 5.2, manuel p. 142; CDS II (McAuley et al
 « Je ne peux rien changer » et « Je peux essayer une autre stratégie » n’ouvrent pas les mêmes possibilités.
 
 ::: {.notes}
-1 minute. Modèle de Weiner, manuel p. 162–164. Partir des dimensions déjà travaillées; annoncer états d’esprit, résignation et santé. Le bloc suivant dispose de 15 minutes dans les vingt minutes après la pause; réserver cinq minutes aux dimensions et au biais égocentrique.
+1 minute. Modèle de Weiner, manuel p. 162–164. Partir des dimensions déjà travaillées; annoncer mentalités, résignation et santé. Le bloc suivant dispose de 15 minutes dans les vingt minutes après la pause; réserver cinq minutes aux dimensions et au biais égocentrique.
 :::
 
-## États d’esprit : les capacités peuvent-elles évoluer?
+## Mentalités : les capacités peuvent-elles évoluer?
 
-**État d’esprit fixe :** concevoir les capacités comme peu modifiables.
+**Mentalité fixe (*fixed mindset*) :** concevoir les capacités comme peu modifiables.
 
-**État d’esprit de développement :** concevoir qu’elles peuvent se développer par l’apprentissage.
+**Mentalité de croissance (*growth mindset*) :** concevoir qu’elles peuvent se développer par l’apprentissage.
 
 Ce sont des **croyances sur les capacités**, qui peuvent varier selon le domaine.
 
 ::: {.notes}
-2 minutes avec la diapositive suivante. Ouverture explicite sur les théories implicites des capacités; prolongement du passage sur Dweck et la réattribution, manuel p. 172. Source primaire : Blackwell, Trzesniewski et Dweck (2007), https://doi.org/10.1111/j.1467-8624.2007.00995.x. Ne pas assimiler la recherche de Dweck (1975) sur la réattribution à une intervention moderne sur les états d’esprit. Les exemples suivants sont originaux.
+2 minutes avec la diapositive suivante. Ouverture explicite sur les théories implicites des capacités; prolongement du passage sur Dweck et la réattribution, manuel p. 172. Source primaire : Blackwell, Trzesniewski et Dweck (2007), https://doi.org/10.1111/j.1467-8624.2007.00995.x. Ne pas assimiler la recherche de Dweck (1975) sur la réattribution à une intervention moderne sur les mentalités. Les exemples suivants sont originaux.
 :::
 
 ## Un même échec, deux lectures possibles
@@ -748,7 +748,7 @@ Le **style explicatif** est notre manière habituelle d’expliquer pourquoi les
 **S’appuyer sur les faits pour construire une autre explication plausible.**
 
 ::: {.notes}
-1 minute, prise sur les deux minutes de réattribution qui suivent. Optimisme appris : apprendre à remettre en question des explications pessimistes; prolongement des styles attributionnels et de la reformulation de la résignation. Ce n’est pas le simple inverse de l’incontrôlabilité apprise, ni une garantie de succès. Distinguer stabilité et globalité; ne pas déplacer systématiquement la responsabilité vers autrui. Exemple original, pas item validé. Seligman, Learned Optimism; repère bibliographique institutionnel : https://ppc.sas.upenn.edu/research/attributional-style-adults. Définition paraphrasée du cadre de Seligman : repérer les explications automatiques, examiner les preuves et envisager des alternatives; ouvrage consulté : https://eduteka.icesi.edu.co/pdfdir/SELIGMAN_Optimism.pdf. L’optimisme comme attente favorable, l’optimisme appris comme apprentissage et le style explicatif comme habitude d’explication sont trois niveaux distincts. Les croyances des états d’esprit portent sur les capacités; ici, l’analyse porte sur les explications des évènements. Transition vers une action concrète à tester.
+1 minute, prise sur les deux minutes de réattribution qui suivent. Optimisme appris : apprendre à remettre en question des explications pessimistes; prolongement des styles attributionnels et de la reformulation de la résignation. Ce n’est pas le simple inverse de l’incontrôlabilité apprise, ni une garantie de succès. Distinguer stabilité et globalité; ne pas déplacer systématiquement la responsabilité vers autrui. Exemple original, pas item validé. Seligman, Learned Optimism; repère bibliographique institutionnel : https://ppc.sas.upenn.edu/research/attributional-style-adults. Définition paraphrasée du cadre de Seligman : repérer les explications automatiques, examiner les preuves et envisager des alternatives; ouvrage consulté : https://eduteka.icesi.edu.co/pdfdir/SELIGMAN_Optimism.pdf. L’optimisme comme attente favorable, l’optimisme appris comme apprentissage et le style explicatif comme habitude d’explication sont trois niveaux distincts. Les croyances des mentalités portent sur les capacités; ici, l’analyse porte sur les explications des évènements. Transition vers une action concrète à tester.
 :::
 
 ## Réattribution : reconstruire une possibilité testable
@@ -839,9 +839,9 @@ C. La consigne supprime toute différence de jugement.
 W04 — Réponse A. La contrainte est prise en compte, mais la correspondance texte–attitude persiste.
 :::
 
-## Ronde 2 · États d’esprit
+## Ronde 2 · Mentalités
 
-Après un échec, quelle formulation correspond le mieux à un état d’esprit de développement?
+Après un échec, quelle formulation correspond le mieux à une mentalité de croissance?
 
 A. Cet échec révèle une capacité définitivement limitée.<br>
 B. Mes capacités peuvent évoluer; je peux tester une autre stratégie et demander de l’aide.<br>
