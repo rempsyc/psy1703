@@ -272,6 +272,17 @@ Montrer la procédure à l'écran. Le nombre de pages par feuille et le libellé
 
 **Pour commencer : regarder un même objet et comparer nos interprétations.**
 
+## La psychologie sociale étudie l'influence d'autrui
+
+Elle étudie **scientifiquement** comment autrui — réellement présent, imaginé ou implicite — influence nos **pensées**, nos **émotions** et nos **comportements**.
+
+::: {.notes}
+Cette formulation courte est alignée sur la définition classique présentée par le manuel. Expliquer oralement que le chapitre ajoute aussi les caractéristiques d'autrui, les stimuli sociaux et les caractéristiques personnelles de l'individu.
+
+[Sources]
+- Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 5–6.
+:::
+
 ## Pause 1 — 10 minutes
 
 {{< include _reconnexion.qmd >}}
@@ -426,22 +437,13 @@ Faire voter : laquelle de ces deux affirmations leur paraît la plus vraie? Soul
 - Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 3–4.
 :::
 
-## La psychologie sociale étudie l'influence d'autrui
-
-Elle étudie **scientifiquement** comment autrui — réellement présent, imaginé ou implicite — influence nos **pensées**, nos **émotions** et nos **comportements**.
-
-::: {.notes}
-Cette formulation courte est alignée sur la définition classique présentée par le manuel. Expliquer oralement que le chapitre ajoute aussi les caractéristiques d'autrui, les stimuli sociaux et les caractéristiques personnelles de l'individu.
-
-[Sources]
-- Vallerand, R. J. (2021). *Les fondements de la psychologie sociale* (3e éd.), chapitre 1, p. 5–6.
-:::
-
 ## Autrui n'a pas besoin d'être dans la pièce
 
 ::: {.columns}
 ::: {.column width="33%"}
 ### Présence réelle
+
+Autrui est physiquement présent.
 
 Je parle devant un groupe qui m'observe.
 :::
@@ -449,11 +451,15 @@ Je parle devant un groupe qui m'observe.
 ::: {.column width="33%"}
 ### Présence imaginée
 
+La personne se représente la présence ou la réaction d’autrui.
+
 J'anticipe ce que mes proches penseraient de mon choix.
 :::
 
 ::: {.column width="33%"}
 ### Présence implicite
+
+Des normes ou attentes sociales influencent la personne sans présence directe d’autrui.
 
 Une norme guide mon comportement, même lorsque personne ne regarde.
 :::
@@ -603,11 +609,15 @@ Introduire Kurt Lewin sans développer ici toute l'histoire de la discipline. Pr
 ::: {.column width="25%"}
 ### Personnel
 
+Explication centrée sur les caractéristiques de la personne.
+
 Attitudes, buts, émotions
 :::
 
 ::: {.column width="25%"}
 ### Interpersonnel
+
+Explication centrée sur les interactions entre personnes.
 
 Relations entre personnes
 :::
@@ -615,11 +625,15 @@ Relations entre personnes
 ::: {.column width="25%"}
 ### Groupal
 
+Explication centrée sur les groupes et les relations entre groupes.
+
 Normes et dynamique du groupe
 :::
 
 ::: {.column width="25%"}
 ### Intersociétal
+
+Explication centrée sur les systèmes sociaux et les relations entre sociétés.
 
 Cultures et rapports sociaux
 :::
@@ -707,9 +721,11 @@ Q15 de l'export. Réponse attendue : 2.
 
 ## Trois influences ont marqué la discipline
 
-**Les rôles sociaux** orientent les attentes.  
-**Le renforcement** modifie la probabilité d'un comportement.  
-**La cognition** organise notre interprétation du monde social.
+**Rôle social :** ensemble des conduites attendues d’une personne occupant une position sociale.
+
+**Renforcement :** processus par lequel une conséquence augmente la probabilité d’un comportement.
+
+**Cognition :** processus d’acquisition, d’organisation et d’utilisation de l’information.
 
 ::: {.notes}
 Présenter ces influences comme trois exemples parmi plusieurs. Le chapitre aborde également l'échange social, la théorie du champ et les approches évolutionnistes. Couper cette diapositive avant les précédentes si le temps manque.

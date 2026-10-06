@@ -125,6 +125,22 @@ Montrer la procédure à l'écran. Le nombre de pages par feuille et le libellé
 Organisation pédagogique fondée sur Vallerand (2021), p. 63 : contenu, conscience de soi, conséquences intrapersonnelles et interpersonnelles, puis déterminants. Les processus et stratégies prioritaires précèdent les sources afin qu’ils soient traités même si le temps manque. La clarté et l’autocompassion sont des ouvertures identifiées; elles ne remplacent pas le noyau du manuel.
 :::
 
+## Soi corporel vs soi conceptuel
+
+**Soi corporel** : l’expérience de son corps comme sien, situé ici, capable d’agir.
+
+**Soi conceptuel** : ce que l’on se représente à propos de soi.
+
+**Concept de soi :** ensemble des représentations sur soi.
+
+**Sentiment de propriété de corps :** sentiment que son corps, ou une partie de celui-ci, est le sien.
+
+« Cette main est la mienne » et « je suis habile de mes mains » concernent le même corps, sous deux angles différents.
+
+::: {.notes}
+Krol, Thériault, Olson, Raz et Bartz (2020), https://doi.org/10.1177/0146167219879126. Corporel/conceptuel n’est pas un synonyme de contenu/processus : des processus construisent et actualisent les représentations corporelles comme conceptuelles. Employer « conceptuel » plutôt que « mental » évite de laisser entendre que l’expérience corporelle serait dépourvue de dimensions psychologiques.
+:::
+
 ## Voir l’expérience {#video-rhi}
 
 ::: {style="display: flex; justify-content: center;"}
@@ -135,25 +151,13 @@ Organisation pédagogique fondée sur Vallerand (2021), p. 63 : contenu, conscie
 Lecture manuelle; arrêter la vidéo avant de quitter la diapo. La vidéo n’est pas jouable dans une copie PDF. Repérer avec le groupe ce qui est vu, ressenti et inféré. La vidéo illustre le protocole : les réactions montrées ne sont pas une comparaison contrôlée de résultats. Référence de la recherche : https://doi.org/10.1177/17470218221078858.
 :::
 
-## Soi corporel vs soi conceptuel
-
-**Soi corporel** : l’expérience de son corps comme sien, situé ici, capable d’agir.
-
-**Soi conceptuel** : ce que l’on se représente à propos de soi.
-
-« Cette main est la mienne » et « je suis habile de mes mains » concernent le même corps, sous deux angles différents.
-
-::: {.notes}
-Krol, Thériault, Olson, Raz et Bartz (2020), https://doi.org/10.1177/0146167219879126. Corporel/conceptuel n’est pas un synonyme de contenu/processus : des processus construisent et actualisent les représentations corporelles comme conceptuelles. Employer « conceptuel » plutôt que « mental » évite de laisser entendre que l’expérience corporelle serait dépourvue de dimensions psychologiques.
-:::
-
 ## Un concept de soi peut être plus ou moins clair
 
 **Clarté du concept de soi** : des croyances sur soi clairement définies, cohérentes entre elles et relativement stables dans le temps.
 
 **Clarté** : « Est-ce que je sais comment je me décris? »
 
-**Estime** : « Quelle valeur est-ce que je m’accorde? »
+**Estime de soi :** évaluation subjective, positive ou négative, que l’on fait de soi-même.
 
 Un portrait clair n’est pas nécessairement favorable, exact ou immuable.
 
@@ -253,6 +257,8 @@ Un schéma n’est pas un simple adjectif ni un synonyme de personnalité. Repre
 :::
 
 ## Une carte de mon soi
+
+**Saillance :** caractère d’un élément qui se distingue et attire l’attention dans une situation.
 
 ![](assets/carte-soi-remi-sans-liens.svg){width="1300" fig-alt="Rémi au centre, relié à huit facettes. Aucun lien transversal n’est encore affiché entre les facettes."}
 
@@ -354,11 +360,11 @@ Source : Vallerand (2021), p. 64–67, tableau 3.2. Items tirés de la validatio
 
 ## L’estime de soi : préciser de quoi on parle
 
-| Distinction | Exemple de question |
+| Distinction | Définition |
 |---|---|
-| Globale ou propre à un domaine | Ma valeur générale ou ma satisfaction comme étudiante? |
-| Disposition ou état | Habituellement ou après cet exposé? |
-| Individuelle, relationnelle ou collective | Moi, ma place dans une relation ou mon appartenance? |
+| Globale ou propre à un domaine | Évaluation de soi dans son ensemble ou dans un domaine précis |
+| Disposition ou état | Tendance relativement stable ou évaluation momentanée |
+| Individuelle, relationnelle ou collective | Valeur liée à soi, à ses relations ou à ses appartenances |
 
 **Une réaction située ne résume pas la personne.**
 
@@ -377,6 +383,8 @@ Vallerand (2021), p. 65–66. Inspiration pédagogique : Blais, cours 3 (2020), 
 :::
 
 ## Quand une image de soi est menacée
+
+**Narcissisme :** tendance à entretenir une image grandiose de soi, à rechercher l’admiration et à se sentir en droit de recevoir un traitement privilégié.
 
 **Se reconnaître de la valeur** et **se croire supérieur aux autres** sont distincts.
 
@@ -465,10 +473,12 @@ Distinguer cette définition opérationnelle de la conscience phénoménale (ép
 
 ## La théorie de l’autodétermination {visibility="hidden"}
 
-Trois besoins dans la théorie de l’autodétermination :
+**Théorie de l’autodétermination :** modèle de la motivation qui examine comment la satisfaction des besoins d’autonomie, de compétence et d’appartenance favorise une motivation autonome et le bien-être.
+
+Trois besoins dans la théorie :
 
 - **Autonomie** : agir avec un sentiment de choix.
-- **Compétence** : se sentir capable de progresser.
+- **Compétence** : se sentir efficace dans ses interactions et capable de développer ses capacités.
 - **Appartenance sociale** : se sentir relié aux autres.
 
 **Dans un cours, qu’est-ce qui pourrait rendre la participation plus autonome?**
@@ -515,24 +525,6 @@ Vallerand (2021), p. 100–104 et glossaire, p. 446 — définitions synthétis�
 Source : Vallerand (2021), chapitre 3, p. 100–104. La présentation stratégique n’implique pas un mensonge; l’authenticité n’oblige pas à tout révéler. L’autosurveillance concerne l’ajustement de sa présentation aux indices sociaux : ne pas opposer moralement personnes fausses et honnêtes.
 :::
 
-## Se sentir mieux ou mieux réguler son action?
-
-**Baumeister : « Rethinking Self-Esteem »**
-
-Augmenter l’estime de soi ne garantit pas, à lui seul, une amélioration des comportements ou des compétences.
-
-D’où sa proposition : accorder davantage de place au **contrôle de soi**.
-
-**Cela ne signifie pas que l’estime de soi est sans bénéfices.**
-
-::: {.credit}
-Baumeister, « Rethinking Self-Esteem »; mise en perspective : Orth et Robins (2022).
-:::
-
-::: {.notes}
-Texte de vulgarisation et de positionnement fourni par Rémi, Stanford Social Innovation Review, p. 34–41; la couverture porte Winter 2005. Baumeister y défend le contrôle de soi et reconnaît certains bénéfices de l’estime, notamment bonheur et initiative. Ne pas confondre sa proposition d’intervention avec une démonstration que tout contrôle ou toute autocompassion surpasse toute estime pour tous les résultats. Actualisation : Orth et Robins (2022), https://doi.org/10.1037/amp0000922, synthèse d’études longitudinales rapportant des bénéfices prospectifs de l’estime dans plusieurs domaines; pas un essai randomisé d’intervention ni une preuve que toute hausse artificielle produit ces bénéfices. Distinguer corrélations, prédictions longitudinales et efficacité des interventions.
-:::
-
 ## Le contrôle de soi
 
 ::: {.columns}
@@ -552,6 +544,24 @@ Texte de vulgarisation et de positionnement fourni par Rémi, Stanford Social In
 
 ::: {.notes}
 Vallerand (2021), p. 93–95; de Ridder et al. (2012), DOI 10.1177/1088868311418749. Définition de travail distincte de celle, plus large, de l’autorégulation. Exemple original, sans promesse d’efficacité universelle. La capture mène au billet de vulgarisation de Rémi Thériault, « Êtes-vous en contrôle… de vous? » (2020). L’étude de Mischel suit pour illustrer une manipulation expérimentale de l’attention.
+:::
+
+## Se sentir mieux ou mieux réguler son action?
+
+**Baumeister : « Rethinking Self-Esteem »**
+
+Augmenter l’estime de soi ne garantit pas, à lui seul, une amélioration des comportements ou des compétences.
+
+D’où sa proposition : accorder davantage de place au **contrôle de soi**.
+
+**Cela ne signifie pas que l’estime de soi est sans bénéfices.**
+
+::: {.credit}
+Baumeister, « Rethinking Self-Esteem »; mise en perspective : Orth et Robins (2022).
+:::
+
+::: {.notes}
+Texte de vulgarisation et de positionnement fourni par Rémi, Stanford Social Innovation Review, p. 34–41; la couverture porte Winter 2005. Baumeister y défend le contrôle de soi et reconnaît certains bénéfices de l’estime, notamment bonheur et initiative. Ne pas confondre sa proposition d’intervention avec une démonstration que tout contrôle ou toute autocompassion surpasse toute estime pour tous les résultats. Actualisation : Orth et Robins (2022), https://doi.org/10.1037/amp0000922, synthèse d’études longitudinales rapportant des bénéfices prospectifs de l’estime dans plusieurs domaines; pas un essai randomisé d’intervention ni une preuve que toute hausse artificielle produit ces bénéfices. Distinguer corrélations, prédictions longitudinales et efficacité des interventions.
 :::
 
 ## Contrôle de soi : déplacer son attention
@@ -597,7 +607,7 @@ Se traiter avec compréhension et bienveillance lorsque l’on souffre ou rencon
 
 - **Bienveillance envers soi** : répondre à sa difficulté avec compréhension.
 - **Humanité commune** : reconnaître que les difficultés font partie de la vie humaine.
-- **Pleine conscience** : reconnaître l’expérience sans s’y laisser entièrement absorber.
+- **Pleine conscience** : porter attention à l’expérience présente sans jugement; ici, reconnaitre sa souffrance sans l’éviter ni l’amplifier.
 
 Exemple : **« Cet exposé a été difficile. Je peux reconnaître ma déception et préparer la suite. »**
 
@@ -708,6 +718,8 @@ Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie
 
 ## D’où viennent nos idées sur nous-mêmes?
 
+**Introspection :** examen de ses propres pensées, émotions et expériences.
+
 | Source | Question que l’on peut se poser |
 |---|---|
 | **Introspection** | Que ressens-je? Qu’est-ce que je pense? |
@@ -765,11 +777,11 @@ https://www.mcgill.ca/social-intelligence/files/social-intelligence/Chaiken_Bald
 
 ## Le regard des autres est interprété
 
+**L’autovérification : rechercher une confirmation de l’idée que l’on a déjà de soi.**
+
 « Mes collègues me demandent d’expliquer les consignes. »
 
 Je peux y voir de la compétence… ou simplement de la disponibilité.
-
-**L’autovérification : rechercher une confirmation de l’idée que l’on a déjà de soi.**
 
 Confirmer son idée de soi et rechercher une image plus favorable peuvent conduire à des choix différents.
 
@@ -816,7 +828,9 @@ Source primaire : communication originale de 1967, https://files.eric.ed.gov/ful
 
 ## Se souvenir de soi : reconstruire son passé
 
-**Les souvenirs autobiographiques** concernent les événements de notre propre vie.
+**Souvenirs autobiographiques :** souvenirs des évènements de sa propre vie.
+
+**Rappel sélectif :** récupération de certains souvenirs plutôt que d’autres.
 
 Le **rappel sélectif** peut rendre le récit du passé plus cohérent avec l’image actuelle de soi.
 

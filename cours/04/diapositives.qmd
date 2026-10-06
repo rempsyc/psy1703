@@ -99,6 +99,8 @@ Présenter le fil conducteur : sélectionner, organiser, juger et interagir. Obj
 
 ## Un même évènement, plusieurs lectures
 
+La **cognition sociale** désigne les processus et les connaissances qui permettent de percevoir les personnes et de penser à elles.
+
 Vous écrivez à une collègue : « Peux-tu m’envoyer ta partie aujourd’hui? »
 
 Elle répond deux heures plus tard : **« D’accord. »**
@@ -121,7 +123,7 @@ Faire produire silencieusement une première interprétation, puis recueillir tr
 
 **Étudier les structures et les processus qui nous permettent de percevoir les personnes et de penser à elles.**
 
-Trois opérations pour la séance :
+Quatre opérations pour la séance :
 
 1. **Sélectionner** ce qui reçoit notre attention
 2. **Organiser** l’information avec des schémas
@@ -133,6 +135,10 @@ Source : Vallerand (2021), chapitre 4, p. 108–111 et 131–135. Le traitement 
 :::
 
 ## Un système dynamique
+
+**Percevant :** personne qui forme le jugement. **Cible :** personne ou objet de ce jugement. **Contexte :** circonstances dans lesquelles il se forme.
+
+**Charge cognitive :** quantité de ressources mentales mobilisées par les tâches en cours.
 
 | **Percevant** | **Contexte** | **Cible** |
 |---|---|---|
@@ -147,6 +153,10 @@ Synthèse originale de la figure 4.1 du manuel, p. 110, sans la reproduire. Le m
 :::
 
 ## L’attention est sélective
+
+**Attention sélective :** allocation privilégiée des ressources de traitement à certaines informations.
+
+**Saillance :** caractère d’un élément qui se distingue et attire l’attention.
 
 Nous ne traitons pas avec la même profondeur tout ce qui est disponible.
 
@@ -192,8 +202,8 @@ Dans l’étude originale, un expérimentateur demandait son chemin à un passan
 
 | Source du traitement | Question |
 |---|---|
-| **Ascendant** | Quels indices la situation fournit-elle? |
-| **Descendant** | Quels schémas, buts et souvenirs organisent ces indices? |
+| **Ascendant** | Traitement guidé par les informations fournies par les sens |
+| **Descendant** | Traitement guidé par les connaissances, buts et attentes préalables |
 
 L’impression résulte de leur rencontre, puis dépend de ce qui sera encodé et récupéré.
 
@@ -249,6 +259,8 @@ Exemple original. Faire nommer les indices qui permettraient de choisir entre le
 
 ## Accessibilité : ce qui vient facilement à l’esprit
 
+**Accessibilité :** facilité avec laquelle une connaissance peut être activée et utilisée.
+
 Un concept **accessible** a davantage de chances d’être utilisé pour interpréter une information ambiguë.
 
 L’accessibilité peut venir :
@@ -284,6 +296,8 @@ Source : Vallerand (2021), p. 110, 114 et 127. Exemple hypothétique, pas résul
 </style>
 
 ## Deux mots qui se suivent
+
+**Amorçage sémantique :** facilitation du traitement d’un mot par la présentation préalable d’un mot lié par le sens.
 
 Un mot apparait, puis un second. **Répondez seulement au second mot**, le plus vite possible :
 
@@ -398,6 +412,8 @@ Source : Vallerand (2021), p. 115–123. La cible contribue par ses actions et s
 :::
 
 ## Distance psychologique
+
+**Distance psychologique :** éloignement subjectif d’un évènement par rapport à soi, ici et maintenant; il peut être temporel, spatial, social ou hypothétique.
 
 Un évènement perçu comme **lointain** tend à être représenté de façon plus abstraite.
 
@@ -548,6 +564,16 @@ Source : Vallerand (2021), p. 126–127. Le manuel emploie processus délibéré
   text-align: center;
 }
 </style>
+
+## Définir le test d’associations implicites
+
+**IAT (*Implicit Association Test*) :** tâche qui estime la force relative d’associations entre concepts à partir des temps de classement, selon les catégories qui partagent une réponse.
+
+Une **association implicite** est un lien entre représentations révélé indirectement, plutôt que par une déclaration explicite.
+
+::: {.credit}
+[Project Implicit — fonctionnement de l’IAT](https://implicit.harvard.edu/implicit/iatdetails.html)
+:::
 
 ## Une démonstration collective de l’IAT
 
@@ -741,6 +767,8 @@ Le site présente des activités de recherche. Ne pas exiger une participation n
 
 ## Un continuum de formation d’impression
 
+**Formation d’impression :** construction d’un jugement d’ensemble sur une personne à partir des informations disponibles.
+
 1. **Catégorisation initiale** : une catégorie accessible fournit une première lecture.
 2. **Catégorisation confirmatoire** : les informations compatibles renforcent cette lecture.
 3. **Recatégorisation** : une sous-catégorie ou un nouveau schéma intègre les écarts.
@@ -805,6 +833,8 @@ Exemple relevé dans le cours de Caroline Blais, puis vérifié dans la source p
 :::
 
 ## Représentativité : « À quoi ce cas ressemble-t-il? »
+
+**Prototype :** représentation d’un membre typique d’une catégorie. **Fréquence de base :** proportion d’une catégorie dans la population considérée.
 
 Nous pouvons juger qu’un cas appartient à une catégorie parce qu’il ressemble au **prototype** de cette catégorie.
 
@@ -891,13 +921,15 @@ Présenter ces mécanismes comme des explications complémentaires développées
 
 ## Le rôle de l’affect
 
+**Affect :** expérience ressentie comme agréable ou désagréable, incluant émotions et humeurs.
+
+L’**heuristique affective** consiste à utiliser cette réaction comme raccourci pour juger un risque, une préférence ou une décision.
+
 Nos réactions affectives peuvent fournir rapidement une information de valeur :
 
 - attirant ou repoussant;
 - sûr ou menaçant;
 - agréable ou désagréable.
-
-L’**heuristique affective** consiste à utiliser cette réaction comme raccourci pour juger un risque, une préférence ou une décision.
 
 ::: {.notes}
 Source : Vallerand (2021), p. 128–129. Exemple oral : une humeur liée à une journée difficile colore l’évaluation d’un échange ambigu. Ne pas opposer émotion et cognition comme deux systèmes étanches; l’affect fait partie du traitement de l’information.
@@ -934,6 +966,8 @@ Tableau de consolidation, non protocole universel. Faire choisir la question la 
 
 ## La vérification confirmatoire
 
+**Vérification confirmatoire :** recherche d’informations susceptible de confirmer une hypothèse plutôt que de la mettre à l’épreuve.
+
 Une attente peut orienter :
 
 - les questions posées;
@@ -948,6 +982,8 @@ Source : Vallerand (2021), p. 117 et 131–132. Exemple du manuel : des question
 :::
 
 ## La cible réagit au percevant
+
+**Prophétie autoréalisante :** croyance initialement erronée qui modifie les interactions de manière à produire le comportement attendu.
 
 1. Le percevant forme une **attente**.
 2. Cette attente modifie son **comportement envers la cible**.

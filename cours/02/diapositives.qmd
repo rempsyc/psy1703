@@ -151,6 +151,16 @@ Les décisions éthiques accompagnent toute la démarche.
 Source : Vallerand et Chénard-Poirier (2021), p. 28–29. Présenter la démarche comme itérative : les résultats peuvent susciter de nouvelles questions. Distinguer exploration et mise à l'épreuve d'une prédiction préalable.
 :::
 
+## Du concept à la mesure
+
+**Construit :** concept théorique que l’on cherche à étudier à l’aide d’indicateurs.
+
+**Variable :** caractéristique pouvant prendre différentes valeurs.
+
+**Opérationnalisation :** traduction d’un concept en procédures observables de mesure ou de manipulation.
+
+**Définition opérationnelle :** description précise des procédures retenues.
+
 ## Définir ce que l'on mesure
 
 | Concept | Exemple d'opérationnalisation |
@@ -169,6 +179,10 @@ Exemples proposés pour une étude fictive. Le score n'épuise pas le concept de
 
 ## Variables indépendante et dépendante
 
+**Variable indépendante :** facteur manipulé pour en étudier l’effet.
+
+**Variable dépendante :** résultat mesuré pour évaluer cet effet.
+
 Dans notre **expérience proposée** :
 
 - **VI (variable indépendante) — l'intervention, ce que l'on manipule :** discussion ou réflexion individuelle.
@@ -182,15 +196,23 @@ Source : Vallerand et Chénard-Poirier (2021), p. 32. Distinguer l'expérience p
 
 ## La qualité d'une mesure
 
-**Fidélité :** la mesure est-elle suffisamment cohérente et reproductible dans des conditions comparables?
+**Fidélité :** cohérence des scores obtenus dans des conditions comparables.
 
-**Validité :** les éléments disponibles soutiennent-ils l'interprétation du score pour l'usage visé?
+**Validité :** degré de soutien apporté par les données et la théorie à l’interprétation des scores pour l’usage visé.
 
 Une mesure peut être cohérente et mal représenter le concept recherché.
 
 ::: {.notes}
 Exemple oral : mesurer systématiquement la fréquence des prises de parole ne mesure pas nécessairement la certitude. Source : Vallerand et Chénard-Poirier (2021), p. 32–34. Fidélité temporelle : stabilité des scores si le phénomène reste stable. Fidélité interjuges : accord entre personnes qui codent; cohérence interne : convergence des items d’une échelle. Ne pas confondre stabilité du score et absence de changement réel.
 :::
+
+## Définir les familles de mesures
+
+- **Verbale :** réponses déclarées par la personne.
+- **Implicite :** indices indirects, sans demander directement le jugement visé.
+- **Physiologique :** activité du corps.
+- **Comportementale :** conduites observées.
+- **Non réactive :** traces recueillies sans provoquer la conduite étudiée.
 
 ## Cinq familles de mesures
 
@@ -207,6 +229,8 @@ Source : Vallerand et Chénard-Poirier (2021), p. 45–51. Ces exemples ne sont 
 :::
 
 ## Lire une différence de moyennes
+
+**Moyenne arithmétique :** somme des valeurs divisée par leur nombre.
 
 Dans un **exemple fictif**, le changement moyen de certitude est :
 
@@ -230,6 +254,8 @@ Les deux moyennes seules ne disent pas :
 
 ## Lire une corrélation
 
+**Corrélation :** association statistique entre les variations de deux variables. Le coefficient **r** décrit leur association linéaire.
+
 ![](assets/associations.svg){fig-alt="Trois nuages de points fictifs : relation linéaire positive, négative et sans tendance linéaire nette." width="1300"}
 
 Le signe de **r** donne la direction; sa valeur absolue décrit la force de l'association linéaire.
@@ -244,7 +270,9 @@ Source : Vallerand et Chénard-Poirier (2021), p. 52. r varie entre −1 et +1; 
 
 ## Signification statistique et importance
 
-Une petite valeur **p** indique une incompatibilité des données avec le modèle statistique testé.
+**Valeur p :** probabilité, sous le modèle statistique testé incluant l’hypothèse nulle, d’obtenir un résultat au moins aussi extrême que celui observé.
+
+Une petite valeur p indique que ce résultat est peu compatible avec ce modèle.
 
 Elle ne donne ni la probabilité que l'hypothèse soit vraie, ni la taille de l'effet.
 
@@ -255,6 +283,8 @@ Complément : American Statistical Association (2016), principes 1, 2 et 5, http
 :::
 
 ## Association et causalité
+
+**Association :** deux variables varient ensemble. **Causalité :** modifier un facteur produit un changement dans un autre.
 
 Si l'appartenance et la participation varient ensemble :
 
@@ -271,6 +301,8 @@ Exemple original, sans données. Un climat accueillant pourrait influencer les d
 :::
 
 ## Tester l'effet d'une discussion
+
+**Assignation aléatoire :** répartition des personnes entre les conditions d’une étude par le hasard.
 
 **Répartition aléatoire** entre deux conditions :
 
@@ -290,9 +322,9 @@ Devis fictif, à discuter plutôt qu'à administrer comme recherche. VI : condit
 
 ## Deux usages du hasard
 
-**Échantillonnage aléatoire :** qui est sélectionné dans une population?
+**Échantillonnage aléatoire :** sélection des membres d’un échantillon par une procédure fondée sur le hasard.
 
-**Assignation aléatoire :** qui reçoit quelle condition dans l'étude?
+**Assignation aléatoire :** répartition des personnes entre les conditions d’une étude par le hasard.
 
 Le premier concerne la sélection; le second aide à comparer les conditions.
 
@@ -317,17 +349,19 @@ Source : Vallerand et Chénard-Poirier (2021), p. 34–39. Le lieu seul ne défi
 
 ## Trois questions de validité
 
-**Construit :** mesure-t-on bien ce que l'on prétend mesurer?
+**Validité de construit :** degré auquel les mesures et manipulations représentent les concepts visés.
 
-**Interne :** peut-on attribuer l'effet à la manipulation?
+**Validité interne :** degré auquel l’effet observé peut être attribué à la manipulation plutôt qu’à une autre cause.
 
-**Externe :** à quelles personnes et situations le résultat peut-il s'appliquer?
+**Validité externe :** degré auquel un résultat peut être généralisé à d’autres personnes et situations.
 
 ::: {.notes}
 Source : Vallerand et Chénard-Poirier (2021), p. 32–34. Une variable confondue varie avec la condition et peut expliquer le résultat. Exemple : discussion de dix minutes contre réflexion d'une minute. Distinguer le réalisme psychologique de la simple ressemblance de surface avec la vie quotidienne, p. 35. Une expérience de laboratoire n'est pas automatiquement sans portée hors laboratoire.
 :::
 
 ## Réduire les biais
+
+**Biais :** tendance systématique qui déforme une mesure, une estimation ou une conclusion.
 
 | Risque | Amélioration possible |
 |---|---|
@@ -431,6 +465,8 @@ Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie
 
 ## Atelier 1 — Comment mesurer l’appartenance? {#atelier-appartenance}
 
+**Sentiment d’appartenance :** impression d’être accepté et de faire partie d’un groupe.
+
 **8 minutes · Trouvez un binôme de votre équipe Blancs-Ors ou Bleus-Noirs.**
 
 Une équipe de recherche veut mesurer le **sentiment d’appartenance à un groupe**. Elle propose de compter les prises de parole.
@@ -448,6 +484,40 @@ Guide interne : guide-animation-ateliers.md, atelier 1. Minutage : 1 min formati
 :::
 
 # Partie 2 — La science ouverte et au-delà
+
+## La science ouverte
+
+**Science ouverte :** pratiques qui rendent les méthodes, les données et les résultats de recherche accessibles et vérifiables.
+
+**Reproductibilité computationnelle :** obtenir les mêmes résultats avec les mêmes données et procédures d’analyse.
+
+**Réplication :** tester une conclusion antérieure avec de nouvelles données.
+
+::: {.credit}
+[COS — Science ouverte et vérification](https://www.cos.io/initiatives/top-guidelines)
+:::
+
+## Les pratiques de la science ouverte
+
+![](assets/science-ouverte-2022/open2.png){fig-alt="Visuel ReproducibiliTea : données, matériel, préenregistrement, libre accès, science citoyenne et code ouvert." height="420" fig-align="center"}
+
+::: {.credit}
+[Visuel ReproducibiliTea](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/04/rtea-3-2-e1587204530638.jpg) · Image conservée de PSY7104 (2022).
+:::
+
+::: {.notes}
+Traduire brièvement les libellés; l'ouverture concerne plus que les données. Les icônes ne constituent pas un classement de qualité. Transition : comment appliquer ces idées à notre étude fictive?
+:::
+
+## Des choix qui changent l’histoire racontée
+
+- **Sélectionner** la mesure, l'exclusion ou l'analyse qui donne le résultat souhaité : risque de *p-hacking*.
+- Présenter une explication imaginée **après les résultats** comme une prédiction préalable : *HARKing*.
+- Rapporter seulement les études qui « fonctionnent » : **biais de publication**.
+
+::: {.notes}
+Exemples : multiplier les VD, omettre des conditions, exclusions opportunistes, arrêter la collecte selon p, reclasser les résultats décevants en pilotes. Des exclusions justifiées et des règles d'arrêt planifiées peuvent être légitimes; le problème est la sélection opportuniste et non déclarée. Exploration et fraude ne sont pas synonymes.
+:::
 
 ## Pourquoi trouve-t-on si souvent ce que l’on attend?
 
@@ -488,7 +558,7 @@ Schéma COS, source indiquée sur l’image : cos.io/rr · Archive utilisée en 
 :::
 
 ::: {.notes}
-Suivre les flèches : hypothèses, devis, collecte, analyse, interprétation, publication. Les références incrustées datent de 1962 à 2012 et renvoient à des indicateurs/populations différents; ne pas les additionner ni les présenter comme des taux actuels ou universels. Définir oralement p-hacking et HARKing à la diapositive suivante. La faible puissance réduit la probabilité de détecter un effet donné; pas de calcul requis.
+Suivre les flèches : hypothèses, devis, collecte, analyse, interprétation, publication. Les références incrustées datent de 1962 à 2012 et renvoient à des indicateurs/populations différents; ne pas les additionner ni les présenter comme des taux actuels ou universels. Les définitions de p-hacking et HARKing ont été présentées avant ce schéma. La faible puissance réduit la probabilité de détecter un effet donné; pas de calcul requis.
 :::
 
 ## Pause 2 — 10 minutes
@@ -496,30 +566,6 @@ Suivre les flèches : hypothèses, devis, collecte, analyse, interprétation, pu
 Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie** directement sur Wooclap :
 
 {{< include _reconnexion.qmd >}}
-
-## Des choix qui changent l’histoire racontée
-
-- **Sélectionner** la mesure, l'exclusion ou l'analyse qui donne le résultat souhaité : risque de *p-hacking*.
-- Présenter une explication imaginée **après les résultats** comme une prédiction préalable : *HARKing*.
-- Rapporter seulement les études qui « fonctionnent » : **biais de publication**.
-
-::: {.notes}
-Exemples : multiplier les VD, omettre des conditions, exclusions opportunistes, arrêter la collecte selon p, reclasser les résultats décevants en pilotes. Des exclusions justifiées et des règles d'arrêt planifiées peuvent être légitimes; le problème est la sélection opportuniste et non déclarée. Exploration et fraude ne sont pas synonymes.
-:::
-
-## La science ouverte
-
-![](assets/science-ouverte-2022/open2.png){fig-alt="Visuel ReproducibiliTea : données, matériel, préenregistrement, libre accès, science citoyenne et code ouvert." height="420" fig-align="center"}
-
-Rendre le travail **accessible, compréhensible et vérifiable**.
-
-::: {.credit}
-[Visuel ReproducibiliTea](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/04/rtea-3-2-e1587204530638.jpg) · Image conservée de PSY7104 (2022).
-:::
-
-::: {.notes}
-Traduire brièvement les libellés; l'ouverture concerne plus que les données. Les icônes ne constituent pas un classement de qualité. Transition : comment appliquer ces idées à notre étude fictive?
-:::
 
 ## Mise des données, matériels et code en ligne
 
@@ -536,6 +582,10 @@ Reprise du titre et de l'argument précédent, en remplacement de la longue cita
 :::
 
 ## Confirmatoire ou exploratoire?
+
+**Recherche confirmatoire :** mise à l’épreuve d’hypothèses et d’analyses spécifiées avant l’examen des résultats.
+
+**Recherche exploratoire :** recherche de régularités ou d’hypothèses nouvelles à partir des données.
 
 **Préenregistrer :** dater un plan d'hypothèses, de méthode et d'analyses avant de les mettre à l'épreuve.
 
@@ -567,6 +617,8 @@ Adaptés au premier cycle. Conserver sa critique de la pression à commencer vit
 :::
 
 ## Les rapports enregistrés
+
+**Rapport enregistré :** format de publication où les pairs évaluent la question et le protocole avant les résultats, avec un engagement de publication conditionnel à leur respect.
 
 ![](assets/science-ouverte-2022/reports.png){fig-alt="Titre de l’article de Nosek et Lakens sur les Registered Reports." height="230" fig-align="center"}
 

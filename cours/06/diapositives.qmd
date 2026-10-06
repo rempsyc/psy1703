@@ -83,6 +83,18 @@ Un même comportement peut recevoir plusieurs explications.
 Présenter le parcours : outils, première ronde, pause, enquête en équipe, biais et conséquences, seconde ronde.  Les compléments de lecture se trouvent après les sources.
 :::
 
+## Une attribution causale
+
+Une **attribution** est une explication de la cause d’un comportement ou d’un évènement.
+
+« Andréa arrive en retard » : observation.
+
+« Andréa manque de respect » : attribution à une disposition.
+
+::: {.notes}
+Distinguer expliquer le retard et inférer une disposition durable. Une explication peut être plausible sans être correcte. Cadre historique présenté par Kelley (1973), qui situe les contributions de Heider.
+:::
+
 ## Andréa arrive en retard
 
 À une réunion d’équipe, **Andréa arrive 15 minutes après le début**.
@@ -97,31 +109,21 @@ Gardez cette réponse pour la suite.
 4 minutes : 45 secondes seul avant tout échange, puis 90 secondes en binôme de proximité et deux réponses. Ne pas demander immédiatement une cause situationnelle : conserver la première explication spontanée. Confiance = assurance dans cette explication, pas probabilité scientifique calibrée. Situation fictive; ne pas solliciter des confidences. Faire de l’erreur attributionnelle fondamentale un fil conducteur. Garder les réponses privées pour comparaison au dossier B et à la synthèse; aucun classement de personnes ou d’équipes.
 :::
 
-## Une attribution causale
-
-Une **attribution** est une explication de la cause d’un comportement ou d’un évènement.
-
-« Andréa arrive en retard » : observation.
-
-« Andréa manque de respect » : attribution à une disposition.
-
-::: {.notes}
-Distinguer expliquer le retard et inférer une disposition durable. Une explication peut être plausible sans être correcte. Cadre historique présenté par Kelley (1973), qui situe les contributions de Heider.
-:::
-
 ## Trois questions, trois types d’attributions
 
-**Causale :** pourquoi Andréa est-elle en retard?
+**Attribution causale :** explication de la cause d’un comportement ou d’un évènement.
 
-**Dispositionnelle :** que suggère ce comportement sur ses traits?
+**Attribution dispositionnelle :** inférence d’un trait ou d’une tendance relativement stable à partir d’un comportement.
 
-**De responsabilité :** dans quelle mesure lui attribue-t-on le blâme?
+**Attribution de responsabilité :** jugement sur la responsabilité et le blâme associés à une action ou à ses conséquences.
 
 ::: {.notes}
 Manuel, p. 140–142; glossaire p. 438. Les trois inférences peuvent s’enchainer, mais ne répondent pas à la même question. Le blâme et le mérite sont des jugements de responsabilité.
 :::
 
 ## Personne, cible, circonstances
+
+Les causes peuvent être attribuées à la **personne** qui agit, à la **cible** de sa réaction ou aux **circonstances** particulières de l’évènement.
 
 - **Personne** : habitude d’organisation d’Andréa.
 - **Cible ou situation particulière** : réunion dont l’horaire est difficile à trouver.
@@ -149,9 +151,9 @@ Exemple original. Faire distinguer cause, intention et responsabilité : une pan
 
 ## Comment l’explication se construit
 
-**Théories de l’attribution :** formation des explications.
+**Théories de l’attribution :** modèles qui expliquent comment les personnes construisent des explications causales.
 
-**Théories attributionnelles :** conséquences des explications.
+**Théories attributionnelles :** modèles qui expliquent les conséquences des attributions sur les émotions, les attentes et les conduites.
 
 Heider : nous cherchons à comprendre et à prévoir les actions en reliant la personne à son environnement.
 
@@ -186,6 +188,10 @@ Inférences correspondantes : cadre de Jones et Davis discuté dans Kelley (1973
 :::
 
 ## Inférer un trait : quels indices?
+
+**Inférence correspondante :** déduction d’une disposition personnelle qui correspond au comportement observé.
+
+**Désirabilité sociale :** degré auquel une conduite est socialement valorisée. **Effets distinctifs :** conséquences propres à un choix, absentes des autres options.
 
 Jones et Davis : la correspondance devient plus informative selon :
 
@@ -234,6 +240,8 @@ Manuel, p. 147–148 et glossaire p. 449. Préciser la condition d’indices int
 
 ## Comparer plutôt que deviner
 
+**Principe de covariation :** attribuer un effet à une cause qui est présente lorsque l’effet se produit et absente lorsqu’il ne se produit pas.
+
 Pour expliquer le retard, chercher des comparaisons :
 
 **D’autres personnes? D’autres réunions? D’autres jours?**
@@ -244,11 +252,11 @@ Introduire les trois dimensions par les questions, puis leurs noms. Kelley (1973
 
 ## Trois indices de covariation
 
-| Indice | Comparaison |
+| Indice | Définition |
 |---|---|
-| **Consensus** | D’autres personnes réagissent-elles ainsi à la même cible? |
-| **Distinction** | La personne réagit-elle ainsi à d’autres cibles? |
-| **Consistance** | La personne réagit-elle ainsi à cette cible à d’autres moments? |
+| **Consensus** | Similarité des réactions de différentes personnes à la même cible |
+| **Distinction** | Spécificité de la réaction d’une personne à cette cible plutôt qu’à d’autres |
+| **Consistance** | Répétition de la réaction d’une personne à la même cible à différents moments |
 
 ::: {.notes}
 Expliquer distinction élevée : le comportement est spécifique à cette cible; consistance élevée : il se répète envers cette même cible. Ne pas confondre variété des cibles et répétition temporelle. Kelley (1973), https://doi.org/10.1037/h0034225. Manuel, chapitre 5, p. 148–150; glossaire, p. 440 et 446.
@@ -308,6 +316,8 @@ Quelle comparaison demanderiez-vous avant de conclure?
 
 ## Une autre cause réduit le poids d’un indice
 
+**Principe d’ignorement :** réduction du poids accordé à une cause lorsque d’autres causes plausibles peuvent expliquer le même effet.
+
 Un vendeur vous complimente.
 
 Le compliment peut refléter une appréciation sincère, mais aussi une incitation à vendre.
@@ -319,6 +329,8 @@ Principe d’ignorement : terme du manuel (p. 150), correspondant au discounting
 :::
 
 ## Agir malgré un obstacle
+
+**Principe d’augmentation :** attribution d’un poids accru à une cause facilitante lorsque l’effet se produit malgré une cause inhibitrice.
 
 Une personne aide alors que cela lui coute du temps et des efforts.
 
@@ -460,6 +472,22 @@ Votre porte-parole présente :
 Demander : « Quel trait avez-vous attribué? Quelle contrainte a changé son interprétation? Que concluriez-vous si cette contrainte était présente pour une autre personne? » Faire comparer une formulation accusatrice et une demande précise. Critères de débreffage : fidélité aux observations, juste classement des indices, hypothèse concurrente, question discriminante et action proportionnée. Vérifier que l’explication ne reformule pas simplement le retard par une étiquette : elle doit permettre une prédiction ou une comparaison. Exemple : une contrainte liée à cette réunion prédit un retard spécifique à cette réunion; une habitude générale conduit à chercher les autres réunions. Aucune note scolaire.
 :::
 
+## Une erreur attributionnelle fondamentale?
+
+**Erreur attributionnelle fondamentale :** tendance à surestimer les causes dispositionnelles et à sous-estimer les causes situationnelles du comportement d’autrui.
+
+**Biais de correspondance :** inférer une disposition à partir d’une conduite qui peut être expliquée par la situation.
+
+Pour vérifier :
+
+- quelle liberté d’action avait la personne?
+- quel rôle devait-elle remplir?
+- quelle contrainte connue change l’interprétation?
+
+::: {.notes}
+Le manuel rapproche l’erreur attributionnelle fondamentale de l’inférence de correspondance (p. 155–156); ne pas imposer une séparation terminologique plus forte que la source. Ne pas traiter cette tendance comme une loi universelle.
+:::
+
 ## Jeu de questions : qui parait le plus compétent?
 
 Trois volontaires : **questionneur, répondant, observateur**. Rôles tirés au sort.
@@ -521,23 +549,9 @@ Moyennes exactes du tableau 1, expérience I · Redessin original dans R · Jone
 Le manuel (p. 156) résume le contraste de manière plus catégorique; le tableau original montre une prise en compte partielle de la contrainte. Les personnes tiennent compte de la contrainte, mais donnent encore une attitude davantage conforme au texte même sans choix. Valeurs du tableau 1 de la source primaire, transcription publique consultée sur Scribd : 59,62 et 17,38 avec choix; 44,10 et 22,87 sans choix. Échelle 10–70, sans vrai point neutre selon les auteurs. Aucune barre d’incertitude ajoutée. La figure porte uniquement sur l’expérience I. Sa principale hypothèse d’interaction n’a pas été confirmée; la différence pro–anti persiste sans choix. Ne pas demander de mémoriser ces valeurs. Jones et Harris (1967), https://doi.org/10.1016/0022-1031(67)90034-0.
 :::
 
-## Une erreur attributionnelle fondamentale?
-
-On peut accorder trop de poids aux dispositions d’autrui et trop peu aux contraintes.
-
-**Biais de correspondance :** inférer une disposition à partir d’une conduite qui peut être expliquée par la situation.
-
-Pour vérifier :
-
-- quelle liberté d’action avait la personne?
-- quel rôle devait-elle remplir?
-- quelle contrainte connue change l’interprétation?
-
-::: {.notes}
-Le manuel rapproche l’erreur attributionnelle fondamentale de l’inférence de correspondance (p. 155–156); ne pas imposer une séparation terminologique plus forte que la source. Ne pas traiter cette tendance comme une loi universelle.
-:::
-
 ## Acteur et observateur : l’hypothèse classique
+
+**Asymétrie acteur–observateur :** différence proposée entre les explications de son propre comportement, davantage situationnelles, et de celui d’autrui, davantage dispositionnelles.
 
 « Moi, j’étais pressé; cette personne est impatiente. »
 
@@ -571,9 +585,9 @@ Manuel, p. 156–158, présentation secondaire des études comparatives. Décrir
 
 ## Blâmer après avoir appris le résultat
 
-**Hypothèse du monde juste :** croire que chacun reçoit ce qu’il mérite peut orienter le jugement d’une injustice.
+**Croyance en un monde juste :** croyance que les personnes obtiennent ce qu’elles méritent et méritent ce qui leur arrive. Elle peut orienter le jugement d’une injustice.
 
-**Biais de connaissance après les faits :** un résultat connu peut sembler avoir été prévisible.
+**Biais de connaissance après les faits :** tendance à considérer un résultat comme plus prévisible une fois qu’on le connait.
 
 ::: {.notes}
 Manuel, p. 158–159; glossaire p. 438 et 443. Exemple original : après un vol, affirmer que la victime aurait dû prévoir le danger, en oubliant ce qu’elle savait avant. Identification à la victime peut plutôt mobiliser une recherche de justice.
@@ -592,6 +606,8 @@ Dans l’évènement LNIHHZZ, activer la question ouverte de pause : réponses m
 :::
 
 ## Une explication favorable au soi
+
+**Biais égocentrique :** tendance à attribuer davantage ses réussites à des causes internes et ses échecs à des causes externes.
 
 Après une réussite : « J’ai de bonnes capacités. »
 
@@ -619,9 +635,9 @@ Faire produire un exemple pour une seule ligne. Distinctions pédagogiques fond�
 
 | Dimension | Question |
 |---|---|
-| **Lieu** | La cause se situe-t-elle dans la personne ou à l’extérieur? |
-| **Stabilité** | La cause devrait-elle persister? |
-| **Contrôlabilité** | La personne peut-elle agir sur cette cause? |
+| **Lieu** | Localisation perçue de la cause dans la personne ou à l’extérieur |
+| **Stabilité** | Persistance perçue de la cause dans le temps |
+| **Contrôlabilité** | Possibilité perçue pour la personne d’agir sur la cause |
 
 **Une cause interne n’est pas forcément contrôlable.**
 
@@ -707,6 +723,8 @@ Cette diminution peut persister lorsqu’une possibilité de contrôle apparait.
 
 ## Pourquoi l’échec semble-t-il durable et généralisé?
 
+**Globalité :** étendue des situations auxquelles une cause est supposée s’appliquer.
+
 Après un échec : « C’est à cause de moi, cela ne changera jamais, et ce sera pareil partout. »
 
 **Interne · stable · globale**
@@ -760,6 +778,14 @@ Nos explications peuvent orienter :
 ::: {.notes}
 1 minute. Manuel p. 169–170. Présenter ces voies comme des pistes distinctes; ne pas attribuer toutes les études de la section à Taylor. Le contrôle perçu ne signifie pas que la personne contrôle effectivement toute l’évolution d’une maladie.
 :::
+
+## Trois ressources psychologiques
+
+**Optimisme :** attente générale que des résultats favorables se produiront à l’avenir.
+
+**Contrôle perçu :** croyance que l’on peut influencer les évènements ou leurs conséquences.
+
+**Sens :** compréhension cohérente de ce qui arrive et de sa place dans sa vie.
 
 ## Taylor : optimisme, contrôle perçu et sens
 
@@ -934,7 +960,7 @@ Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Dans le modèle, les 
 
 **Motivation intrinsèque :** faire une activité pour le plaisir qu’elle procure.
 
-**Surjustification :** une récompense attendue peut conduire à expliquer une activité aimée par cette récompense.
+**Effet de surjustification :** diminution de l’intérêt intrinsèque pour une activité lorsque la personne explique sa participation par une récompense externe plutôt que par son intérêt initial.
 
 ::: {.notes}
 Manuel, p. 165–166, étude du dessin présentée secondairement. Récompense annoncée avant participation : intérêt ultérieur réduit; récompense inattendue ne produit pas le même profil. Ne pas généraliser à toutes les récompenses. Relier perception de soi et ignorement.
@@ -944,9 +970,9 @@ Manuel, p. 165–166, étude du dessin présentée secondairement. Récompense a
 
 **Désir de contrôle :** vouloir agir sur ce qui arrive.
 
-**Complexité attributionnelle :** élaborer des explications plus riches.
+**Complexité attributionnelle :** tendance à rechercher des explications du comportement qui intègrent plusieurs causes et leurs interactions.
 
-**Besoin de structure cognitive :** rechercher une conclusion claire.
+**Besoin de structure cognitive :** préférence pour des interprétations simples, claires et organisées qui réduisent l’ambigüité.
 
 ::: {.notes}
 Manuel, p. 143–144 et 151; glossaire p. 438–440. Ces dispositions décrivent des tendances, pas des catégories fixes. Économie cognitive : partir d’une cause plausible, approfondir selon le besoin. Approche pragmatique adapte la recherche à la situation.
@@ -965,6 +991,8 @@ Manuel, p. 147; glossaire p. 446. Exemple original : une remarque qui nous gêne
 :::
 
 ## Imaginer un autre passé
+
+**Raisonnement contrefactuel :** construction mentale d’une alternative à un évènement passé : ce qui aurait pu se produire.
 
 **Raisonnement contrefactuel**
 
