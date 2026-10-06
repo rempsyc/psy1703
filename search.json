@@ -2159,7 +2159,7 @@
     "href": "cours/06/diapositives.html#plan-de-la-séance",
     "title": "Psychologie sociale",
     "section": "Plan de la séance",
-    "text": "Plan de la séance\n\nConstruire une explication — causes, choix et indices de covariation\nRéviser nos inférences — enquête en équipe, rôles et biais attributionnels\nComprendre les conséquences — émotions, motivation et possibilités d’action\n\nPour commencer : proposer une première explication au retard d’Andréa."
+    "text": "Plan de la séance\n\nConstruire une explication — causes, choix et indices de covariation\nRéviser nos inférences — enquête en équipe, rôles et biais attributionnels\nPréserver des possibilités d’action — états d’esprit, résignation acquise et santé\n\nPour commencer : proposer une première explication au retard d’Andréa."
   },
   {
     "objectID": "cours/06/diapositives.html#du-jugement-à-lexplication",
@@ -2498,60 +2498,67 @@
     "text": "Même échec, explications différentes\n« Je n’ai pas utilisé une stratégie adaptée. »\n« Le système de remise était en panne. »\n« Je suis incapable dans tous les domaines. »\nClassez les causes perçues : lieu, stabilité, contrôlabilité.\n\n4 minutes : seul puis binôme. Stratégie : interne, modifiable, contrôle souvent possible mais moyens à préciser. Panne : externe, ponctuelle dans cet énoncé, hors contrôle immédiat de l’étudiant. Incapacité globale : perçue interne et stable, peu contrôlable. Ce sont les croyances du personnage, pas des diagnostics. Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548."
   },
   {
-    "objectID": "cours/06/diapositives.html#du-résultat-à-laction-weiner",
-    "href": "cours/06/diapositives.html#du-résultat-à-laction-weiner",
+    "objectID": "cours/06/diapositives.html#de-lexplication-à-la-possibilité-dagir",
+    "href": "cours/06/diapositives.html#de-lexplication-à-la-possibilité-dagir",
     "title": "Psychologie sociale",
-    "section": "Du résultat à l’action : Weiner",
-    "text": "Du résultat à l’action : Weiner\nRésultat → explication → dimensions causales → attentes et émotions → action\nUne même note peut donc conduire à des décisions différentes selon la cause perçue.\n\nSchéma original du modèle de motivation à l’accomplissement, manuel p. 162–164. Le résultat est d’abord évalué comme succès/échec; émotions générales puis émotions associées aux causes. Lieu lié à l’estime/compétence, stabilité aux attentes, contrôlabilité notamment aux émotions sociales; pas de correspondances exclusives ou automatiques."
+    "section": "De l’explication à la possibilité d’agir",
+    "text": "De l’explication à la possibilité d’agir\nRésultat → explication → attentes et émotions → action\n« Je ne peux rien changer » et « Je peux essayer une autre stratégie » n’ouvrent pas les mêmes possibilités.\n\n1 minute. Modèle de Weiner, manuel p. 162–164. Partir des dimensions déjà travaillées; annoncer états d’esprit, résignation et santé. Le bloc suivant dispose de 15 minutes dans les vingt minutes après la pause; réserver cinq minutes aux dimensions et au biais égocentrique."
   },
   {
-    "objectID": "cours/06/diapositives.html#lémotion-dépend-aussi-de-linterprétation",
-    "href": "cours/06/diapositives.html#lémotion-dépend-aussi-de-linterprétation",
+    "objectID": "cours/06/diapositives.html#états-desprit-les-capacités-peuvent-elles-évoluer",
+    "href": "cours/06/diapositives.html#états-desprit-les-capacités-peuvent-elles-évoluer",
     "title": "Psychologie sociale",
-    "section": "L’émotion dépend aussi de l’interprétation",
-    "text": "L’émotion dépend aussi de l’interprétation\nModèle bifactoriel de Schachter\nActivation physiologique + interprétation de sa cause contribuent à l’émotion ressentie.\nUn cœur qui accélère peut être interprété différemment selon la situation.\n\nManuel, p. 161–162. Modèle historique. L’expérience classique obtient des résultats plus nets pour l’euphorie que pour la colère; des réplications sont moins concluantes. Ne pas enseigner ces deux facteurs comme une loi suffisante de toute émotion. Exemple original."
+    "section": "États d’esprit : les capacités peuvent-elles évoluer?",
+    "text": "États d’esprit : les capacités peuvent-elles évoluer?\nÉtat d’esprit fixe : concevoir les capacités comme peu modifiables.\nÉtat d’esprit de développement : concevoir qu’elles peuvent se développer par l’apprentissage.\nCe sont des croyances sur les capacités, qui peuvent varier selon le domaine.\n\n2 minutes avec la diapositive suivante. Ouverture explicite sur les théories implicites des capacités; prolongement du passage sur Dweck et la réattribution, manuel p. 172. Source primaire : Blackwell, Trzesniewski et Dweck (2007), https://doi.org/10.1111/j.1467-8624.2007.00995.x. Ne pas assimiler la recherche de Dweck (1975) sur la réattribution à une intervention moderne sur les états d’esprit. Les exemples suivants sont originaux."
   },
   {
-    "objectID": "cours/06/diapositives.html#stabilité-et-attentes",
-    "href": "cours/06/diapositives.html#stabilité-et-attentes",
+    "objectID": "cours/06/diapositives.html#un-même-échec-deux-lectures-possibles",
+    "href": "cours/06/diapositives.html#un-même-échec-deux-lectures-possibles",
     "title": "Psychologie sociale",
-    "section": "Stabilité et attentes",
-    "text": "Stabilité et attentes\nUne cause perçue comme durable peut faire attendre la répétition du résultat.\nUne cause perçue comme temporaire peut laisser attendre un résultat différent.\nQuelle action concrète rendrait la nouvelle explication crédible?\n\nWeiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. La stabilité influence les changements d’attentes; éviter de promettre qu’une reformulation suffit à améliorer la performance. Exemple : comparer une méthode de révision sur des exercices de difficulté semblable."
+    "section": "Un même échec, deux lectures possibles",
+    "text": "Un même échec, deux lectures possibles\n« Ce résultat prouve que je n’ai pas la capacité. »\n« Ce résultat montre ce que je dois encore apprendre. »\nQuelle stratégie, quelle aide ou quelle occasion de pratiquer devient possible?\nDévelopper une capacité demande des moyens; l’effort seul ne garantit pas la réussite.\n\nFaire proposer une action concrète, sans vote Wooclap supplémentaire. Distinguer la croyance générale sur la capacité et l’attribution de cet échec particulier; ne pas traiter deux phrases comme un questionnaire validé ou un diagnostic."
   },
   {
-    "objectID": "cours/06/diapositives.html#contrôle-perçu-et-relations",
-    "href": "cours/06/diapositives.html#contrôle-perçu-et-relations",
+    "objectID": "cours/06/diapositives.html#résignation-acquise-apprendre-que-laction-ne-change-rien",
+    "href": "cours/06/diapositives.html#résignation-acquise-apprendre-que-laction-ne-change-rien",
     "title": "Psychologie sociale",
-    "section": "Contrôle perçu et relations",
-    "text": "Contrôle perçu et relations\nLa manière d’expliquer une difficulté peut orienter :\n\nla colère ou la compassion;\nle blâme;\nl’aide proposée.\n\nAvant de juger le contrôle : quels moyens étaient réellement disponibles?\n\nWeiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Dans le modèle, les dimensions causales organisent attentes et émotions. Exemple original : retard lié à un choix évitable versus transport interrompu. Ne pas attribuer automatiquement une émotion unique à chaque dimension."
+    "section": "Résignation acquise : apprendre que l’action ne change rien",
+    "text": "Résignation acquise : apprendre que l’action ne change rien\nAprès des expériences d’incontrôlabilité, la personne peut moins tenter d’agir, même lorsqu’une possibilité de contrôle apparait.\nLe problème concerne le lien perçu entre l’action et son résultat.\n\n2 minutes. Manuel p. 166–167 : paradigme historique d’évènements incontrôlables, puis difficultés à agir dans une situation ultérieure. Exemple fictif : plusieurs démarches sans effet, puis renoncement à une démarche devenue possible. Ne pas appeler toute baisse de motivation résignation acquise."
   },
   {
-    "objectID": "cours/06/diapositives.html#une-récompense-peut-changer-lexplication",
-    "href": "cours/06/diapositives.html#une-récompense-peut-changer-lexplication",
+    "objectID": "cours/06/diapositives.html#pourquoi-léchec-semble-t-il-durable-et-généralisé",
+    "href": "cours/06/diapositives.html#pourquoi-léchec-semble-t-il-durable-et-généralisé",
     "title": "Psychologie sociale",
-    "section": "Une récompense peut changer l’explication",
-    "text": "Une récompense peut changer l’explication\nMotivation intrinsèque : faire une activité pour le plaisir qu’elle procure.\nSurjustification : une récompense attendue peut conduire à expliquer une activité aimée par cette récompense.\n\nManuel, p. 165–166, étude du dessin présentée secondairement. Récompense annoncée avant participation : intérêt ultérieur réduit; récompense inattendue ne produit pas le même profil. Ne pas généraliser à toutes les récompenses. Relier perception de soi et ignorement."
+    "section": "Pourquoi l’échec semble-t-il durable et généralisé?",
+    "text": "Pourquoi l’échec semble-t-il durable et généralisé?\nAprès un échec : « C’est à cause de moi, cela ne changera jamais, et ce sera pareil partout. »\nInterne · stable · globale\nLa stabilité concerne la durée; la globalité concerne les situations auxquelles l’explication s’étend.\n\n2 minutes. Reformulation attributionnelle de la résignation, manuel p. 167. Incontrôlabilité, puis explications de ses causes : ne pas confondre les deux niveaux. Style négatif et évènements négatifs : vulnérabilité dans un modèle, pas cause suffisante de dépression. Reprendre Jo sans solliciter de confidences."
   },
   {
-    "objectID": "cours/06/diapositives.html#quand-une-cause-devient-globale",
-    "href": "cours/06/diapositives.html#quand-une-cause-devient-globale",
+    "objectID": "cours/06/diapositives.html#réattribution-reconstruire-une-possibilité-testable",
+    "href": "cours/06/diapositives.html#réattribution-reconstruire-une-possibilité-testable",
     "title": "Psychologie sociale",
-    "section": "Quand une cause devient globale",
-    "text": "Quand une cause devient globale\nStabilité : la cause devrait-elle durer?\nGlobalité : s’applique-t-elle à plusieurs situations?\n« Cette méthode a mal fonctionné ici » et « Je suis incapable partout » n’ouvrent pas les mêmes attentes.\n\nManuel, p. 141 et 166–168; glossaire p. 442, 447–448. Globalité est une dimension supplémentaire de la reformulation attributionnelle de la résignation acquise, distincte des trois dimensions de Weiner."
+    "section": "Réattribution : reconstruire une possibilité testable",
+    "text": "Réattribution : reconstruire une possibilité testable\nObservation précise → cause à vérifier → action et résultat à comparer\n« Cette stratégie n’a pas fonctionné sur ces exercices. Quelle autre méthode pouvons-nous essayer? »\nStratégie, ressources, aide et contraintes comptent dans l’explication.\n\n2 minutes. Manuel p. 171–172. Dweck (1975) compare une réattribution après l’échec et des expériences de succès seulement : les enfants du premier groupe maintiennent ou améliorent davantage leur performance après un nouvel échec. Source : https://doi.org/10.1037/h0077149. Ne pas appliquer automatiquement une attribution au manque d’effort : si l’effort a été maximal, chercher d’autres moyens. Retrouver le message à Andréa dans l’atelier."
   },
   {
-    "objectID": "cours/06/diapositives.html#résignation-et-réattribution",
-    "href": "cours/06/diapositives.html#résignation-et-réattribution",
+    "objectID": "cours/06/diapositives.html#attributions-et-santé-trois-voies-à-examiner",
+    "href": "cours/06/diapositives.html#attributions-et-santé-trois-voies-à-examiner",
     "title": "Psychologie sociale",
-    "section": "Résignation et réattribution",
-    "text": "Résignation et réattribution\nDes expériences répétées d’absence de contrôle peuvent diminuer les tentatives d’action.\nLa réattribution vise une explication plus adaptée, accompagnée de moyens concrets de changement.\nStratégie, ressources, aide et contraintes à vérifier ensemble.\n\nManuel, p. 166–168 et 171–172. Résignation acquise : conséquences cognitives, affectives et motivationnelles. Style attributionnel vulnérable et évènements négatifs interagissent; pas de diagnostic individuel à partir d’une phrase. Éviter toujours plus d’effort : après effort maximal et échec répété, cette attribution peut renforcer une inférence d’incapacité. Réattribution distincte de mésattribution physiologique."
+    "section": "Attributions et santé : trois voies à examiner",
+    "text": "Attributions et santé : trois voies à examiner\nNos explications peuvent orienter :\n\nles émotions et le stress;\nles comportements de santé;\nles attentes face à la maladie et l’adaptation.\n\nUne explication constructive doit rester compatible avec les faits et les soins.\n\n1 minute. Manuel p. 169–170. Présenter ces voies comme des pistes distinctes; ne pas attribuer toutes les études de la section à Taylor. Le contrôle perçu ne signifie pas que la personne contrôle effectivement toute l’évolution d’une maladie."
   },
   {
-    "objectID": "cours/06/diapositives.html#une-rétroaction-qui-ouvre-une-action",
-    "href": "cours/06/diapositives.html#une-rétroaction-qui-ouvre-une-action",
+    "objectID": "cours/06/diapositives.html#taylor-optimisme-contrôle-perçu-et-sens",
+    "href": "cours/06/diapositives.html#taylor-optimisme-contrôle-perçu-et-sens",
     "title": "Psychologie sociale",
-    "section": "Une rétroaction qui ouvre une action",
-    "text": "Une rétroaction qui ouvre une action\nAu lieu de : « Tu es désorganisé. »\n« Deux échéances ont été manquées. Quel obstacle s’est répété? Quel changement peut-on essayer? »\nObservation précise → cause à vérifier → action testable.\n\nApplication originale du cadre; ne pas affirmer que cette formulation a été directement testée dans les études citées. Faire reprendre le message produit dans l’atelier."
+    "section": "Taylor : optimisme, contrôle perçu et sens",
+    "text": "Taylor : optimisme, contrôle perçu et sens\nUn programme de recherches examine ces ressources psychologiques chez des personnes vivant avec une maladie grave.\nDans des suivis d’hommes vivant avec le VIH, certaines croyances positives sont associées à une progression moins rapide de la maladie.\n\nTaylor et collègues (2000) · Synthèse d’un programme de recherches\n\n\n2 minutes. Source primaire : https://doi.org/10.1037/0003-066X.55.1.99, texte https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/10/2000_Psychological-Resources-Positive-Illusions-Health.pdf. Article de synthèse, pas expérience randomisée démontrant que la pensée positive guérit. Études historiques antérieures aux traitements actuels; ne pas extrapoler leurs résultats à un pronostic individuel. Le rôle du sens et des croyances est étudié; une attribution causale particulière et l’optimisme ne sont pas des concepts interchangeables."
+  },
+  {
+    "objectID": "cours/06/diapositives.html#ce-quune-explication-constructive-permet",
+    "href": "cours/06/diapositives.html#ce-quune-explication-constructive-permet",
+    "title": "Psychologie sociale",
+    "section": "Ce qu’une explication constructive permet",
+    "text": "Ce qu’une explication constructive permet\nPréserver des possibilités d’action sans promettre le résultat.\nFace à une difficulté :\n\npréciser ce qui s’est produit;\ndistinguer ce qui peut changer des contraintes;\nchoisir une action, une aide ou une stratégie à tester.\n\n\n1 minute. Synthèse pédagogique originale. Santé : les résultats présentés n’attribuent pas aux personnes la responsabilité de leur maladie ou de son évolution. Faire relier développement des capacités, contrôle perçu et action concrète."
   },
   {
     "objectID": "cours/06/diapositives.html#connexion-ronde-2",
@@ -2568,25 +2575,25 @@
     "text": "Ronde 2 · Une position imposée\nUn texte défend une position assignée. Que montre l’étude de Jones et Harris?\nA. Les jugements suivent encore en partie la position du texte. B. Les personnes ignorent complètement la consigne. C. La consigne supprime toute différence de jugement.\n\nW04 — Réponse A. La contrainte est prise en compte, mais la correspondance texte–attitude persiste."
   },
   {
-    "objectID": "cours/06/diapositives.html#ronde-2-acteur-et-observateur",
-    "href": "cours/06/diapositives.html#ronde-2-acteur-et-observateur",
+    "objectID": "cours/06/diapositives.html#ronde-2-états-desprit",
+    "href": "cours/06/diapositives.html#ronde-2-états-desprit",
     "title": "Psychologie sociale",
-    "section": "Ronde 2 · Acteur et observateur",
-    "text": "Ronde 2 · Acteur et observateur\nQuelle formulation convient le mieux à la synthèse des études présentée?\nA. L’asymétrie acteur–observateur est universelle. B. L’asymétrie moyenne générale est très faible et dépend du contexte. C. Personne ne donne d’explication situationnelle.\n\nW05 — Réponse B. L’asymétrie comparée concerne les explications de soi versus autrui : davantage de situation pour soi, de disposition pour autrui, selon l’hypothèse classique. La synthèse ne retrouve pas une différence générale forte et constante. Des profils de sens opposés, notamment entre évènements négatifs et positifs, peuvent se compenser dans la moyenne. Cela ne signifie pas que chaque situation présente un effet faible. A transforme une hypothèse en règle universelle; C confond absence de différence générale et absence d’explications situationnelles. À dire : « La situation pour moi, le caractère pour les autres : ce contraste varie selon les évènements; il n’est pas une règle générale robuste. » Malle (2006), https://pubmed.ncbi.nlm.nih.gov/17073526/."
+    "section": "Ronde 2 · États d’esprit",
+    "text": "Ronde 2 · États d’esprit\nAprès un échec, quelle formulation correspond le mieux à un état d’esprit de développement?\nA. Cet échec révèle une capacité définitivement limitée. B. Mes capacités peuvent évoluer; je peux tester une autre stratégie et demander de l’aide. C. Si je fais suffisamment d’efforts, la réussite est garantie.\n\nW05 — Réponse B. Une capacité peut se développer; cela ne garantit pas la réussite et ne réduit pas l’apprentissage au seul effort."
   },
   {
-    "objectID": "cours/06/diapositives.html#ronde-2-interne-et-contrôlable",
-    "href": "cours/06/diapositives.html#ronde-2-interne-et-contrôlable",
+    "objectID": "cours/06/diapositives.html#ronde-2-attributions-et-santé",
+    "href": "cours/06/diapositives.html#ronde-2-attributions-et-santé",
     "title": "Psychologie sociale",
-    "section": "Ronde 2 · Interne et contrôlable",
-    "text": "Ronde 2 · Interne et contrôlable\nUne fatigue liée à une maladie est une cause interne. Que peut-on conclure?\nA. Elle est nécessairement contrôlable. B. Elle est nécessairement stable. C. Le lieu ne détermine ni le contrôle ni la stabilité.\n\nW06 — Réponse C. Trois dimensions distinctes; demander quelles informations supplémentaires les renseigneraient."
+    "section": "Ronde 2 · Attributions et santé",
+    "text": "Ronde 2 · Attributions et santé\nQuelle conclusion respecte les recherches sur les ressources psychologiques et la santé présentées?\nA. La pensée positive garantit la guérison. B. L’évolution d’une maladie dépend uniquement des attributions de la personne. C. Certaines ressources psychologiques sont associées à la santé; leur rôle ne garantit pas une guérison.\n\nW06 — Réponse C. Distinguer association observée, mécanisme envisagé et garantie individuelle; les soins et contraintes restent essentiels."
   },
   {
-    "objectID": "cours/06/diapositives.html#ronde-2-réviser-une-explication",
-    "href": "cours/06/diapositives.html#ronde-2-réviser-une-explication",
+    "objectID": "cours/06/diapositives.html#ronde-2-résignation-et-réattribution",
+    "href": "cours/06/diapositives.html#ronde-2-résignation-et-réattribution",
     "title": "Psychologie sociale",
-    "section": "Ronde 2 · Réviser une explication",
-    "text": "Ronde 2 · Réviser une explication\nAprès un échec, Jo dit : « Je suis incapable dans tous les domaines. » Quelle réponse ouvre une vérification utile?\nA. Confirmer ce trait global. B. Identifier les difficultés précises et tester une stratégie adaptée. C. Promettre que tout dépend de l’effort.\n\nW07 — Réponse B. Une reformulation doit rester crédible et conduire à une action testable; elle ne garantit pas un résultat."
+    "section": "Ronde 2 · Résignation et réattribution",
+    "text": "Ronde 2 · Résignation et réattribution\nAprès plusieurs échecs, Jo dit : « Quoi que je fasse, rien ne changera. » Quelle réponse aide à vérifier cette attente?\nA. Confirmer que toute tentative est inutile. B. Repérer ce qui peut changer et tester une stratégie avec les ressources nécessaires. C. Promettre que la volonté suffit à réussir.\n\nW07 — Réponse B. L’attente porte sur l’absence de contrôle. Chercher une possibilité réelle d’action, sans promettre le résultat."
   },
   {
     "objectID": "cours/06/diapositives.html#synthese",
@@ -2614,7 +2621,7 @@
     "href": "cours/06/diapositives.html#sources",
     "title": "Psychologie sociale",
     "section": "Sources",
-    "text": "Sources\nJones et Harris (1967) · Kelley (1973)\nWeiner (1985) · Malle (2006)\nRoss, Amabile et Steinmetz (1977) · Mezulis et al. (2004)\nMise à jour : 5 octobre 2026.\n\nRéférences scientifiques, pas lectures intégrales obligatoires. Vallerand (dir.), Les fondements de la psychologie sociale, 3e éd., chapitre 5, p. 138–174; glossaire, p. 437–449. Les compléments suivants développent les thèmes du manuel sans augmenter le temps de séance prévu. Pas de reproduction d’images ou de pages du manuel; exemples et schéma originaux. Les notes sont publiques."
+    "text": "Sources\nJones et Harris (1967) · Kelley (1973)\nWeiner (1985) · Malle (2006)\nTaylor et collègues (2000) · Blackwell et collègues (2007)\nRoss, Amabile et Steinmetz (1977) · Mezulis et al. (2004)\nMise à jour : 5 octobre 2026.\n\nRéférences scientifiques, pas lectures intégrales obligatoires. Vallerand (dir.), Les fondements de la psychologie sociale, 3e éd., chapitre 5, p. 138–174; glossaire, p. 437–449. Les compléments suivants développent les thèmes du manuel sans augmenter le temps de séance prévu. Pas de reproduction d’images ou de pages du manuel; exemples et schéma originaux. Les notes sont publiques."
   },
   {
     "objectID": "cours/06/diapositives.html#compléments-de-lecture-du-chapitre-5",
@@ -2622,6 +2629,27 @@
     "title": "Psychologie sociale",
     "section": "Compléments de lecture du chapitre 5",
     "text": "Compléments de lecture du chapitre 5\nLes thèmes suivants prolongent le parcours de la séance.\nLe guide cumulatif de l’examen 2 indique les notions à travailler et les chapitres actuellement couverts.\n\nNe pas parcourir obligatoirement ces diapositives en classe. Adapter les développements oraux au temps disponible. Chapitre entier reste lecture associée."
+  },
+  {
+    "objectID": "cours/06/diapositives.html#lémotion-dépend-aussi-de-linterprétation",
+    "href": "cours/06/diapositives.html#lémotion-dépend-aussi-de-linterprétation",
+    "title": "Psychologie sociale",
+    "section": "L’émotion dépend aussi de l’interprétation",
+    "text": "L’émotion dépend aussi de l’interprétation\nModèle bifactoriel de Schachter\nActivation physiologique + interprétation de sa cause contribuent à l’émotion ressentie.\nUn cœur qui accélère peut être interprété différemment selon la situation.\n\nManuel, p. 161–162. Modèle historique. L’expérience classique obtient des résultats plus nets pour l’euphorie que pour la colère; des réplications sont moins concluantes. Ne pas enseigner ces deux facteurs comme une loi suffisante de toute émotion. Exemple original."
+  },
+  {
+    "objectID": "cours/06/diapositives.html#contrôle-perçu-et-relations",
+    "href": "cours/06/diapositives.html#contrôle-perçu-et-relations",
+    "title": "Psychologie sociale",
+    "section": "Contrôle perçu et relations",
+    "text": "Contrôle perçu et relations\nLa manière d’expliquer une difficulté peut orienter :\n\nla colère ou la compassion;\nle blâme;\nl’aide proposée.\n\nAvant de juger le contrôle : quels moyens étaient réellement disponibles?\n\nWeiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Dans le modèle, les dimensions causales organisent attentes et émotions. Exemple original : retard lié à un choix évitable versus transport interrompu. Ne pas attribuer automatiquement une émotion unique à chaque dimension."
+  },
+  {
+    "objectID": "cours/06/diapositives.html#une-récompense-peut-changer-lexplication",
+    "href": "cours/06/diapositives.html#une-récompense-peut-changer-lexplication",
+    "title": "Psychologie sociale",
+    "section": "Une récompense peut changer l’explication",
+    "text": "Une récompense peut changer l’explication\nMotivation intrinsèque : faire une activité pour le plaisir qu’elle procure.\nSurjustification : une récompense attendue peut conduire à expliquer une activité aimée par cette récompense.\n\nManuel, p. 165–166, étude du dessin présentée secondairement. Récompense annoncée avant participation : intérêt ultérieur réduit; récompense inattendue ne produit pas le même profil. Ne pas généraliser à toutes les récompenses. Relier perception de soi et ignorement."
   },
   {
     "objectID": "cours/06/diapositives.html#pourquoi-certaines-explications-sont-plus-élaborées",
@@ -2712,7 +2740,7 @@
     "href": "cours/10/guide.html#chapitre-5-les-attributions",
     "title": "Guide d’étude — Examen 2",
     "section": "Chapitre 5 — Les attributions",
-    "text": "Chapitre 5 — Les attributions\n\nNotions et types d’explications\n\nAttribution; acteur, observateur et attributeur.\nAttributions causales, dispositionnelles et de responsabilité.\nDimensions causales : lieu de causalité, stabilité, contrôlabilité et globalité.\nContrôle personnel et contrôle par autrui.\nStyle attributionnel et mesure des attributions : CDS II et ASQ.\nAttributions spontanées et réactives; situations favorisant la recherche d’une cause.\nDésir de contrôle, complexité attributionnelle et besoin de structure cognitive.\nThéories de l’attribution et théories attributionnelles.\n\n\n\nFormation des attributions\n\nThéorie naïve de l’action.\nThéorie des inférences correspondantes : correspondance, choix, désirabilité sociale et effets distinctifs.\nPertinence hédonique et personnalisme.\nThéorie de la perception de soi et conditions d’application.\nPrincipe de covariation : consensus, distinction et consistance.\nRaisonnement à partir des indices, informations manquantes et interactions entre causes.\nSchémas causaux; principes d’ignorement et d’augmentation.\nApproche pragmatique, économie cognitive et correction d’une première inférence.\nExplications par les raisons et attributions relationnelles.\nRaisonnement contrefactuel et conséquences affectives ou comportementales.\n\n\n\nBiais et contexte\n\nBiais attributionnels; biais égocentrique.\nErreur attributionnelle fondamentale et inférence de correspondance.\nBiais acteur–observateur : hypothèse classique, mécanismes proposés et limites de généralisation.\nAttention, information disponible, motivation et contexte culturel.\nAttribution de responsabilité injustifiée; hypothèse du monde juste.\nBiais de connaissance après les faits.\nEffet temporel sur les explications.\nAnalyser les causes perçues dans une application médiatique ou sociale.\nAvantage du rôle et inférence de compétence dans un jeu de questions.\nÉvaluer une explication par une prédiction ou une comparaison pertinente.\nÉtude du texte choisi ou imposé : contraste central, profil des résultats et portée de la conclusion.\n\n\n\nConséquences et modification\n\nModèle bifactoriel de l’émotion et limites des résultats classiques.\nThéorie attributionnelle des émotions.\nMotivation à l’accomplissement : attentes, émotions et action.\nThéorie attributionnelle des conduites sociales : responsabilité, réactions et aide.\nMotivation intrinsèque et surjustification; conditions de l’étude de la récompense attendue.\nRésignation acquise, reformulation attributionnelle et modèle du désespoir.\nBlâme personnel caractériel et comportemental.\nExcuses et conséquences interpersonnelles.\nAttributions, adaptation, relations et santé physique.\nMésattribution et réattribution; conditions d’une intervention crédible.\n\n\n\nMatière réellement enseignée et ajouts oraux\nLa séance du 6 octobre est à venir. Les précisions apportées en classe seront intégrées après la séance."
+    "text": "Chapitre 5 — Les attributions\n\nNotions et types d’explications\n\nAttribution; acteur, observateur et attributeur.\nAttributions causales, dispositionnelles et de responsabilité.\nDimensions causales : lieu de causalité, stabilité, contrôlabilité et globalité.\nContrôle personnel et contrôle par autrui.\nStyle attributionnel et mesure des attributions : CDS II et ASQ.\nAttributions spontanées et réactives; situations favorisant la recherche d’une cause.\nDésir de contrôle, complexité attributionnelle et besoin de structure cognitive.\nThéories de l’attribution et théories attributionnelles.\n\n\n\nFormation des attributions\n\nThéorie naïve de l’action.\nThéorie des inférences correspondantes : correspondance, choix, désirabilité sociale et effets distinctifs.\nPertinence hédonique et personnalisme.\nThéorie de la perception de soi et conditions d’application.\nPrincipe de covariation : consensus, distinction et consistance.\nRaisonnement à partir des indices, informations manquantes et interactions entre causes.\nSchémas causaux; principes d’ignorement et d’augmentation.\nApproche pragmatique, économie cognitive et correction d’une première inférence.\nExplications par les raisons et attributions relationnelles.\nRaisonnement contrefactuel et conséquences affectives ou comportementales.\n\n\n\nBiais et contexte\n\nBiais attributionnels; biais égocentrique.\nErreur attributionnelle fondamentale et inférence de correspondance.\nBiais acteur–observateur : hypothèse classique, mécanismes proposés et limites de généralisation.\nAttention, information disponible, motivation et contexte culturel.\nAttribution de responsabilité injustifiée; hypothèse du monde juste.\nBiais de connaissance après les faits.\nEffet temporel sur les explications.\nAnalyser les causes perçues dans une application médiatique ou sociale.\nAvantage du rôle et inférence de compétence dans un jeu de questions.\nÉvaluer une explication par une prédiction ou une comparaison pertinente.\nÉtude du texte choisi ou imposé : contraste central, profil des résultats et portée de la conclusion.\n\n\n\nConséquences et modification\n\nModèle bifactoriel de l’émotion et limites des résultats classiques.\nThéorie attributionnelle des émotions.\nMotivation à l’accomplissement : attentes, émotions et action.\nThéorie attributionnelle des conduites sociales : responsabilité, réactions et aide.\nMotivation intrinsèque et surjustification; conditions de l’étude de la récompense attendue.\nRésignation acquise, reformulation attributionnelle et modèle du désespoir.\nÉtats d’esprit fixe et de développement; liens avec les attributions et les stratégies d’apprentissage.\nRéattribution : contraste entre expériences de succès et modification des explications de l’échec.\nBlâme personnel caractériel et comportemental.\nExcuses et conséquences interpersonnelles.\nAttributions, adaptation, relations et santé physique.\nOptimisme, contrôle perçu et sens : ressources psychologiques, résultats des suivis de santé et portée des conclusions.\nMésattribution et réattribution; conditions d’une intervention crédible.\n\n\n\nMatière réellement enseignée et ajouts oraux\nLa séance du 6 octobre est à venir. Les précisions apportées en classe seront intégrées après la séance."
   },
   {
     "objectID": "cours/10/guide.html#chapitres-6-8-et-9",
