@@ -695,7 +695,9 @@ Faire proposer une action concrète, sans vote Wooclap supplémentaire. Distingu
 
 ## Résignation acquise : apprendre que l’action ne change rien
 
-Après des expériences d’**incontrôlabilité**, la personne peut moins tenter d’agir, même lorsqu’une possibilité de contrôle apparait.
+La **résignation acquise** est une diminution des tentatives d’action, apprise à travers des expériences où agir ne permet pas de modifier le résultat.
+
+Cette diminution peut persister lorsqu’une possibilité de contrôle apparait.
 
 **Le problème concerne le lien perçu entre l’action et son résultat.**
 
@@ -717,19 +719,23 @@ La stabilité concerne la durée; la globalité concerne les situations auxquell
 
 ## Optimisme appris : réviser son style explicatif
 
-**Learned optimism — Seligman**
+**Optimisme appris (*learned optimism*) : apprendre à développer des attentes plus favorables en repérant et en remettant en question ses interprétations pessimistes des évènements.**
+
+Le **style explicatif** est notre manière habituelle d’expliquer pourquoi les évènements se produisent.
 
 « Cet échec prouve que je suis incapable, pour toujours et partout. »
 
 → « Quelles causes temporaires ou spécifiques sont plausibles ici? Que puis-je essayer? »
 
-**Examiner les faits, plutôt que conclure trop vite à une difficulté permanente et générale.**
+**S’appuyer sur les faits pour construire une autre explication plausible.**
 
 ::: {.notes}
-1 minute, prise sur les deux minutes de réattribution qui suivent. Optimisme appris : apprendre à remettre en question des explications pessimistes; prolongement des styles attributionnels et de la reformulation de la résignation. Ce n’est pas le simple inverse de l’incontrôlabilité apprise, ni une garantie de succès. Distinguer stabilité et globalité; ne pas déplacer systématiquement la responsabilité vers autrui. Exemple original, pas item validé. Seligman, Learned Optimism; repère bibliographique institutionnel : https://ppc.sas.upenn.edu/research/attributional-style-adults. Les croyances des états d’esprit portent sur les capacités; ici, l’analyse porte sur les explications des évènements. Transition vers une action concrète à tester.
+1 minute, prise sur les deux minutes de réattribution qui suivent. Optimisme appris : apprendre à remettre en question des explications pessimistes; prolongement des styles attributionnels et de la reformulation de la résignation. Ce n’est pas le simple inverse de l’incontrôlabilité apprise, ni une garantie de succès. Distinguer stabilité et globalité; ne pas déplacer systématiquement la responsabilité vers autrui. Exemple original, pas item validé. Seligman, Learned Optimism; repère bibliographique institutionnel : https://ppc.sas.upenn.edu/research/attributional-style-adults. Définition paraphrasée du cadre de Seligman : repérer les explications automatiques, examiner les preuves et envisager des alternatives; ouvrage consulté : https://eduteka.icesi.edu.co/pdfdir/SELIGMAN_Optimism.pdf. L’optimisme comme attente favorable, l’optimisme appris comme apprentissage et le style explicatif comme habitude d’explication sont trois niveaux distincts. Les croyances des états d’esprit portent sur les capacités; ici, l’analyse porte sur les explications des évènements. Transition vers une action concrète à tester.
 :::
 
 ## Réattribution : reconstruire une possibilité testable
+
+La **réattribution** consiste à apprendre à expliquer un évènement par des causes plus adaptées aux faits et aux possibilités réelles d’action.
 
 **Observation précise → cause à vérifier → action et résultat à comparer**
 

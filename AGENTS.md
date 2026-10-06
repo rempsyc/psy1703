@@ -54,3 +54,5 @@
 - Numérotation des adresses alignée sur les séances du plan, examens compris : cours/05 = examen 1, cours/06 = attribution, cours/10 = examen 2, cours/15 = examen 3. Les prochaines séances suivent leurs numéros officiels (attitudes 07, relations 08, agression 09, etc.).
 
 - Tous les cours, à l’exception des séances d’examen, comportent une diapositive « Plan de la séance », après la logistique et avant la matière. Reprendre le format du cours 3 : trois blocs thématiques numérotés, intitulés en gras et brève phrase « Pour commencer ».
+
+- Définitions : lors de l’introduction d’un concept, donner une définition explicite et courte avant l’exemple ou l’application. Une consigne, un slogan ou une illustration ne remplace pas une définition. Clarifier les notions voisines lorsque leur distinction est nécessaire.
