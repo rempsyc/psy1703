@@ -549,9 +549,9 @@ Le manuel (p. 159–160) présente l’hypothèse classique et ses mécanismes d
 
 ## Un effet général moins solide qu’attendu
 
-Une méta-analyse de **173 études** trouve une asymétrie moyenne générale très faible.
+Une synthèse des études trouve une **très faible différence générale** entre les explications de son propre comportement et de celui d’autrui.
 
-Le profil dépend notamment du type d’évènement et de sa valence positive ou négative.
+Le contraste « situation pour moi, disposition pour l’autre » varie selon les évènements; il peut s’inverser pour les évènements positifs.
 
 **Conserver la distinction des points de vue; éviter une règle universelle.**
 
@@ -784,7 +784,7 @@ B. L’asymétrie moyenne générale est très faible et dépend du contexte.<br
 C. Personne ne donne d’explication situationnelle.
 
 ::: {.notes}
-W05 — Réponse B. Distinguer une hypothèse historique d’un effet général robuste.
+W05 — Réponse B. L’asymétrie comparée concerne les explications de soi versus autrui : davantage de situation pour soi, de disposition pour autrui, selon l’hypothèse classique. La synthèse ne retrouve pas une différence générale forte et constante. Des profils de sens opposés, notamment entre évènements négatifs et positifs, peuvent se compenser dans la moyenne. Cela ne signifie pas que chaque situation présente un effet faible. A transforme une hypothèse en règle universelle; C confond absence de différence générale et absence d’explications situationnelles. À dire : « La situation pour moi, le caractère pour les autres : ce contraste varie selon les évènements; il n’est pas une règle générale robuste. » Malle (2006), https://pubmed.ncbi.nlm.nih.gov/17073526/.
 :::
 
 ## Ronde 2 · Interne et contrôlable
@@ -840,7 +840,7 @@ Les notions discutées en classe peuvent aussi être évaluées. Les liens exter
 
 **13 octobre · Cours 7 — Les attitudes · Chapitre 6**
 
-## Sources et état du contenu
+## Sources
 
 [Jones et Harris (1967)](https://doi.org/10.1016/0022-1031(67)90034-0) · [Kelley (1973)](https://doi.org/10.1037/h0034225)
 
@@ -848,7 +848,7 @@ Les notions discutées en classe peuvent aussi être évaluées. Les liens exter
 
 [Ross, Amabile et Steinmetz (1977)](https://doi.org/10.1037/0022-3514.35.7.485) · [Mezulis et al. (2004)](https://doi.org/10.1037/0033-2909.130.5.711)
 
-**Mise à jour : 30 septembre 2026.**
+**Mise à jour : 5 octobre 2026.**
 
 ::: {.notes}
 Références scientifiques, pas lectures intégrales obligatoires. Vallerand (dir.), Les fondements de la psychologie sociale, 3e éd., chapitre 5, p. 138–174; glossaire, p. 437–449. Les compléments suivants développent les thèmes du manuel sans augmenter le temps de séance prévu. Pas de reproduction d’images ou de pages du manuel; exemples et schéma originaux. Les notes sont publiques.
@@ -858,7 +858,7 @@ Références scientifiques, pas lectures intégrales obligatoires. Vallerand (di
 
 Les thèmes suivants prolongent le parcours de la séance.
 
-Le [guide cumulatif de l’examen 2](../../cours/10/guide.qmd) indique les notions à travailler et l’état des vérifications.
+Le [guide cumulatif de l’examen 2](../../cours/10/guide.qmd) indique les notions à travailler et les chapitres actuellement couverts.
 
 ::: {.notes}
 Ne pas parcourir obligatoirement ces diapositives en classe. Adapter les développements oraux au temps disponible. Chapitre entier reste lecture associée.
