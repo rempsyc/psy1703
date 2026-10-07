@@ -30,7 +30,9 @@ format:
 
 ## Quiz de lecture 2 — 1,25 %
 
-**Chapitre 3 et cours 3 · Travail individuel**
+**Chapitre 3 et cours 3 · 10 minutes · Travail individuel**
+
+{{< include ../_quiz-timer.qmd >}}
 
 {{< include _connexion-quiz.qmd >}}
 

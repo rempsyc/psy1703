@@ -32,12 +32,14 @@ format:
 
 ## Quiz de lecture 1 — 1,25 %
 
-**Chapitres 1–2 et cours 1–2 · Travail individuel**
+**Chapitres 1–2 et cours 1–2 · 10 minutes · Travail individuel**
+
+{{< include ../_quiz-timer.qmd >}}
 
 {{< include _reconnexion.qmd >}}
 
 ::: {.notes}
-Réserver le début de la séance au quiz, avant toute discussion du chapitre. Les questions évaluées et leur corrigé demeurent dans Box; ne pas les inclure dans cette source publique. Source des modalités : plan officiel, calendrier et section Quiz de lecture. Prévision : dix minutes, à confirmer avec les consignes finales. Le périmètre chapitres 1–2 et cours 1–2 est celui annoncé dans les pages et diapositives actuelles; le chapitre 3 est exclu du quiz 1.
+Réserver le début de la séance au quiz, avant toute discussion du chapitre. Les questions évaluées et leur corrigé demeurent dans Box; ne pas les inclure dans cette source publique. Source des modalités : plan officiel, calendrier et section Quiz de lecture. Durée confirmée : dix minutes. Le périmètre chapitres 1–2 et cours 1–2 est celui annoncé dans les pages et diapositives actuelles; le chapitre 3 est exclu du quiz 1.
 :::
 
 ## Quiz et examen — quoi préparer?
