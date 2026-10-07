@@ -152,7 +152,138 @@ Rémi Thériault
 </section>
 <section id="quiz-de-lecture-1-125" class="slide level2">
 <h2>Quiz de lecture 1 — 1,25 %</h2>
-<p><strong>Chapitres 1–2 et cours 1–2 · Travail individuel</strong></p>
+<p><strong>Chapitres 1–2 et cours 1–2 · 10 minutes · Travail individuel</strong></p>
+<div class="quiz-timer" role="timer" aria-live="polite">
+  <div class="quiz-timer-display">10:00</div>
+  <div class="quiz-timer-controls">
+    <button class="quiz-timer-start" type="button">Démarrer</button>
+    <button class="quiz-timer-pause" type="button" disabled="">Pause</button>
+    <button class="quiz-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+<style>
+.quiz-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 390px;
+  text-align: center;
+  padding: 0.28rem 0.45rem 0.35rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.35rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+  z-index: 10;
+}
+
+.quiz-timer-display {
+  color: #123b5d;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.quiz-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-timer-controls button {
+  margin: 0;
+  padding: 0.22rem 0.45rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.quiz-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.quiz-timer.warning {
+  border-color: #c62828;
+}
+
+.quiz-timer.warning .quiz-timer-display {
+  color: #c62828;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 10 * 60 * 1000;
+  document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
+    const display = timer.querySelector(".quiz-timer-display");
+    const startButton = timer.querySelector(".quiz-timer-start");
+    const pauseButton = timer.querySelector(".quiz-timer-pause");
+    const resetButton = timer.querySelector(".quiz-timer-reset");
+    let state = { running: false, remaining: duration, end: null };
+
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved && typeof saved.remaining === "number") state = saved;
+    } catch (_) {}
+
+    function remainingNow() {
+      return state.running && state.end
+        ? Math.max(0, state.end - Date.now())
+        : Math.max(0, state.remaining);
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
+    function render() {
+      const remaining = remainingNow();
+      const totalSeconds = Math.ceil(remaining / 1000);
+      const minutes = Math.floor(totalSeconds / 60);
+      const seconds = totalSeconds % 60;
+      display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      timer.classList.toggle("warning", remaining <= 2 * 60 * 1000);
+      startButton.disabled = state.running || remaining === 0;
+      startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+      pauseButton.disabled = !state.running;
+
+      if (state.running && remaining === 0) {
+        state = { running: false, remaining: 0, end: null };
+        save();
+      }
+    }
+
+    startButton.addEventListener("click", () => {
+      const remaining = remainingNow();
+      state = { running: true, remaining, end: Date.now() + remaining };
+      save();
+      render();
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state = { running: false, remaining: remainingNow(), end: null };
+      save();
+      render();
+    });
+
+    resetButton.addEventListener("click", () => {
+      state = { running: false, remaining: duration, end: null };
+      save();
+      render();
+    });
+
+    render();
+    window.setInterval(render, 250);
+  });
+});
+</script>
 <div class="columns">
 <div class="column" style="width:58%;">
 <p>Scannez le <strong>code QR</strong>, ou rendez-vous sur <a href="https://app.wooclap.com/NFMQCOD">wooclap.com</a>.</p>
@@ -163,7 +294,7 @@ Rémi Thériault
 <p><a href="https://app.wooclap.com/NFMQCOD"><img data-src="assets/wooclap-qr.png" alt="QR de connexion à l’événement Wooclap NFMQCOD" width="480"></a></p>
 </div></div>
 <aside class="notes">
-<p>Réserver le début de la séance au quiz, avant toute discussion du chapitre. Les questions évaluées et leur corrigé demeurent dans Box; ne pas les inclure dans cette source publique. Source des modalités : plan officiel, calendrier et section Quiz de lecture. Prévision : dix minutes, à confirmer avec les consignes finales. Le périmètre chapitres 1–2 et cours 1–2 est celui annoncé dans les pages et diapositives actuelles; le chapitre 3 est exclu du quiz 1.</p>
+<p>Réserver le début de la séance au quiz, avant toute discussion du chapitre. Les questions évaluées et leur corrigé demeurent dans Box; ne pas les inclure dans cette source publique. Source des modalités : plan officiel, calendrier et section Quiz de lecture. Durée confirmée : dix minutes. Le périmètre chapitres 1–2 et cours 1–2 est celui annoncé dans les pages et diapositives actuelles; le chapitre 3 est exclu du quiz 1.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
