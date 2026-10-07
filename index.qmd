@@ -8,12 +8,12 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 ## Prochaine séance
 
-### Cours 6 — L’attribution
+### Cours 5 — L’attribution
 
 **Mardi 6 octobre 2026 · 13 h 15 à 16 h 05**<br>
 **Campus de Rimouski · Local J462**
 
-[Voir la page du cours 6](cours/06/index.qmd){.btn .btn-primary .btn-lg}
+[Voir la page du cours 5](cours/05/index.qmd){.btn .btn-primary .btn-lg}
 
 ## Comment utiliser ce site
 

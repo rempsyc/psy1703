@@ -30,11 +30,11 @@ website:
       - text: "Examens"
         menu:
           - text: "Examen 1"
-            href: cours/05/index.qmd
+            href: examens/01/index.qmd
           - text: "Examen 2"
-            href: cours/10/index.qmd
+            href: examens/02/index.qmd
           - text: "Examen 3"
-            href: cours/15/index.qmd
+            href: examens/03/index.qmd
   sidebar:
     style: docked
     search: true
@@ -52,14 +52,14 @@ website:
             href: cours/03/index.qmd
           - text: "4 · Les cognitions sociales"
             href: cours/04/index.qmd
-          - text: "5 · Examen 1 — 29 septembre"
+          - text: "Examen 1 — 29 septembre"
+            href: examens/01/index.qmd
+          - text: "5 · L’attribution"
             href: cours/05/index.qmd
-          - text: "6 · L’attribution"
-            href: cours/06/index.qmd
-          - text: "10 · Examen 2 — 10 novembre"
-            href: cours/10/index.qmd
-          - text: "15 · Examen 3 — 15 décembre"
-            href: cours/15/index.qmd
+          - text: "Examen 2 — 10 novembre"
+            href: examens/02/index.qmd
+          - text: "Examen 3 — 15 décembre"
+            href: examens/03/index.qmd
   page-footer:
     left: "PSY1703-04 · UQAR · Automne 2026"
     right: "Matériel évolutif — vérifiez la date de mise à jour."

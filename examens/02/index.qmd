@@ -1,10 +1,25 @@
 ---
-title: "Ressource déplacée"
-toc: false
+title: "Examen 2"
 ---
 
-[Ouvrir la nouvelle page](../../cours/10/).
+**10 novembre 2026 · 30 %**
 
-```{=html}
-<script>window.location.replace("../../cours/10/");</script>
-```
+Cette page rassemblera les ressources utiles pour l’examen 2.
+
+::: {.exam-resource-grid}
+::: {.exam-resource-card}
+## Guide d’étude
+
+Le guide couvre actuellement le chapitre 5 et sera complété au fil des prochaines séances.
+
+[Consulter le guide cumulatif](guide.qmd){.btn .btn-primary}
+:::
+
+::: {.exam-resource-card}
+## Consignes de l’examen
+
+Matériel permis, déroulement de la séance et minuterie de 90 minutes.
+
+[Afficher les consignes](../consignes.qmd){.btn .btn-outline-primary}
+:::
+:::

@@ -3,8 +3,8 @@ title: "Examen 3"
 toc: false
 ---
 
-Cette page a été déplacée. [Ouvrir la nouvelle page](cours/15/).
+Cette page a été déplacée. [Ouvrir la nouvelle page](examens/03/).
 
 ```{=html}
-<script>window.location.replace("cours/15/");</script>
+<script>window.location.replace("examens/03/");</script>
 ```
