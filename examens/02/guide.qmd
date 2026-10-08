@@ -48,7 +48,9 @@ Vous n’avez pas à reproduire une définition mot à mot. Une formulation prov
 
 L’examen comprendra une question à développement très court associée à chacun des quatre cours évalués et une associée à chacun des quatre chapitres. Les huit questions seront courtes et ne prendront pas la forme de longues études de cas.
 
-## Chapitre 5 — Les attributions
+## Bloc 1 — Les attributions
+
+**Cours 5 et chapitre 5**
 
 ### Notions et types d’explications
 
@@ -109,7 +111,9 @@ L’examen comprendra une question à développement très court associée à ch
 
 Les précisions apportées en classe seront intégrées au fil des mises à jour.
 
-## Chapitre 6 — Les attitudes
+## Bloc 2 — Les attitudes
+
+**Cours 6 et chapitre 6**
 
 ### Nature, caractéristiques et structure
 
@@ -174,8 +178,16 @@ Les précisions apportées en classe seront intégrées au fil des mises à jour
 
 Ces repères portent sur le chapitre 6. Ils seront précisés après la séance du 13 octobre et complétés par les ajouts faits en classe. Les exclusions générales de mémorisation indiquées plus haut s’appliquent aussi à ce chapitre, notamment aux valeurs des tableaux, aux statistiques exactes, aux noms et années des chercheurs et aux détails procéduraux secondaires.
 
-## Chapitres 8 et 9
+## Bloc 3 — Les relations interpersonnelles
 
-Les listes de notions seront ajoutées au fil des prochaines séances.
+**Cours 8 et chapitre 8**
+
+La liste de notions sera ajoutée au fil des prochaines séances.
+
+## Bloc 4 — L’agression
+
+**Cours 9 et chapitre 9**
+
+La liste de notions sera ajoutée au fil des prochaines séances.
 
 [Retour aux ressources de l’examen 2](index.qmd)

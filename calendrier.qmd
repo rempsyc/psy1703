@@ -4,7 +4,7 @@ title: "Calendrier"
 
 Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [plan de cours officiel](plan-de-cours.qmd) demeure la référence.
 
-| Date | Séance | Lecture | État |
+| Date | Séance | Lecture à préparer pour cette séance | État |
 |---|---|---|---|
 | 1er septembre | [Introduction à la psychologie sociale](cours/01/index.qmd) | Chapitre 1 | Version finale |
 | 8 septembre | [Méthodes de recherche](cours/02/index.qmd) | Chapitre 2 | Version finale |
@@ -22,3 +22,16 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 | 1er décembre | Les groupes | Chapitre 12 | À venir |
 | 8 décembre | Les relations intergroupes et les préjugés | Chapitre 13 | À venir · appréciations d’enseignement en classe |
 | 15 décembre | [Examen 3](examens/03/index.qmd) | — | Évaluation |
+
+## Quiz : quelle matière préparer?
+
+La **lecture pour la séance** et la **matière évaluée au quiz d’ouverture** sont deux indications distinctes. Le numéro du quiz ne correspond pas au numéro du chapitre. Les chapitres indiqués ci-dessous proviennent du manuel de Vallerand.
+
+| Quiz | Date de passation | Matière évaluée au quiz | Lecture pour la séance du jour |
+|---|---|---|---|
+| Quiz 1 | 15 septembre | **Chapitres 1–2 et cours 1–2** | Chapitre 3 |
+| Quiz 2 | 22 septembre | **Chapitre 3 et cours 3** | Chapitre 4 |
+| Quiz 3 | 6 octobre | **Chapitre 4 et cours 4** | Chapitre 5 |
+| Quiz 4 | 13 octobre | **Chapitre 5 et cours 5** | Chapitre 6 |
+
+Les prochaines dates et matières seront ajoutées au fur et à mesure des annonces. Les quiz évalués comportent **8 questions en 10 minutes**. Les **8 meilleurs sur 10** comptent pour **10 %** de la note finale, soit **1,25 % par quiz retenu**.

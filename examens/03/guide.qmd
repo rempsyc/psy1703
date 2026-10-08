@@ -49,8 +49,28 @@ Vous n’avez pas à reproduire une définition mot à mot. Une formulation prov
 L’examen comprendra une question à développement très court associée à chacun des quatre cours évalués et une associée à chacun des quatre chapitres. Les huit questions seront courtes et ne prendront pas la forme de longues études de cas.
 
 
-## Chapitres 10 à 13
+## Bloc 1 — Les comportements d’aide
 
-Les listes de notions seront ajoutées au fil des séances sur les comportements d’aide, l’influence sociale et le conformisme, les groupes, ainsi que les relations intergroupes et les préjugés.
+**Cours 10 et chapitre 10**
+
+La liste de notions sera ajoutée au fil des prochaines séances.
+
+## Bloc 2 — L’influence sociale et le conformisme
+
+**Cours 11 et chapitre 11**
+
+La liste de notions sera ajoutée au fil des prochaines séances.
+
+## Bloc 3 — Les groupes
+
+**Cours 12 et chapitre 12**
+
+La liste de notions sera ajoutée au fil des prochaines séances.
+
+## Bloc 4 — Les relations intergroupes et les préjugés
+
+**Cours 13 et chapitre 13**
+
+La liste de notions sera ajoutée au fil des prochaines séances.
 
 [Retour aux ressources de l’examen 3](index.qmd)
