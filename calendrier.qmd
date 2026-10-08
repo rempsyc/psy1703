@@ -40,4 +40,4 @@ La **lecture pour la séance** et la **matière évaluée au quiz d’ouverture*
 | Quiz 9 | 1er décembre | **Chapitre 11 et cours 11** | Chapitre 12 |
 | Quiz 10 | 8 décembre | **Chapitre 12 et cours 12** | Chapitre 13 |
 
-Les quiz évalués comportent **8 questions en 10 minutes**. Les **8 meilleurs sur 10** comptent pour **10 %** de la note finale, soit **1,25 % par quiz retenu**.
+Les quiz évalués comportent **8 questions en 10 minutes**. Les **8 meilleurs sur 10** comptent pour **10 %** de la note finale, soit **1,25 % par quiz retenu**. Cette structure vise à vous permettre d'avoir une semaine de temps d'étude entre la matière vu dans un cours / chapitre et le quiz en question. Ainsi, un chapitre ne sera jamais évalué dans un quiz la même journée où il est assigné.
