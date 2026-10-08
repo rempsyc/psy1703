@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 440" role="img" aria-label="Attitude, normes subjectives et contrôle perçu vers intention; intention et contrôle perçu vers comportement">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#137b85"/></marker></defs>
+<g fill="none" stroke="#137b85" stroke-width="3" marker-end="url(#arrow)">
+<path d="M350 65 L560 190"/><path d="M350 205 H560"/><path d="M350 345 L560 220"/><path d="M820 205 H1010"/><path d="M350 365 C750 450 1100 420 1180 265"/>
+</g>
+<g fill="#edf5f7" stroke="#16445a" stroke-width="2"><rect x="5" y="15" width="345" height="100" rx="4"/><rect x="5" y="155" width="345" height="100" rx="4"/><rect x="5" y="295" width="345" height="100" rx="4"/><rect x="560" y="155" width="260" height="100" rx="4"/><rect x="1010" y="155" width="380" height="100" rx="4"/></g>
+<g fill="#16445a" font-family="Arial,sans-serif" font-size="36" text-anchor="middle"><text x="177" y="57">Attitude envers<tspan x="177" dy="42">l’action</tspan></text><text x="177" y="197">Normes<tspan x="177" dy="42">subjectives</tspan></text><text x="177" y="337">Contrôle<tspan x="177" dy="42">perçu</tspan></text><text x="690" y="218">Intention</text><text x="1200" y="218">Comportement</text></g></svg>
