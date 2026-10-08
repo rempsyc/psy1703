@@ -27,7 +27,7 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 
 La **lecture pour la séance** et la **matière évaluée au quiz d’ouverture** sont deux indications distinctes. Le numéro du quiz ne correspond pas au numéro du chapitre. Les chapitres indiqués ci-dessous proviennent du manuel de Vallerand.
 
-| Quiz | Date de passation | Matière évaluée au quiz | Lecture pour la séance du jour (mais pas évaluée au quiz) |
+| Quiz | Date de passation | Matière évaluée au quiz | Lecture associée au thème du cours (mais pas évaluée au quiz) |
 |---|---|---|---|
 | Quiz 1 | 15 septembre | **Chapitres 1–2 et cours 1–2** | Chapitre 3 |
 | Quiz 2 | 22 septembre | **Chapitre 3 et cours 3** | Chapitre 4 |
