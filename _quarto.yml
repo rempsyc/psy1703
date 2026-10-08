@@ -56,6 +56,8 @@ website:
             href: examens/01/index.qmd
           - text: "5 · L’attribution"
             href: cours/05/index.qmd
+          - text: "6 · Les attitudes"
+            href: cours/06/index.qmd
           - text: "Examen 2 — 10 novembre"
             href: examens/02/index.qmd
           - text: "Examen 3 — 15 décembre"

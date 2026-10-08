@@ -3,7 +3,7 @@ title: "Guide d’étude — Examen 2"
 ---
 
 ::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **30 septembre 2026**. Ce guide couvre actuellement le chapitre 5. Les chapitres 6, 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
+Mise à jour du **7 octobre 2026**. Ce guide couvre actuellement les chapitres 5 et 6. Les chapitres 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
 :::
 
 ## Repères
@@ -107,9 +107,74 @@ L’examen comprendra une question à développement très court associée à ch
 
 ### Matière réellement enseignée et ajouts oraux
 
-La séance du 6 octobre est à venir. Les précisions apportées en classe seront intégrées après la séance.
+Les précisions apportées en classe seront intégrées au fil des mises à jour.
 
-## Chapitres 6, 8 et 9
+## Chapitre 6 — Les attitudes
+
+### Nature, caractéristiques et structure
+
+- Attitude; objet attitudinal; distinction avec les croyances, les affects et le comportement.
+- Direction ou valence; intensité et extrémité; centralité; ambivalence; accessibilité.
+- Attitudes explicites et implicites.
+- Modèles de structure : unidimensionnel, tripartite classique et tripartite révisé.
+- Composantes cognitive, affective et conative; manifestations et déterminants de l’attitude.
+- Complexité intégrative et organisation des évaluations.
+
+### Mesure, fonctions et valeurs
+
+- Mesures explicites et implicites; mesures directes et indirectes.
+- Échelle de Likert; inversion du sens de certains items; différenciateur sémantique.
+- Test d’association implicite; amorçage évaluatif; principes généraux des mesures par temps de réaction.
+- Indicateurs comportementaux, psychophysiologiques et neurologiques de l’attitude.
+- Fonctions de connaissance, d’adaptation sociale, d’expression et de défense du soi.
+- Valeurs et attitudes; principes généraux des typologies de valeurs et liens valeurs-attitudes-comportements.
+
+### Formation des attitudes
+
+- Sources affectives, comportementales, cognitives, culturelles et génétiques.
+- Évaluation conditionnée; effet de simple exposition; infusion de l’affect.
+- Conditionnement opérant; perception de soi; effet d’implication corporelle.
+- Apprentissage social ou par observation; modèle croyance-évaluation.
+- Influence de la culture et du contexte sur la formation et l’expression des attitudes.
+- Contributions génétiques et environnementales; portée de l’héritabilité dans ce domaine.
+
+### Changement d’attitude et consistance cognitive
+
+- Consistance cognitive; théorie de l’équilibre.
+- Dissonance cognitive; cognitions consonantes, dissonantes et non pertinentes.
+- Importance des cognitions; voies de réduction de la dissonance.
+- Soumission induite et justification externe; comparaison centrale et profil des résultats de l’étude présentée.
+- Dissonance postdécisionnelle; perception sélective de l’information; justification de l’effort; paradigme de l’hypocrisie.
+- Principales interprétations complémentaires : gestion de l’impression, perception de soi, orientation à l’action et autoaffirmation.
+- Distinguer perception de soi et dissonance à partir des indices d’une situation.
+
+### Persuasion et résistance
+
+- Persuasion; apprentissage du message; rôle de la source, du message, de l’auditoire et du médium.
+- Approche fondée sur la réponse cognitive; pensées favorables et défavorables au message.
+- Modèle de la vraisemblance de l’élaboration cognitive; routes centrale et périphérique.
+- Motivation et capacité à traiter le message; besoin de cognition; confiance dans ses pensées.
+- Persistance et résistance des attitudes selon leur mode de formation.
+- Changement des attitudes explicites et implicites; modèles proposés et limites de généralisation.
+- Réactance psychologique; défense active; contre-argumentation; inoculation psychosociale.
+- Convictions fortes et conditions de résistance ou de changement.
+
+### Relation attitude-comportement
+
+- Correspondance entre l’attitude et le comportement : action, cible, situation et temps.
+- Rôle de la personne, de la situation, du temps disponible et des caractéristiques de l’attitude.
+- Théories de l’action raisonnée et du comportement planifié.
+- Attitude envers le comportement; normes subjectives; contrôle comportemental perçu; intention comportementale.
+- Identité sociale et comportement planifié : appliquer le rapprochement présenté en classe à une situation nouvelle.
+- Modèle du processus attitude-comportement; accessibilité et activation de l’attitude.
+- Modèle MODE; motivation et opportunité; processus spontanés et délibérés.
+- Attitudes et radicalisation : articulation générale des mécanismes présentés dans l’encadré.
+
+### Progression de la matière
+
+Ces repères portent sur le chapitre 6. Ils seront précisés après la séance du 13 octobre et complétés par les ajouts faits en classe. Les exclusions générales de mémorisation indiquées plus haut s’appliquent aussi à ce chapitre, notamment aux valeurs des tableaux, aux statistiques exactes, aux noms et années des chercheurs et aux détails procéduraux secondaires.
+
+## Chapitres 8 et 9
 
 Les listes de notions seront ajoutées au fil des prochaines séances.
 

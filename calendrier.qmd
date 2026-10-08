@@ -11,8 +11,8 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 | 15 septembre | [Le soi](cours/03/index.qmd) | Chapitre 3 | Version finale |
 | 22 septembre | [La cognition sociale](cours/04/index.qmd) | Chapitre 4 | Version finale |
 | 29 septembre | [Examen 1](examens/01/index.qmd) | — | Version finale |
-| 6 octobre | [L’attribution](cours/05/index.qmd) | Chapitre 5 | En préparation |
-| 13 octobre | Les attitudes | Chapitre 6 | À venir |
+| 6 octobre | [L’attribution](cours/05/index.qmd) | Chapitre 5 | Version du 6 octobre |
+| 13 octobre | [Les attitudes](cours/06/index.qmd) | Chapitre 6 | Version initiale |
 | 20 octobre | Les relations interpersonnelles | Chapitre 8 | À venir |
 | 27 octobre | Semaine de lecture | — | Pas de cours |
 | 3 novembre | L'agression | Chapitre 9 | À venir |
