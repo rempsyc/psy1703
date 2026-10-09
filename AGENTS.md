@@ -57,3 +57,5 @@ Numérotation (correction de Rémi du 8 octobre 2026) : les examens ne comptent 
 - Tous les cours, à l’exception des séances d’examen, comportent une diapositive « Plan de la séance », après la logistique et avant la matière. Reprendre le format du cours 3 : trois blocs thématiques numérotés, intitulés en gras et brève phrase « Pour commencer ».
 
 - Définitions : lors de l’introduction d’un concept, donner une définition explicite et courte avant l’exemple ou l’application. Une consigne, un slogan ou une illustration ne remplace pas une définition. Clarifier les notions voisines lorsque leur distinction est nécessaire.
+
+- Évaluations : Ne jamais utiliser les diapositives cachées pour générer les questions d’examen ou de quiz. Une notion qui y figure reste évaluable si elle provient indépendamment d’une source admissible : manuel au programme, diapositives présentées ou ajout oral confirmé par Rémi. Consigner cette source admissible dans les documents internes; la diapositive cachée ne constitue pas une preuve que la notion a été enseignée.
