@@ -717,7 +717,7 @@ Cette diminution peut persister lorsqu’une possibilité de contrôle apparait.
 2 minutes. Manuel p. 166–167 : paradigme historique d’évènements incontrôlables, puis difficultés à agir dans une situation ultérieure. Exemple fictif : plusieurs démarches sans effet, puis renoncement à une démarche devenue possible. Ne pas appeler toute baisse de motivation résignation acquise.
 :::
 
-## Pourquoi l’échec semble-t-il durable et généralisé?
+## Pourquoi l’échec semble-t-il durable et généralisé? {visibility="hidden"}
 
 **Globalité :** étendue des situations auxquelles une cause est supposée s’appliquer.
 
@@ -797,7 +797,7 @@ Taylor et collègues (2000) · Synthèse d’un programme de recherches
 2 minutes. Source primaire : https://doi.org/10.1037/0003-066X.55.1.99, texte https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/10/2000_Psychological-Resources-Positive-Illusions-Health.pdf. Article de synthèse, pas expérience randomisée démontrant que la pensée positive guérit. Études historiques antérieures aux traitements actuels; ne pas extrapoler leurs résultats à un pronostic individuel. Le rôle du sens et des croyances est étudié; une attribution causale particulière et l’optimisme ne sont pas des concepts interchangeables.
 :::
 
-## Ce qu’une explication constructive permet
+## Ce qu’une explication constructive permet {visibility="hidden"}
 
 **Préserver des possibilités d’action sans promettre le résultat.**
 
