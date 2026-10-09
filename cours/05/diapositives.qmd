@@ -900,7 +900,7 @@ Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manu
 
 **13 octobre · Cours 6 — Les attitudes · Chapitre 6**
 
-## Sources
+## Sources {visibility="hidden"}
 
 [Jones et Harris (1967)](https://doi.org/10.1016/0022-1031(67)90034-0) · [Kelley (1973)](https://doi.org/10.1037/h0034225)
 
