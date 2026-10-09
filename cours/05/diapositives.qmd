@@ -53,7 +53,7 @@ Temps alloué : **90 minutes**.
 - 50 % des questions portent sur le matériel du **cours** vu en classe.
 - 50 % portent sur le matériel du **manuel**, même si la matière n’a pas été vue en classe.
 
-Les notions discutées en classe peuvent aussi être évaluées. Les liens externes ne sont pas des lectures supplémentaires à étudier intégralement; les éléments enseignés sont évaluables.
+Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.
 
 ## Plan de la séance
 
@@ -894,11 +894,11 @@ Temps alloué : **90 minutes**.
 - 50 % des questions portent sur le matériel du **cours** vu en classe.
 - 50 % portent sur le matériel du **manuel**, même si la matière n’a pas été vue en classe.
 
-Les notions discutées en classe peuvent aussi être évaluées. Les liens externes ne sont pas des lectures supplémentaires à étudier intégralement; les éléments enseignés sont évaluables.
+Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.
 
 ## Pour la prochaine séance
 
-**13 octobre · Cours 7 — Les attitudes · Chapitre 6**
+**13 octobre · Cours 6 — Les attitudes · Chapitre 6**
 
 ## Sources
 

@@ -52,7 +52,7 @@
 
 - Chaque séance comporte au début (après le quiz du jour) et à la fin une diapositive « Quiz et examen — quoi préparer? » avec prochain quiz, prochain examen, dates, matière et pondérations. Reprendre le format des cours précédents pour QR, quiz, rondes et pauses; distinguer le QR du quiz de celui de l’engagement lorsque les évènements sont séparés. Les dernières consignes explicites de Rémi prévalent sur les anciennes formulations des pauses.
 
-Numérotation : le numéro du cours correspond au chapitre du manuel (attribution 05, attitudes 06, relations 08, agression 09, puis 10 à 13). Les examens ne comptent pas comme cours; leurs pages sont dans examens/01, examens/02 et examens/03.
+Numérotation (correction de Rémi du 8 octobre 2026) : les examens ne comptent pas comme cours. Cours 1 à 6 = chapitres 1 à 6; chapitre 7 facultatif; cours 7 = chapitre 8, cours 8 = chapitre 9, cours 9 = chapitre 10, cours 10 = chapitre 11, cours 11 = chapitre 12, cours 12 = chapitre 13. Pages publiques cours/NN; examens dans examens/01 à examens/03. Cette convention remplace la correspondance erronée cours = chapitre après le chapitre 6.
 
 - Tous les cours, à l’exception des séances d’examen, comportent une diapositive « Plan de la séance », après la logistique et avant la matière. Reprendre le format du cours 3 : trois blocs thématiques numérotés, intitulés en gras et brève phrase « Pour commencer ».
 

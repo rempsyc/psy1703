@@ -48,7 +48,9 @@ format:
 
 **Examen 2 · 10 novembre · 30 %**
 
-Chapitres et cours **5, 6, 8 et 9**. Répartition annoncée : **50 % cours / 50 % manuel**.
+Cours **5 à 8** et chapitres **5, 6, 8 et 9**. Répartition annoncée : **50 % cours / 50 % manuel**.
+
+Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.
 
 [Guide d’étude de l’examen 2](../../examens/02/guide.qmd)
 
@@ -690,7 +692,9 @@ Faire formuler une réponse brève individuellement, puis reprendre un exemple. 
 
 **Examen 2 · 10 novembre · 30 %**
 
-Chapitres et cours **5, 6, 8 et 9**. Répartition annoncée : **50 % cours / 50 % manuel**.
+Cours **5 à 8** et chapitres **5, 6, 8 et 9**. Répartition annoncée : **50 % cours / 50 % manuel**.
+
+Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.
 
 [Guide d’étude de l’examen 2](../../examens/02/guide.qmd)
 
@@ -700,14 +704,14 @@ Reprendre les mêmes dates et pondérations qu’en ouverture. Le quiz comporte 
 
 ## Pour le prochain cours
 
-**20 octobre · Cours 8 — Les relations interpersonnelles**
+**20 octobre · Cours 7 — Les relations interpersonnelles**
 
 Lire le **chapitre 8** du manuel.
 
 Revenir avec une question sur une notion ou un exemple du chapitre.
 
 ::: {.notes}
-Rappeler le numéro du chapitre comme numéro de cours, conformément à la numérotation du cours. Ne pas déduire ici le périmètre du quiz de la seule lecture suivante.
+Rappeler que le cours 7 correspond au chapitre 8; le chapitre 7 est facultatif. Ne pas déduire ici le périmètre du quiz de la seule lecture suivante.
 :::
 
 ## Sources

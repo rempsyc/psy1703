@@ -53,7 +53,7 @@ Temps alloué : 90 minutes
 - 50 % des questions viendront du matériel du **cours** vu en classe
 - 50 % des questions viendront du matériel du **manuel** (même si la matière n'a PAS été vue en classe)
 
-Certaines notions enseignées en cours **peuvent** être évaluées même si elles ne figurent pas sur les diapositives et qu'il s'agisse de quelque chose dont nous avons simplement discuté. Cependant, en majorité, je m'en tiens au manuel et aux diapositives. Toute autre ressource ou lien externe n'est pas matière à examen.
+Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.
 
 ## À prévoir pour les examens
 
@@ -238,7 +238,7 @@ Source : Vallerand (2021), p. 111–114. Rappel du cours 3, élargi au traitemen
 | **Évènements** | Séquence habituelle d’une situation | Le scénario d’un restaurant |
 
 ::: {.notes}
-Source : Vallerand (2021), p. 111–114. Les schémas sur les groupes sociaux peuvent prendre la forme de stéréotypes comprenant des dimensions cognitives, affectives et comportementales. Garder ce point bref : les préjugés seront approfondis au cours 13. Un prototype est une représentation abstraite des caractéristiques typiques d’une catégorie, pas une description de chaque membre.
+Source : Vallerand (2021), p. 111–114. Les schémas sur les groupes sociaux peuvent prendre la forme de stéréotypes comprenant des dimensions cognitives, affectives et comportementales. Garder ce point bref : les préjugés seront approfondis au cours 12. Un prototype est une représentation abstraite des caractéristiques typiques d’une catégorie, pas une description de chaque membre.
 :::
 
 ## Une même personne, différents schémas activés
@@ -1096,7 +1096,7 @@ Temps alloué : 90 minutes
 - 50 % des questions viendront du matériel du **cours** vu en classe
 - 50 % des questions viendront du matériel du **manuel** (même si la matière n'a PAS été vue en classe)
 
-Certaines notions enseignées en cours **peuvent** être évaluées même si elles ne figurent pas sur les diapositives et qu'il s'agisse de quelque chose dont nous avons simplement discuté. Cependant, en majorité, je m'en tiens au manuel et aux diapositives. Toute autre ressource ou lien externe n'est pas matière à examen.
+Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.
 
 ## Après l’examen
 
