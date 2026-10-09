@@ -916,7 +916,7 @@ Les notions discutées en classe peuvent aussi être évaluées. Les liens exter
 Références scientifiques, pas lectures intégrales obligatoires. Vallerand (dir.), Les fondements de la psychologie sociale, 3e éd., chapitre 5, p. 138–174; glossaire, p. 437–449. Les compléments suivants développent les thèmes du manuel sans augmenter le temps de séance prévu. Pas de reproduction d’images ou de pages du manuel; exemples et schéma originaux. Les notes sont publiques.
 :::
 
-## Compléments de lecture du chapitre 5
+## Compléments de lecture du chapitre 5 {visibility="hidden"}
 
 Les thèmes suivants prolongent le parcours de la séance.
 
@@ -926,7 +926,7 @@ Le [guide cumulatif de l’examen 2](../../examens/02/guide.qmd) indique les not
 Ne pas parcourir obligatoirement ces diapositives en classe. Adapter les développements oraux au temps disponible. Chapitre entier reste lecture associée.
 :::
 
-## L’émotion dépend aussi de l’interprétation
+## L’émotion dépend aussi de l’interprétation {visibility="hidden"}
 
 **Modèle bifactoriel de Schachter**
 
@@ -938,7 +938,7 @@ Un cœur qui accélère peut être interprété différemment selon la situation
 Manuel, p. 161–162. Modèle historique. L’expérience classique obtient des résultats plus nets pour l’euphorie que pour la colère; des réplications sont moins concluantes. Ne pas enseigner ces deux facteurs comme une loi suffisante de toute émotion. Exemple original.
 :::
 
-## Contrôle perçu et relations
+## Contrôle perçu et relations {visibility="hidden"}
 
 La manière d’expliquer une difficulté peut orienter :
 
@@ -952,7 +952,7 @@ Avant de juger le contrôle : **quels moyens étaient réellement disponibles?**
 Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Dans le modèle, les dimensions causales organisent attentes et émotions. Exemple original : retard lié à un choix évitable versus transport interrompu. Ne pas attribuer automatiquement une émotion unique à chaque dimension.
 :::
 
-## Une récompense peut changer l’explication
+## Une récompense peut changer l’explication {visibility="hidden"}
 
 **Motivation intrinsèque :** faire une activité pour le plaisir qu’elle procure.
 
@@ -962,7 +962,7 @@ Weiner (1985), https://doi.org/10.1037/0033-295X.92.4.548. Dans le modèle, les 
 Manuel, p. 165–166, étude du dessin présentée secondairement. Récompense annoncée avant participation : intérêt ultérieur réduit; récompense inattendue ne produit pas le même profil. Ne pas généraliser à toutes les récompenses. Relier perception de soi et ignorement.
 :::
 
-## Pourquoi certaines explications sont plus élaborées
+## Pourquoi certaines explications sont plus élaborées {visibility="hidden"}
 
 **Désir de contrôle :** vouloir agir sur ce qui arrive.
 
@@ -974,7 +974,7 @@ Manuel, p. 165–166, étude du dessin présentée secondairement. Récompense a
 Manuel, p. 143–144 et 151; glossaire p. 438–440. Ces dispositions décrivent des tendances, pas des catégories fixes. Économie cognitive : partir d’une cause plausible, approfondir selon le besoin. Approche pragmatique adapte la recherche à la situation.
 :::
 
-## Quand l’action nous concerne
+## Quand l’action nous concerne {visibility="hidden"}
 
 **Pertinence hédonique :** l’action a des conséquences pour l’observateur.
 
@@ -986,7 +986,7 @@ Ces interprétations peuvent accentuer l’inférence d’une disposition.
 Manuel, p. 147; glossaire p. 446. Exemple original : une remarque qui nous gêne versus une remarque que nous croyons dirigée contre nous. Ne pas confondre les deux déterminants motivationnels.
 :::
 
-## Imaginer un autre passé
+## Imaginer un autre passé {visibility="hidden"}
 
 **Raisonnement contrefactuel :** construction mentale d’une alternative à un évènement passé : ce qui aurait pu se produire.
 
@@ -1000,7 +1000,7 @@ Une alternative meilleure peut susciter du regret et préparer une action; une a
 Manuel, p. 151–153, glossaire p. 447. Alternatives ascendantes/descendantes. Un scénario imaginé n’établit pas la cause réelle. Le regret d’avoir changé une réponse peut conduire à une règle trompeuse consistant à toujours garder le premier choix; pas de conseil automatique sur les examens.
 :::
 
-## Un style d’explication à travers les situations
+## Un style d’explication à travers les situations {visibility="hidden"}
 
 Le **style attributionnel** décrit une manière habituelle d’expliquer les évènements.
 
@@ -1012,7 +1012,7 @@ Le modèle du **désespoir** relie une vulnérabilité attributionnelle et des �
 Manuel, p. 142–143 et 167; glossaire p. 448. Attributional Style Questionnaire : identifier une cause puis apprécier dimensions pour évènements positifs et négatifs. Aucun item original inventé comme item validé, aucune échelle complète. Optimisme/pessimisme : profils d’attributions; vulnérabilité dans certains modèles, pas diagnostic.
 :::
 
-## Blâme personnel et excuses
+## Blâme personnel et excuses {visibility="hidden"}
 
 **Blâme caractériel :** mettre en cause ses traits.
 
@@ -1024,7 +1024,7 @@ Une excuse peut déplacer l’explication vers une cause moins centrale ou exté
 Manuel, p. 168–169; glossaire p. 438 et 442. Les premiers travaux favorisaient le blâme comportemental; les résultats ultérieurs sont moins uniformes. Ne pas prescrire le blâme aux victimes. Excuses : protection de soi, crédibilité, confiance et possibilité de changement à distinguer; toute explication contextuelle n’est pas une excuse.
 :::
 
-## Des effets sur les relations et la santé
+## Des effets sur les relations et la santé {visibility="hidden"}
 
 Une explication d’un comportement du partenaire peut orienter le blâme et les échanges.
 
@@ -1034,7 +1034,7 @@ Les styles attributionnels sont aussi étudiés en lien avec le stress, les comp
 Manuel, p. 169–171, présentation secondaire. Employer langage des associations, sans présenter une reformulation comme traitement ou guérison. Relations : ne pas recommander une interprétation bienveillante qui effacerait un comportement abusif. Causes relationnelles : la relation elle-même comme unité d’explication (p. 151). Effet temporel : recul et perte de détails peuvent changer l’explication (p. 161).
 :::
 
-## Mésattribution et réattribution
+## Mésattribution et réattribution {visibility="hidden"}
 
 **Mésattribution :** attribuer une activation physiologique à une autre cause que sa cause réelle.
 
