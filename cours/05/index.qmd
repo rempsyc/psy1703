@@ -7,7 +7,7 @@ subtitle: "Expliquer les comportements et réviser ses jugements"
 **Lecture associée :** Vallerand, chapitre 5
 
 ::: {.callout-note title="Version du cours"}
-Version du **6 octobre 2026**.
+Version finale — **8 octobre 2026**.
 :::
 
 [Ouvrir les diapositives](diapositives.html){.btn .btn-primary .btn-lg target="_blank"}
