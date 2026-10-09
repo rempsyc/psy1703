@@ -4,7 +4,7 @@ title: "Calendrier"
 
 Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [plan de cours officiel](plan-de-cours.qmd) demeure la référence.
 
-| Date | Séance | Lecture à préparer pour cette séance | État |
+| Date | Cours ou examen | Lecture associée au thème du cours | État |
 |---|---|---|---|
 | 1er septembre | [Introduction à la psychologie sociale](cours/01/index.qmd) | Chapitre 1 | Version finale |
 | 8 septembre | [Méthodes de recherche](cours/02/index.qmd) | Chapitre 2 | Version finale |
@@ -25,19 +25,19 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 
 ## Quiz : quelle matière préparer?
 
-La **lecture pour la séance** et la **matière évaluée au quiz d’ouverture** sont deux indications distinctes. Le numéro du quiz ne correspond pas au numéro du chapitre. Les chapitres indiqués ci-dessous proviennent du manuel de Vallerand.
+Le numéro du quiz ne correspond pas au numéro du chapitre. Le tableau indique uniquement la matière évaluée au quiz. Les chapitres indiqués ci-dessous proviennent du manuel de Vallerand.
 
-| Quiz | Date de passation | Matière évaluée au quiz | Lecture associée au thème du cours (mais pas évaluée au quiz) |
-|---|---|---|---|
-| Quiz 1 | 15 septembre | **Chapitres 1–2 et cours 1–2** | Chapitre 3 |
-| Quiz 2 | 22 septembre | **Chapitre 3 et cours 3** | Chapitre 4 |
-| Quiz 3 | 6 octobre | **Chapitre 4 et cours 4** | Chapitre 5 |
-| Quiz 4 | 13 octobre | **Chapitre 5 et cours 5** | Chapitre 6 |
-| Quiz 5 | 20 octobre | **Chapitre 6 et cours 6** | Chapitre 8 |
-| Quiz 6 | 3 novembre | **Chapitre 8 et cours 7** | Chapitre 9 |
-| Quiz 7 | 17 novembre | **Chapitre 9 et cours 8** | Chapitre 10 |
-| Quiz 8 | 24 novembre | **Chapitre 10 et cours 9** | Chapitre 11 |
-| Quiz 9 | 1er décembre | **Chapitre 11 et cours 10** | Chapitre 12 |
-| Quiz 10 | 8 décembre | **Chapitre 12 et cours 11** | Chapitre 13 |
+| Quiz | Date de passation | Matière évaluée au quiz |
+|---|---|---|
+| Quiz 1 | 15 septembre | **Chapitres 1–2 et cours 1–2** |
+| Quiz 2 | 22 septembre | **Chapitre 3 et cours 3** |
+| Quiz 3 | 6 octobre | **Chapitre 4 et cours 4** |
+| Quiz 4 | 13 octobre | **Chapitre 5 et cours 5** |
+| Quiz 5 | 20 octobre | **Chapitre 6 et cours 6** |
+| Quiz 6 | 3 novembre | **Chapitre 8 et cours 7** |
+| Quiz 7 | 17 novembre | **Chapitre 9 et cours 8** |
+| Quiz 8 | 24 novembre | **Chapitre 10 et cours 9** |
+| Quiz 9 | 1er décembre | **Chapitre 11 et cours 10** |
+| Quiz 10 | 8 décembre | **Chapitre 12 et cours 11** |
 
 Les quiz évalués comportent **8 questions en 10 minutes**. Les **8 meilleurs sur 10** comptent pour **10 %** de la note finale, soit **1,25 % par quiz retenu**. Cette structure vise à vous permettre d'avoir une semaine de temps d'étude entre la matière vu dans un cours / chapitre et le quiz en question. Ainsi, un chapitre ne sera jamais évalué dans un quiz la même journée où il est assigné.
