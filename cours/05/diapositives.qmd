@@ -125,11 +125,11 @@ Manuel, p. 140–142; glossaire p. 438. Les trois inférences peuvent s’enchai
 
 ## Personne, cible, circonstances
 
-Les causes peuvent être attribuées à la **personne** qui agit, à la **cible** de sa réaction ou aux **circonstances** particulières de l’évènement.
+- **Personne :** caractéristiques de la personne qui agit. Exemple : Andréa a une habitude de mauvaise organisation.
+- **Cible :** personne, objet ou activité à laquelle elle réagit. Exemple : cette réunion commence habituellement à une heure mal indiquée.
+- **Circonstances :** conditions entourant l’évènement à ce moment-là. Exemple : une panne du transport ce jour-là.
 
-- **Personne** : habitude d’organisation d’Andréa.
-- **Cible ou situation particulière** : réunion dont l’horaire est difficile à trouver.
-- **Circonstances** : panne du transport ce jour-là.
+**La réunion est la cible; la panne de ce jour-là est une circonstance.**
 
 Plusieurs causes peuvent contribuer au même évènement.
 

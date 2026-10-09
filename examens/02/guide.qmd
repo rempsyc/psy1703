@@ -3,7 +3,7 @@ title: "Guide d’étude — Examen 2"
 ---
 
 ::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **7 octobre 2026**. Ce guide couvre actuellement les chapitres 5 et 6. Les chapitres 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
+Mise à jour du **8 octobre 2026**. Ce guide couvre actuellement les chapitres 5 et 6. Les chapitres 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
 :::
 
 ## Repères
@@ -106,11 +106,6 @@ L’examen comprendra une question à développement très court associée à ch
 - Attributions, adaptation, relations et santé physique.
 - Optimisme, contrôle perçu et sens : ressources psychologiques, résultats des suivis de santé et portée des conclusions.
 - Mésattribution et réattribution; conditions d’une intervention crédible.
-
-### Matière réellement enseignée et ajouts oraux
-
-Les diapositives de la section « Compléments de lecture du chapitre 5 » n’ont pas été présentées en classe le 6 octobre. Les notions du chapitre restent à étudier selon le périmètre de lecture annoncé; leur présence dans le manuel ne signifie pas qu’elles ont été enseignées en classe.
-
 
 ## Bloc 2 — Les attitudes
 
