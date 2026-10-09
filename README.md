@@ -11,4 +11,8 @@ Site : <https://rempsyc.github.io/psy1703/>
 - `_themes/` : thème partagé;
 - le plan de match, les questions Wooclap et les ressources sous droits demeurent hors de ce dépôt.
 
-Le contenu demeure protégé par le droit d'auteur en l'absence d'une licence explicite.
+## Licence
+
+Ce projet est disponible sous la [licence MIT](LICENSE).
+
+Les contenus de tiers conservent leurs propres droits et conditions d’utilisation.
