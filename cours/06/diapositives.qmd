@@ -55,104 +55,261 @@ Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manu
 [Guide d’étude de l’examen 2](../../examens/02/guide.qmd)
 
 ::: {.notes}
-Rappeler les échéances. Préciser oralement le périmètre du quiz 5 selon l’annonce faite à la classe; le lien sera communiqué lorsqu’il sera disponible. Les lectures obligatoires et le partage annoncé restent ceux du cours.
+Reprendre les mêmes dates et pondérations qu’en ouverture. Le quiz comporte 8 questions et dure 10 minutes. Communiquer les accès séparément lorsqu’ils sont disponibles. Renvoyer au guide cumulatif sans le présenter comme une liste de questions d’examen.
 :::
 
 ## Plan de la séance
 
-1. **Comprendre une attitude et son lien avec l’action**
-2. **Changer d’attitude après avoir agi**
-3. **Changer d’attitude en recevant un message**
+1. **Qu’est-ce qu’une attitude?**
+2. **Comment mesure-t-on les attitudes?**
+3. **À quoi les attitudes servent-elles?**
+4. **La formation des attitudes**
+5. **Le changement d’attitude**
+6. **Les attitudes et les comportements**
 
-**Pour commencer :** une personne dit aimer le vélo, mais vient en voiture. Que savons-nous de son attitude? De son déplacement?
+**Pour commencer :** aimer un politicien et voter pour lui, est-ce la même chose?
 
 ::: {.notes}
-4 minutes pour les rappels et le plan. Recueillir deux interprétations sans désigner de personne réelle. Distinguer immédiatement une évaluation et une action observée. Ne pas encore demander toute la théorie.
+Suivre l’ordre du chapitre. Demander deux réponses à la question de départ, sans recueillir les préférences politiques personnelles. Annoncer que les exemples politiques concernent des personnes fictives.
 :::
 
-## Une attitude est une évaluation
+## Une publicité avec Lise Dion
+
+{{< video https://www.youtube.com/watch?v=OOVwK1lOi5s width="1200" height="570" >}}
+
+::: {.notes}
+32 secondes. « Lise Dion - Gadoua Commercial 1 », archive publiée par Shivaxis, lien choisi par Rémi. Ne pas inventer l'année de production. Ouverture après la logistique : laisser la chute arriver sans annoncer le mécanisme. Recueillir ensuite deux réactions à la manière dont la publicité présente le produit. Lecteur intégré, sans téléchargement. En cas de panne, raconter la situation en une phrase puis passer à la discussion; ne pas lire une transcription automatique comme verbatim fiable.
+:::
+
+## Faire aimer un produit
+
+**Pourquoi une publicité pour du pain choisit-elle de nous faire rire?**
+
+Quelle impression cherche-t-elle à donner du produit ou de la marque?
+
+Nous reviendrons à cette scène pour comprendre **comment un message peut influencer une attitude**.
+
+::: {.notes}
+2 minutes avec le visionnement. Accueillir les réactions sans demander si les étudiants achèteront le produit. L'humour peut contribuer à une impression favorable; le visionnement ne démontre pas que cette publicité a changé leur attitude. Ne pas encore nommer une voie de persuasion avant de l'avoir définie. Conserver la scène comme repère à reprendre plus tard, sans la rejouer.
+:::
+
+## Le Québec a voté le 5 octobre 2026
+
+![](assets/elections-quebec-2026.svg){height=570 fig-alt="Résultats du scrutin : PQ 28,02 % et 59 sièges; PLQ 24,23 % et 40; PCQ 20,66 % et 19; CAQ 13,35 % et 0; QS 12,42 % et 9; autres 1,32 % et 0."}
+
+**Aimer un parti, vouloir voter pour lui et voter pour lui : trois choses différentes.**
+
+::: {.credit}
+Source : [Élections Québec](https://www.electionsquebec.qc.ca/resultats-et-statistiques/resultats-generales/2026-10-05/218/), résultats affichés le 12 octobre 2026. Figure refaite dans R.
+:::
+
+::: {.notes}
+3 minutes. Faire lire les pourcentages de votes valides puis les sièges. Le PQ a obtenu le plus de sièges, sans atteindre le seuil de majorité de 64 sur 127. Les chiffres décrivent le scrutin, pas la proportion de personnes qui aiment chaque chef. Demander une raison possible d'aimer un parti sans voter pour lui, puis l'inverse. Les raisons proposées sont des hypothèses, pas des résultats sur l'électorat. Les valeurs exactes ne sont pas à mémoriser. « Autres » regroupe les 56 560 autres bulletins valides sur 4 284 462. Ne pas présenter ces résultats affichés comme un rapport définitif déjà vérifié.
+:::
+
+## Qu’est-ce qu’une attitude?
 
 Une **attitude** est une évaluation favorable ou défavorable à l’égard d’un objet.
 
-Cet objet peut être une pratique, une personne, un groupe ou une idée.
+On peut avoir une attitude envers une **personne**, une **idée**, un **produit** ou une **activité**.
 
-« Je trouve le transport collectif **souhaitable**. »
+« J’aime ce politicien. »
 
-L’indice est le jugement porté sur le transport collectif.
+« Je suis contre cette proposition. »
 
 ::: {.notes}
-Définition avant l’application. Le glossaire présente aussi l’attitude comme un affect général envers un objet. Une attitude peut être négative. Contre-exemple : « L’autobus passe à 8 heures » décrit une croyance sans donner à lui seul l’évaluation globale. Une attitude n’est pas nécessairement forte ou entièrement cohérente.
+Définition du chapitre 6. Faire nommer l’objet dans les deux phrases : personne et proposition. On peut apprécier une personne et désapprouver une de ses idées.
 :::
 
-## Évaluer, croire et agir
+## Les attitudes en politique
 
-| Phrase | Information donnée |
+::: {.columns}
+::: {.column width="20%"}
+![](assets/paul-st-pierre-plamondon.jpg){height=260 fig-alt="Paul St-Pierre Plamondon"}
+
+**PQ**
+
+Paul St-Pierre Plamondon
+:::
+::: {.column width="20%"}
+![](assets/charles-milliard.jpg){height=260 fig-alt="Charles Milliard"}
+
+**PLQ**
+
+Charles Milliard
+:::
+::: {.column width="20%"}
+![](assets/eric-duhaime.jpg){height=260 fig-alt="Éric Duhaime"}
+
+**PCQ**
+
+Éric Duhaime
+:::
+::: {.column width="20%"}
+![](assets/christine-frechette.jpg){height=260 fig-alt="Christine Fréchette"}
+
+**CAQ**
+
+Christine Fréchette
+:::
+::: {.column width="20%"}
+![](assets/ruba-ghazal.jpg){height=260 fig-alt="Ruba Ghazal"}
+
+**QS**
+
+Ruba Ghazal
+:::
+:::
+
+Peut-on apprécier une personne, aimer certaines de ses idées et refuser de voter pour elle?
+
+::: {.credit}
+Photos Commons : [Alexis G, BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Paul_St-Pierre_Plamondon_(crop).jpg) · [TVA Nouvelles, BY 3.0 — Milliard](https://commons.wikimedia.org/wiki/File:Charles_Milliard_Ao%C3%BBt_2024_(cropped).jpg) · [Asclepias, BY-SA 3.0](https://commons.wikimedia.org/wiki/File:%C3%89ric_Duhaime_2022-07-05_(cropped).jpg) · [TVA Nouvelles, BY 3.0 — Fréchette](https://commons.wikimedia.org/wiki/File:Christine_Fr%C3%A9chette_(cropped).jpg) · [QuebecSolidaireMercier, BY-SA 4.0](https://commons.wikimedia.org/wiki/File:RubaGhazal_2.jpg).
+:::
+
+::: {.notes}
+2 minutes. Visages des cinq principales formations de la campagne. Ruba Ghazal est porte-parole de Québec solidaire; Sol Zanetti est également porte-parole. Identification vérifiée auprès des partis et d'Élections Québec. Aucun propos fictif attribué à ces personnes. Photos conservées telles que distribuées sur Commons, sans nouvelle modification. Recadrages préexistants par les contributeurs Commons. Licence des extraits TVA : https://creativecommons.org/licenses/by/3.0/ ; photos PQ et QS : https://creativecommons.org/licenses/by-sa/4.0/ ; PCQ : https://creativecommons.org/licenses/by-sa/3.0/ . Ne pas demander le vote personnel.
+:::
+
+## Des enjeux qui peuvent diviser… ou rendre ambivalent
+
+Une attitude peut porter sur une **proposition précise**.
+
+| Enjeu | Objet à évaluer |
 |---|---|
-| « Le transport collectif est souhaitable. » | Évaluation |
-| « Il coute moins cher que ma voiture. » | Croyance |
-| « J’ai pris l’autobus mardi. » | Action réalisée |
+| Éducation | La gratuité scolaire |
+| Services publics | Une hausse d’impôts pour financer davantage de services |
+| Avenir du Québec | L’indépendance du Québec |
+| Immigration | Une hausse du nombre de personnes accueillies |
+| Religion et laïcité | Les signes religieux dans les services publics |
 
-**L’action seule ne révèle pas directement l’attitude.**
+**Peut-on approuver une idée d’un parti et en désapprouver une autre?**
 
 ::: {.notes}
-Faire justifier chaque classement par un mot de la phrase. Une personne peut prendre l’autobus pour des raisons économiques sans l’apprécier. À l’inverse, elle peut l’apprécier sans pouvoir le prendre. Ne pas conclure à une contradiction morale à partir d’un seul déplacement.
+2 minutes. Reprendre l'indépendance du Québec comme objet d'attitude, comme dans le support Sullivan p. 2, sans importer ses énoncés. Ces objets ne sont pas des positions attribuées aux cinq partis. Garder la distinction entre aimer une personne et évaluer une proposition. Pour chaque objet, imaginer deux réactions possibles plutôt que demander une confession politique.
 :::
 
-## Croyance, affect et conation
+## Progressiste ou conservateur : sur quel enjeu?
 
-**Croyance** : ce que la personne tient pour vrai à propos de l’objet.
+| Enjeu | Objet à évaluer |
+|---|---|
+| Ressources naturelles | L’exploitation du pétrole, du gaz naturel ou des mines |
+| Transport d’énergie | Un pipeline pétrolier traversant le Québec |
+| Environnement | La protection d’un écosystème menacé |
+| Transport | Des mesures favorisant les voitures électriques |
 
-**Affect** : émotion ou sentiment associé à l’objet.
-
-**Conation** : tendance ou préparation à agir à son égard.
-
-Andréa croit que l’autobus est économique, ressent de l’agacement lorsqu’elle attend et envisage de le prendre demain.
+**Une étiquette politique nous dit-elle ce que la personne pense de chacun de ces projets?**
 
 ::: {.notes}
-Le chapitre présente plusieurs modèles de structure. Dans le modèle tripartite classique, on distingue les composantes cognitive, affective et comportementale. Le modèle révisé examine les informations qui contribuent au jugement; ne pas présenter tous ces modèles comme identiques. La conation ne se réduit pas à une action déjà réalisée. Demander quelle information manque encore : notamment le jugement global et le déplacement effectif. Avantages et inconvénients simultanés peuvent donner lieu à une ambivalence.
+2 minutes. Demander un exemple fictif de positions qui ne se résument pas à une seule étiquette. Une personne pourrait soutenir certains projets énergétiques et s'opposer à un autre projet à cause de son emplacement. Ne pas présenter toutes les préférences comme un axe gauche-droite unique, ni attribuer ces exemples à un parti réel. On travaille l'objet précis de l'attitude, sans ajouter une théorie de l'idéologie au programme.
+:::
+
+## Attitude, croyance et comportement
+
+**Exemples fictifs à propos d’un politicien**
+
+| Phrase | Ce qu’elle indique |
+|---|---|
+| « J’aime ce politicien. » | Attitude favorable |
+| « Je crois qu’il tiendra ses promesses. » | Croyance |
+| « J’ai voté pour lui. » | Comportement |
+
+On peut voter pour une personne sans l’apprécier, par exemple pour éviter l’élection d’une autre.
+
+::: {.notes}
+Demander quel verbe permet de distinguer les phrases. Aimer donne une évaluation; croire rapporte une conviction; voter décrit une action. Ne pas attribuer ces phrases à un électorat réel.
+:::
+
+## Les composantes d’une attitude
+
+| Composante | Définition | Exemple fictif |
+|---|---|---|
+| **Cognitive** | Croyances à propos de l’objet | « Je crois que ce parti défend mes priorités. » |
+| **Affective** | Émotions et sentiments associés à l’objet | « Son discours m’enthousiasme. » |
+| **Conative** | Tendance ou préparation à agir | « J’envisage de voter pour ce parti. » |
+
+Ces composantes peuvent aller dans le même sens ou se contredire.
+
+::: {.notes}
+Employer aussi les termes du manuel : croyance, affect et conation. Conation ne signifie pas que le vote a déjà eu lieu. Le manuel distingue les modèles tripartite classique et révisé; ne pas les présenter comme identiques. Faire trouver une contradiction possible : enthousiasme pour un discours mais réserves envers le programme.
 :::
 
 ## Ambivalence ou neutralité?
 
 **Ambivalence** : présence simultanée d’évaluations positives et négatives envers le même objet.
 
-| À propos du télétravail | Évaluation |
+**Proposition fictive : augmenter les impôts pour financer davantage de services publics.**
+
+| Réaction | Évaluation |
 |---|---|
-| « J’apprécie l’autonomie, mais je déteste l’isolement. » | Positive et négative |
-| « Cela m’est indifférent. » | Ni favorable ni défavorable |
+| « De meilleurs services me plaisent, mais la hausse des impôts me déplait. » | Positive et négative |
+| « Cette proposition m’est indifférente. » | Ni favorable ni défavorable |
 
 Un point médian sur une seule échelle peut masquer cette différence.
 
 ::: {.notes}
-2 minutes. Distinguer deux évaluations fortes qui coexistent et une absence d’évaluation marquée. Demander quelles questions séparées permettraient d’examiner les aspects positifs et négatifs. Une hésitation dans la réponse ne suffit pas à établir une ambivalence.
+2 minutes. Deux évaluations envers la même proposition, pas deux objets sans lien. Cas fictif, sans attribution à un parti. Faire distinguer une évaluation favorable et défavorable simultanées d'une absence d'évaluation marquée. On pourrait mesurer séparément l'évaluation positive et négative. L'hésitation seule ne suffit pas à établir l'ambivalence.
 :::
 
-## À quoi une attitude peut-elle servir?
+## Comment mesure-t-on les attitudes?
 
-- **Connaissance** : organiser et simplifier l’information.
-- **Adaptation sociale** : faciliter l’intégration et les relations avec autrui.
-- **Expression** : manifester ses valeurs et son identité.
-- **Défense du soi** : protéger l’image que l’on a de soi.
+**Mesure explicite :** demander à la personne de rapporter son évaluation.
 
-Une même attitude peut remplir plusieurs fonctions.
+Un **item de type Likert** mesure son degré d’accord avec un énoncé.
+
+« Je suis favorable à la gratuité scolaire. »
+
+**Pas du tout d’accord · Plutôt en désaccord · Ni l’un ni l’autre · Plutôt d’accord · Tout à fait d’accord**
+
+Quelle différence avec « Je compte signer une pétition pour la gratuité scolaire demain »?
 
 ::: {.notes}
-2 minutes. Employer les quatre catégories du manuel actuel. La fonction concerne le rôle que joue l’attitude, et non seulement son caractère favorable ou défavorable. Ne pas déduire la fonction de l’objet seul. Pour la défense du soi, exemple fictif : dévaloriser une activité après un échec pour préserver son image de compétence; c’est une hypothèse qui exige des indices.
+2 minutes. Exemple original, pas échelle validée. Un item isolé n’est pas une échelle complète. La seconde phrase porte sur une intention. Le point médian peut correspondre à la neutralité ou à l’ambivalence; reprendre les deux exemples vus précédemment.
 :::
 
-## Même attitude, fonctions différentes
+## Le différenciateur sémantique
 
-Deux personnes sont favorables à un jardin collectif.
+On demande d’évaluer le même objet entre deux adjectifs opposés.
 
-| Raison exprimée | Fonction illustrée |
-|---|---|
-| « C’est une façon d’entretenir des liens avec mon voisinage. » | Adaptation sociale |
-| « Cela exprime l’importance que j’accorde à l’entraide. » | Expression |
+**Objet : une proposition de gratuité scolaire**
 
-**Quel indice renseigne la fonction, au-delà de l’évaluation favorable?**
+| Très | Plutôt | Ni l’un ni l’autre | Plutôt | Très |
+|---|---|---|---|---|
+| Mauvaise | Mauvaise | — | Bonne | Bonne |
+| Inutile | Inutile | — | Utile | Utile |
+
+La formulation des questions détermine ce que l’on mesure.
 
 ::: {.notes}
-2 minutes. Cas fictifs. Pointer les liens avec autrui et l’expression d’une valeur. La fonction n’est pas une cinquième composante du comportement planifié. Les catégories peuvent coexister; ces raisons éclairent chacune une fonction sans exclure les autres.
+2 minutes. Illustration pédagogique du différenciateur sémantique, pas questionnaire validé. Comparer une évaluation sur des adjectifs opposés et l’accord avec un énoncé de type Likert. Une ligne se lit d’un pôle à l’autre. Ne pas transformer cet exemple en test politique individuel.
+:::
+
+## La désirabilité sociale
+
+La **désirabilité sociale** est la tendance à donner une réponse qui présente une image favorable de soi aux autres.
+
+Une personne peut adapter ce qu’elle dit pour faire bonne impression.
+
+**Lorsqu’on pose une question, à qui la personne pense-t-elle devoir plaire?**
+
+::: {.notes}
+1 minute. Relier aux mesures déclarées et à la présentation de soi déjà rencontrée dans le cours. Blais 6 et notes de Rémi/Sullivan sur les mesures servent de repères pédagogiques. La définition est enseignée ici avant la scène. Éviter de dire que toute réponse socialement acceptable est fausse. Rappeler le gag de la publicité du pain vue en ouverture; ne pas relancer la vidéo.
+:::
+
+## Ce qu’elle mange… et ce qu’elle dit
+
+**Que voit-on dans la scène? Que raconte-t-elle au téléphone?**
+
+Pourquoi choisit-elle cette réponse?
+
+::: {.fragment}
+Elle cherche à faire bonne impression auprès de son interlocuteur.
+:::
+
+**Un questionnaire d’attitude pourrait-il susciter le même souci de plaire?**
+
+::: {.notes}
+1 minute de rappel. Dans la scène, le personnage mange du pain et affirme préparer des pâtes au pesto. Faire observer avant de donner l'explication. Relier au désir de faire bonne impression. Transfert : une question sur le recyclage pourrait recevoir une réponse valorisante pour l'image de soi. Ne pas conclure que l'on connait sa véritable attitude à partir de cette scène, ni appeler la scène un test implicite. L'humour illustre une situation; aucun effet de la publicité sur la classe n'est mesuré.
 :::
 
 ## Attitudes explicites et implicites
@@ -170,132 +327,118 @@ Une **attitude implicite** est une évaluation dont l’activation ou l’expres
 2 minutes. Distinguer l’évaluation et sa mesure. Une réponse déclarée peut être influencée par la présentation de soi. Une mesure indirecte ne donne pas automatiquement accès à une attitude « plus vraie ». Le test d’association implicite compare notamment les temps de réponse entre des associations de catégories et d’évaluations. Un score isolé ne permet pas de diagnostiquer une personne ou de prédire une action particulière. Demander : quelle information collecte-t-on dans chacune des deux approches? Ne pas administrer de test individuel à la classe.
 :::
 
-## Rendre l’évaluation observable
+## Comment fonctionne le test d’association implicite?
 
-**Un item de type Likert** demande le degré d’accord avec un énoncé.
+Le **test d’association implicite (TAI)** compare la performance quand des catégories et des évaluations partagent une touche de réponse.
 
-« Prendre la ligne 3 mardi matin pour aller au campus serait une bonne chose. »
+On compare les **temps de réponse et les erreurs** entre deux blocs.
 
-**Pas du tout d’accord · Plutôt en désaccord · Ni l’un ni l’autre · Plutôt d’accord · Tout à fait d’accord**
+Reprenons brièvement le classement déjà vu dans un cours précédent avec les noms de **St-Pierre Plamondon** et **Duhaime**.
 
-Cette réponse renseigne l’**évaluation déclarée** de l’action.
-
-::: {.notes}
-2 minutes. Item original pour l’enseignement, pas échelle validée. Dans une échelle de Likert, plusieurs items peuvent être combinés; un item isolé ne constitue pas à lui seul une échelle validée. Comparer oralement avec « Je compte prendre la ligne 3 mardi », qui mesure une intention, et « J’ai pris la ligne 3 mardi », qui rapporte une action. Un point médian ne permet pas de distinguer à lui seul une attitude neutre et une ambivalence. Les modalités de mesure doivent correspondre au construit et à l’action étudiés. Faire réfléchir sur le libellé, sans recueillir les attitudes personnelles de la classe.
+::: {.credit}
+Principe : [Greenwald, McGhee et Schwartz (1998)](https://doi.org/10.1037/0022-3514.74.6.1464). Démonstration adaptée.
 :::
 
-## Un exemple de test d’association implicite
+::: {.notes}
+Rappel, pas nouvelle passation. À mains levées : main gauche ou droite selon les catégories affichées. Réserver environ 3 minutes aux deux blocs et à leur comparaison. Rémi retient ces deux noms pour leur notoriété et leur pertinence auprès de la classe, sans attribuer une préférence aux étudiants. Le critère ne suppose pas qu'un chef est aimé ou détesté. L'illustration n'est pas un test politique validé : aucune mesure de temps, cotation ou diagnostic. Demander de lever la main gauche ou droite pour classer le stimulus selon les en-têtes, pas d'exprimer une préférence. La familiarité des noms, les mots et l'ordre font partie des éléments qu'un protocole scientifique doit contrôler.
+:::
 
-Classer des mots avec deux touches, selon deux associations.
+## TAI : premier bloc
 
-| Bloc | Touche gauche | Touche droite |
+::: {.columns}
+::: {.column width="50%"}
+**Gauche**
+
+St-Pierre Plamondon **ou** agréable
+:::
+::: {.column width="50%"}
+**Droite**
+
+Duhaime **ou** désagréable
+:::
+:::
+
+<div class="r-stack" style="height:200px;font-size:1.8em;font-weight:700;margin-top:40px">
+<div class="fragment fade-in-then-out" style="white-space:nowrap">Merveilleux</div>
+<div class="fragment fade-in-then-out" style="white-space:nowrap">Duhaime</div>
+<div class="fragment fade-in-then-out" style="white-space:nowrap">Horrible</div>
+<div class="fragment fade-in-then-out" style="white-space:nowrap">St-Pierre Plamondon</div>
+</div>
+
+::: {.notes}
+1 minute. Chaque avance affiche un stimulus. Réponses attendues : gauche, droite, droite, gauche. Quelques réponses collectives volontaires suffisent. Aucun recueil d'attitudes personnelles, aucun chronomètre ni score. La tâche montre ce que classer veut dire. Les étiquettes gauche/droite indiquent les positions de réponse, pas une classification idéologique des chefs.
+:::
+
+## TAI : second bloc
+
+::: {.columns}
+::: {.column width="50%"}
+**Gauche**
+
+Duhaime **ou** agréable
+:::
+::: {.column width="50%"}
+**Droite**
+
+St-Pierre Plamondon **ou** désagréable
+:::
+:::
+
+<div class="r-stack" style="height:200px;font-size:1.8em;font-weight:700;margin-top:40px">
+<div class="fragment fade-in-then-out" style="white-space:nowrap">Merveilleux</div>
+<div class="fragment fade-in-then-out" style="white-space:nowrap">Duhaime</div>
+<div class="fragment fade-in-then-out" style="white-space:nowrap">Horrible</div>
+<div class="fragment fade-in-then-out" style="white-space:nowrap">St-Pierre Plamondon</div>
+</div>
+
+::: {.notes}
+2 minutes avec la discussion. Réponses : gauche, gauche, droite, droite. Faire nommer ce qui change : les catégories de personnes changent de côté, les évaluations restent en place. Dans un TAI réel, on examine les différences de performance entre ces associations, avec un protocole et une cotation adaptés. La démonstration orale ne produit pas un résultat de TAI. Ne pas demander qui a préféré un bloc; demander ce qu'il faudrait mesurer et comparer.
+:::
+
+## À quoi les attitudes servent-elles?
+
+| Fonction | Exemple fictif de soutien à un parti |
+|---|---|
+| **Connaissance** : organiser l’information | « Son programme m’aide à comprendre les enjeux. » |
+| **Adaptation sociale** : faciliter l’intégration | « Militer me rapproche de mes amis. » |
+| **Expression** : manifester ses valeurs | « Ce parti exprime mes priorités. » |
+| **Défense du soi** : protéger son image | « Mon choix ne pouvait pas être une erreur. » |
+
+Une même attitude peut remplir plusieurs fonctions.
+
+::: {.notes}
+2 minutes. Repères du manuel p. 186–187. Exemples inventés, pas description d'un électorat. Lire deux exemples, puis faire comparer intégration et expression. Les autres servent de repères lors de la relecture. La défense du soi est un rôle possible de l'attitude, pas une preuve que la personne rationalise nécessairement.
+:::
+
+## La formation des attitudes
+
+| Processus | Définition brève | Exemple |
 |---|---|---|
-| A | Fleurs **ou** agréable | Insectes **ou** désagréable |
-| B | Insectes **ou** agréable | Fleurs **ou** désagréable |
+| **Simple exposition** | L’appréciation peut augmenter avec la répétition | Une chanson devient familière et nous plait davantage |
+| **Évaluation conditionnée** | L’évaluation change après l’association avec un élément positif ou négatif | Une marque associée à des scènes amusantes |
+| **Conditionnement opérant** | Les conséquences d’une conduite influencent sa répétition | Une activité gratifiante nous donne envie de recommencer |
 
-On compare les **temps de réponse et les erreurs** entre les blocs.
-
-::: {.credit}
-Principe illustré d’après [Greenwald, McGhee et Schwartz (1998)](https://doi.org/10.1037/0022-3514.74.6.1464).
-:::
+La famille, la culture et nos expériences contribuent à la formation des attitudes.
 
 ::: {.notes}
-2 minutes. Illustration du principe, pas administration ni protocole complet. Le classement porte sur les catégories indiquées; les touches partagent une catégorie cible et une catégorie évaluative. Les associations changent entre les blocs. La performance fournit un indice relatif d’association dans cette tâche, pas un accès à une attitude « vraie » ni un diagnostic individuel. Ne pas inventer des temps de réponse ou interpréter un score nul comme une absence de toute attitude. Faire identifier la différence entre les blocs.
+2 minutes. Repères p. 189–193. Ne pas développer trois expériences supplémentaires. La publicité du pain fournit une association possible entre marque et émotion agréable. La répétition d'une chanson illustre un effet possible, pas une appréciation garantie. Les concepts restent dans le guide du manuel; la lecture complète fournit les autres sources et modèles. Le conditionnement opérant porte d'abord sur le comportement et ses conséquences, qui peuvent contribuer à l'attitude envers l'activité.
 :::
 
-## Comparer des informations qui correspondent
+## L’apprentissage social et les croyances
 
-« J’aime l’environnement » est une attitude générale.
+L’**apprentissage social** consiste à apprendre en observant les autres.
 
-Pour comprendre un déplacement précis, rapprochons :
+**Exemple fictif :** dans une famille, on admire un parti et on critique un autre. Un jeune peut reprendre ces évaluations.
 
-| Dimension | Exemple |
-|---|---|
-| Action | Prendre |
-| Cible | La ligne 3 |
-| Situation | Pour aller au travail |
-| Temps | Mardi matin |
+Le **modèle croyance-évaluation** relie l’attitude aux conséquences que l’on croit associées à l’objet et à l’importance qu’on leur accorde.
 
-**Quelle est son attitude envers cette action précise?**
+« Je crois que cette proposition réduirait mes dépenses, et c’est important pour moi. »
 
 ::: {.notes}
-Distinguer le niveau général de l’objet et le comportement précis. Ne pas promettre une prédiction parfaite même avec une bonne correspondance. Faire reformuler une question : « Comment évalues-tu le fait de prendre la ligne 3 mardi matin pour aller au travail? » plutôt que « Aimes-tu l’environnement? ».
+3 minutes. p. 193–196. L’observation peut influencer une attitude sans déterminer celle de tous les membres d’une famille. Pour le modèle croyance-évaluation, relever séparément la conséquence attendue et sa valeur pour la personne. Aucun programme réel n’est attribué à un parti. Comparer avec une personne qui croit la même conséquence mais y accorde peu d’importance.
 :::
 
-## L’intention précède parfois l’action
-
-**Intention comportementale** : volonté ou projet d’accomplir une action déterminée.
-
-« Je compte prendre la ligne 3 mardi matin. »
-
-**Comportement** : action effectivement réalisée.
-
-« Mardi matin, j’ai pris la ligne 3. »
-
-Une intention ne garantit pas la réalisation de l’action.
-
-::: {.notes}
-Demander si « Je trouve les transports durables souhaitables » suffit à établir l’intention : non. Une intention peut ne pas se réaliser si les conditions changent. Ne pas inventer un obstacle dans un cas où aucune information ne le documente.
-:::
-
-## Deux autres informations sur l’action
-
-**Normes subjectives** : pression sociale perçue de personnes ou de groupes importants concernant l’action.
-
-« Mes proches m’encouragent à prendre l’autobus. »
-
-**Contrôle comportemental perçu** : perception de sa capacité et des possibilités de réaliser cette action.
-
-« Je pense pouvoir rejoindre l’arrêt à temps. »
-
-::: {.notes}
-Faire distinguer chaque exemple de « Je trouve ce trajet agréable », qui indique une attitude. Le contrôle perçu peut être inexact. Un trajet inexistant est une contrainte réelle; croire qu’un trajet est disponible est une perception. Ces deux informations ne sont pas interchangeables.
-:::
-
-## Le comportement planifié
-
-![Schéma simplifié : attitude, normes subjectives et contrôle perçu contribuent à l’intention; intention et contrôle perçu sont liés au comportement.](assets/comportement-planifie.svg){width=1400}
-
-
-L’intention et les possibilités de réaliser l’action comptent aussi.
-
-::: {.notes}
-Schéma simplifié du modèle présenté dans le manuel. Lire une voie à la fois : attitude, normes et contrôle perçu contribuent à comprendre l’intention; l’intention est liée au comportement; le contrôle perçu a aussi une voie vers le comportement. Une flèche n’indique ni une garantie ni que chaque composante pèse également dans toutes les situations. Reprendre le même déplacement précis pour chaque composante.
-:::
-
-## Une application de mes recherches
-
-**Identité sociale** : part de la définition de soi liée à l’appartenance à des groupes.
-
-Notre revue propose que ces appartenances puissent orienter les croyances et le poids qu’on leur accorde.
-
-Cela peut concerner l’**attitude**, les **normes subjectives** et le **contrôle perçu**.
-
-::: {.credit}
-Pillai et al. (2026), avec Rémi Thériault. *An Identity-Based Approach to Polarization and Public Health*. [Article](https://doi.org/10.1111/spc3.70125).
-:::
-
-::: {.notes}
-2 minutes. Présenter comme une revue théorique qui rapproche identité sociale et comportement planifié dans le domaine de la santé publique. Ce n’est pas une nouvelle expérience démontrant l’efficacité d’un message. Une appartenance peut influencer les croyances considérées et leur importance relative; cela n’implique pas que les membres d’un groupe pensent tous de la même façon. L’article n’est pas une lecture obligatoire supplémentaire.
-:::
-
-## Appliquer le lien avec l’identité sociale
-
-**Cas fictif :** un membre d’un club de plein air envisage une marche mardi midi.
-
-| Ce qu’il dit | Information du modèle |
-|---|---|
-| « Marcher serait une bonne chose. » | Attitude |
-| « Les membres qui comptent pour moi m’encouragent. » | Normes subjectives |
-| « Je pense pouvoir suivre le parcours proposé. » | Contrôle perçu |
-
-L’appartenance éclaire le contexte; elle ne garantit ni l’intention ni l’action.
-
-::: {.notes}
-2 minutes. Exemple pédagogique original, pas résultat de l’article. Demander quelle phrase établit une pression perçue de personnes importantes. Puis demander ce qui manquerait pour conclure à une intention et à une marche réalisée. Le cas ne permet pas de démontrer que l’appartenance a causé ces croyances. Ne pas solliciter les appartenances politiques ou les décisions de santé personnelles des étudiants.
-:::
-
-## Ronde 1 — Retrouver les distinctions
+## Ronde 1 : définition, mesure et formation
 
 {{< include _reconnexion.qmd >}}
 
@@ -304,49 +447,51 @@ Trois questions, puis une explication des réponses.
 [Passer à la pause](#pause-1)
 
 ::: {.notes}
-8 minutes pour la ronde, après le bloc d’explication. Fermer chaque vote avant le débreffage. Faire expliciter l’indice décisif, puis expliquer l’erreur dominante. Les diapositives suivantes permettent de relire les questions après le cours.
+7 minutes pour la ronde, après le bloc d’explication. Fermer chaque vote avant le débreffage. Faire expliciter l’indice décisif, puis expliquer l’erreur dominante. Les diapositives suivantes permettent de relire les questions après le cours.
 :::
 
-## 1. Quelle information est donnée?
+## 1. Attitude, croyance ou comportement?
 
-« L’autobus coute moins cher que ma voiture. »
+« Je trouve cette proposition politique souhaitable. »
 
-A. Une croyance
+A. Une attitude favorable
 
-B. Un comportement réalisé
+B. Une croyance sur ses conséquences
 
-C. Une norme subjective
+C. Un comportement réalisé
 
 ::: {.notes}
-Réponse A. L’énoncé indique ce qui est tenu pour vrai sur le cout. Il ne dit ni que la personne a pris l’autobus ni que ses proches l’encouragent. Il ne suffit pas à connaitre l’attitude globale.
+Réponse A. Souhaitable exprime une évaluation. Comparer avec « Je crois qu’elle réduira mes dépenses » et « J’ai voté pour elle ».
 :::
 
-## 2. Une intention ou une action?
+## 2. Que mesure cette question?
 
-« Je compte prendre la ligne 3 demain pour aller travailler. »
+« Je suis favorable à la gratuité scolaire. »
 
-A. Un déplacement déjà observé
+La personne indique son degré d’accord avec cet énoncé.
 
-B. Une intention comportementale
+A. Son intention de signer une pétition demain
 
-C. La preuve qu’aucun obstacle ne surviendra
+B. Son attitude déclarée envers cette proposition
+
+C. Le nombre de trajets qu’elle a effectués
 
 ::: {.notes}
-Réponse B. « Je compte » indique un projet. L’action n’a pas encore été observée et les obstacles éventuels restent inconnus. Demander ce qu’il faudrait observer demain pour parler de comportement réalisé.
+Réponse B. L’accord porte sur une évaluation de la proposition. Les trois réponses distinguent le construit mesuré, sans clause méthodologique piégeuse.
 :::
 
-## 3. Une norme ou un contrôle?
+## 3. Comment cette attitude s’est-elle formée?
 
-« Les personnes importantes pour moi souhaitent que je covoiture. »
+Une personne commence à aimer une chanson après l’avoir entendue plusieurs fois, sans récompense particulière.
 
-A. Une attitude envers le covoiturage
+A. Par simple exposition
 
-B. Un contrôle comportemental perçu
+B. Par conditionnement opérant
 
-C. Une norme subjective
+C. Par dissonance cognitive
 
 ::: {.notes}
-Réponse C. L’indice est la pression sociale perçue de personnes importantes. « Je peux rejoindre le départ à temps » indiquerait plutôt le contrôle perçu; « Je trouve cela agréable », l’attitude.
+Réponse A. La répétition est l’indice central. Le conditionnement opérant ferait intervenir les conséquences du comportement. Le cas ne décrit pas de conflit ressenti. Exemple fictif, pas effet garanti pour toute chanson.
 :::
 
 ## Pause — 10 minutes {#pause-1}
@@ -361,64 +506,7 @@ Proposez une chanson ou une photo de votre animal pour la pause.
 Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson et de photo, sans imposer de participation personnelle.
 :::
 
-## Exemple résolu — Le contenant de Sam
-
-Sam veut utiliser son contenant à la cafétéria demain.
-
-| Indice du cas | Concept |
-|---|---|
-| « Ce serait une bonne chose. » | Attitude favorable |
-| « Mes amis m’encouragent. » | Normes subjectives |
-| « Je peux le mettre dans mon sac. » | Contrôle perçu |
-| « Je compte l’apporter demain. » | Intention |
-
-**Demain, il faudra encore observer ce qu’il fait.**
-
-::: {.notes}
-4 minutes. Montrer la démarche complète avant l’atelier : nommer l’action précise, relever les indices, associer les concepts, puis marquer ce qui manque. Si le contenant casse, il s’agit d’une contrainte réelle documentée; cela ne permet pas à lui seul de conclure que Sam a changé d’attitude. L’atelier portera sur un autre cas.
-:::
-
-## Atelier — Le déplacement d’Andréa
-
-Andréa trouve souhaitable de prendre l’autobus pour se rendre au campus mardi matin.
-
-Ses proches l’encouragent. Elle pense que l’horaire lui permettra d’arriver à temps et prévoit de prendre la ligne 3.
-
-Mardi, elle arrive en voiture.
-
-**Nous n’avons aucune information sur le service ce matin-là.**
-
-::: {.notes}
-Atelier unique de 25 minutes : 12 minutes de travail, 5 de partage et 8 de débreffage. Groupes de 3 ou 4. Ne pas demander de récit personnel, ni choisir une personne pour une performance improvisée devant toute la classe.
-:::
-
-## Votre production — Trois éléments
-
-1. Une **action précise**, avec sa situation et son moment.
-2. Un tableau : **concept / indice du cas**.
-3. Deux phrases : **ce que le cas permet de conclure / ce qui manque pour expliquer le trajet**.
-
-Utilisez l’attitude, les normes subjectives, le contrôle perçu, l’intention et le comportement.
-
-::: {.notes}
-Circuler et demander « Quel passage du cas soutient cette affirmation? ». Si un groupe invente une panne, lui faire reformuler sous forme d’information à vérifier. Faire partager une réponse de groupe, sur une base volontaire, sans identifier les personnes à une attitude personnelle. Ne pas corriger en distribuant une explication causale absente du cas.
-:::
-
-## Débreffage — Ce qui est établi
-
-**Établi :** attitude favorable, encouragement perçu, possibilité perçue, intention annoncée et arrivée en voiture.
-
-**À vérifier :** conditions réelles du trajet et raisons du déplacement.
-
-Une panne est une **hypothèse à vérifier**.
-
-L’arrivée en voiture ne prouve pas, à elle seule, un changement d’attitude.
-
-::: {.notes}
-Revenir à l’indice de chaque concept. Le cas permet d’établir un écart entre projet et action, mais pas d’en donner la cause. Demander une information qui aiderait à départager les hypothèses. Transition : que se passe-t-il lorsqu’une personne perçoit elle-même une incompatibilité et en éprouve un inconfort?
-:::
-
-## La dissonance cognitive
+## Le changement d’attitude : la dissonance cognitive
 
 La **dissonance cognitive** est un état d’inconfort associé à des cognitions incompatibles.
 
@@ -432,18 +520,35 @@ La personne est alors motivée à réduire cet inconfort.
 Définir les cognitions comme des connaissances, croyances ou représentations, notamment à propos de sa conduite. Il faut considérer l’incompatibilité perçue et l’inconfort; ne pas diagnostiquer la dissonance à partir d’une simple incohérence vue de l’extérieur. Le changement d’attitude est une possibilité de réduction, pas une conséquence automatique.
 :::
 
-## Sam remarque une incompatibilité
+## La dissonance après un achat
 
-« Réduire les déchets est important pour moi. »
+**Alex achète une console de jeu très chère.**
 
-« J’utilise pourtant un contenant jetable chaque midi. »
+« Je voulais économiser pour mon déménagement. »
 
-« Ce décalage me met mal à l’aise. »
+« J’ai pourtant dépensé beaucoup pour cette console. »
 
-**Quels indices soutiennent ici l’explication par la dissonance?**
+« Je m’en veux d’avoir dépensé autant. »
+
+**Qu’est-ce qui crée son inconfort?**
 
 ::: {.notes}
-Exemple fictif : conviction, représentation de sa propre conduite, incompatibilité reconnue et malaise explicite. Contre-exemple : Sam utilise un jetable un jour parce que son contenant a cassé; sans indice de conflit ressenti, on ne peut pas conclure à cet état. Ne pas faire raconter à la classe des expériences culpabilisantes.
+2 minutes. Cas fictif. Le conflit concerne le projet d’épargne et la connaissance de sa dépense; le malaise est explicite. Une simple dépense n’établirait pas à elle seule cet inconfort. Recueillir des possibilités concrètes de réduction avant la diapositive suivante, sans demander les achats personnels des étudiants.
+:::
+
+## Comment réduire la dissonance?
+
+| Possibilité | Ce qu’Alex pourrait faire ou penser |
+|---|---|
+| Changer son comportement | Retourner la console |
+| Changer son évaluation | « Finalement, cet achat en valait la peine. » |
+| Ajouter une justification | « Je vais économiser sur d’autres loisirs. » |
+| Réduire l’importance du conflit | « Mon déménagement est encore loin. » |
+
+Alex cherche à se sentir plus cohérent avec sa décision.
+
+::: {.notes}
+2 minutes. Possibilités fictives, pas choix observés. Faire distinguer action, réévaluation et justifications. La cohérence ressentie ne dit pas si l’achat était financièrement judicieux. Ne pas transformer ce point en piège méthodologique dans une évaluation.
 :::
 
 ## Perception de soi ou dissonance?
@@ -460,24 +565,11 @@ Exemple fictif : conviction, représentation de sa propre conduite, incompatibil
 3 minutes, en lien avec la théorie de la perception de soi du cours 5. La première explication repose sur une inférence à partir de sa conduite; elle n’exige pas le malaise de la seconde. Une contrainte ou une récompense peut fournir une autre raison de la conduite observée. Demander quel indice départage les deux exemples : indices internes peu clairs et auto-observation, versus incompatibilité perçue et inconfort. Ces illustrations n’impliquent pas que les mécanismes soient toujours exclusifs. L’étude de la tâche monotone ne mesure pas directement l’inconfort; distinguer le résultat et son interprétation théorique.
 :::
 
-## Plusieurs façons de réduire la dissonance
-
-| Possibilité | Exemple fictif |
-|---|---|
-| Changer sa conduite | Apporter son contenant |
-| Changer son attitude | Juger les jetables moins problématiques |
-| Ajouter une justification | « J’économise l’eau du lavage. » |
-| Réduire l’importance du conflit | « Ce n’est qu’un repas. » |
-
-**Réduire l’inconfort ne garantit pas une meilleure décision.**
-
-::: {.notes}
-Les exemples illustrent des possibilités, sans les déclarer toutes vraies ou efficaces dans ce cas. La justification ajoutée peut être discutable factuellement. Faire distinguer changement de conduite et changement d’évaluation. La théorie explique une motivation à rétablir une cohérence perçue, pas une amélioration morale nécessaire.
-:::
-
 ## Une étude — Dire qu’une tâche est agréable
 
-Après une tâche monotone, des personnes sont réparties entre des conditions :
+Pendant une heure, des étudiants répètent des gestes monotones : déplacer des bobines, puis tourner des chevilles.
+
+On demande ensuite à certains de présenter cette tâche comme **agréable à une autre personne** :
 
 - **Témoin** : pas de demande de la présenter comme agréable.
 - **1 $** : la présenter comme agréable contre une faible rémunération.
@@ -486,7 +578,7 @@ Après une tâche monotone, des personnes sont réparties entre des conditions :
 On mesure ensuite **l’évaluation personnelle de la tâche**.
 
 ::: {.notes}
-Présenter le dispositif original de Festinger et Carlsmith (1959), sans faire mémoriser les montants ou les détails procéduraux. Le groupe témoin fournit une comparaison. L’évaluation présentée est finale et entre groupes, pas une mesure de changement avant/après chez les mêmes personnes. Demander une prédiction avant de montrer la figure.
+Raconter le dispositif original de Festinger et Carlsmith (1959) : deux tâches de trente minutes; la personne à convaincre est une complice. Le détail des gestes sert à imaginer la scène, pas à la mémorisation. Ne pas faire mémoriser les montants ou les détails procéduraux. Le groupe témoin fournit une comparaison. L’évaluation présentée est finale et entre groupes, pas une mesure de changement avant/après chez les mêmes personnes. Demander une prédiction avant de montrer la figure.
 :::
 
 ## Votre prédiction
@@ -517,30 +609,41 @@ Source : [Festinger et Carlsmith (1959), tableau 1](https://psychclassics.yorku.
 Lire d’abord l’axe complet de −5 à +5 et le sens des valeurs. Le groupe 1 dollar donne l’évaluation la plus favorable. Ce sont des moyennes finales de groupes, pas des trajectoires individuelles. La figure ne donne ni données brutes ni intervalles de confiance et ne mesure pas directement l’inconfort. Les auteurs rapportent des analyses supplémentaires dans l’article; ne pas déduire la significativité de la seule hauteur des points.
 :::
 
-## Pourquoi une faible justification externe?
+## Pourquoi le groupe 1 $ apprécie-t-il davantage la tâche?
 
-« J’ai présenté comme agréable une tâche que je trouvais monotone. »
+**À deux : pourquoi le groupe payé 1 $ a-t-il donné l’évaluation la plus favorable?**
 
-Une rémunération forte peut fournir une **justification externe** de cette conduite.
+Que pourrait se dire une personne payée 1 $? Et une personne payée 20 $?
 
-Avec une faible justification externe, changer son évaluation peut contribuer à réduire la dissonance.
+::: {.fragment}
+**20 $ :** « J’ai dit cela pour l’argent. »
 
-**Cette explication ne prédit pas que toute personne changera d’attitude.**
-
-::: {.notes}
-Relier explicitement le dispositif, le résultat et l’explication théorique. Distinguer le résultat observé de l’inférence sur le mécanisme. Une forte rémunération peut expliquer pourquoi on a tenu ce propos sans modifier autant l’évaluation personnelle. Ne pas conclure qu’une petite récompense persuade toujours mieux ou que toute affirmation finit par être crue.
+La rémunération fournit une **justification externe**, une raison liée à la situation.
 :::
 
-## Pause — 10 minutes {#pause-2}
+::: {.fragment}
+**1 $ :** « Cette petite somme explique moins bien ce que j’ai dit. Peut-être que la tâche était intéressante… »
 
-**10 minutes**
-
-Proposez une chanson ou une photo de votre animal pour la pause.
-
-{{< include _reconnexion.qmd >}}
+Réévaluer la tâche peut réduire la dissonance.
+:::
 
 ::: {.notes}
-Annoncer oralement l’heure de retour. Préserver les dix minutes, même si un exemple secondaire doit être abrégé ensuite.
+4 minutes. Une minute individuelle pour relever le résultat, deux minutes d'échange, puis explication et fragments. Raisonner à partir de la conduite contraire à l'appréciation initiale. La forte rémunération offre une justification externe; la faible rémunération laisse davantage à expliquer par une réévaluation interne. Les phrases sont des illustrations de l'interprétation, pas des citations de participants. Le graphique montre des moyennes finales entre groupes, pas le malaise ni le changement individuel. Demander un exemple différent d'une justification externe.
+:::
+
+## Deux personnes votent avec des réserves
+
+**Cas fictifs : les deux personnes ont voté pour une candidature qu’elles apprécient peu.**
+
+| Personne | Ce qu’elle dit après le vote |
+|---|---|
+| Noa | « C’était un choix stratégique. Je l’assume. » |
+| Alex | « Ce choix contredit mes convictions et me met mal à l’aise. Je me répète que cette candidature était finalement la meilleure. » |
+
+**Chez qui les indices de dissonance sont-ils présents? Comment cherche-t-il à la réduire?**
+
+::: {.notes}
+3 minutes. Échange rapide, puis réponse : Alex exprime l'incompatibilité et le malaise, et réévalue la candidature. Noa décrit une justification stratégique sans inconfort déclaré. La même action ne fournit pas toutes les informations sur le mécanisme. Faire réutiliser les mots de la définition et la stratégie déjà vue dans le cas de la console. Personnages fictifs, sans désigner un parti ou demander le vote des étudiants.
 :::
 
 ## La persuasion
@@ -557,7 +660,7 @@ Recevoir un message ne signifie pas nécessairement changer d’attitude.
 Distinguer une tentative persuasive de son effet. Exemple : un message encourage à utiliser l’autobus; la personne peut l’ignorer, examiner ses arguments ou réagir à sa présentation. Nous allons surtout travailler le processus de traitement du message, sans refaire toutes les variables source/message/récepteur.
 :::
 
-## Deux voies de traitement
+## La persuasion : voies centrale et périphérique
 
 **Élaboration cognitive** : réflexion sur le contenu pertinent d’un message.
 
@@ -575,33 +678,23 @@ La **motivation** et les **ressources disponibles** orientent le traitement.
 Le modèle de vraisemblance de l’élaboration cognitive organise ces deux voies selon le degré d’élaboration. Faire redire la définition avant de classer les cas. Les voies ne sont pas deux types de personnes et ne mesurent pas leur intelligence. Une même personne peut traiter différemment deux messages ou le même message dans deux situations. En moyenne, un changement issu d’un examen approfondi peut être plus durable et résistant, sans en faire une garantie.
 :::
 
-## Alex, deux situations
+## Une proposition politique : deux façons de la juger
 
-| Situation | Traitement observé |
+**Cas fictif : un message propose la gratuité scolaire.**
+
+| Personne | Ce qu’elle examine |
 |---|---|
-| Alex prépare son budget transport et compare les données sur les couts et horaires. | Examen des arguments |
-| Alex est pressé et retient surtout qu’une personnalité connue recommande le service. | Appui sur un indice |
+| Alex | Le cout, le financement et les conséquences pour les études |
+| Noa | Le soutien de son artiste préféré à la proposition |
 
-**La même personne peut emprunter des voies différentes.**
+**Qui examine les arguments? Qui s’appuie surtout sur un indice?**
 
-::: {.notes}
-Faire pointer les indices du traitement, pas attribuer une personnalité à Alex. Le premier cas montre une comparaison du fond; le deuxième un indice de notoriété sans examen des arguments. La motivation et le temps expliquent ici une différence possible; ils ne permettent pas de lire les pensées de toute personne exposée au message.
+::: {.fragment}
+Alex illustre la **voie centrale**. Noa illustre la **voie périphérique**.
 :::
 
-## L’expertise ne suffit pas à identifier la voie
-
-« C’est une spécialiste; je la crois. »
-
-→ L’expertise sert d’indice.
-
-« Je vérifie son raisonnement et les données qu’elle présente. »
-
-→ Les arguments font l’objet d’un examen.
-
-**Il faut connaitre le traitement du message.**
-
 ::: {.notes}
-Contre-exemple à la règle erronée « expert = voie périphérique ». L’expertise peut servir d’indice, mais aussi conduire à examiner le fond. Une belle présentation ne suffit pas non plus à classer le processus. Faire demander l’information manquante : qu’a considéré la personne pour former son jugement?
+3 minutes. Attendre une réponse avant d'afficher le fragment. Reprendre la publicité du pain vue en ouverture : le gag ne révèle pas à lui seul le traitement de chaque spectateur. La voie dépend de ce que la personne examine, pas seulement du type de publicité. Si une spécialiste intervient, son titre peut servir d'indice ou ses arguments être examinés : expliquer oralement au besoin, sans une diapositive abstraite supplémentaire.
 :::
 
 ## Ronde 2 — Expliquer le mécanisme
@@ -610,7 +703,7 @@ Contre-exemple à la règle erronée « expert = voie périphérique ». L’exp
 
 Trois cas nouveaux pour retrouver les mécanismes.
 
-[Passer à la synthèse](#synthese)
+[Passer à la pause](#pause-2)
 
 ::: {.notes}
 7 minutes. Faire rappeler les concepts sans réafficher immédiatement leur définition. Fermer les votes avant chaque explication; corriger d’abord la confusion la plus fréquente.
@@ -618,21 +711,23 @@ Trois cas nouveaux pour retrouver les mécanismes.
 
 ## 4. Réduire la dissonance
 
-Une personne éprouve un malaise entre sa conviction et sa conduite. Que peut-on prévoir?
+Alex regrette un achat qui contredit son projet d’économiser. Pour se sentir mieux, il se convainc que cet achat en valait la peine.
 
-A. Plusieurs façons de réduire l’inconfort sont possibles.
+Quelle façon de réduire la dissonance illustre ce cas?
 
-B. Son attitude changera nécessairement.
+A. Réévaluer son achat plus favorablement.
 
-C. L’inconfort garantit une décision plus juste.
+B. Modifier sa conduite en retournant l’achat.
+
+C. Justifier sa conduite par une récompense reçue.
 
 ::: {.notes}
-Réponse A. Reprendre un changement de conduite, un changement d’attitude et une justification. B et C sont des garanties que la théorie ne donne pas. Demander un indice supplémentaire pour prévoir la stratégie utilisée dans un cas précis.
+Réponse A. Le changement porte sur l'évaluation de l'achat. B illustre un changement de conduite et C une justification externe, qui ne sont pas décrits dans le cas. Reprendre une autre stratégie possible pour comparer ce qui changerait dans la situation.
 :::
 
 ## 5. Examiner un message
 
-Noa lit une proposition, vérifie ses données et formule deux contre-arguments avant de la rejeter.
+Noa lit une proposition de pipeline, vérifie ses données et formule deux contre-arguments avant de la rejeter.
 
 A. Voie périphérique, puisqu’il y a rejet
 
@@ -644,33 +739,188 @@ C. Aucun traitement, puisque l’attitude ne change pas
 Réponse B. L’examen peut produire des pensées défavorables et un rejet. Ne pas confondre traitement approfondi et persuasion réussie. Le passage sur les données et les contre-arguments constitue l’indice décisif.
 :::
 
-## 6. Une spécialiste prend la parole
+## 6. Après la publicité
 
-Une spécialiste recommande un service. Quelle information permet d’identifier la voie de traitement d’une personne qui l’écoute?
+Après avoir vu la publicité du pain, Alex compare les ingrédients, la valeur nutritive et le prix du produit avant de se faire une opinion.
 
-A. Le titre de la spécialiste suffit.
+Quel traitement du message illustre surtout sa démarche?
 
-B. Le fait que la recommandation soit favorable suffit.
+A. Voie centrale : il examine les arguments.
 
-C. Il faut savoir quels éléments la personne a examinés.
+B. Voie périphérique : il se fie surtout au prestige de la source.
 
-::: {.notes}
-Réponse C. La source seule ne permet pas de déduire le processus. Demander un exemple d’indice périphérique et un exemple d’examen central à partir de cette même communication.
-:::
-
-## Trois acquis à retrouver {#synthese}
-
-1. **Reconnaitre une attitude** : quel mot exprime l’évaluation?
-2. **Analyser une action** : quels indices renseignent l’attitude, les normes, le contrôle et l’intention?
-3. **Expliquer un changement** : quels indices soutiennent la dissonance ou le traitement persuasif?
-
-Pour chaque réponse : **un concept et un indice du cas**.
+C. Évaluation conditionnée : la marque est associée à une émotion agréable.
 
 ::: {.notes}
-Faire formuler une réponse brève individuellement, puis reprendre un exemple. La synthèse ne doit pas devenir une nouvelle liste de notions. Si une réponse repose sur une information inventée, marquer explicitement ce qui reste à vérifier.
+Réponse A. Les informations décisives sont les ingrédients, la valeur nutritive et le prix examinés. B et C décrivent d'autres processus plausibles pour une publicité, mais pas la démarche précisée dans ce cas. L'humour présent dans la publicité ne détermine pas à lui seul la voie empruntée par Alex.
 :::
 
-## Les prochaines évaluations
+## Pause — 10 minutes {#pause-2}
+
+**10 minutes**
+
+Proposez une chanson ou une photo de votre animal pour la pause.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Annoncer oralement l’heure de retour. Préserver les dix minutes, même si un exemple secondaire doit être abrégé ensuite.
+:::
+
+## Les attitudes prédisent-elles les comportements?
+
+« J’aime ce parti » est une attitude envers un parti.
+
+Pour comprendre un vote précis, rapprochons :
+
+| Dimension | Exemple |
+|---|---|
+| Action | Voter |
+| Cible | Pour une candidature de ce parti |
+| Situation | Aux élections québécoises |
+| Temps | Le 5 octobre 2026 |
+
+**Quelle était son attitude envers le fait de voter pour cette candidature ce jour-là?**
+
+::: {.notes}
+2 minutes. Correspondance action, cible, situation et temps, appliquée rétrospectivement au scrutin. Aimer un chef ou un parti n'est pas identique à évaluer ce vote précis. Une personne peut apprécier un parti et préférer une autre candidature locale. Le graphique du début rapporte des votes, sans mesurer ces évaluations individuelles.
+:::
+
+## L’intention et le comportement
+
+**Intention comportementale** : volonté ou projet d’accomplir une action déterminée.
+
+Avant le scrutin : « Je compte aller voter le 5 octobre. »
+
+**Comportement** : action effectivement réalisée.
+
+Après le scrutin : « Le 5 octobre, je suis allé voter. »
+
+Une intention ne garantit pas la réalisation de l’action.
+
+::: {.notes}
+2 minutes. Distinguer l'intention d'aller voter de l'intention de voter pour une candidature précise; maintenir le même comportement dans chaque comparaison. Demander si trouver une élection importante suffit à établir l'intention d'y voter : non. Une intention peut ne pas se réaliser si les conditions changent. Les phrases sont fictives.
+:::
+
+## Les normes subjectives et le contrôle perçu
+
+**Normes subjectives** : pression sociale perçue de personnes ou de groupes importants concernant l’action.
+
+Avant le scrutin : « Mes proches m’encouragent à aller voter. »
+
+**Contrôle comportemental perçu** : perception de sa capacité et des possibilités de réaliser cette action.
+
+« Je pense pouvoir me rendre au bureau de vote à temps. »
+
+::: {.notes}
+2 minutes. Faire distinguer ces phrases de « Je trouve souhaitable d'aller voter », qui indique une attitude envers l'action. Le contrôle perçu peut être inexact. Imaginer une contrainte rencontrée par un personnage, sans attribuer un incident réel au scrutin. Ne pas demander aux étudiants leur situation électorale personnelle.
+:::
+
+## La théorie du comportement planifié
+
+![Schéma simplifié : attitude, normes subjectives et contrôle perçu contribuent à l’intention; intention et contrôle perçu sont liés au comportement.](assets/comportement-planifie.svg){width=1400}
+
+
+L’intention et les possibilités de réaliser l’action comptent aussi.
+
+::: {.notes}
+Schéma simplifié du modèle présenté dans le manuel. Lire une voie à la fois : attitude, normes et contrôle perçu contribuent à comprendre l’intention; l’intention est liée au comportement; le contrôle perçu a aussi une voie vers le comportement. Une flèche n’indique ni une garantie ni que chaque composante pèse également dans toutes les situations. Reprendre le fait d’aller voter au même scrutin pour chaque composante.
+:::
+
+## Une application de mes recherches
+
+**Identité sociale** : part de la définition de soi liée à l’appartenance à des groupes.
+
+Notre revue propose que ces appartenances puissent orienter les croyances et le poids qu’on leur accorde.
+
+Cela peut concerner l’**attitude**, les **normes subjectives** et le **contrôle perçu**.
+
+::: {.credit}
+Pillai et al. (2026), avec Rémi Thériault. *An Identity-Based Approach to Polarization and Public Health*. [Article](https://doi.org/10.1111/spc3.70125).
+:::
+
+::: {.notes}
+2 minutes. Présenter comme une revue théorique qui rapproche identité sociale et comportement planifié dans le domaine de la santé publique. Ce n’est pas une nouvelle expérience démontrant l’efficacité d’un message. Une appartenance peut influencer les croyances considérées et leur importance relative; cela n’implique pas que les membres d’un groupe pensent tous de la même façon. L’article n’est pas une lecture obligatoire supplémentaire.
+:::
+
+## L’identité sociale et les attitudes politiques
+
+**Cas fictif :** une personne s’identifie fortement à un parti.
+
+Elle accorde beaucoup d’importance aux recommandations des membres qu’elle respecte.
+
+Elle peut aussi juger une proposition plus favorablement lorsqu’elle la croit soutenue par son groupe.
+
+**Comment son appartenance peut-elle influencer ce qu’elle croit et ce qui compte pour elle?**
+
+::: {.notes}
+2 minutes. Application fictive du rapprochement théorique de Pillai et al. (2026), avec Rémi Thériault. L’appartenance peut orienter les croyances et leur importance dans les attitudes, normes et contrôle perçu. Aucun parti ou électorat réel n’est décrit. Ne pas demander le vote personnel. Ne pas conclure que les membres pensent tous pareil. L’article demeure une référence, pas une lecture supplémentaire obligatoire.
+:::
+
+## Exemple résolu : le contenant réutilisable de Sam
+
+**Sam prévoit apporter son contenant réutilisable à la cafétéria demain.**
+
+| Ce qu’il dit | Concept |
+|---|---|
+| « Apporter mon contenant réutilisable serait une bonne chose. » | Attitude favorable |
+| « Mes amis m’encouragent à l’apporter. » | Normes subjectives |
+| « Je peux le mettre dans mon sac avant de partir. » | Contrôle perçu |
+| « Je compte l’apporter demain. » | Intention |
+
+**S’il l’apporte demain, nous observerons son comportement.**
+
+::: {.notes}
+4 minutes. Présenter la démarche avant l’atelier : relever une phrase puis expliquer le concept qu’elle illustre. Vérifier que la cafétéria accepte le contenant dans le cas proposé, sans attribuer une politique réelle à l’UQAR. L’action précise est apporter son contenant, pas avoir une attitude générale envers l’environnement.
+:::
+
+## Atelier : pourquoi Andréa est-elle venue en voiture?
+
+Andréa trouve souhaitable de prendre l’autobus pour se rendre à l’UQAR mardi matin.
+
+Ses proches l’encouragent. Elle pense que l’horaire lui permettra d’arriver à temps et prévoit de prendre la ligne jaune de Citébus.
+
+Mardi, elle arrive en voiture.
+
+**Nous n’avons aucune information sur le service ce matin-là.**
+
+::: {.notes}
+Atelier unique de 25 minutes : 12 minutes de travail, 5 de partage et 8 de débreffage. Groupes de 3 ou 4. Ne pas demander de récit personnel, ni choisir une personne pour une performance improvisée devant toute la classe.
+:::
+
+## Les questions de l’atelier
+
+Complétez ces phrases à partir du cas d’Andréa.
+
+| Concept | Début de votre réponse |
+|---|---|
+| Attitude | Elle trouve que prendre l’autobus… |
+| Normes subjectives | Ses proches… |
+| Contrôle perçu | Elle pense pouvoir… |
+| Intention | Elle prévoit… |
+| Comportement | Mardi, elle… |
+
+**Quelle question lui poseriez-vous pour comprendre pourquoi elle est venue en voiture?**
+
+::: {.notes}
+Travail en équipes de trois ou quatre pendant douze minutes, puis cinq minutes de partage et huit de débreffage. Chaque équipe complète les cinq phrases et propose une question. Si une panne est supposée, demander quelle phrase du cas la documente. Faire partager une production volontaire, sans demander les déplacements personnels des étudiants.
+:::
+
+## Ce que l’on sait sur Andréa
+
+Andréa est favorable au trajet en autobus, ses proches l’encouragent et elle pense pouvoir le faire.
+
+Elle prévoit prendre l’autobus, mais arrive en voiture.
+
+**Question à lui poser : « Qu’est-ce qui vous a amenée à prendre votre voiture mardi? »**
+
+Sa réponse aiderait à comprendre la différence entre son intention et son comportement.
+
+::: {.notes}
+Revenir à l’indice de chaque concept. Le cas permet d’établir un écart entre projet et action, mais pas d’en donner la cause. Demander une information qui aiderait à départager les hypothèses. Clore l’atelier en rappelant les trois déterminants de l’intention et la différence entre l’intention et l’action.
+:::
+
+## Les prochaines évaluations {#synthese}
 
 **Quiz 5 · 20 octobre · 1,25 %**
 
@@ -700,7 +950,7 @@ Revenir avec une question sur une notion ou un exemple du chapitre.
 Rappeler que le cours 7 correspond au chapitre 8; le chapitre 7 est facultatif. Ne pas déduire ici le périmètre du quiz de la seule lecture suivante.
 :::
 
-## Sources
+## Sources {visibility="hidden"}
 
 **Manuel** : Vallerand, chapitre 6, « Les attitudes », p. 175–219; glossaire.
 
@@ -712,7 +962,7 @@ Rappeler que le cours 7 correspond au chapitre 8; le chapitre 7 est facultatif. 
 
 Les cas présentés sont fictifs.
 
-Version du 7 octobre 2026.
+Version du 12 octobre 2026.
 
 ::: {.notes}
 Les noms, années, statistiques exactes et détails procéduraux secondaires ne constituent pas des objectifs de mémorisation, sauf indication explicite donnée dans les consignes du cours.

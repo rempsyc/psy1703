@@ -3,7 +3,7 @@ title: "Guide d’étude — Examen 2"
 ---
 
 ::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **8 octobre 2026**. Ce guide couvre actuellement les chapitres 5 et 6. Les chapitres 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
+Mise à jour du **12 octobre 2026**. Ce guide couvre actuellement les chapitres 5 et 6. Les chapitres 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
 :::
 
 ## Repères
@@ -123,6 +123,7 @@ L’examen comprendra une question à développement très court associée à ch
 ### Mesure, fonctions et valeurs
 
 - Mesures explicites et implicites; mesures directes et indirectes.
+- Désirabilité sociale et présentation de soi dans les réponses déclarées.
 - Échelle de Likert; inversion du sens de certains items; différenciateur sémantique.
 - Test d’association implicite; amorçage évaluatif; principes généraux des mesures par temps de réaction.
 - Indicateurs comportementaux, psychophysiologiques et neurologiques de l’attitude.
@@ -165,10 +166,14 @@ L’examen comprendra une question à développement très court associée à ch
 - Rôle de la personne, de la situation, du temps disponible et des caractéristiques de l’attitude.
 - Théories de l’action raisonnée et du comportement planifié.
 - Attitude envers le comportement; normes subjectives; contrôle comportemental perçu; intention comportementale.
-- Identité sociale et comportement planifié : appliquer le rapprochement présenté en classe à une situation nouvelle.
+- Identité sociale et comportement planifié : appliquer le rapprochement avec le modèle à une situation nouvelle.
 - Modèle du processus attitude-comportement; accessibilité et activation de l’attitude.
 - Modèle MODE; motivation et opportunité; processus spontanés et délibérés.
 - Attitudes et radicalisation : articulation générale des mécanismes présentés dans l’encadré.
+
+### Applications
+
+- Appliquer les notions d’attitude, d’ambivalence, de persuasion et de comportement planifié à des situations politiques ou quotidiennes nouvelles.
 
 ### Progression de la matière
 
