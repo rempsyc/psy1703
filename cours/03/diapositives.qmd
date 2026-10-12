@@ -739,7 +739,7 @@ Organisation inspirée du cours de Sullivan; liens avec Vallerand (2021), p. 69�
 La liste de cinq sources est un repère pédagogique inspiré de l’exemple fourni par Rémi; ce n’est pas le découpage exact du manuel. Les sources se recoupent. Introspection : observation de ses pensées et sentiments. Ne pas supposer un accès transparent aux causes de tout comportement.
 :::
 
-## Théorie de l’autoperception (Bem)
+## Théorie de la perception de soi (autoperception)
 
 Nous pouvons **inférer nos attitudes à partir de nos comportements et de leur contexte**.
 
@@ -760,7 +760,7 @@ Vallerand (2021), p. 69–70 et glossaire, p. 449 — définition synthétisée.
 Source : Vallerand (2021), chapitre 3, p. 69–70. Théorie de l’autoperception de Bem, telle que présentée dans le manuel. Il ne s’agit pas de prétendre que toutes les attitudes proviennent de l’observation du comportement. Ajouter la recherche d’informations diagnostiques : une tâche un peu difficile peut mieux renseigner sur ses capacités qu’une réussite garantie (Trope, p. 70–71).
 :::
 
-## Une expérience sur l’autoperception
+## Une expérience sur la perception de soi
 
 **Chaiken et Baldwin (1981)** · Des questionnaires rendent saillants des comportements passés favorables ou défavorables à l’écologie.
 

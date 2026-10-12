@@ -1,5 +1,12 @@
-[Ouvrir Wooclap](https://app.wooclap.com)
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou ouvrez [Wooclap](https://app.wooclap.com/STNMOTL).
 
-**L’accès aux activités de cette séance sera communiqué en classe.**
+**Code de l’évènement : STNMOTL**
 
 Gardez l’onglet ouvert pour les rondes et les propositions de pause.
+:::
+::: {.column width="42%"}
+[![](assets/wooclap-engagement-qr.png){fig-alt="QR Wooclap STNMOTL" width="420"}](https://app.wooclap.com/STNMOTL)
+:::
+:::

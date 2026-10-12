@@ -68,7 +68,7 @@ L’examen comprendra une question à développement très court associée à ch
 - Théorie naïve de l’action.
 - Théorie des inférences correspondantes : correspondance, choix, désirabilité sociale et effets distinctifs.
 - Pertinence hédonique et personnalisme.
-- Théorie de la perception de soi et conditions d’application.
+- Théorie de la perception de soi (autoperception) et conditions d’application.
 - Principe de covariation : consensus, distinction et consistance.
 - Raisonnement à partir des indices, informations manquantes et interactions entre causes.
 - Schémas causaux; principes d’ignorement et d’augmentation.
@@ -134,7 +134,7 @@ L’examen comprendra une question à développement très court associée à ch
 
 - Sources affectives, comportementales, cognitives, culturelles et génétiques.
 - Évaluation conditionnée; effet de simple exposition; infusion de l’affect.
-- Conditionnement opérant; perception de soi; effet d’implication corporelle.
+- Conditionnement opérant; perception de soi (autoperception); effet d’implication corporelle.
 - Apprentissage social ou par observation; modèle croyance-évaluation.
 - Influence de la culture et du contexte sur la formation et l’expression des attitudes.
 - Contributions génétiques et environnementales; portée de l’héritabilité dans ce domaine.
@@ -147,7 +147,7 @@ L’examen comprendra une question à développement très court associée à ch
 - Soumission induite et justification externe; comparaison centrale et profil des résultats de l’étude présentée.
 - Dissonance postdécisionnelle; perception sélective de l’information; justification de l’effort; paradigme de l’hypocrisie.
 - Principales interprétations complémentaires : gestion de l’impression, perception de soi, orientation à l’action et autoaffirmation.
-- Distinguer perception de soi et dissonance à partir des indices d’une situation.
+- Distinguer gestion de l’impression, perception de soi et dissonance à partir des indices d’une situation.
 
 ### Persuasion et résistance
 
@@ -155,6 +155,7 @@ L’examen comprendra une question à développement très court associée à ch
 - Approche fondée sur la réponse cognitive; pensées favorables et défavorables au message.
 - Modèle de la vraisemblance de l’élaboration cognitive; routes centrale et périphérique.
 - Motivation et capacité à traiter le message; besoin de cognition; confiance dans ses pensées.
+- Enjeu personnel, qualité des arguments et expertise de la source : comprendre le profil des résultats de l’étude présentée.
 - Persistance et résistance des attitudes selon leur mode de formation.
 - Changement des attitudes explicites et implicites; modèles proposés et limites de généralisation.
 - Réactance psychologique; défense active; contre-argumentation; inoculation psychosociale.

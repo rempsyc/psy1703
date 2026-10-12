@@ -1,5 +1,12 @@
-[Ouvrir Wooclap](https://app.wooclap.com)
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou ouvrez [Wooclap](https://app.wooclap.com/EATTXLH).
 
-**L’accès au quiz sera communiqué en classe.**
+**Code de l’évènement : EATTXLH**
 
 Utilisez votre identifiant UQAR selon les consignes.
+:::
+::: {.column width="42%"}
+[![](assets/wooclap-quiz-qr.png){fig-alt="QR Wooclap EATTXLH" width="420"}](https://app.wooclap.com/EATTXLH)
+:::
+:::
