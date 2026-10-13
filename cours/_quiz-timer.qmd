@@ -70,6 +70,8 @@
 document.addEventListener("DOMContentLoaded", () => {
   const duration = 10 * 60 * 1000;
   document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    if (timer.dataset.initialized === "true") return;
+    timer.dataset.initialized = "true";
     const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
     const display = timer.querySelector(".quiz-timer-display");
     const startButton = timer.querySelector(".quiz-timer-start");

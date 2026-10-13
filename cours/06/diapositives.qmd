@@ -882,6 +882,8 @@ Réponse A. La répétition est l’indice central. Le conditionnement opérant 
 
 **10 minutes**
 
+{{< include ../_quiz-timer.qmd >}}
+
 Proposez une chanson ou une photo de votre animal pour la pause.
 
 {{< include _reconnexion.qmd >}}
@@ -1105,6 +1107,8 @@ Trois minutes, en remplacement de l’ancienne comparaison Noa/Alex : une minute
 ## Pause — 10 minutes {#pause-2}
 
 **10 minutes**
+
+{{< include ../_quiz-timer.qmd >}}
 
 Proposez une chanson ou une photo de votre animal pour la pause.
 
