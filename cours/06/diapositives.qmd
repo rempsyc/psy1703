@@ -788,7 +788,7 @@ Schéma simplifié du modèle présenté dans le manuel. Lire une voie à la foi
 **Nos identités sociales peuvent influencer les trois éléments de base du modèle : attitudes, normes subjectives et contrôle perçu** (illai, Globig, Rathje, Sternisko, Thériault, & Van Bavel, 2026).
 
 <style>
-.c6-model-b {position:relative;width:552px;height:440px;overflow:hidden;margin:20px auto;background:white;}
+.c6-model-b {position:relative;width:552px;height:400px;overflow:hidden;margin:20px auto;background:white;}
 .reveal .c6-model-b img {position:absolute;left:-552px;top:0;width:1104px;height:460px;max-width:none;max-height:none;margin:0;}
 </style>
 ```{=html}
