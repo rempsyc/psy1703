@@ -44,6 +44,8 @@ format:
 
 **Quiz 5 · 20 octobre · 1,25 %**
 
+**Matière évaluée : cours 6 et chapitre 6 — Les attitudes.**
+
 8 questions · 10 minutes. Les 8 meilleurs quiz sur 10 comptent pour **10 %**.
 
 **Examen 2 · 10 novembre · 30 %**
@@ -108,7 +110,7 @@ Nous reviendrons à cette scène pour comprendre **comment un message peut influ
 **Aimer un parti, vouloir voter pour lui et voter pour lui : trois choses différentes.**
 
 ::: {.credit}
-Source : [Élections Québec](https://www.electionsquebec.qc.ca/resultats-et-statistiques/resultats-generales/2026-10-05/218/), résultats affichés le 12 octobre 2026. Figure refaite dans R.
+Source : [Élections Québec](https://www.electionsquebec.qc.ca/resultats-et-statistiques/resultats-generales/2026-10-05/218/), consultés le 12 octobre 2026. Figure refaite dans R.
 :::
 
 ::: {.notes}
@@ -214,6 +216,8 @@ Demander quel verbe permet de distinguer les phrases. Aimer donne une évaluatio
 
 ## Les composantes d’une attitude
 
+**Modèle tripartite classique**
+
 | Composante | Définition | Exemple fictif |
 |---|---|---|
 | **Cognitive** | Croyances à propos de l’objet | « Je crois que ce parti défend mes priorités. » |
@@ -221,6 +225,10 @@ Demander quel verbe permet de distinguer les phrases. Aimer donne une évaluatio
 | **Conative** | Tendance ou préparation à agir | « J’envisage de voter pour ce parti. » |
 
 Ces composantes peuvent aller dans le même sens ou se contredire.
+
+::: {.credit}
+Source : Vallerand et Paquette (2021), chapitre 6, p. 180–182. Exemples politiques fictifs.
+:::
 
 ::: {.notes}
 Employer aussi les termes du manuel : croyance, affect et conation. Conation ne signifie pas que le vote a déjà eu lieu. Le manuel distingue les modèles tripartite classique et révisé; ne pas les présenter comme identiques. Faire trouver une contradiction possible : enthousiasme pour un discours mais réserves envers le programme.
@@ -676,6 +684,44 @@ Une intention ne garantit pas la réalisation de l’action.
 2 minutes. Distinguer l'intention d'aller voter de l'intention de voter pour une candidature précise; maintenir le même comportement dans chaque comparaison. Demander si trouver une élection importante suffit à établir l'intention d'y voter : non. Une intention peut ne pas se réaliser si les conditions changent. Les phrases sont fictives.
 :::
 
+## Peut-on voter pour quelqu’un sans le préférer?
+
+<style>
+.c6-buttons {position:relative;width:370px;height:560px;margin:auto;}
+.reveal .c6-buttons img {width:370px;height:560px;margin:0;max-width:none;max-height:none;}
+.c6-button-text {position:absolute;text-align:center;font-size:17px;font-weight:700;line-height:1.1;color:#111;transform:rotate(-12deg);}
+.c6-button-one {left:38px;top:55px;width:115px;}
+.c6-button-two {left:161px;top:40px;width:112px;}
+.c6-fine {position:relative;width:940px;height:457px;margin:18px auto;}
+.reveal .c6-fine img {width:940px;height:457px;margin:0;max-width:none;max-height:none;}
+.c6-fine-phrase {position:absolute;left:65%;top:8%;width:28%;height:17%;background:white;border-radius:12px;display:flex;align-items:center;justify-content:center;color:#111;font-family:Arial,sans-serif;font-weight:bold;font-size:32px;}
+</style>
+
+::: {.columns}
+::: {.column width="48%"}
+```{=html}
+<div class="c6-buttons"><img src="assets/meme-two-buttons.jpg" alt="Une personne transpire devant deux boutons : voter pour sa candidature préférée ou voter stratégiquement pour bloquer une autre candidature."><div class="c6-button-text c6-button-one">Ma candidature<br>préférée</div><div class="c6-button-text c6-button-two">Le vote<br>stratégique</div></div>
+```
+:::
+::: {.column width="52%"}
+**Deux choix possibles :**
+
+« Voter pour ma candidature préférée. »
+
+« Voter stratégiquement pour bloquer une autre candidature. »
+
+**Quel lien avec la préférence, l’intention et le vote?**
+:::
+:::
+
+::: {.credit}
+Jake Clark, *Daily Struggle / Two Buttons* · [Modèle Imgflip](https://imgflip.com/memetemplate/Two-Buttons) · légendes françaises ajoutées.
+:::
+
+::: {.notes}
+30 secondes, dans les deux minutes du vote stratégique. Faire proposer une possibilité avant le cas Noa. Le dilemme ne suffit pas à établir de la dissonance : ni malaise lié à une action déjà réalisée ni changement d’attitude ne sont établis. L’image sert d’illustration humoristique, pas de résultat empirique.
+:::
+
 ## Voter pour son deuxième choix
 
 **Cas fictif : Noa préfère la candidature A.**
@@ -899,18 +945,22 @@ Définir les cognitions comme des connaissances, croyances ou représentations, 
 
 ## La dissonance après un achat
 
-**Alex achète une console de jeu très chère.**
+**Alex : « J’ai dépensé 800 $ pour une console alors que je voulais économiser pour déménager. Je m’en veux. »**
 
-« Je voulais économiser pour mon déménagement. »
+```{=html}
+<div class="c6-fine"><img src="assets/meme-this-is-fine.jpg" alt="Un chien assis dans une pièce en feu affirme que tout va bien; illustration humoristique de la justification d’Alex."><div class="c6-fine-phrase">Tout va bien</div></div>
+```
 
-« J’ai pourtant dépensé beaucoup pour cette console. »
+« Je vais économiser sur autre chose. »
 
-« Je m’en veux d’avoir dépensé autant. »
+**Quel conflit ressent-il? Comment essaie-t-il de se rassurer?**
 
-**Qu’est-ce qui crée son inconfort?**
+::: {.credit}
+KC Green, *Gunshow — This Is Fine* · [Modèle Imgflip](https://imgflip.com/memetemplate/This-Is-Fine) · adaptation française et contexte fictif ajoutés.
+:::
 
 ::: {.notes}
-2 minutes. Cas fictif. Le conflit concerne le projet d’épargne et la connaissance de sa dépense; le malaise est explicite. Une simple dépense n’établirait pas à elle seule cet inconfort. Recueillir des possibilités concrètes de réduction avant la diapositive suivante, sans demander les achats personnels des étudiants.
+Deux minutes. Rémi a choisi le mème pour reprendre le cas de la console. Incompatibilité : projet d’épargne et dépense; malaise : « je m’en veux ». La réplique ajoute une justification. Le chien seul ne prouve pas une dissonance et peut illustrer d’autres mécanismes; c’est le récit fictif qui précise l’application. Ne pas demander les achats personnels des étudiants. Les 800 $ sont une valeur fictive, non à mémoriser.
 :::
 
 ## Comment réduire la dissonance?
@@ -1059,6 +1109,22 @@ Proposez une chanson ou une photo de votre animal pour la pause.
 
 ::: {.notes}
 Annoncer oralement l’heure de retour. Préserver les dix minutes, même si un exemple secondaire doit être abrégé ensuite.
+:::
+
+## Convaincre quelqu’un sur Internet
+
+![](assets/xkcd-386-duty-calls.png){height=390 fig-alt="Un personnage refuse d’aller se coucher parce que quelqu’un a tort sur Internet."}
+
+**« Tu viens te coucher? » — « Je ne peux pas. Quelqu’un a tort sur Internet. »**
+
+**Vouloir convaincre suffit-il pour convaincre?**
+
+::: {.credit}
+Randall Munroe, [xkcd nº 386 — Duty Calls](https://xkcd.com/386/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/). Image originale; résumé français du dialogue.
+:::
+
+::: {.notes}
+30 secondes, prises dans l’introduction à la persuasion. Essai proposé par Rémi. Image anglaise accompagnée d’un résumé français; l’image n’est pas traduite. Faire sourire, puis distinguer vouloir persuader et obtenir un changement. Ne pas déduire du dessin une voie de traitement précise ni un biais. Aucun nouvel objectif d’étude.
 :::
 
 ## La persuasion
@@ -1233,6 +1299,8 @@ Réponse A. Les informations décisives sont les ingrédients, la valeur nutriti
 ## Les prochaines évaluations {#synthese}
 
 **Quiz 5 · 20 octobre · 1,25 %**
+
+**Matière évaluée : cours 6 et chapitre 6 — Les attitudes.**
 
 8 questions · 10 minutes. Les 8 meilleurs quiz sur 10 comptent pour **10 %**.
 
