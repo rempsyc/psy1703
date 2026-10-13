@@ -766,6 +766,23 @@ L’intention et les possibilités de réaliser l’action comptent aussi.
 Schéma simplifié du modèle présenté dans le manuel. Lire une voie à la fois : attitude, normes et contrôle perçu contribuent à comprendre l’intention; l’intention est liée au comportement; le contrôle perçu a aussi une voie vers le comportement. Une flèche n’indique ni une garantie ni que chaque composante pèse également dans toutes les situations. Reprendre le fait d’aller voter au même scrutin pour chaque composante.
 :::
 
+## Exemple : le contenant réutilisable de Sam
+
+**Sam prévoit apporter son contenant réutilisable à la cafétéria demain.**
+
+| Ce qu’il dit | Concept |
+|---|---|
+| « Apporter mon contenant réutilisable serait une bonne chose. » | Attitude favorable |
+| « Mes amis m’encouragent à l’apporter. » | Normes subjectives |
+| « Je peux le mettre dans mon sac avant de partir. » | Contrôle perçu |
+| « Je compte l’apporter demain. » | Intention |
+
+**S’il l’apporte demain, nous observerons son comportement.**
+
+::: {.notes}
+4 minutes. Présenter la démarche avant l’atelier : relever une phrase puis expliquer le concept qu’elle illustre. Vérifier que la cafétéria accepte le contenant dans le cas proposé, sans attribuer une politique réelle à l’UQAR. L’action précise est apporter son contenant, pas avoir une attitude générale envers l’environnement.
+:::
+
 ## Une application de mes recherches
 
 **Nos identités sociales peuvent influencer les trois éléments de base du modèle : attitudes, normes subjectives et contrôle perçu** (illai, Globig, Rathje, Sternisko, Thériault, & Van Bavel, 2026).
@@ -805,21 +822,18 @@ Elle peut aussi juger une proposition plus favorablement lorsqu’elle la croit 
 2 minutes. Application fictive du rapprochement théorique de Pillai et al. (2026). L’appartenance peut orienter les croyances et leur importance dans les attitudes, normes et contrôle perçu. Aucun parti ou électorat réel n’est décrit. Ne pas demander le vote personnel. Ne pas conclure que les membres pensent tous pareil. L’article demeure une référence, pas une lecture supplémentaire obligatoire.
 :::
 
-## Exemple résolu : le contenant réutilisable de Sam
+## Pause — 10 minutes {#pause-1}
 
-**Sam prévoit apporter son contenant réutilisable à la cafétéria demain.**
+**10 minutes**
 
-| Ce qu’il dit | Concept |
-|---|---|
-| « Apporter mon contenant réutilisable serait une bonne chose. » | Attitude favorable |
-| « Mes amis m’encouragent à l’apporter. » | Normes subjectives |
-| « Je peux le mettre dans mon sac avant de partir. » | Contrôle perçu |
-| « Je compte l’apporter demain. » | Intention |
+{{< include ../_quiz-timer.qmd >}}
 
-**S’il l’apporte demain, nous observerons son comportement.**
+Proposez une chanson ou une photo de votre animal pour la pause.
+
+{{< include _reconnexion.qmd >}}
 
 ::: {.notes}
-4 minutes. Présenter la démarche avant l’atelier : relever une phrase puis expliquer le concept qu’elle illustre. Vérifier que la cafétéria accepte le contenant dans le cas proposé, sans attribuer une politique réelle à l’UQAR. L’action précise est apporter son contenant, pas avoir une attitude générale envers l’environnement.
+Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson et de photo, sans imposer de participation personnelle.
 :::
 
 ## Ronde 1 : définition, mesure et formation
@@ -878,20 +892,6 @@ C. Par dissonance cognitive
 Réponse A. La répétition est l’indice central. Le conditionnement opérant ferait intervenir les conséquences du comportement. Le cas ne décrit pas de conflit ressenti. Exemple fictif, pas effet garanti pour toute chanson.
 :::
 
-## Pause — 10 minutes {#pause-1}
-
-**10 minutes**
-
-{{< include ../_quiz-timer.qmd >}}
-
-Proposez une chanson ou une photo de votre animal pour la pause.
-
-{{< include _reconnexion.qmd >}}
-
-::: {.notes}
-Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson et de photo, sans imposer de participation personnelle.
-:::
-
 ## Atelier : inventez le vote d’Andréa
 
 **Andréa est un personnage fictif. Vous choisissez son histoire.**
@@ -904,6 +904,56 @@ Ces trois choix peuvent être identiques ou différents.
 
 ::: {.notes}
 25 minutes : 12 de création, 5 de partage et 8 de débreffage. Équipes de 3 ou 4. Utiliser des candidatures des partis présentés ou des candidatures A, B et C. Ne pas attribuer de position politique inventée à un candidat réel. Les personnages et leurs raisons sont fictifs. Annoncer une courte reprise du personnage après les théories du changement d’attitude.
+:::
+
+## Les attitudes en politique
+
+::: {.columns}
+::: {.column width="20%"}
+![](assets/paul-st-pierre-plamondon.jpg){height=260 fig-alt="Paul St-Pierre Plamondon"}
+
+**PQ**
+
+Paul St-Pierre Plamondon
+:::
+::: {.column width="20%"}
+![](assets/charles-milliard.jpg){height=260 fig-alt="Charles Milliard"}
+
+**PLQ**
+
+Charles Milliard
+:::
+::: {.column width="20%"}
+![](assets/eric-duhaime.jpg){height=260 fig-alt="Éric Duhaime"}
+
+**PCQ**
+
+Éric Duhaime
+:::
+::: {.column width="20%"}
+![](assets/christine-frechette.jpg){height=260 fig-alt="Christine Fréchette"}
+
+**CAQ**
+
+Christine Fréchette
+:::
+::: {.column width="20%"}
+![](assets/ruba-ghazal.jpg){height=260 fig-alt="Ruba Ghazal"}
+
+**QS**
+
+Ruba Ghazal
+:::
+:::
+
+Peut-on apprécier une personne, aimer certaines de ses idées et refuser de voter pour elle?
+
+::: {.credit}
+Photos Commons : [Alexis G, BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Paul_St-Pierre_Plamondon_(crop).jpg) · [TVA Nouvelles, BY 3.0 — Milliard](https://commons.wikimedia.org/wiki/File:Charles_Milliard_Ao%C3%BBt_2024_(cropped).jpg) · [Asclepias, BY-SA 3.0](https://commons.wikimedia.org/wiki/File:%C3%89ric_Duhaime_2022-07-05_(cropped).jpg) · [TVA Nouvelles, BY 3.0 — Fréchette](https://commons.wikimedia.org/wiki/File:Christine_Fr%C3%A9chette_(cropped).jpg) · [QuebecSolidaireMercier, BY-SA 4.0](https://commons.wikimedia.org/wiki/File:RubaGhazal_2.jpg).
+:::
+
+::: {.notes}
+2 minutes. Visages des cinq principales formations de la campagne. Ruba Ghazal est porte-parole de Québec solidaire; Sol Zanetti est également porte-parole. Identification vérifiée auprès des partis et d'Élections Québec. Aucun propos fictif attribué à ces personnes. Photos conservées telles que distribuées sur Commons, sans nouvelle modification. Recadrages préexistants par les contributeurs Commons. Licence des extraits TVA : https://creativecommons.org/licenses/by/3.0/ ; photos PQ et QS : https://creativecommons.org/licenses/by-sa/4.0/ ; PCQ : https://creativecommons.org/licenses/by-sa/3.0/ .
 :::
 
 ## Votre équipe écrit cinq répliques
@@ -983,45 +1033,6 @@ Alex cherche à se sentir plus cohérent avec sa décision.
 2 minutes. Possibilités fictives, pas choix observés. Faire distinguer action, réévaluation et justifications. La cohérence ressentie ne dit pas si l’achat était financièrement judicieux. Ne pas transformer ce point en piège méthodologique dans une évaluation.
 :::
 
-## Pourquoi agir peut-il influencer nos attitudes?
-
-| Explication | Ce que la personne cherche à faire |
-|---|---|
-| **Présentation de soi / gestion de l’impression** | Donner une image cohérente de soi aux autres |
-| **Dissonance cognitive** | Réduire un malaise lié à des cognitions incompatibles |
-| **Perception de soi (autoperception)** | Comprendre son attitude en observant sa conduite et son contexte |
-
-**Faire bonne impression peut changer ce qu’on déclare, sans changer ce qu’on pense.**
-
-::: {.notes}
-Une minute. Gestion de l’impression : rappel de la présentation de soi et de la désirabilité sociale, pas preuve d’un changement d’attitude privé. Perception de soi : quand les indices internes sont peu clairs, nos comportements et leur contexte peuvent nous renseigner sur nos attitudes. Les trois explications ne sont pas nécessairement exclusives. Terminologie du glossaire p. 449 : théorie de la perception de soi.
-:::
-
-## Au laboratoire : un même geste, trois explications
-
-**Cas fictifs : trois personnes donnent du temps à un laboratoire de recherche.**
-
-<style>
-.c6-lab-cards {display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:22px;}
-.c6-lab-card {background:#f3f6f8;border-radius:18px;padding:20px;font-size:25px;line-height:1.25;}
-.c6-lab-card h3 {font-size:28px!important;margin:0 0 10px!important;text-align:center;}
-.c6-lab-card svg {display:block;width:100%;height:125px;}
-.c6-lab-bubble {position:relative;background:white;border:3px solid var(--lab-color);border-radius:22px;padding:18px;margin:14px 0 22px;}
-.c6-lab-bubble:before {content:"";position:absolute;top:-14px;left:45%;width:22px;height:22px;background:white;border-left:3px solid var(--lab-color);border-top:3px solid var(--lab-color);transform:rotate(45deg);}
-.c6-lab-cue {font-size:23px;text-align:center;margin:0;}
-</style>
-```{=html}
-<div class="c6-lab-cards">
-<div class="c6-lab-card" style="--lab-color:#b17c21"><h3>Présentation de soi</h3><svg viewBox="0 0 320 125" aria-hidden="true"><rect x="150" y="25" width="135" height="75" rx="7" fill="#b17c21" opacity=".2"/><rect x="164" y="37" width="105" height="49" rx="3" fill="white"/><path d="M174 69 L193 57 L212 64 L235 45 L257 52" fill="none" stroke="#b17c21" stroke-width="4"/><circle cx="80" cy="33" r="22" fill="#b17c21"/><path d="M42 111 Q40 63 80 63 Q120 63 124 111" fill="#b17c21" opacity=".8"/><path d="M118 83 L154 98" stroke="#b17c21" stroke-width="12" stroke-linecap="round"/><path d="M28 114 H294" stroke="#495565" stroke-width="5"/></svg><div class="fragment" data-fragment-index="0"><div class="c6-lab-bubble">« Je dis que j’adore la recherche : c'est que je veux faire bonne impression pour ma candidature au doctorat. »</div><p class="c6-lab-cue"><strong>Image auprès des autres</strong></p></div></div>
-<div class="c6-lab-card" style="--lab-color:#638b45"><h3>Dissonance cognitive</h3><svg viewBox="0 0 320 125" aria-hidden="true"><rect x="150" y="25" width="135" height="75" rx="7" fill="#638b45" opacity=".2"/><rect x="164" y="37" width="105" height="49" rx="3" fill="white"/><path d="M174 69 L193 57 L212 64 L235 45 L257 52" fill="none" stroke="#638b45" stroke-width="4"/><circle cx="80" cy="33" r="22" fill="#638b45"/><path d="M42 111 Q40 63 80 63 Q120 63 124 111" fill="#638b45" opacity=".8"/><path d="M118 83 L154 98" stroke="#638b45" stroke-width="12" stroke-linecap="round"/><path d="M28 114 H294" stroke="#495565" stroke-width="5"/></svg><div class="fragment" data-fragment-index="1"><div class="c6-lab-bubble">« Je trouvais ce projet inutile au départ. J’ai pourtant choisi d’y consacrer mes samedis, et ça me dérange… mais finalement, c'est un bon projet. »</div><p class="c6-lab-cue"><strong>Conflit et malaise</strong></p></div></div>
-<div class="c6-lab-card" style="--lab-color:#287b9b"><h3>Perception de soi</h3><svg viewBox="0 0 320 125" aria-hidden="true"><rect x="150" y="25" width="135" height="75" rx="7" fill="#287b9b" opacity=".2"/><rect x="164" y="37" width="105" height="49" rx="3" fill="white"/><path d="M174 69 L193 57 L212 64 L235 45 L257 52" fill="none" stroke="#287b9b" stroke-width="4"/><circle cx="80" cy="33" r="22" fill="#287b9b"/><path d="M42 111 Q40 63 80 63 Q120 63 124 111" fill="#287b9b" opacity=".8"/><path d="M118 83 L154 98" stroke="#287b9b" stroke-width="12" stroke-linecap="round"/><path d="M28 114 H294" stroke="#495565" stroke-width="5"/></svg><div class="fragment" data-fragment-index="2"><div class="c6-lab-bubble">« Je ne savais pas si la recherche me plaisait. Mais finalement, même sans attestation ni obligation, je reviens : ça doit vouloir dire que j'aime ça. »</div><p class="c6-lab-cue"><strong>Observation de sa conduite</strong></p></div></div>
-</div>
-```
-
-::: {.notes}
-Deux minutes. Avant chaque dévoilement, demander quelle pensée pourrait illustrer la théorie de la colonne. Avancer une fois pour révéler ensemble la bulle et son indice, de gauche à droite; trois révélations. Scènes originales, inspirées du principe de comparaison des diapositives de West; aucune image de son support reproduite. Le dossier doctoral est une motivation possible dans ces cas fictifs, pas une règle d’admission annoncée. Plusieurs motivations peuvent coexister. Dans la troisième scène, les indices internes sont peu clairs et la personne ne rapporte pas de contrainte ou d’avantage attendu; le seul fait de faire du bénévolat ne suffirait pas à inférer un intérêt. La deuxième scène explicite le malaise; une justification externe forte pourrait réduire ce conflit. Ne pas diagnostiquer une motivation réelle à partir d’une seule bulle.
-:::
-
 ## Une étude — Dire qu’une tâche est agréable
 
 Pendant une heure, des étudiants répètent des gestes monotones : déplacer des bobines, puis tourner des chevilles.
@@ -1088,6 +1099,45 @@ Réévaluer la tâche peut réduire la dissonance.
 4 minutes. Une minute individuelle pour relever le résultat, deux minutes d'échange, puis explication et fragments. Raisonner à partir de la conduite contraire à l'appréciation initiale. La forte rémunération offre une justification externe; la faible rémunération laisse davantage à expliquer par une réévaluation interne. Les phrases sont des illustrations de l'interprétation, pas des citations de participants. Le graphique montre des moyennes finales entre groupes, pas le malaise ni le changement individuel. Demander un exemple différent d'une justification externe.
 :::
 
+## Pourquoi agir peut-il influencer nos attitudes?
+
+| Explication | Ce que la personne cherche à faire |
+|---|---|
+| **Présentation de soi / gestion de l’impression** | Donner une image cohérente de soi aux autres |
+| **Dissonance cognitive** | Réduire un malaise lié à des cognitions incompatibles |
+| **Perception de soi (autoperception)** | Comprendre son attitude en observant sa conduite et son contexte |
+
+**Faire bonne impression peut changer ce qu’on déclare, sans changer ce qu’on pense.**
+
+::: {.notes}
+Une minute. Gestion de l’impression : rappel de la présentation de soi et de la désirabilité sociale, pas preuve d’un changement d’attitude privé. Perception de soi : quand les indices internes sont peu clairs, nos comportements et leur contexte peuvent nous renseigner sur nos attitudes. Les trois explications ne sont pas nécessairement exclusives. Terminologie du glossaire p. 449 : théorie de la perception de soi.
+:::
+
+## Au laboratoire : un même geste, trois explications
+
+**Cas fictifs : trois personnes donnent du temps à un laboratoire de recherche.**
+
+<style>
+.c6-lab-cards {display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:22px;}
+.c6-lab-card {background:#f3f6f8;border-radius:18px;padding:20px;font-size:25px;line-height:1.25;}
+.c6-lab-card h3 {font-size:28px!important;margin:0 0 10px!important;text-align:center;}
+.c6-lab-card svg {display:block;width:100%;height:125px;}
+.c6-lab-bubble {position:relative;background:white;border:3px solid var(--lab-color);border-radius:22px;padding:18px;margin:14px 0 22px;}
+.c6-lab-bubble:before {content:"";position:absolute;top:-14px;left:45%;width:22px;height:22px;background:white;border-left:3px solid var(--lab-color);border-top:3px solid var(--lab-color);transform:rotate(45deg);}
+.c6-lab-cue {font-size:23px;text-align:center;margin:0;}
+</style>
+```{=html}
+<div class="c6-lab-cards">
+<div class="c6-lab-card" style="--lab-color:#b17c21"><h3>Présentation de soi</h3><svg viewBox="0 0 320 125" aria-hidden="true"><rect x="150" y="25" width="135" height="75" rx="7" fill="#b17c21" opacity=".2"/><rect x="164" y="37" width="105" height="49" rx="3" fill="white"/><path d="M174 69 L193 57 L212 64 L235 45 L257 52" fill="none" stroke="#b17c21" stroke-width="4"/><circle cx="80" cy="33" r="22" fill="#b17c21"/><path d="M42 111 Q40 63 80 63 Q120 63 124 111" fill="#b17c21" opacity=".8"/><path d="M118 83 L154 98" stroke="#b17c21" stroke-width="12" stroke-linecap="round"/><path d="M28 114 H294" stroke="#495565" stroke-width="5"/></svg><div class="fragment" data-fragment-index="0"><div class="c6-lab-bubble">« Je dis que j’adore la recherche : c'est que je veux faire bonne impression pour ma candidature au doctorat. »</div><p class="c6-lab-cue"><strong>Image auprès des autres</strong></p></div></div>
+<div class="c6-lab-card" style="--lab-color:#638b45"><h3>Dissonance cognitive</h3><svg viewBox="0 0 320 125" aria-hidden="true"><rect x="150" y="25" width="135" height="75" rx="7" fill="#638b45" opacity=".2"/><rect x="164" y="37" width="105" height="49" rx="3" fill="white"/><path d="M174 69 L193 57 L212 64 L235 45 L257 52" fill="none" stroke="#638b45" stroke-width="4"/><circle cx="80" cy="33" r="22" fill="#638b45"/><path d="M42 111 Q40 63 80 63 Q120 63 124 111" fill="#638b45" opacity=".8"/><path d="M118 83 L154 98" stroke="#638b45" stroke-width="12" stroke-linecap="round"/><path d="M28 114 H294" stroke="#495565" stroke-width="5"/></svg><div class="fragment" data-fragment-index="1"><div class="c6-lab-bubble">« Je trouvais ce projet inutile au départ. J’ai pourtant choisi d’y consacrer mes samedis, et ça me dérange… mais finalement, c'est un bon projet. »</div><p class="c6-lab-cue"><strong>Conflit et malaise</strong></p></div></div>
+<div class="c6-lab-card" style="--lab-color:#287b9b"><h3>Perception de soi</h3><svg viewBox="0 0 320 125" aria-hidden="true"><rect x="150" y="25" width="135" height="75" rx="7" fill="#287b9b" opacity=".2"/><rect x="164" y="37" width="105" height="49" rx="3" fill="white"/><path d="M174 69 L193 57 L212 64 L235 45 L257 52" fill="none" stroke="#287b9b" stroke-width="4"/><circle cx="80" cy="33" r="22" fill="#287b9b"/><path d="M42 111 Q40 63 80 63 Q120 63 124 111" fill="#287b9b" opacity=".8"/><path d="M118 83 L154 98" stroke="#287b9b" stroke-width="12" stroke-linecap="round"/><path d="M28 114 H294" stroke="#495565" stroke-width="5"/></svg><div class="fragment" data-fragment-index="2"><div class="c6-lab-bubble">« Je ne savais pas si la recherche me plaisait. Mais finalement, même sans attestation ni obligation, je reviens : ça doit vouloir dire que j'aime ça. »</div><p class="c6-lab-cue"><strong>Observation de sa conduite</strong></p></div></div>
+</div>
+```
+
+::: {.notes}
+Deux minutes. Avant chaque dévoilement, demander quelle pensée pourrait illustrer la théorie de la colonne. Avancer une fois pour révéler ensemble la bulle et son indice, de gauche à droite; trois révélations. Le dossier doctoral est une motivation possible dans ces cas fictifs, pas une règle d’admission annoncée. Plusieurs motivations peuvent coexister. Dans la troisième scène, les indices internes sont peu clairs et la personne ne rapporte pas de contrainte ou d’avantage attendu; le seul fait de faire du bénévolat ne suffirait pas à inférer un intérêt. La deuxième scène explicite le malaise; une justification externe forte pourrait réduire ce conflit. Ne pas diagnostiquer une motivation réelle à partir d’une seule bulle.
+:::
+
 ## Retour à Andréa : que dit-elle après son vote?
 
 **Reprenez votre personnage. Choisissez une des trois explications.**
@@ -1131,7 +1181,7 @@ Randall Munroe, [xkcd nº 386 — Duty Calls](https://xkcd.com/386/) · [CC BY-N
 :::
 
 ::: {.notes}
-30 secondes, prises dans l’introduction à la persuasion. Essai proposé par Rémi. Image anglaise accompagnée d’un résumé français; l’image n’est pas traduite. Faire sourire, puis distinguer vouloir persuader et obtenir un changement. Ne pas déduire du dessin une voie de traitement précise ni un biais. Aucun nouvel objectif d’étude.
+30 secondes, prises dans l’introduction à la persuasion. Image anglaise accompagnée d’un résumé français; l’image n’est pas traduite. Faire sourire, puis distinguer vouloir persuader et obtenir un changement. Ne pas déduire du dessin une voie de traitement précise ni un biais. Aucun nouvel objectif d’étude.
 :::
 
 ## La persuasion
