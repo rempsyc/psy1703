@@ -162,6 +162,9 @@ Rémi Thériault
   </div>
 </div>
 <style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
 .quiz-timer {
   position: absolute;
   top: 0;
@@ -886,7 +889,7 @@ document.addEventListener("DOMContentLoaded", () => {
 MAIN GAUCHE<strong>RUBA GHAZAL</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME</strong>
 </div>
 </div>
 <p><strong>Classez le nom ou le portrait de la personne.</strong></p>
@@ -898,7 +901,7 @@ MAIN DROITE<strong>DUHAIME</strong>
 MAIN GAUCHE<strong>RUBA GHAZAL</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -925,11 +928,11 @@ Ruba Ghazal
 MAIN GAUCHE<strong>RUBA GHAZAL</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
-Duhaime
+Éric Duhaime
 </div>
 <aside class="notes">
 <p>Main droite. Enchainer après la réponse collective, sans commentaire individuel.</p>
@@ -1018,7 +1021,7 @@ Horrible
 MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong>
 </div>
 </div>
 <p><strong>Même règle : une personne ou un mot, une seule main.</strong></p>
@@ -1030,7 +1033,7 @@ MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong>
 MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -1057,7 +1060,7 @@ MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong>
 MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -1084,7 +1087,7 @@ Merveilleux
 MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -1111,7 +1114,7 @@ MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong>
 MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -1138,7 +1141,7 @@ Horrible
 MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong>
 </div>
 </div>
 <p><strong>Les mots changent de côté. Quatre nouveaux essais.</strong></p>
@@ -1163,7 +1166,7 @@ MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
 MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -1190,7 +1193,7 @@ Horrible
 MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -1217,7 +1220,7 @@ MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
 MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -1244,7 +1247,7 @@ Merveilleux
 MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong>
 </div>
 <div>
-MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
+MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong>
 </div>
 </div>
 <div class="c6-iat-stimulus">
@@ -1615,9 +1618,9 @@ MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
 </section>
 <section id="une-application-de-mes-recherches" class="slide level2">
 <h2>Une application de mes recherches</h2>
-<p><strong>Nos identités sociales peuvent influencer les trois éléments de base du modèle : attitudes, normes subjectives et contrôle perçu</strong> (illai, Globig, Rathje, Sternisko, Thériault, &amp; Van Bavel, 2026).</p>
+<p><strong>Nos identités sociales peuvent influencer les trois éléments de base du modèle : attitudes, normes subjectives et contrôle perçu</strong> (Pillai, Globig, Rathje, Sternisko, Thériault, &amp; Van Bavel, 2026).</p>
 <style>
-.c6-model-b {position:relative;width:552px;height:400px;overflow:hidden;margin:20px auto;background:white;}
+.c6-model-b {position:relative;width:552px;height:390px;overflow:hidden;margin:20px auto;background:white;}
 .reveal .c6-model-b img {position:absolute;left:-552px;top:0;width:1104px;height:460px;max-width:none;max-height:none;margin:0;}
 </style>
 <div class="c6-model-b"><img src="https://compass.onlinelibrary.wiley.com/cms/asset/18cd4b7b-69bb-41ba-b937-0360172c86d7/spc370125-fig-0001-m.jpg" alt="Partie B du modèle de Pillai et ses collègues : attitudes, normes subjectives et contrôle perçu contribuent à l’intention; l’intention et le contrôle perçu sont liés au comportement."></div>
@@ -1672,6 +1675,9 @@ MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong>
   </div>
 </div>
 <style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
 .quiz-timer {
   position: absolute;
   top: 0;
@@ -1913,7 +1919,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <p>Ces trois choix peuvent être identiques ou différents.</p>
 <p><strong>Inventez les raisons de ses choix, sans raconter votre propre vote.</strong></p>
 <aside class="notes">
-<p>25 minutes : 12 de création, 5 de partage et 8 de débreffage. Équipes de 3 ou 4. Utiliser des candidatures des partis présentés ou des candidatures A, B et C. Ne pas attribuer de position politique inventée à un candidat réel. Les personnages et leurs raisons sont fictifs. Annoncer une courte reprise du personnage après les théories du changement d’attitude.</p>
+<p>Dix minutes de travail d’équipe, après les consignes; prévoir ensuite le tour des équipes et le débreffage, hors minuterie. Équipes de 3 ou 4. Utiliser des candidatures des partis présentés ou des candidatures A, B et C. Ne pas attribuer de position politique inventée à un candidat réel. Les personnages et leurs raisons sont fictifs. Annoncer une courte reprise du personnage après les théories du changement d’attitude.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -2005,8 +2011,144 @@ document.addEventListener("DOMContentLoaded", () => {
 </tbody>
 </table>
 <p><strong>Ajoutez sa préférence et expliquez un éventuel vote stratégique.</strong></p>
+<div class="quiz-timer" role="timer" aria-live="polite">
+  <div class="quiz-timer-display">10:00</div>
+  <div class="quiz-timer-controls">
+    <button class="quiz-timer-start" type="button">Démarrer</button>
+    <button class="quiz-timer-pause" type="button" disabled="">Pause</button>
+    <button class="quiz-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+<style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
+.quiz-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 390px;
+  text-align: center;
+  padding: 0.28rem 0.45rem 0.35rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.35rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+  z-index: 10;
+}
+
+.quiz-timer-display {
+  color: #123b5d;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.quiz-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-timer-controls button {
+  margin: 0;
+  padding: 0.22rem 0.45rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.quiz-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.quiz-timer.warning {
+  border-color: #c62828;
+}
+
+.quiz-timer.warning .quiz-timer-display {
+  color: #c62828;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 10 * 60 * 1000;
+  document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    if (timer.dataset.initialized === "true") return;
+    timer.dataset.initialized = "true";
+    const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
+    const display = timer.querySelector(".quiz-timer-display");
+    const startButton = timer.querySelector(".quiz-timer-start");
+    const pauseButton = timer.querySelector(".quiz-timer-pause");
+    const resetButton = timer.querySelector(".quiz-timer-reset");
+    let state = { running: false, remaining: duration, end: null };
+
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved && typeof saved.remaining === "number") state = saved;
+    } catch (_) {}
+
+    function remainingNow() {
+      return state.running && state.end
+        ? Math.max(0, state.end - Date.now())
+        : Math.max(0, state.remaining);
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
+    function render() {
+      const remaining = remainingNow();
+      const totalSeconds = Math.ceil(remaining / 1000);
+      const minutes = Math.floor(totalSeconds / 60);
+      const seconds = totalSeconds % 60;
+      display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      timer.classList.toggle("warning", remaining <= 2 * 60 * 1000);
+      startButton.disabled = state.running || remaining === 0;
+      startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+      pauseButton.disabled = !state.running;
+
+      if (state.running && remaining === 0) {
+        state = { running: false, remaining: 0, end: null };
+        save();
+      }
+    }
+
+    startButton.addEventListener("click", () => {
+      const remaining = remainingNow();
+      state = { running: true, remaining, end: Date.now() + remaining };
+      save();
+      render();
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state = { running: false, remaining: remainingNow(), end: null };
+      save();
+      render();
+    });
+
+    resetButton.addEventListener("click", () => {
+      state = { running: false, remaining: duration, end: null };
+      save();
+      render();
+    });
+
+    render();
+    window.setInterval(render, 250);
+  });
+});
+</script>
 <aside class="notes">
-<p>La préférence envers une candidature et l’attitude envers l’action de voter pour elle sont distinguées. Chaque équipe ajoute un indice concret de pression sociale et de contrôle perçu. Si intention et vote diffèrent, inventer un évènement qui explique cet écart; ne pas invoquer une panne non documentée comme fait réel. Demander un bref récit plutôt que la répétition des définitions.</p>
+<p>Démarrer les dix minutes après les instructions. La minuterie couvre uniquement le travail des équipes, pas les consignes ni le tour des équipes. La préférence envers une candidature et l’attitude envers l’action de voter pour elle sont distinguées. Chaque équipe ajoute un indice concret de pression sociale et de contrôle perçu. Si intention et vote diffèrent, inventer un évènement qui explique cet écart; ne pas invoquer une panne non documentée comme fait réel. Demander un bref récit plutôt que la répétition des définitions.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -2068,7 +2210,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <p>KC Green, <em>Gunshow — This Is Fine</em> · <a href="https://imgflip.com/memetemplate/This-Is-Fine">Modèle Imgflip</a> · adaptation française et contexte fictif ajoutés.</p>
 </div>
 <aside class="notes">
-<p>Deux minutes. Rémi a choisi le mème pour reprendre le cas de la console. Incompatibilité : projet d’épargne et dépense; malaise : « je m’en veux ». La réplique ajoute une justification. Le chien seul ne prouve pas une dissonance et peut illustrer d’autres mécanismes; c’est le récit fictif qui précise l’application. Ne pas demander les achats personnels des étudiants. Les 800 $ sont une valeur fictive, non à mémoriser.</p>
+<p>Deux minutes. Rémi a choisi le mème pour reprendre le cas de la console. Incompatibilité : projet d’épargne et dépense; malaise : « je m’en veux ». La réplique ajoute une justification. Le chien seul ne prouve pas une dissonance et peut illustrer d’autres mécanismes; c’est le récit fictif qui précise l’application. Ne pas demander les achats personnels des personnes étudiantes. Les 800 $ sont une valeur fictive, non à mémoriser.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -2130,14 +2272,16 @@ document.addEventListener("DOMContentLoaded", () => {
 </section>
 <section id="une-étude-dire-quune-tâche-est-agréable" class="slide level2">
 <h2>Une étude — Dire qu’une tâche est agréable</h2>
-<p>Pendant une heure, des étudiants répètent des gestes monotones : déplacer des bobines, puis tourner des chevilles.</p>
+<p><strong>1. Faire une tâche ennuyeuse</strong> pendant une heure : répéter les mêmes gestes.</p>
+<p><strong>2. Dire à une autre personne : « Cette tâche est agréable. »</strong></p>
 <p>On demande ensuite à certains de présenter cette tâche comme <strong>agréable à une autre personne</strong> :</p>
 <ul>
 <li><strong>Témoin</strong> : pas de demande de la présenter comme agréable.</li>
 <li><strong>1 $</strong> : la présenter comme agréable contre une faible rémunération.</li>
 <li><strong>20 $</strong> : la présenter comme agréable contre une rémunération plus forte.</li>
 </ul>
-<p>On mesure ensuite <strong>l’évaluation personnelle de la tâche</strong>.</p>
+<p><strong>3. Répondre ensuite en privé : « Qu’avez-vous vraiment pensé de la tâche? »</strong></p>
+<p><strong>L’argent paie la déclaration à l’autre personne, pas la note donnée ensuite.</strong></p>
 <aside class="notes">
 <p>Raconter le dispositif original de Festinger et Carlsmith (1959) : deux tâches de trente minutes; la personne à convaincre est une complice. Le détail des gestes sert à imaginer la scène, pas à la mémorisation. Ne pas faire mémoriser les montants ou les détails procéduraux. Le groupe témoin fournit une comparaison. L’évaluation présentée est finale et entre groupes, pas une mesure de changement avant/après chez les mêmes personnes. Demander une prédiction avant de montrer la figure.</p>
 <style type="text/css">
@@ -2182,12 +2326,14 @@ document.addEventListener("DOMContentLoaded", () => {
 </section>
 <section id="résultat-lévaluation-de-la-tâche" class="slide level2">
 <h2>Résultat — L’évaluation de la tâche</h2>
-<p><img data-src="assets/dissonance-festinger-carlsmith.svg" alt="Évaluation moyenne de la tâche sur une échelle de −5 à +5 : témoin −0,45; 1 dollar +1,35; 20 dollars −0,05. Vingt personnes analysées par groupe." height="570"></p>
+<p><strong>Le groupe payé 1 $ donne l’évaluation la plus favorable.</strong></p>
+<p><img data-src="assets/dissonance-festinger-carlsmith-zoom.svg" alt="Évaluation moyenne de la tâche sur une échelle de −5 à +5 : témoin −0,45; 1 dollar +1,35; 20 dollars −0,05. Vingt personnes analysées par groupe." height="450"></p>
+<details style="font-size:24px"><summary>Voir l’échelle complète de −5 à +5</summary><img src="assets/dissonance-festinger-carlsmith.svg" alt="Mêmes moyennes sur l’échelle complète de −5 à +5" style="height:370px"></details>
 <div class="credit">
 <p>Source : <a href="https://psychclassics.yorku.ca/Festinger/">Festinger et Carlsmith (1959), tableau 1</a>. Moyennes publiées; 20 personnes analysées par groupe.</p>
 </div>
 <aside class="notes">
-<p>Lire d’abord l’axe complet de −5 à +5 et le sens des valeurs. Le groupe 1 dollar donne l’évaluation la plus favorable. Ce sont des moyennes finales de groupes, pas des trajectoires individuelles. La figure ne donne ni données brutes ni intervalles de confiance et ne mesure pas directement l’inconfort. Les auteurs rapportent des analyses supplémentaires dans l’article; ne pas déduire la significativité de la seule hauteur des points.</p>
+<p>Le graphique principal est un zoom explicitement identifié, de −1 à +3; montrer aussi l’échelle complète dans le volet. Ne pas transformer la visibilité de l’écart en affirmation sur sa grandeur ou sa significativité. Lire le sens des valeurs. Le groupe 1 dollar donne l’évaluation la plus favorable. Ce sont des moyennes finales de groupes, pas des trajectoires individuelles. La figure ne donne ni données brutes ni intervalles de confiance et ne mesure pas directement l’inconfort. Les auteurs rapportent des analyses supplémentaires dans l’article; ne pas déduire la significativité de la seule hauteur des points.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -2205,15 +2351,15 @@ document.addEventListener("DOMContentLoaded", () => {
 <p><strong>À deux : pourquoi le groupe payé 1 $ a-t-il donné l’évaluation la plus favorable?</strong></p>
 <p>Que pourrait se dire une personne payée 1 $? Et une personne payée 20 $?</p>
 <div class="fragment">
-<p><strong>20 $ :</strong> « J’ai dit cela pour l’argent. »</p>
+<p><strong>20 $ :</strong> « La tâche était ennuyeuse, mais j’ai dit le contraire pour gagner 20 $. »</p>
 <p>La rémunération fournit une <strong>justification externe</strong>, une raison liée à la situation.</p>
 </div>
 <div class="fragment">
-<p><strong>1 $ :</strong> « Cette petite somme explique moins bien ce que j’ai dit. Peut-être que la tâche était intéressante… »</p>
+<p><strong>1 $ :</strong> « J’ai dit que la tâche était agréable pour presque rien. Pourquoi ai-je dit cela? Peut-être qu’elle était quand même intéressante… »</p>
 <p>Réévaluer la tâche peut réduire la dissonance.</p>
 </div>
 <aside class="notes">
-<p>4 minutes. Une minute individuelle pour relever le résultat, deux minutes d’échange, puis explication et fragments. Raisonner à partir de la conduite contraire à l’appréciation initiale. La forte rémunération offre une justification externe; la faible rémunération laisse davantage à expliquer par une réévaluation interne. Les phrases sont des illustrations de l’interprétation, pas des citations de participants. Le graphique montre des moyennes finales entre groupes, pas le malaise ni le changement individuel. Demander un exemple différent d’une justification externe.</p>
+<p>4 minutes. Une minute individuelle pour relever le résultat, deux minutes d’échange, puis explication et fragments. Raisonner à partir de la conduite contraire à l’appréciation initiale. La forte rémunération offre une justification externe; la faible rémunération laisse davantage à expliquer par une réévaluation interne. Les phrases sont des illustrations de l’interprétation, pas des citations de personnes participantes. Le graphique montre des moyennes finales entre groupes, pas le malaise ni le changement individuel. Demander un exemple différent d’une justification externe.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -2300,18 +2446,38 @@ document.addEventListener("DOMContentLoaded", () => {
           display:block!important;
       }</style></aside>
 </section>
-<section id="retour-à-andréa-que-dit-elle-après-son-vote" class="slide level2">
-<h2>Retour à Andréa : que dit-elle après son vote?</h2>
-<p><strong>Reprenez votre personnage. Choisissez une des trois explications.</strong></p>
-<p>Écrivez une bulle qui montre :</p>
-<ul>
-<li>l’image qu’elle veut donner aux autres;</li>
-<li><strong>ou</strong> son malaise et une façon de le réduire;</li>
-<li><strong>ou</strong> ce qu’elle infère de son vote, alors que sa préférence était peu claire.</li>
-</ul>
-<p><strong>Présentez votre bulle et justifiez votre choix par un détail précis.</strong></p>
+<section id="un-même-geste-suffit-il-à-expliquer-une-attitude" class="slide level2">
+<h2>Un même geste suffit-il à expliquer une attitude?</h2>
+<p><strong>Une personne revient au laboratoire samedi. Quelle information manque-t-il?</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Pour envisager…</th>
+<th>Il faudrait savoir…</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Gestion de l’impression</td>
+<td>Ce qu’elle veut montrer aux autres et ce qu’elle pense en privé</td>
+</tr>
+<tr class="even">
+<td>Dissonance cognitive</td>
+<td>Quelle contradiction la dérange et comment elle essaie de la réduire</td>
+</tr>
+<tr class="odd">
+<td>Perception de soi</td>
+<td>Si son attitude était peu claire et ce qui explique son retour</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Choisissez une ligne et proposez une question à lui poser.</strong></p>
 <aside class="notes">
-<p>Trois minutes, en remplacement de l’ancienne comparaison Noa/Alex : une minute d’écriture, deux minutes pour deux ou trois partages volontaires et une justification. Les équipes peuvent préciser leur récit pour rendre le mécanisme choisi plausible; si une préférence était déjà claire, ne pas appeler automatiquement l’inférence perception de soi. Une contrainte familiale ou un calcul stratégique peut expliquer le vote sans changement d’attitude. Pour la dissonance, exiger incompatibilité perçue et malaise; pour la gestion de l’impression, distinguer propos publics et attitude privée. Demander à une autre équipe une explication différente du même vote. Aucune opinion personnelle n’est demandée.</p>
+<p>Deux minutes, discussion collective courte plutôt qu’un second atelier politique. Ajustement après le retour du 13 octobre : le transfert des trois théories au vote a été difficile et redondant. Réutiliser le laboratoire déjà présenté. Le tableau est un débreffage; il ne permet pas de diagnostiquer automatiquement une motivation. Ne pas demander de nouvelle histoire complète.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -2336,6 +2502,9 @@ document.addEventListener("DOMContentLoaded", () => {
   </div>
 </div>
 <style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
 .quiz-timer {
   position: absolute;
   top: 0;
@@ -2549,8 +2718,29 @@ document.addEventListener("DOMContentLoaded", () => {
 </section>
 <section id="une-étude-un-examen-de-plus-pour-obtenir-son-diplôme" class="slide level2">
 <h2>Une étude — Un examen de plus pour obtenir son diplôme?</h2>
-<p>Des étudiants entendent un message proposant un <strong>examen obligatoire avant l’obtention du diplôme</strong>.</p>
-<p>Pour un groupe, la mesure commencerait <strong>l’année suivante</strong>; pour l’autre, <strong>dans dix ans</strong>.</p>
+<p>Des personnes aux études universitaires entendent un message proposant un <strong>examen obligatoire avant l’obtention du diplôme</strong>.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Quand commencerait l’examen?</th>
+<th>Pourquoi cela change l’enjeu personnel?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>L’année suivante</strong></td>
+<td>Les personnes participantes pourraient devoir le passer avant leur diplôme.</td>
+</tr>
+<tr class="even">
+<td><strong>Dans dix ans</strong></td>
+<td>Les personnes participantes auraient normalement déjà terminé leurs études.</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Le même sujet vous toucherait-il autant dans les deux situations?</strong></p>
 <div class="credit">
 <p><a href="https://richardepetty.com/wp-content/uploads/2019/01/1981-jpsp-pettycacioppogoldman.pdf">Petty, Cacioppo et Goldman (1981), p.&nbsp;849–851</a>.</p>
@@ -2569,31 +2759,36 @@ document.addEventListener("DOMContentLoaded", () => {
           display:block!important;
       }</style></aside>
 </section>
-<section id="ce-que-les-chercheurs-font-varier" class="slide level2">
-<h2>Ce que les chercheurs font varier</h2>
+<section id="ce-que-les-personnes-chercheuses-font-varier" class="slide level2">
+<h2>Ce que les personnes chercheuses font varier</h2>
 <table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Élément</th>
-<th>Deux versions</th>
+<th>Ce qui change dans le message</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Conséquences personnelles</td>
-<td>L’année suivante / Dans dix ans</td>
+<td>Enjeu personnel</td>
+<td>L’examen commencerait l’année suivante ou dans dix ans.</td>
 </tr>
 <tr class="even">
-<td>Arguments</td>
-<td>Solides / Faibles</td>
+<td>Qualité des arguments</td>
+<td>Le texte présente des arguments solides ou faibles en faveur de l’examen.</td>
 </tr>
 <tr class="odd">
 <td>Expertise annoncée</td>
-<td>Commission spécialisée / Classe du secondaire</td>
+<td>Le texte est attribué à une commission spécialisée ou à une classe du secondaire.</td>
 </tr>
 </tbody>
 </table>
 <p>On recueille ensuite <strong>l’attitude envers l’examen proposé</strong>.</p>
+<p><strong>Selon l’enjeu personnel, quelle différence influencera davantage l’attitude : arguments solides/faibles ou expertise élevée/faible?</strong></p>
 <aside class="notes">
 <p>Les trois éléments sont croisés. Le message est enregistré avec la même voix. Éviter de faire apprendre les détails du protocole.</p>
 <style type="text/css">
@@ -2630,29 +2825,38 @@ document.addEventListener("DOMContentLoaded", () => {
 <section id="résultat-deux-influences-selon-lenjeu-personnel" class="slide level2">
 <h2>Résultat — Deux influences selon l’enjeu personnel</h2>
 <table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Situation</th>
-<th>Influence plus forte observée</th>
+<th>Ce qui pèse davantage</th>
+<th>Lien avec les voies</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Examen l’année suivante</td>
-<td>Qualité des arguments</td>
+<td>Examen l’année suivante : « Cela peut me toucher. »</td>
+<td>Les arguments <strong>solides</strong> convainquent davantage que les arguments <strong>faibles</strong>.</td>
+<td><strong>Voie centrale</strong> : examiner le fond du message</td>
 </tr>
 <tr class="even">
-<td>Examen dans dix ans</td>
-<td>Expertise annoncée de la source</td>
+<td>Examen dans dix ans : « Cela me touche moins. »</td>
+<td>La source annoncée comme <strong>experte</strong> convainc davantage que la source annoncée comme <strong>peu experte</strong>.</td>
+<td><strong>Voie périphérique</strong> : se fier davantage à un indice de crédibilité</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Comment la motivation aide-t-elle à comprendre ces résultats?</strong></p>
+<p><strong>Un enjeu personnel peut motiver à examiner les arguments.</strong></p>
+<p>Cela ne garantit pas un traitement central : il faut aussi pouvoir comprendre et examiner le message.</p>
 <div class="credit">
 <p><a href="https://richardepetty.com/wp-content/uploads/2019/01/1981-jpsp-pettycacioppogoldman.pdf">Petty, Cacioppo et Goldman (1981), p.&nbsp;851</a>. Résumé qualitatif des résultats.</p>
 </div>
 <aside class="notes">
-<p>Faire relier aux voies centrale et périphérique. Ce résultat n’établit pas deux catégories fixes de personnes.</p>
+<p>Faire comparer solides/faibles lorsque l’enjeu est élevé, puis expertise élevée/faible lorsque l’enjeu est faible. Ce sont les effets relatifs des deux variables qui renseignent le traitement, pas la seule date de mise en place. La qualité des arguments ne disparait pas du protocole à faible enjeu; l’expertise ne disparait pas à fort enjeu. Les trois variables sont croisées; le tableau met en évidence le profil central sans prétendre que chaque autre influence est nulle. Les voies sont des interprétations du profil des résultats, pas un score individuel directement mesuré. Ce résultat n’établit pas deux catégories fixes de personnes.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
