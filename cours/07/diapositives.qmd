@@ -1,0 +1,643 @@
+---
+title: "Psychologie sociale"
+subtitle: "Cours 7 — Les relations interpersonnelles"
+author: "Rémi Thériault"
+institute: "UQAR — PSY1703-04"
+date: 2026-10-20
+date-format: "D MMMM YYYY"
+lang: fr-CA
+format:
+  revealjs:
+    theme: [simple, ../../_themes/slides.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.08
+    navigation-mode: linear
+    controls: true
+    progress: true
+    history: true
+    hash: true
+    menu: true
+    overview: true
+    footer: "PSY1703 — Psychologie sociale · Automne 2026"
+    embed-resources: false
+---
+
+## Quiz de lecture 5 — 1,25 %
+
+**Cours 6 et chapitre 6 · 8 questions · 10 minutes · Travail individuel**
+
+{{< include ../_minuterie.qmd >}}
+
+{{< include _connexion-quiz.qmd >}}
+
+## Les prochaines évaluations
+
+**Quiz 6 · 3 novembre · 1,25 %**
+
+**Matière évaluée : cours 7 et chapitre 8 — Les relations interpersonnelles.**
+
+8 questions · 10 minutes. Les 8 meilleurs quiz sur 10 comptent pour **10 %**.
+
+**Examen 2 · 10 novembre · 30 %**
+
+Cours **5 à 8** et chapitres **5, 6, 8 et 9**. Répartition annoncée : **50 % cours / 50 % manuel**.
+
+Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.
+
+[Guide d’étude de l’examen 2](../../examens/02/guide.qmd)
+
+::: {.notes}
+Reprendre les mêmes dates et pondérations qu’en ouverture. Le quiz comporte 8 questions et dure 10 minutes. Communiquer les accès séparément lorsqu’ils sont disponibles. Renvoyer au guide cumulatif sans le présenter comme une liste de questions d’examen.
+:::
+
+
+## Plan de la séance
+
+1. **Les premières rencontres**
+2. **L’amour et l’attachement**
+3. **L’engagement et les conséquences des relations**
+
+**Pour commencer :** pourquoi certaines rencontres deviennent-elles des relations?
+
+## Qu’est-ce qu’une relation interpersonnelle?
+
+Une **relation interpersonnelle** est un lien continu entre des personnes qui s’influencent mutuellement dans un contexte social et au fil du temps.
+
+Une amitié a une histoire, des attentes et une tonalité émotionnelle.
+
+Le **besoin d’appartenance** est le besoin de créer et de maintenir des relations importantes, durables et positives.
+
+::: {.notes}
+Manuel p. 248–251 et glossaire p. 438, 447. Reformulations. Le cadre cognitif comprend les croyances sur la relation et les attentes à l’égard de l’autre.
+:::
+
+## L’interdépendance sociale
+
+L’**interdépendance sociale** désigne la dépendance mutuelle entre les personnes dans leurs échanges.
+
+Pour décrire l’influence réciproque, regardons :
+
+- **la fréquence** des interactions;
+- **les domaines** de vie concernés;
+- **la force** de l’influence sur les comportements.
+
+Choisir un jeu une fois ou organiser ensemble logement, finances et loisirs ne mobilise pas les mêmes domaines.
+
+::: {.notes}
+Manuel p. 250. La théorie examine les effets des échanges sur les pensées, les motivations et les comportements. Exemple fictif, sans hiérarchiser les différentes formes de relation.
+:::
+
+## Deux personnes, trois rencontres
+
+Sam et Alex se croisent à une activité de jeux.
+
+- Première semaine : un bref bonjour.
+- Deuxième semaine : une discussion sur un jeu apprécié.
+- Troisième semaine : une invitation à jouer ensemble.
+
+Qu’est-ce qui a changé entre la première et la troisième rencontre?
+
+::: {.notes}
+Cas fictif récurrent. Recueillir des observations, sans demander de raconter une relation personnelle. Les notions qui suivent servent à préciser les explications.
+:::
+
+## L’attraction interpersonnelle
+
+L’**attraction interpersonnelle** désigne une évaluation positive d’une autre personne et le désir de s’en rapprocher.
+
+Elle peut concerner une amitié ou une relation amoureuse.
+
+Aimer passer du temps avec Sam ne signifie pas nécessairement souhaiter une relation amoureuse.
+
+## La proximité
+
+La **proximité physique** facilite les occasions de rencontre et d’interaction.
+
+Même activité → rencontres possibles → conversations possibles.
+
+::: {.fragment}
+Une rencontre possible n’est pas encore une relation : il faut regarder ce qui se passe pendant les échanges.
+:::
+
+## La familiarité
+
+L’**effet de simple exposition** est la tendance à apprécier davantage un stimulus après des expositions répétées.
+
+Revoir un visage peut le rendre familier, avant même une longue conversation.
+
+**Question :** croiser Alex chaque semaine et apprendre à connaitre Alex, est-ce la même chose?
+
+## Voir plus souvent, apprécier davantage?
+
+**Question :** la présence répétée suffit-elle à modifier l’impression d’une personne, même sans conversation?
+
+Quatre collaboratrices assistent à un nombre différent de séances : **0, 5, 10 ou 15**.
+
+Elles ne discutent pas avec les personnes étudiantes.
+
+À la fin, la classe évalue chaque personne à partir de sa photographie.
+
+**Votre prédiction :** la probabilité estimée de nouer une amitié varie-t-elle avec le nombre de présences?
+
+::: {.notes}
+Moreland et Beach (1992). Quatre femmes d’apparence similaire; N = 130 personnes étudiantes pour les évaluations finales. Facteur comparé : nombre de présences. Mesure : jugement d’affinité. Prédiction individuelle avant le résultat. Lien avec la familiarité p. 252 du manuel.
+:::
+
+## La présence et l’envie de nouer une amitié
+
+![](assets/exposition-amitie-zoom.svg){height=450 fig-alt="Probabilité moyenne estimée de nouer une amitié : 41 %, 43 %, 57 % et 60 % pour 0, 5, 10 et 15 présences."}
+
+<details style="font-size:24px"><summary>Voir l’échelle complète de 0 à 100 %</summary><img src="assets/exposition-amitie.svg" alt="Mêmes moyennes sur l’échelle complète de 0 à 100 %" style="height:370px"></details>
+
+::: {.credit}
+Source : [Moreland et Beach (1992), tableau 2](https://doi.org/10.1016/0022-1031(92)90055-O). Moyennes publiées; figure redessinée.
+:::
+
+::: {.notes}
+Lire les axes : horizontal = présences; vertical = probabilité subjective de nouer une amitié, pas proportion de relations réellement créées. Graphique principal : zoom identifié de 30 à 70 %. Montrer aussi l’échelle complète 0–100 % dans le volet. Le zoom facilite la lecture des différences; il ne démontre ni leur importance pratique ni leur significativité. Moyennes .41, .43, .57, .60; écarts-types .27, .26, .24, .25, non représentés. Le profil illustre qu’une exposition sans conversation peut favoriser l’attirance. Ne pas demander de mémoriser les valeurs ni conclure à une amitié réelle.
+:::
+
+## Une capsule sur la familiarité
+
+```{=html}
+<iframe width="960" height="540" src="https://www.youtube.com/embed/tDi9BD__gRY?start=174&end=223" title="Khan Academy — Proximité et simple exposition, extrait sur la présence en classe" allowfullscreen></iframe>
+```
+
+::: {.notes}
+Brooke Miller, khanacademymedicine, 2014. Extrait 2:54–3:43, anglais. Faire expliquer en français la comparaison. Le récit et la figure précédents fournissent une solution sans vidéo.
+:::
+
+## La similitude des valeurs, des attitudes et des opinions
+
+La **similitude** correspond à des ressemblances entre les personnes, notamment dans leurs attitudes et leurs intérêts.
+
+Sam et Alex découvrent aimer les jeux coopératifs.
+
+::: {.fragment}
+Précisez ce qui se ressemble : les gouts, les valeurs, les habitudes ou les attentes?
+:::
+
+## L’attirance réciproque
+
+L’**attirance réciproque** : apprendre qu’une personne nous apprécie peut favoriser notre attirance envers elle.
+
+« Alex m’a dit avoir aimé notre conversation. »
+
+::: {.fragment}
+Ce nouvel indice porte sur ce qu’Alex ressent; il ne prouve pas que Sam et Alex se ressemblent.
+:::
+
+## Deux envies à concilier
+
+::: {.columns}
+::: {.column width="42%"}
+```{=html}
+<div style="position:relative;width:370px;height:560px;margin:auto">
+<img src="../06/assets/meme-two-buttons.jpg" style="width:370px;height:560px;margin:0;max-width:none;max-height:none" alt="Une personne hésite entre deux boutons : être proche et éviter de dépendre de l’autre.">
+<div style="position:absolute;left:38px;top:55px;width:115px;text-align:center;font-size:17px;font-weight:700;line-height:1.1;color:#111;transform:rotate(-12deg)">Me rapprocher<br>de cette personne</div>
+<div style="position:absolute;left:161px;top:40px;width:112px;text-align:center;font-size:17px;font-weight:700;line-height:1.1;color:#111;transform:rotate(-12deg)">Ne pas trop<br>m’exposer</div>
+</div>
+```
+:::
+::: {.column width="58%"}
+« J’ai envie de lui parler. »
+
+« Je ne veux pas risquer un refus. »
+
+**Quelle information rendrait le rapprochement moins incertain?**
+
+::: {.fragment}
+Un signe que l’autre personne apprécie aussi la rencontre peut favoriser l’attirance réciproque.
+:::
+:::
+:::
+
+::: {.credit}
+Jake Clark, *Daily Struggle / Two Buttons* · [source du modèle](https://imgflip.com/memetemplate/Two-Buttons) · légendes françaises originales.
+:::
+
+## L’apparence physique
+
+L’apparence peut influencer les premières impressions et l’attraction.
+
+Une impression favorable peut aussi déborder vers des qualités qui n’ont pas été observées directement.
+
+**Exemple fictif :** « Cette personne est attirante, donc elle doit être attentionnée. »
+
+Quel élément de cette conclusion demanderait une information supplémentaire?
+
+## Ronde 1 — Qu’est-ce qui favorise le rapprochement?
+
+{{< include _reconnexion.qmd >}}
+
+Trois questions, puis une explication des réponses.
+
+[Passer à la pause](#pause-1)
+
+::: {.notes}
+Présenter les questions dans Wooclap, puis reprendre à la pause. Les diapositives suivantes conservent les questions pour la consultation. Repli sans connexion : les projeter et recueillir les réponses oralement.
+:::
+
+## 1. Même corridor, mêmes horaires
+
+Sam et Alex empruntent régulièrement le même corridor.
+
+**Quel facteur facilite leurs rencontres?**
+
+::: {.notes}
+La proximité. Les rencontres répétées peuvent aussi favoriser la familiarité. Faire préciser le détail utilisé.
+:::
+
+## 2. Les mêmes activités
+
+« On aime les mêmes activités. »
+
+**Quel facteur d’attirance cette information illustre-t-elle?**
+
+::: {.notes}
+La similitude des intérêts.
+:::
+
+## 3. Un signe d’intérêt
+
+« Cette personne m’apprécie. »
+
+**Quel mécanisme pourrait favoriser le rapprochement?**
+
+::: {.notes}
+L’attirance réciproque. Le signe d’intérêt ne prouve pas la similitude.
+:::
+
+## Pause — 10 minutes {#pause-1}
+
+**10 minutes**
+
+{{< include ../_minuterie.qmd >}}
+
+Proposez une chanson ou une photo de votre animal pour la pause.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson et de photo, sans imposer de participation personnelle.
+:::
+
+## Atelier : discutons d’une rencontre
+
+{{< include ../_minuterie.qmd >}}
+
+**Équipes de 3 ou 4 · 10 minutes de discussion**
+
+Sam et Alex se croisent chaque semaine à une activité. Ils découvrent des intérêts communs. Alex dit à Sam avoir apprécié leur conversation.
+
+1. Repérez **deux facteurs d’attirance** et l’indice concret de chacun.
+2. Changez **un seul détail** du cas : comment votre explication change-t-elle?
+3. Préparez une explication orale de **30 secondes** pour la classe.
+
+::: {.notes}
+Consignes avant le lancement. Dix minutes de discussion seulement; tour et débreffage ensuite, hors minuterie. Aucun dessin ni texte à remettre. Prise de notes facultative. Une personne porte-parole par équipe; aucune confidence personnelle. Facteurs possibles : proximité/familiarité, similitude et attirance réciproque. Faire justifier avec les indices.
+:::
+
+## Tour des équipes
+
+Une personne porte-parole résume la discussion en 30 secondes.
+
+- Quels sont les deux facteurs repérés?
+- Quels détails du cas les illustrent?
+- Quel détail faudrait-il changer pour illustrer un autre facteur?
+
+## La révélation de soi
+
+La **révélation de soi** consiste à communiquer à une autre personne des informations personnelles à son sujet.
+
+La profondeur des échanges peut évoluer : loisirs → préoccupations → projets importants.
+
+Un échange se construit avec l’écoute et les réponses de l’autre personne.
+
+::: {.notes}
+Reprendre Sam et Alex; inventer les répliques. Ne pas demander un exercice de dévoilement intime dans la classe.
+:::
+
+## L’intimité
+
+L’**intimité** renvoie au sentiment de proximité et de lien dans une relation.
+
+Se dévoiler peut contribuer à l’intimité lorsque la personne se sent comprise et accueillie.
+
+**Application :** Alex raconte une déception. Comparez « Tu exagères » et « Qu’est-ce qui t’a le plus affecté? ».
+
+## L’inclusion de l’autre en soi
+
+L’**inclusion de l’autre en soi** est l’intégration de ressources et d’aspects de l’autre personne dans sa représentation de soi.
+
+Sam apprend un jeu grâce à Alex, découvre son cercle d’amitié et commence à se voir comme une personne capable d’animer une soirée.
+
+**Quel changement concerne ici la façon dont Sam se perçoit?**
+
+::: {.notes}
+Manuel p. 254; glossaire p. 443. Ressources matérielles, personnelles ou informationnelles. Le concept dépasse le partage d’un loisir.
+:::
+
+## Le schéma relationnel
+
+Un **schéma relationnel** organise ce que nous attendons d’une interaction :
+
+- une représentation de **soi**;
+- une représentation de **l’autre**;
+- un **scénario** de ce qui se passe habituellement entre les deux.
+
+**Exemple fictif :** « Quand je demande de l’aide, Alex m’écoute et nous cherchons une solution. »
+
+::: {.notes}
+Manuel p. 255–256; glossaire p. 447. Le soi relationnel renvoie à la représentation de soi dans une relation avec une personne importante. Différents liens peuvent rendre accessibles différentes façons de se percevoir. Les expériences avec des personnes marquantes contribuent aux attentes, y compris dans une nouvelle relation.
+:::
+
+## L’amour-tendresse et l’amour-passion
+
+L’**amour-tendresse** se caractérise par l’affection, la confiance, la proximité, l’interdépendance et le souci du bien-être de l’autre.
+
+L’**amour-passion** correspond à un état intense où l’on désire fortement l’union avec l’autre et où ses réponses suscitent des émotions vives.
+
+**Application :** quelle description porte surtout sur le lien affectif durable? Laquelle sur l’intensité de l’expérience?
+
+::: {.notes}
+Manuel p. 257; glossaire p. 437. Le contexte culturel influence la place et l’expression de ces formes d’amour. Éviter de présenter toutes les relations comme une succession obligatoire de deux étapes.
+:::
+
+## L’amour et ses composantes
+
+Dans le modèle triangulaire de l’amour :
+
+- **Intimité** : proximité et lien affectif.
+- **Passion** : attirance et activation liées au désir amoureux.
+- **Engagement** : décision de maintenir la relation.
+
+Ces composantes peuvent varier séparément au fil d’une relation.
+
+## Trois composantes, un exemple
+
+Sam et Alex ont beaucoup de désir et se connaissent encore peu.
+
+<label><input type="radio" name="triangle"> Intimité</label><br>
+<label><input type="radio" name="triangle"> Passion</label><br>
+<label><input type="radio" name="triangle"> Engagement</label>
+
+Quelle composante est la plus directement décrite? Quel indice manque pour parler d’engagement?
+
+::: {.notes}
+Passion. L’engagement demande une information sur la décision de poursuivre la relation. L’exercice ne vise pas à attribuer une étiquette globale à un couple à partir d’une seule phrase.
+:::
+
+## Pause — 10 minutes {#pause-2}
+
+**10 minutes**
+
+{{< include ../_minuterie.qmd >}}
+
+Proposez une chanson ou une photo de votre animal pour la pause.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson et de photo, sans imposer de participation personnelle.
+:::
+
+## La passion harmonieuse et la passion obsessive
+
+La **passion harmonieuse** laisse une place aux autres sphères de vie et se vit avec un sentiment de choix.
+
+La **passion obsessive** comporte une pression intérieure difficile à contrôler et peut prendre une place disproportionnée.
+
+**Cas fictif :** Alex veut voir Sam, mais peut aussi se consacrer à ses amitiés et à ses études. Quel indice renseigne sur la forme de passion?
+
+::: {.notes}
+Modèle dualiste, manuel p. 259–260. Le désir intense ne suffit pas à identifier la passion obsessive. Les études rapportées relient la passion harmonieuse à plusieurs indicateurs de qualité relationnelle et à des comportements plus constructifs dans les conflits.
+:::
+
+## L’attachement adulte
+
+L’**attachement** est un lien affectif qui pousse à chercher la proximité d’une personne pouvant apporter attention et réconfort.
+
+Le modèle adulte s’organise autour de deux dimensions :
+
+- **Anxiété d’abandon** : crainte de perdre l’affection de l’autre ou de voir la relation se terminer.
+- **Évitement de l’intimité** : inconfort devant la proximité et la dépendance affective.
+
+::: {.notes}
+Manuel p. 260–262; glossaire p. 438, 444–445. Définir avant les quatre profils. Les styles sont relativement stables mais peuvent changer et varier selon la relation.
+:::
+
+## Quatre styles d’attachement
+
+| | Anxiété d’abandon faible | Anxiété d’abandon élevée |
+|---|---|---|
+| **Évitement faible** | Sécurisant | Préoccupé |
+| **Évitement élevé** | Détaché | Craintif |
+
+**Exemple fictif :** « J’ai peur que Sam me quitte, mais je suis aussi mal à l’aise quand nous devenons proches. »
+
+Repérez les deux dimensions, puis le style correspondant.
+
+::: {.notes}
+Matrice originale d’après p. 260–261. Réponse : anxiété et évitement élevés, style craintif. Hyperactivation : vigilance et recherche accrue de proximité, notamment dans le profil préoccupé. Désactivation : minimisation de l’importance du lien et mise à distance, notamment dans le profil détaché. Ne pas diagnostiquer les personnes de la classe.
+:::
+
+## Les échanges dans une relation
+
+Une approche par l’**échange social** examine les avantages et les couts perçus d’une relation.
+
+Une conversation peut apporter du soutien; un conflit répété peut être vécu comme un cout.
+
+Les attentes et les possibilités perçues ailleurs influencent aussi l’évaluation de la relation.
+
+## L’équité
+
+L’**équité** correspond à une perception de justice dans le rapport entre les contributions et les bénéfices de chaque personne.
+
+**Exemple fictif :** une personne prépare les repas; l’autre fait les courses et la vaisselle.
+
+Équité ne signifie pas nécessairement réaliser les mêmes tâches.
+
+## Satisfaction et engagement
+
+La **satisfaction** porte sur l’évaluation de la relation.
+
+L’**engagement** est le processus par lequel une personne se sent liée à une autre, ce lien influençant son intention de poursuivre la relation.
+
+Une personne peut être insatisfaite tout en restant engagée : examinons ses investissements et les autres possibilités qu’elle perçoit.
+
+## Un modèle de l’engagement
+
+Les **investissements** sont les ressources consacrées à la relation qui seraient perdues ou diminuées si elle se terminait.
+
+Les **autres possibilités** comprennent une autre relation ou la vie sans cette relation.
+
+::: {.fragment}
+| Dans le modèle de l’investissement… | Engagement généralement attendu |
+|---|---|
+| Plus de satisfaction | Plus fort |
+| Plus d’investissements | Plus fort |
+| De meilleures autres possibilités | Plus faible |
+:::
+
+::: {.notes}
+Schéma conceptuel original du modèle de l’investissement. Définir investissements : ressources qui seraient perdues ou diminuées si la relation cessait. Qualité des autres possibilités : évaluation des solutions possibles hors de la relation, y compris la vie sans partenaire. Ne pas en faire une recommandation de rester.
+:::
+
+## Deux niveaux de comparaison
+
+Le **niveau de comparaison** est le standard avec lequel une personne évalue ce qu’elle reçoit dans la relation.
+
+Le **niveau de comparaison des options possibles** concerne ce qu’elle pense pouvoir obtenir dans une autre relation ou en l’absence de relation.
+
+**Deux questions :** « Cette relation répond-elle à mes attentes? » et « Quelles autres possibilités ai-je? »
+
+::: {.notes}
+Manuel p. 250; glossaire p. 445. Le premier éclaire la satisfaction; le second aide à comprendre la dépendance et les possibilités de continuation ou de départ.
+:::
+
+## L’engagement d’obligation et l’engagement personnel
+
+**Engagement d’obligation** : se sentir lié par des contraintes, des normes ou les couts d’une rupture.
+
+**Engagement personnel** : vouloir maintenir une relation à laquelle on accorde une valeur personnelle.
+
+**Exemple fictif :** « Je reste parce que je le souhaite » ou « Je reste parce que je me sens dans l’obligation de le faire ».
+
+::: {.notes}
+Manuel p. 263–264; glossaire p. 441. Les deux formes peuvent coexister. Le modèle de l’investissement prédit l’engagement sans suffire à expliquer toutes les motivations de la continuation.
+:::
+
+## Le soutien social
+
+Le **soutien social** comprend l’aide disponible pour répondre à des besoins et la perception de pouvoir compter sur d’autres personnes.
+
+- **Émotionnel** : écouter, exprimer de l’affection.
+- **Informatif ou évaluatif** : fournir des informations ou des conseils.
+- **Matériel** : offrir du temps, un service ou une ressource.
+
+**Sam déménage :** quelle aide est utile maintenant? Comment le savoir?
+
+::: {.notes}
+Manuel p. 264–265; glossaire p. 448. Distinguer soutien reçu et disponibilité perçue. Une aide non sollicitée ou répondant mal au besoin peut être moins utile. Le nombre de contacts ne suffit pas à décrire le soutien.
+:::
+
+## Quand une relation devient difficile
+
+La qualité du lien compte : les relations peuvent aussi apporter conflits, rupture et blessures.
+
+Dans la **violence conjugale**, des actes de domination visent à exercer du pouvoir sur l’autre personne. Ils peuvent être psychologiques, verbaux, physiques, sexuels ou économiques.
+
+Un désaccord et un acte de domination ne décrivent pas la même situation.
+
+::: {.notes}
+Manuel p. 267–268. Présentation académique brève, sans solliciter de témoignages. Les stratégies ordinaires de discussion ne suffisent pas à répondre à la violence. Les statistiques détaillées ne sont pas à mémoriser.
+:::
+
+## Les conseils relationnels de xkcd
+
+```{=html}
+<div style="height:330px;display:flex;align-items:center;justify-content:center"><img src="https://imgs.xkcd.com/comics/relationship_advice.png" style="width:1050px;height:auto;max-height:330px;object-fit:contain" alt="Une personne décrit les relations comme de plus en plus pénibles; ses proches finissent par lui demander si elle va bien."></div>
+```
+
+**Résumé français :** « Les relations demandent des efforts… c’est un travail… un fardeau écrasant! » — « Est-ce que ça va? »
+
+**Question :** quels éléments renseigneraient vraiment sur la qualité de cette relation?
+
+::: {.credit}
+Randall Munroe, [xkcd nº 2890, *Relationship Advice*](https://xkcd.com/2890/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/) · résumé français ajouté.
+:::
+
+::: {.notes}
+Le dessin illustre la différence entre un conseil vague sur l’effort et l’expérience concrète du lien. Faire chercher les comportements, les besoins et la satisfaction. Il ne permet pas, à lui seul, de conclure à la violence ni de donner un diagnostic.
+:::
+
+## La solitude interpersonnelle
+
+La **solitude interpersonnelle** est une expérience désagréable liée à l’écart entre les relations vécues et souhaitées, dans leur quantité ou leur qualité.
+
+- **Solitude sociale** : manque d’un réseau satisfaisant et d’un sentiment d’appartenance.
+- **Solitude émotionnelle** : manque d’une relation intime satisfaisante.
+
+**Sam connait beaucoup de monde, mais n’a personne à qui parler d’une difficulté.** Quelle dimension est surtout décrite?
+
+::: {.notes}
+Manuel p. 269–271; glossaire p. 447–448. Réponse : solitude émotionnelle. Distinguer vivre seul et se sentir seul. La solitude existentielle renvoie à une autre expérience, liée à la conscience de la séparation entre soi et autrui et à la finitude. Les évènements et perceptions contribuent à la solitude. Le chapitre présente les approches cognitives et les habiletés sociales.
+:::
+
+## Ronde 2 — Comprendre une relation fictive
+
+{{< include _reconnexion.qmd >}}
+
+Trois questions, puis une explication des réponses.
+
+[Reprendre les prochaines évaluations](#synthese)
+
+::: {.notes}
+Présenter les questions dans Wooclap, puis reprendre aux annonces. Repli sans connexion : questions projetées et discussion.
+:::
+
+## 4. Une confidence accueillie
+
+Alex raconte une difficulté. Sam écoute et montre de la compréhension.
+
+**Quel processus peut soutenir leur lien?**
+
+::: {.notes}
+La révélation de soi, accueillie avec attention et compréhension, peut favoriser l’intimité.
+:::
+
+## 5. Un partage jugé juste
+
+Deux personnes font des tâches différentes et jugent le partage juste.
+
+**Quel concept décrit ce jugement?**
+
+::: {.notes}
+L’équité. Il n’est pas nécessaire de faire les mêmes tâches.
+:::
+
+## 6. Rester dans une relation peu satisfaisante
+
+**Quelles informations le modèle de l’investissement invite-t-il à chercher?**
+
+::: {.notes}
+Les investissements et la qualité des autres possibilités. Reprendre les définitions et les indices, sans diagnostic de personnes réelles.
+:::
+
+## Les prochaines évaluations {#synthese}
+
+**Quiz 6 · 3 novembre · 1,25 %**
+
+**Matière évaluée : cours 7 et chapitre 8 — Les relations interpersonnelles.**
+
+8 questions · 10 minutes. Les 8 meilleurs quiz sur 10 comptent pour **10 %**.
+
+**Examen 2 · 10 novembre · 30 %**
+
+Cours **5 à 8** et chapitres **5, 6, 8 et 9**. Répartition annoncée : **50 % cours / 50 % manuel**.
+
+Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.
+
+[Guide d’étude de l’examen 2](../../examens/02/guide.qmd)
+
+::: {.notes}
+Reprendre les mêmes dates et pondérations qu’en ouverture. Le quiz comporte 8 questions et dure 10 minutes. Communiquer les accès séparément lorsqu’ils sont disponibles. Renvoyer au guide cumulatif sans le présenter comme une liste de questions d’examen.
+:::
+
+
+## Pour le prochain cours
+
+**3 novembre — Cours 8 : L’agression**
+
+Lire le **chapitre 9** du manuel.
+
+**Quiz 6 : cours 7 et chapitre 8**, 1,25 %, 8 questions en 10 minutes.
+
+Le **27 octobre : semaine de lecture**, sans cours.

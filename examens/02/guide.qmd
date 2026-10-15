@@ -3,7 +3,7 @@ title: "Guide d’étude — Examen 2"
 ---
 
 ::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **12 octobre 2026**. Ce guide couvre actuellement les chapitres 5 et 6. Les chapitres 8 et 9 seront ajoutés progressivement, ainsi que les précisions apportées en classe. La version définitive sera disponible avant l’examen.
+Mise à jour du **15 octobre 2026**. Ce guide couvre les chapitres 5, 6 et 8. Le chapitre 9 et les précisions apportées en classe seront ajoutés progressivement. La version définitive sera disponible avant l’examen.
 :::
 
 ## Repères
@@ -36,7 +36,7 @@ Vous n’avez pas à mémoriser :
 
 - les valeurs statistiques exactes;
 - les pourcentages ou les nombres précis dans les tableaux et les figures, sauf indication explicite en classe;
-- les noms et les années des autrices, auteurs ou équipes de recherche;
+- les noms et les années des personnes chercheuses ou des équipes de recherche;
 - les références bibliographiques;
 - les détails d’une procédure qui ne sont pas nécessaires pour comprendre le concept ou le résultat principal.
 
@@ -184,7 +184,55 @@ Ces repères portent sur le chapitre 6. Ils seront précisés après la séance 
 
 **Cours 7 et chapitre 8**
 
-La liste de notions sera ajoutée au fil des prochaines séances.
+### Nature des relations et cadres théoriques
+
+- Relation interpersonnelle : cadres temporel, cognitif, social et émotionnel; influence mutuelle et diversité des domaines.
+- Théories de l’échange social; satiété et rareté; théorie de l’équité.
+- Théorie de l’interdépendance sociale : fréquence, diversité des domaines et force de l’influence.
+- Niveau de comparaison et niveau de comparaison des options possibles.
+- Sociobiologie humaine, psychologie évolutionniste et besoin d’appartenance.
+
+### Des premières rencontres aux relations intimes
+
+- Similitude des valeurs, des attitudes et des opinions.
+- Proximité géographique et familiarité; effet de simple exposition.
+- Attirance réciproque et attirance physique; premières impressions et stéréotypes liés à l’apparence.
+- Présences répétées sans interaction : comparaison et profil général des jugements d’affinité dans l’étude présentée en classe.
+- Relations intimes; révélation de soi; inclusion de l’autre en soi; réciprocité.
+- Personnes marquantes; schéma relationnel et soi relationnel; confiance et ses composantes.
+
+### Amour et attachement
+
+- Premières conceptions de l’amour; amour comparé à l’amitié.
+- Amour-tendresse et amour-passion; variations culturelles.
+- Couleurs de l’amour : amour-passion, amour ludique, amour-tendresse, amour possessif, amour altruiste et amour pratique.
+- Théorie triangulaire de l’amour : composantes et combinaisons.
+- Modèle dualiste de la passion : passion harmonieuse et passion obsessive; conséquences relationnelles.
+- Théorie de l’attachement adulte; anxiété d’abandon et évitement de l’intimité.
+- Styles d’attachement sécurisant, préoccupé, craintif et détaché; hyperactivation et désactivation de l’attachement.
+- Stabilité et changements de l’attachement; variations selon les relations.
+
+### Engagement
+
+- Engagement; conditions de continuation et de rupture d’une relation.
+- Modèle de l’investissement : satisfaction, ressources investies et autres options.
+- Engagement d’obligation et engagement personnel; motivations associées.
+- Application du modèle de l’investissement à l’engagement dans un groupe et à la déradicalisation.
+
+### Conséquences des relations et solitude
+
+- Santé et soutien social; soutien émotionnel, informatif ou évaluatif, matériel.
+- Soutien reçu, soutien perçu et adéquation aux besoins.
+- Relations et bonheur; script personnel du bonheur.
+- Gestion des conflits, partage des ressources, attributions et illusions positives dans les relations satisfaisantes.
+- Rupture, conflits et violence dans les relations : formes et conséquences générales.
+- Solitude existentielle et interpersonnelle; solitude sociale et émotionnelle.
+- Évènements de vie, caractéristiques personnelles et cycle de maintien de la solitude.
+- Approches cognitives, habiletés sociales et interventions auprès des personnes âgées.
+
+### Progression de la matière
+
+Ces repères portent sur le chapitre 8 et les entrées pertinentes du glossaire. La matière réellement présentée et les ajouts oraux de la séance du 20 octobre seront consignés après le cours. Les valeurs exactes, noms, années et détails procéduraux secondaires demeurent exclus selon les consignes générales. Cette liste n’est pas encore définitive.
 
 ## Bloc 4 — L’agression
 

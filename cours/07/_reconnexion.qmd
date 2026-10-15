@@ -1,0 +1,12 @@
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou ouvrez **Wooclap** avec le code communiqué en classe.
+
+**Code de l’évènement : à ajouter**
+
+Gardez l’onglet ouvert pour les rondes et les propositions de pause.
+:::
+::: {.column width="42%"}
+<div role="img" aria-label="Emplacement du code QR Wooclap" style="width:360px;height:300px;border:3px dashed #123b5d;display:flex;align-items:center;justify-content:center;margin:auto;color:#123b5d;font-size:30px">Code QR à ajouter</div>
+:::
+:::
