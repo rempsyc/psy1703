@@ -32,7 +32,7 @@ format:
 
 **Chapitre 5 et cours 5 · 8 questions · 10 minutes · Travail individuel**
 
-{{< include ../_quiz-timer.qmd >}}
+{{< include ../_minuterie.qmd >}}
 
 {{< include _connexion-quiz.qmd >}}
 
@@ -401,7 +401,7 @@ Même consigne que dans le cours 4. Laisser les mains libres, sans comparer publ
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL</strong></div>
-<div>MAIN DROITE<strong>DUHAIME</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME</strong></div>
 </div>
 
 **Classez le nom ou le portrait de la personne.**
@@ -410,7 +410,7 @@ Même consigne que dans le cours 4. Laisser les mains libres, sans comparer publ
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL</strong></div>
-<div>MAIN DROITE<strong>DUHAIME</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME</strong></div>
 </div>
 
 <div class="c6-iat-stimulus">Ruba Ghazal</div>
@@ -423,10 +423,10 @@ Main gauche. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL</strong></div>
-<div>MAIN DROITE<strong>DUHAIME</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME</strong></div>
 </div>
 
-<div class="c6-iat-stimulus">Duhaime</div>
+<div class="c6-iat-stimulus">Éric Duhaime</div>
 
 ::: {.notes}
 Main droite. Enchainer après la réponse collective, sans commentaire individuel.
@@ -471,7 +471,7 @@ Main droite. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong></div>
 </div>
 
 **Même règle : une personne ou un mot, une seule main.**
@@ -480,7 +480,7 @@ Main droite. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong></div>
 </div>
 
 <div class="c6-iat-stimulus"><img src="assets/ruba-ghazal.jpg" alt="Ruba Ghazal"></div>
@@ -493,7 +493,7 @@ Main gauche. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong></div>
 </div>
 
 <div class="c6-iat-stimulus">Merveilleux</div>
@@ -506,7 +506,7 @@ Main gauche. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong></div>
 </div>
 
 <div class="c6-iat-stimulus"><img src="assets/eric-duhaime.jpg" alt="Éric Duhaime"></div>
@@ -519,7 +519,7 @@ Main droite. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou AGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou DÉSAGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou DÉSAGRÉABLE</strong></div>
 </div>
 
 <div class="c6-iat-stimulus">Horrible</div>
@@ -532,7 +532,7 @@ Main droite. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong></div>
 </div>
 
 **Les mots changent de côté. Quatre nouveaux essais.**
@@ -545,7 +545,7 @@ Laisser lire la nouvelle règle avant de reprendre. La modification suit le cour
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong></div>
 </div>
 
 <div class="c6-iat-stimulus">Horrible</div>
@@ -558,7 +558,7 @@ Main gauche. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong></div>
 </div>
 
 <div class="c6-iat-stimulus"><img src="assets/eric-duhaime.jpg" alt="Éric Duhaime"></div>
@@ -571,7 +571,7 @@ Main droite. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong></div>
 </div>
 
 <div class="c6-iat-stimulus">Merveilleux</div>
@@ -584,7 +584,7 @@ Main droite. Enchainer après la réponse collective, sans commentaire individue
 
 <div class="c6-iat-labels">
 <div>MAIN GAUCHE<strong>RUBA GHAZAL ou DÉSAGRÉABLE</strong></div>
-<div>MAIN DROITE<strong>DUHAIME ou AGRÉABLE</strong></div>
+<div>MAIN DROITE<strong>ÉRIC DUHAIME ou AGRÉABLE</strong></div>
 </div>
 
 <div class="c6-iat-stimulus"><img src="assets/ruba-ghazal.jpg" alt="Ruba Ghazal"></div>
@@ -785,10 +785,10 @@ Schéma simplifié du modèle présenté dans le manuel. Lire une voie à la foi
 
 ## Une application de mes recherches
 
-**Nos identités sociales peuvent influencer les trois éléments de base du modèle : attitudes, normes subjectives et contrôle perçu** (illai, Globig, Rathje, Sternisko, Thériault, & Van Bavel, 2026).
+**Nos identités sociales peuvent influencer les trois éléments de base du modèle : attitudes, normes subjectives et contrôle perçu** (Pillai, Globig, Rathje, Sternisko, Thériault, & Van Bavel, 2026).
 
 <style>
-.c6-model-b {position:relative;width:552px;height:400px;overflow:hidden;margin:20px auto;background:white;}
+.c6-model-b {position:relative;width:552px;height:390px;overflow:hidden;margin:20px auto;background:white;}
 .reveal .c6-model-b img {position:absolute;left:-552px;top:0;width:1104px;height:460px;max-width:none;max-height:none;margin:0;}
 </style>
 ```{=html}
@@ -826,7 +826,7 @@ Elle peut aussi juger une proposition plus favorablement lorsqu’elle la croit 
 
 **10 minutes**
 
-{{< include ../_quiz-timer.qmd >}}
+{{< include ../_minuterie.qmd >}}
 
 Proposez une chanson ou une photo de votre animal pour la pause.
 
@@ -903,7 +903,7 @@ Ces trois choix peuvent être identiques ou différents.
 **Inventez les raisons de ses choix, sans raconter votre propre vote.**
 
 ::: {.notes}
-25 minutes : 12 de création, 5 de partage et 8 de débreffage. Équipes de 3 ou 4. Utiliser des candidatures des partis présentés ou des candidatures A, B et C. Ne pas attribuer de position politique inventée à un candidat réel. Les personnages et leurs raisons sont fictifs. Annoncer une courte reprise du personnage après les théories du changement d’attitude.
+Dix minutes de travail d’équipe, après les consignes; prévoir ensuite le tour des équipes et le débreffage, hors minuterie. Équipes de 3 ou 4. Utiliser des candidatures des partis présentés ou des candidatures A, B et C. Ne pas attribuer de position politique inventée à un candidat réel. Les personnages et leurs raisons sont fictifs. Annoncer une courte reprise du personnage après les théories du changement d’attitude.
 :::
 
 ## Les attitudes en politique
@@ -968,7 +968,10 @@ Photos Commons : [Alexis G, BY-SA 4.0](https://commons.wikimedia.org/wiki/File:P
 
 **Ajoutez sa préférence et expliquez un éventuel vote stratégique.**
 
+{{< include ../_minuterie.qmd >}}
+
 ::: {.notes}
+Démarrer les dix minutes après les instructions. La minuterie couvre uniquement le travail des équipes, pas les consignes ni le tour des équipes.
 La préférence envers une candidature et l’attitude envers l’action de voter pour elle sont distinguées. Chaque équipe ajoute un indice concret de pression sociale et de contrôle perçu. Si intention et vote diffèrent, inventer un évènement qui explique cet écart; ne pas invoquer une panne non documentée comme fait réel. Demander un bref récit plutôt que la répétition des définitions.
 :::
 
@@ -1015,7 +1018,7 @@ KC Green, *Gunshow — This Is Fine* · [Modèle Imgflip](https://imgflip.com/me
 :::
 
 ::: {.notes}
-Deux minutes. Rémi a choisi le mème pour reprendre le cas de la console. Incompatibilité : projet d’épargne et dépense; malaise : « je m’en veux ». La réplique ajoute une justification. Le chien seul ne prouve pas une dissonance et peut illustrer d’autres mécanismes; c’est le récit fictif qui précise l’application. Ne pas demander les achats personnels des étudiants. Les 800 $ sont une valeur fictive, non à mémoriser.
+Deux minutes. Rémi a choisi le mème pour reprendre le cas de la console. Incompatibilité : projet d’épargne et dépense; malaise : « je m’en veux ». La réplique ajoute une justification. Le chien seul ne prouve pas une dissonance et peut illustrer d’autres mécanismes; c’est le récit fictif qui précise l’application. Ne pas demander les achats personnels des personnes étudiantes. Les 800 $ sont une valeur fictive, non à mémoriser.
 :::
 
 ## Comment réduire la dissonance?
@@ -1035,7 +1038,9 @@ Alex cherche à se sentir plus cohérent avec sa décision.
 
 ## Une étude — Dire qu’une tâche est agréable
 
-Pendant une heure, des étudiants répètent des gestes monotones : déplacer des bobines, puis tourner des chevilles.
+**1. Faire une tâche ennuyeuse** pendant une heure : répéter les mêmes gestes.
+
+**2. Dire à une autre personne : « Cette tâche est agréable. »**
 
 On demande ensuite à certains de présenter cette tâche comme **agréable à une autre personne** :
 
@@ -1043,7 +1048,9 @@ On demande ensuite à certains de présenter cette tâche comme **agréable à u
 - **1 $** : la présenter comme agréable contre une faible rémunération.
 - **20 $** : la présenter comme agréable contre une rémunération plus forte.
 
-On mesure ensuite **l’évaluation personnelle de la tâche**.
+**3. Répondre ensuite en privé : « Qu’avez-vous vraiment pensé de la tâche? »**
+
+**L’argent paie la déclaration à l’autre personne, pas la note donnée ensuite.**
 
 ::: {.notes}
 Raconter le dispositif original de Festinger et Carlsmith (1959) : deux tâches de trente minutes; la personne à convaincre est une complice. Le détail des gestes sert à imaginer la scène, pas à la mémorisation. Ne pas faire mémoriser les montants ou les détails procéduraux. Le groupe témoin fournit une comparaison. L’évaluation présentée est finale et entre groupes, pas une mesure de changement avant/après chez les mêmes personnes. Demander une prédiction avant de montrer la figure.
@@ -1067,14 +1074,20 @@ Recueillir une prédiction individuelle et une courte raison, puis fermer le vot
 
 ## Résultat — L’évaluation de la tâche
 
-![](assets/dissonance-festinger-carlsmith.svg){height=570 fig-alt="Évaluation moyenne de la tâche sur une échelle de −5 à +5 : témoin −0,45; 1 dollar +1,35; 20 dollars −0,05. Vingt personnes analysées par groupe."}
+**Le groupe payé 1 $ donne l’évaluation la plus favorable.**
+
+![](assets/dissonance-festinger-carlsmith-zoom.svg){height=450 fig-alt="Évaluation moyenne de la tâche sur une échelle de −5 à +5 : témoin −0,45; 1 dollar +1,35; 20 dollars −0,05. Vingt personnes analysées par groupe."}
+
+```{=html}
+<details style="font-size:24px"><summary>Voir l’échelle complète de −5 à +5</summary><img src="assets/dissonance-festinger-carlsmith.svg" alt="Mêmes moyennes sur l’échelle complète de −5 à +5" style="height:370px"></details>
+```
 
 ::: {.credit}
 Source : [Festinger et Carlsmith (1959), tableau 1](https://psychclassics.yorku.ca/Festinger/). Moyennes publiées; 20 personnes analysées par groupe.
 :::
 
 ::: {.notes}
-Lire d’abord l’axe complet de −5 à +5 et le sens des valeurs. Le groupe 1 dollar donne l’évaluation la plus favorable. Ce sont des moyennes finales de groupes, pas des trajectoires individuelles. La figure ne donne ni données brutes ni intervalles de confiance et ne mesure pas directement l’inconfort. Les auteurs rapportent des analyses supplémentaires dans l’article; ne pas déduire la significativité de la seule hauteur des points.
+Le graphique principal est un zoom explicitement identifié, de −1 à +3; montrer aussi l’échelle complète dans le volet. Ne pas transformer la visibilité de l’écart en affirmation sur sa grandeur ou sa significativité. Lire le sens des valeurs. Le groupe 1 dollar donne l’évaluation la plus favorable. Ce sont des moyennes finales de groupes, pas des trajectoires individuelles. La figure ne donne ni données brutes ni intervalles de confiance et ne mesure pas directement l’inconfort. Les auteurs rapportent des analyses supplémentaires dans l’article; ne pas déduire la significativité de la seule hauteur des points.
 :::
 
 ## Pourquoi le groupe 1 $ apprécie-t-il davantage la tâche?
@@ -1084,19 +1097,19 @@ Lire d’abord l’axe complet de −5 à +5 et le sens des valeurs. Le groupe 1
 Que pourrait se dire une personne payée 1 $? Et une personne payée 20 $?
 
 ::: {.fragment}
-**20 $ :** « J’ai dit cela pour l’argent. »
+**20 $ :** « La tâche était ennuyeuse, mais j’ai dit le contraire pour gagner 20 $. »
 
 La rémunération fournit une **justification externe**, une raison liée à la situation.
 :::
 
 ::: {.fragment}
-**1 $ :** « Cette petite somme explique moins bien ce que j’ai dit. Peut-être que la tâche était intéressante… »
+**1 $ :** « J’ai dit que la tâche était agréable pour presque rien. Pourquoi ai-je dit cela? Peut-être qu’elle était quand même intéressante… »
 
 Réévaluer la tâche peut réduire la dissonance.
 :::
 
 ::: {.notes}
-4 minutes. Une minute individuelle pour relever le résultat, deux minutes d'échange, puis explication et fragments. Raisonner à partir de la conduite contraire à l'appréciation initiale. La forte rémunération offre une justification externe; la faible rémunération laisse davantage à expliquer par une réévaluation interne. Les phrases sont des illustrations de l'interprétation, pas des citations de participants. Le graphique montre des moyennes finales entre groupes, pas le malaise ni le changement individuel. Demander un exemple différent d'une justification externe.
+4 minutes. Une minute individuelle pour relever le résultat, deux minutes d'échange, puis explication et fragments. Raisonner à partir de la conduite contraire à l'appréciation initiale. La forte rémunération offre une justification externe; la faible rémunération laisse davantage à expliquer par une réévaluation interne. Les phrases sont des illustrations de l'interprétation, pas des citations de personnes participantes. Le graphique montre des moyennes finales entre groupes, pas le malaise ni le changement individuel. Demander un exemple différent d'une justification externe.
 :::
 
 ## Pourquoi agir peut-il influencer nos attitudes?
@@ -1138,27 +1151,27 @@ Une minute. Gestion de l’impression : rappel de la présentation de soi et de 
 Deux minutes. Avant chaque dévoilement, demander quelle pensée pourrait illustrer la théorie de la colonne. Avancer une fois pour révéler ensemble la bulle et son indice, de gauche à droite; trois révélations. Le dossier doctoral est une motivation possible dans ces cas fictifs, pas une règle d’admission annoncée. Plusieurs motivations peuvent coexister. Dans la troisième scène, les indices internes sont peu clairs et la personne ne rapporte pas de contrainte ou d’avantage attendu; le seul fait de faire du bénévolat ne suffirait pas à inférer un intérêt. La deuxième scène explicite le malaise; une justification externe forte pourrait réduire ce conflit. Ne pas diagnostiquer une motivation réelle à partir d’une seule bulle.
 :::
 
-## Retour à Andréa : que dit-elle après son vote?
+## Un même geste suffit-il à expliquer une attitude?
 
-**Reprenez votre personnage. Choisissez une des trois explications.**
+**Une personne revient au laboratoire samedi. Quelle information manque-t-il?**
 
-Écrivez une bulle qui montre :
+| Pour envisager… | Il faudrait savoir… |
+|---|---|
+| Gestion de l’impression | Ce qu’elle veut montrer aux autres et ce qu’elle pense en privé |
+| Dissonance cognitive | Quelle contradiction la dérange et comment elle essaie de la réduire |
+| Perception de soi | Si son attitude était peu claire et ce qui explique son retour |
 
-- l’image qu’elle veut donner aux autres;
-- **ou** son malaise et une façon de le réduire;
-- **ou** ce qu’elle infère de son vote, alors que sa préférence était peu claire.
-
-**Présentez votre bulle et justifiez votre choix par un détail précis.**
+**Choisissez une ligne et proposez une question à lui poser.**
 
 ::: {.notes}
-Trois minutes, en remplacement de l’ancienne comparaison Noa/Alex : une minute d’écriture, deux minutes pour deux ou trois partages volontaires et une justification. Les équipes peuvent préciser leur récit pour rendre le mécanisme choisi plausible; si une préférence était déjà claire, ne pas appeler automatiquement l’inférence perception de soi. Une contrainte familiale ou un calcul stratégique peut expliquer le vote sans changement d’attitude. Pour la dissonance, exiger incompatibilité perçue et malaise; pour la gestion de l’impression, distinguer propos publics et attitude privée. Demander à une autre équipe une explication différente du même vote. Aucune opinion personnelle n’est demandée.
+Deux minutes, discussion collective courte plutôt qu’un second atelier politique. Ajustement après le retour du 13 octobre : le transfert des trois théories au vote a été difficile et redondant. Réutiliser le laboratoire déjà présenté. Le tableau est un débreffage; il ne permet pas de diagnostiquer automatiquement une motivation. Ne pas demander de nouvelle histoire complète.
 :::
 
 ## Pause — 10 minutes {#pause-2}
 
 **10 minutes**
 
-{{< include ../_quiz-timer.qmd >}}
+{{< include ../_minuterie.qmd >}}
 
 Proposez une chanson ou une photo de votre animal pour la pause.
 
@@ -1218,9 +1231,12 @@ Le modèle de vraisemblance de l’élaboration cognitive organise ces deux voie
 
 ## Une étude — Un examen de plus pour obtenir son diplôme?
 
-Des étudiants entendent un message proposant un **examen obligatoire avant l’obtention du diplôme**.
+Des personnes aux études universitaires entendent un message proposant un **examen obligatoire avant l’obtention du diplôme**.
 
-Pour un groupe, la mesure commencerait **l’année suivante**; pour l’autre, **dans dix ans**.
+| Quand commencerait l’examen? | Pourquoi cela change l’enjeu personnel? |
+|---|---|
+| **L’année suivante** | Les personnes participantes pourraient devoir le passer avant leur diplôme. |
+| **Dans dix ans** | Les personnes participantes auraient normalement déjà terminé leurs études. |
 
 **Le même sujet vous toucherait-il autant dans les deux situations?**
 
@@ -1232,15 +1248,17 @@ Pour un groupe, la mesure commencerait **l’année suivante**; pour l’autre, 
 Étude originale; pas une annonce de l'UQAR. Cette séquence complète le modèle du manuel, p. 205–206. Huit minutes pour les quatre diapositives, prédiction comprise.
 :::
 
-## Ce que les chercheurs font varier
+## Ce que les personnes chercheuses font varier
 
-| Élément | Deux versions |
+| Élément | Ce qui change dans le message |
 |---|---|
-| Conséquences personnelles | L’année suivante / Dans dix ans |
-| Arguments | Solides / Faibles |
-| Expertise annoncée | Commission spécialisée / Classe du secondaire |
+| Enjeu personnel | L’examen commencerait l’année suivante ou dans dix ans. |
+| Qualité des arguments | Le texte présente des arguments solides ou faibles en faveur de l’examen. |
+| Expertise annoncée | Le texte est attribué à une commission spécialisée ou à une classe du secondaire. |
 
 On recueille ensuite **l’attitude envers l’examen proposé**.
+
+**Selon l’enjeu personnel, quelle différence influencera davantage l’attitude : arguments solides/faibles ou expertise élevée/faible?**
 
 ::: {.notes}
 Les trois éléments sont croisés. Le message est enregistré avec la même voix. Éviter de faire apprendre les détails du protocole.
@@ -1260,19 +1278,21 @@ Une minute individuelle, puis une minute à deux. Recueillir deux prédictions a
 
 ## Résultat — Deux influences selon l’enjeu personnel
 
-| Situation | Influence plus forte observée |
-|---|---|
-| Examen l’année suivante | Qualité des arguments |
-| Examen dans dix ans | Expertise annoncée de la source |
+| Situation | Ce qui pèse davantage | Lien avec les voies |
+|---|---|---|
+| Examen l’année suivante : « Cela peut me toucher. » | Les arguments **solides** convainquent davantage que les arguments **faibles**. | **Voie centrale** : examiner le fond du message |
+| Examen dans dix ans : « Cela me touche moins. » | La source annoncée comme **experte** convainc davantage que la source annoncée comme **peu experte**. | **Voie périphérique** : se fier davantage à un indice de crédibilité |
 
-**Comment la motivation aide-t-elle à comprendre ces résultats?**
+**Un enjeu personnel peut motiver à examiner les arguments.**
+
+Cela ne garantit pas un traitement central : il faut aussi pouvoir comprendre et examiner le message.
 
 ::: {.credit}
 [Petty, Cacioppo et Goldman (1981), p. 851](https://richardepetty.com/wp-content/uploads/2019/01/1981-jpsp-pettycacioppogoldman.pdf). Résumé qualitatif des résultats.
 :::
 
 ::: {.notes}
-Faire relier aux voies centrale et périphérique. Ce résultat n'établit pas deux catégories fixes de personnes.
+Faire comparer solides/faibles lorsque l’enjeu est élevé, puis expertise élevée/faible lorsque l’enjeu est faible. Ce sont les effets relatifs des deux variables qui renseignent le traitement, pas la seule date de mise en place. La qualité des arguments ne disparait pas du protocole à faible enjeu; l’expertise ne disparait pas à fort enjeu. Les trois variables sont croisées; le tableau met en évidence le profil central sans prétendre que chaque autre influence est nulle. Les voies sont des interprétations du profil des résultats, pas un score individuel directement mesuré. Ce résultat n’établit pas deux catégories fixes de personnes.
 :::
 
 ## Une proposition politique : deux façons de la juger

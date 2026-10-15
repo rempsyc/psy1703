@@ -32,7 +32,7 @@ format:
 
 **Chapitre 3 et cours 3 · 10 minutes · Travail individuel**
 
-{{< include ../_quiz-timer.qmd >}}
+{{< include ../_minuterie.qmd >}}
 
 {{< include _connexion-quiz.qmd >}}
 
@@ -501,6 +501,8 @@ L’activité ouverte de pause sera ajoutée au fichier d’import à l’étape
 
 ## Atelier — l’énigme du « D’accord. » {#atelier}
 
+{{< include ../_minuterie.qmd >}}
+
 Votre collègue répond **« D’accord. »** deux heures après votre demande.
 
 En équipe de **3 ou 4**, produisez :
@@ -512,7 +514,7 @@ En équipe de **3 ou 4**, produisez :
 **Une personne porte-parole présentera votre meilleur test.**
 
 ::: {.notes}
-Atelier principal de 22 minutes : 2 minutes de consigne et formation; 9 minutes de production; 7 minutes de partage; 4 minutes de débreffage. Faire varier la composition des équipes tout en respectant les accommodements de proximité. La production attendue est un petit tableau hypothèse–indice–test. Le but n’est pas de trouver la « vraie » humeur de la collègue, mais d’apprendre à générer et discriminer des interprétations.
+Consignes et formation avant le démarrage; dix minutes de production; partage et débreffage ensuite, hors minuterie. Faire varier la composition des équipes tout en respectant les accommodements de proximité. La production attendue est un petit tableau hypothèse–indice–test. Le but n’est pas de trouver la « vraie » humeur de la collègue, mais d’apprendre à générer et discriminer des interprétations.
 :::
 
 ## Atelier — un canevas pour raisonner

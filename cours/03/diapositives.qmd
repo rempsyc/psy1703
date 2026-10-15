@@ -34,7 +34,7 @@ format:
 
 **Chapitres 1–2 et cours 1–2 · 10 minutes · Travail individuel**
 
-{{< include ../_quiz-timer.qmd >}}
+{{< include ../_minuterie.qmd >}}
 
 {{< include _reconnexion.qmd >}}
 
@@ -646,7 +646,9 @@ Elle veut préparer le prochain examen, mais elle évite ses notes et consulte s
 Lire la situation sans commencer à proposer des solutions. Toutes les équipes travaillent sur le même cas, mais à partir de pistes différentes. Andréa est un personnage fictif. La situation combine volontairement jugement global, croyance de capacité, conflit avec une distraction et réaction à la difficulté.
 :::
 
-## Atelier — concevoir une intervention (8 minutes)
+## Atelier — concevoir une intervention (10 minutes)
+
+{{< include ../_minuterie.qmd >}}
 
 En équipe de **3 ou 4**, choisissez une piste pour augmenter soit :
 
@@ -663,7 +665,7 @@ Proposez **une intervention concrète**, puis expliquez :
 **Une personne porte-parole partage votre proposition.**
 
 ::: {.notes}
-Atelier de vingt minutes : deux minutes pour présenter le cas et répartir les pistes, huit minutes de conception en équipes de trois ou quatre, six minutes de partage et quatre minutes de débreffage. Répartir les quatre pistes aussi également que possible; plusieurs équipes peuvent recevoir la même. Lors du partage, regrouper les propositions par piste et faire ressortir les mécanismes : valeur globale, croyance de capacité dans une tâche, aménagement de l’impulsion ou de la situation, attitude envers soi dans la difficulté. Inviter les équipes à combiner les idées après avoir défendu leur piste. Changer la composition ou la taille des équipes est possible pour favoriser de nouvelles interactions; préserver toutefois les appartenances Bleus/Ors et les accommodements de proximité.
+Présenter le cas et répartir les pistes avant de démarrer les dix minutes de conception en équipes. Le partage et le débreffage viennent ensuite, hors minuterie. Répartir les quatre pistes aussi également que possible; plusieurs équipes peuvent recevoir la même. Lors du partage, regrouper les propositions par piste et faire ressortir les mécanismes : valeur globale, croyance de capacité dans une tâche, aménagement de l’impulsion ou de la situation, attitude envers soi dans la difficulté. Inviter les équipes à combiner les idées après avoir défendu leur piste. Changer la composition ou la taille des équipes est possible pour favoriser de nouvelles interactions; préserver toutefois les appartenances Bleus/Ors et les accommodements de proximité.
 :::
 
 ## Connectez-vous à Wooclap {#connexion-ronde-2}

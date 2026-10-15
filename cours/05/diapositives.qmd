@@ -32,7 +32,7 @@ format:
 
 **Chapitre 4 et cours 4 · 10 minutes · Travail individuel**
 
-{{< include ../_quiz-timer.qmd >}}
+{{< include ../_minuterie.qmd >}}
 
 {{< include _connexion-quiz.qmd >}}
 
@@ -418,6 +418,8 @@ Dans l’évènement LNIHHZZ, activer la question ouverte de pause : réponses m
 
 ## Atelier : le dossier du retard {#atelier}
 
+{{< include ../_minuterie.qmd >}}
+
 **Équipes de trois ou quatre**
 
 Produisez :
@@ -430,7 +432,7 @@ Produisez :
 **Votre explication permet-elle une prédiction ou une comparaison à vérifier?**
 
 ::: {.notes}
-25 minutes protégées : 2 minutes consigne, 6 hypothèses, 5 nouveaux indices, 5 rédaction, 7 partage. Une personne porte-parole par équipe; entendre trois équipes, puis synthèse. Proximité et trio au besoin. Aucune expérience personnelle requise.
+Consignes avant le démarrage; dix minutes de travail incluant hypothèses, nouveaux indices et rédaction. Partage ensuite, hors minuterie. Montrer les nouveaux indices pendant le travail sans réinitialiser le minuteur. Une personne porte-parole par équipe; entendre trois équipes, puis synthèse. Proximité et trio au besoin. Aucune expérience personnelle requise.
 :::
 
 ## Dossier A : ce que vous savez

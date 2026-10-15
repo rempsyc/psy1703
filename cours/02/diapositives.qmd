@@ -465,9 +465,11 @@ Envoyez vos suggestions de **chansons** ou photos de **votre animal de compagnie
 
 ## Atelier 1 — Comment mesurer l’appartenance? {#atelier-appartenance}
 
+{{< include ../_minuterie.qmd >}}
+
 **Sentiment d’appartenance :** impression d’être accepté et de faire partie d’un groupe.
 
-**8 minutes · Trouvez un binôme de votre équipe Blancs-Ors ou Bleus-Noirs.**
+**10 minutes de travail · Trouvez un binôme de votre équipe Blancs-Ors ou Bleus-Noirs.**
 
 Une équipe de recherche veut mesurer le **sentiment d’appartenance à un groupe**. Elle propose de compter les prises de parole.
 
@@ -480,7 +482,7 @@ Sur papier ou dans vos notes, écrivez :
 Une personne rédige; l’autre vérifie ce que chaque mesure permet de conclure.
 
 ::: {.notes}
-Guide interne : guide-animation-ateliers.md, atelier 1. Minutage : 1 min formation, 1 min réflexion individuelle, 3 min en binôme, 3 min retour avec deux propositions. Un trio dans chaque équipe si nombre impair; aucun déplacement obligatoire. Exemple de question : « En ce moment, je me sens membre à part entière de ce groupe », de 1 pas du tout d’accord à 7 tout à fait d’accord. Proposition à évaluer, pas échelle validée. Prises de parole, présence et appartenance ne sont pas interchangeables. Introduire la triangulation au retour : confronter plusieurs indices sans supposer qu’ils mesurent tous le même construit. Exemples fictifs; aucune réponse personnelle à remettre. Source conceptuelle : Vallerand et Chénard-Poirier (2021), p. 45–51.
+Guide interne : guide-animation-ateliers.md, atelier 1. Pour réutilisation : dix minutes de travail après les consignes; formation et retour avec les équipes hors minuterie. Un trio dans chaque équipe si nombre impair; aucun déplacement obligatoire. Exemple de question : « En ce moment, je me sens membre à part entière de ce groupe », de 1 pas du tout d’accord à 7 tout à fait d’accord. Proposition à évaluer, pas échelle validée. Prises de parole, présence et appartenance ne sont pas interchangeables. Introduire la triangulation au retour : confronter plusieurs indices sans supposer qu’ils mesurent tous le même construit. Exemples fictifs; aucune réponse personnelle à remettre. Source conceptuelle : Vallerand et Chénard-Poirier (2021), p. 45–51.
 :::
 
 # Partie 2 — La science ouverte et au-delà
@@ -843,6 +845,8 @@ Réserve, hors parcours prévu. Schéma conservé intégralement comme trace de 
 
 ## Atelier 2 — Réparez cette étude (si nous avons le temps) {visibility="hidden"}
 
+{{< include ../_minuterie.qmd >}}
+
 **12 minutes · Même binôme; inversez les rôles.**
 
 **Étude fictive :** les Blancs-Ors discutent 10 minutes et les Bleus-Noirs réfléchissent seuls 2 minutes. On mesure ensuite leur certitude, de 0 à 100 pour les premiers et de 1 à 5 pour les seconds.
@@ -861,6 +865,8 @@ Guide interne, atelier 2 : 1 min lecture individuelle, 5 min rédaction, 2 min v
 :::
 
 ## Atelier 3 — Que peut-on honnêtement annoncer? (si nous avons le temps) {visibility="hidden"}
+
+{{< include ../_minuterie.qmd >}}
 
 **10 minutes · Même binôme.**
 
