@@ -28,7 +28,8 @@ Le **quiz 3 (1,25 % par quiz retenu)** porte sur le chapitre 4 et le cours 4. L�
 
 ## Après le cours
 
-Pour le **13 octobre**, lire le **chapitre 6 : les attitudes**. Le **quiz 4 (1,25 % par quiz retenu)** portera sur le chapitre 5 et le cours 5.
+Complétez les cas travaillés en classe par la lecture du chapitre 5. Reprenez les questions formatives et consultez le [guide de l’examen 2](../../examens/02/guide.qmd).
 
+Pour le 13 octobre : lire le chapitre 6. Quiz 4 : cours 5 et chapitre 5 (l’attribution), 1,25 %, 8 questions en 10 minutes. Le chapitre 6 sera évalué au quiz 5, pas au quiz 4.
 
 [Consulter le tableau des quiz et de leur matière](../../calendrier.qmd#quiz-quelle-matière-préparer).

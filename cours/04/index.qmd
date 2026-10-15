@@ -28,4 +28,8 @@ Vous travaillerez en équipe de trois ou quatre à partir d’un même cas ambig
 
 ## Après le cours
 
-Pour le **29 septembre**, préparez-vous à l’**examen 1 (25 %)**, qui porte sur les chapitres 1–4 et les cours 1–4.
+Complétez les cas travaillés en classe par la lecture du chapitre 4. Reprenez les questions formatives et consultez le [guide de l’examen 1](../../examens/01/guide.qmd).
+
+Pour le 29 septembre : examen 1, cours 1–4 et chapitres 1–4, 25 %, 90 minutes. Aucun quiz ni nouveau chapitre ce jour-là. Le chapitre 4 et le cours 4 seront évalués au quiz 3 du 6 octobre.
+
+[Consulter le tableau des quiz et de leur matière](../../calendrier.qmd#quiz-quelle-matière-préparer).
