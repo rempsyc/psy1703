@@ -5,7 +5,9 @@ subtitle: "Mesure des attitudes, dissonance et persuasion"
 
 **13 octobre 2026** · Lecture : chapitre 6 du manuel de Vallerand.
 
-Version du 12 octobre 2026.
+::: {.callout-note title="Version finale"}
+**Diapositives finales de la séance du 13 octobre 2026.** Des corrections ponctuelles peuvent encore être apportées.
+:::
 
 [Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary}
 
