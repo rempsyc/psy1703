@@ -59,11 +59,57 @@ Reprendre les mêmes dates et pondérations qu’en ouverture. Le quiz comporte 
 
 ## Plan de la séance
 
-1. **Les premières rencontres**
+1. **Communiquer et faire connaissance**
 2. **L’amour et l’attachement**
 3. **L’engagement et les conséquences des relations**
 
-**Pour commencer :** pourquoi certaines rencontres deviennent-elles des relations?
+**Pour commencer :** comment comprend-on ce que l’autre personne veut dire?
+
+## La communication verbale et non verbale
+
+La **communication** est un échange dans lequel les personnes transmettent des informations et construisent du sens ensemble.
+
+| Système | Exemples |
+|---|---|
+| **Verbal** : les mots, à l’oral ou à l’écrit | Une question, une invitation, un message texte |
+| **Non verbal** : les autres indices de l’échange | Le ton de la voix, le regard, les expressions du visage, les gestes, la distance |
+
+Ces indices se combinent pour interpréter un message.
+
+::: {.notes}
+3 minutes. Aperçu du chapitre 7, p. 222–225. Reformulation de la perspective de construction du sens. La communication verbale ne se limite pas à la parole; le ton est un indice non verbal qui accompagne les mots. Ne pas ajouter une typologie de sous-disciplines ni de pourcentages sur le poids du verbal/non-verbal.
+:::
+
+## Un message transmet aussi une relation
+
+L’**aspect informationnel** concerne le contenu du message.
+
+L’**aspect relationnel** concerne la façon dont les personnes se situent l’une par rapport à l’autre : proximité, distance, autorité, soutien…
+
+**« Tu peux fermer la porte? »**
+
+Selon le ton et la situation, la même phrase peut être une demande calme, un reproche ou une manière de préserver une conversation privée.
+
+::: {.notes}
+4 minutes. Chapitre 7, p. 223–224, 226–227 et 236–237. Exemple original. Faire entendre deux tons, puis donner le contexte. Les mots, le ton et la situation se combinent : un indice isolé ne détermine pas toujours le sens. Pas de vocabulaire détaillé des actes de langage à mémoriser.
+:::
+
+## « D’accord. » : qu’est-ce que Sam comprend?
+
+Alex propose une soirée de jeux. Sam répond : **« D’accord. »**
+
+- Sam sourit, regarde Alex et propose une heure.
+- Sam soupire, regarde ailleurs et ajoute : « Si tu y tiens… »
+
+**Les mots sont presque les mêmes. Quels autres indices changent l’interprétation?**
+
+::: {.fragment}
+Les échanges servent aussi à exprimer l’intérêt et à coordonner ce que l’on fera ensemble. Ils contribuent ainsi au développement d’une relation.
+:::
+
+::: {.notes}
+5 minutes, discussion collective comprise. Cas fictif, pas un second atelier. Relier les réponses aux deux systèmes et à l’aspect relationnel, sans diagnostiquer une émotion certaine. Le contexte pourrait modifier l’interprétation. Transition vers les premières rencontres. Sources conceptuelles : chapitre 7, p. 223–227 et 236–237. Les trois diapositives constituent un aperçu autonome de 12 minutes; chapitre 7 facultatif, sans lecture supplémentaire demandée.
+:::
 
 ## Qu’est-ce qu’une relation interpersonnelle?
 
@@ -115,23 +161,23 @@ Elle peut concerner une amitié ou une relation amoureuse.
 
 Aimer passer du temps avec Sam ne signifie pas nécessairement souhaiter une relation amoureuse.
 
-## La proximité
+## Proximité et familiarité
 
 La **proximité physique** facilite les occasions de rencontre et d’interaction.
 
-Même activité → rencontres possibles → conversations possibles.
-
-::: {.fragment}
-Une rencontre possible n’est pas encore une relation : il faut regarder ce qui se passe pendant les échanges.
-:::
-
-## La familiarité
-
 L’**effet de simple exposition** est la tendance à apprécier davantage un stimulus après des expositions répétées.
 
-Revoir un visage peut le rendre familier, avant même une longue conversation.
+**Sam et Alex fréquentent la même activité chaque semaine.**
 
-**Question :** croiser Alex chaque semaine et apprendre à connaitre Alex, est-ce la même chose?
+::: {.fragment}
+Le lieu et l’horaire rendent les rencontres possibles. Revoir Alex peut ensuite rendre son visage plus familier.
+:::
+
+**Quel indice montre la proximité? Que faudrait-il observer pour parler d’un effet de simple exposition?**
+
+::: {.notes}
+Manuel p. 252. Environ quatre minutes avec le cas. Distinguer possibilité de contact, exposition répétée et échanges réels. Faire envisager une activité à distance ou des horaires différents pour voir ce qui change. La proximité peut augmenter les occasions de contact sans garantir une relation. Contraste à expliciter : même lieu/horaire = proximité; appréciation accrue après plusieurs expositions = effet de simple exposition. Une répétition seule ne démontre pas que l’appréciation a augmenté. Faire modifier un seul détail du cas pour passer de l’occasion de contact au changement d’appréciation. La prochaine étude isole une exposition sans conversation.
+:::
 
 ## Voir plus souvent, apprécier davantage?
 
@@ -312,36 +358,51 @@ Une personne porte-parole résume la discussion en 30 secondes.
 - Quels détails du cas les illustrent?
 - Quel détail faudrait-il changer pour illustrer un autre facteur?
 
-## La révélation de soi
+## Révélation de soi et intimité
 
-La **révélation de soi** consiste à communiquer à une autre personne des informations personnelles à son sujet.
-
-La profondeur des échanges peut évoluer : loisirs → préoccupations → projets importants.
-
-Un échange se construit avec l’écoute et les réponses de l’autre personne.
-
-::: {.notes}
-Reprendre Sam et Alex; inventer les répliques. Ne pas demander un exercice de dévoilement intime dans la classe.
-:::
-
-## L’intimité
+La **révélation de soi** consiste à communiquer des informations personnelles à son sujet.
 
 L’**intimité** renvoie au sentiment de proximité et de lien dans une relation.
 
-Se dévoiler peut contribuer à l’intimité lorsque la personne se sent comprise et accueillie.
+**Alex raconte une déception. Comparez les deux réponses de Sam :**
 
-**Application :** Alex raconte une déception. Comparez « Tu exagères » et « Qu’est-ce qui t’a le plus affecté? ».
+- « Tu exagères. »
+- « Qu’est-ce qui t’a le plus affecté? »
+
+::: {.fragment}
+**Quel indice montre la révélation de soi? Quelle information manque pour savoir si Alex ressent davantage d’intimité?**
+:::
+
+::: {.notes}
+Manuel p. 254–255. Environ cinq minutes. Faire inventer une réponse attentive supplémentaire et expliquer ce qui, dans cette réponse, peut faire sentir à Alex que son vécu est compris. La révélation décrit une communication; l’intimité décrit le lien ressenti. L’une ne garantit pas automatiquement l’autre. Après les réponses, contraster explicitement : raconter une déception est une révélation de soi; se sentir plus proche est un indice d’intimité. Ajouter « Après cet échange, Alex se sent plus proche de Sam » et faire identifier ce que cette information permet maintenant de conclure. Aucune confidence demandée à la classe.
+:::
 
 ## L’inclusion de l’autre en soi
 
 L’**inclusion de l’autre en soi** est l’intégration de ressources et d’aspects de l’autre personne dans sa représentation de soi.
 
-Sam apprend un jeu grâce à Alex, découvre son cercle d’amitié et commence à se voir comme une personne capable d’animer une soirée.
+::: {.columns}
+::: {.column width="33%"}
+![](assets/inclusion-soi-1.svg){height=250 fig-alt="Deux cercles distincts, étiquetés Soi et Autre, sans chevauchement."}
+:::
+::: {.column width="34%"}
+![](assets/inclusion-soi-2.svg){height=250 fig-alt="Les cercles Soi et Autre se chevauchent partiellement."}
+:::
+::: {.column width="33%"}
+![](assets/inclusion-soi-3.svg){height=250 fig-alt="Les cercles Soi et Autre se chevauchent fortement."}
+:::
+:::
 
-**Quel changement concerne ici la façon dont Sam se perçoit?**
+**Davantage de chevauchement représente une plus grande inclusion perçue de l’autre en soi.**
+
+**Que représente la zone commune aux deux cercles?**
+
+::: {.credit}
+Visualisation avec [Rémi Thériault, rempsyc — overlap_circle](https://rempsyc.remi-theriault.com/reference/overlap_circle.html). Trois exemples illustratifs; styles adaptés.
+:::
 
 ::: {.notes}
-Manuel p. 254; glossaire p. 443. Ressources matérielles, personnelles ou informationnelles. Le concept dépasse le partage d’un loisir.
+Manuel p. 254; glossaire p. 443. Ressources matérielles, personnelles ou informationnelles. Exemple fictif à raconter : Sam découvre les jeux et le cercle d’amitié d’Alex, puis commence à se voir comme une personne capable d’animer une soirée. Quel changement concerne la façon dont Sam se perçoit? Le concept dépasse le partage d’un loisir. Les cercles reprennent la représentation visuelle du soi et de l’autre utilisée dans l’échelle IOS. Présenter ici trois exemples, sans administrer l’échelle ni demander de confidences. Ils ne montrent pas des résultats d’étude ou des étapes obligatoires. La fonction overlap_circle a été développée par Rémi Thériault; elle produit des chevauchements à partir d’un score IOS. Les nombres sont masqués pour centrer l’attention sur le concept. Ne pas présenter le chevauchement comme un pourcentage littéral d’identité partagée ni comme un idéal à maximiser.
 :::
 
 ## Le schéma relationnel
@@ -408,78 +469,81 @@ Proposez une chanson ou une photo de votre animal pour la pause.
 Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson et de photo, sans imposer de participation personnelle.
 :::
 
-## La passion harmonieuse et la passion obsessive
-
-La **passion harmonieuse** laisse une place aux autres sphères de vie et se vit avec un sentiment de choix.
-
-La **passion obsessive** comporte une pression intérieure difficile à contrôler et peut prendre une place disproportionnée.
-
-**Cas fictif :** Alex veut voir Sam, mais peut aussi se consacrer à ses amitiés et à ses études. Quel indice renseigne sur la forme de passion?
-
-::: {.notes}
-Modèle dualiste, manuel p. 259–260. Le désir intense ne suffit pas à identifier la passion obsessive. Les études rapportées relient la passion harmonieuse à plusieurs indicateurs de qualité relationnelle et à des comportements plus constructifs dans les conflits.
-:::
-
-## L’attachement adulte
+## L’attachement : deux dimensions
 
 L’**attachement** est un lien affectif qui pousse à chercher la proximité d’une personne pouvant apporter attention et réconfort.
-
-Le modèle adulte s’organise autour de deux dimensions :
 
 - **Anxiété d’abandon** : crainte de perdre l’affection de l’autre ou de voir la relation se terminer.
 - **Évitement de l’intimité** : inconfort devant la proximité et la dépendance affective.
 
-::: {.notes}
-Manuel p. 260–262; glossaire p. 438, 444–445. Définir avant les quatre profils. Les styles sont relativement stables mais peuvent changer et varier selon la relation.
-:::
-
-## Quatre styles d’attachement
-
-| | Anxiété d’abandon faible | Anxiété d’abandon élevée |
+::: {.fragment}
+| | Anxiété faible | Anxiété élevée |
 |---|---|---|
 | **Évitement faible** | Sécurisant | Préoccupé |
 | **Évitement élevé** | Détaché | Craintif |
-
-**Exemple fictif :** « J’ai peur que Sam me quitte, mais je suis aussi mal à l’aise quand nous devenons proches. »
-
-Repérez les deux dimensions, puis le style correspondant.
-
-::: {.notes}
-Matrice originale d’après p. 260–261. Réponse : anxiété et évitement élevés, style craintif. Hyperactivation : vigilance et recherche accrue de proximité, notamment dans le profil préoccupé. Désactivation : minimisation de l’importance du lien et mise à distance, notamment dans le profil détaché. Ne pas diagnostiquer les personnes de la classe.
 :::
 
-## Les échanges dans une relation
+::: {.notes}
+Manuel p. 260–262; glossaire p. 438, 444–445. Prendre environ quatre minutes : définir chaque dimension, puis construire les quatre combinaisons avec la classe. Les styles sont relativement stables mais peuvent changer et varier selon la relation. La matrice est une représentation conceptuelle originale. Passer ensuite au même évènement interprété de différentes façons.
+:::
 
-Une approche par l’**échange social** examine les avantages et les couts perçus d’une relation.
+## Sam attend une réponse d’Alex
 
-Une conversation peut apporter du soutien; un conflit répété peut être vécu comme un cout.
+**Alex ne répond pas depuis quelques heures. Voici trois réactions fictives de Sam :**
 
-Les attentes et les possibilités perçues ailleurs influencent aussi l’évaluation de la relation.
+1. « Alex n’est sans doute pas disponible. Je lui raconterai ma journée plus tard. »
+2. « Et si Alex ne voulait plus me voir? Je vais envoyer plusieurs messages. »
+3. « J’aimerais avoir une réponse, mais parler de ce que je ressens me met mal à l’aise. »
 
-## L’équité
+**Pour chaque réaction : quel indice concerne la peur de perdre le lien? Lequel concerne l’inconfort devant la proximité?**
 
-L’**équité** correspond à une perception de justice dans le rapport entre les contributions et les bénéfices de chaque personne.
+::: {.notes}
+Environ cinq minutes de discussion guidée, pas un atelier supplémentaire. Réactions illustratives, pas des données ni un diagnostic. La première est compatible avec peu d’anxiété; elle ne suffit pas à établir tout un style. La deuxième illustre une anxiété plus élevée et une recherche accrue de proximité. La troisième illustre l’inconfort devant l’intimité; vouloir une réponse ne suffit pas à conclure à une anxiété d’abandon élevée. Reprendre les deux dimensions plutôt que forcer une étiquette à partir d’une phrase. Contraster explicitement ce qui est redouté : perdre le lien pour l’anxiété d’abandon; se rapprocher ou dépendre affectivement pour l’évitement. Les deux peuvent coexister. Pour illustrer le profil craintif : ajouter explicitement à la troisième réaction « J’ai peur que notre relation se termine ». Pour le profil détaché : faible peur d’abandon et mise à distance de l’intimité. Montrer comment une information supplémentaire change l’interprétation. Manuel p. 260–262.
+:::
 
-**Exemple fictif :** une personne prépare les repas; l’autre fait les courses et la vaisselle.
+## Les échanges et l’équité
 
-Équité ne signifie pas nécessairement réaliser les mêmes tâches.
+L’**échange social** examine les avantages et les couts perçus d’une relation.
 
-## Satisfaction et engagement
+L’**équité** est la perception d’un rapport juste entre les contributions et les bénéfices de chaque personne.
 
-La **satisfaction** porte sur l’évaluation de la relation.
+::: {.fragment}
+**Sam prépare les repas; Alex fait les courses et la vaisselle.**
 
-L’**engagement** est le processus par lequel une personne se sent liée à une autre, ce lien influençant son intention de poursuivre la relation.
+Sam apprécie cuisiner, mais trouve fatigant de devoir aussi prendre en charge tous les menus.
 
-Une personne peut être insatisfaite tout en restant engagée : examinons ses investissements et les autres possibilités qu’elle perçoit.
+**Quelles informations faudrait-il connaitre pour comprendre si le partage leur semble équitable?**
+:::
 
-## Un modèle de l’engagement
+::: {.notes}
+Manuel p. 249–250; glossaire p. 441. Environ quatre minutes sur ce cas. Examiner charge perçue, préférences, ressources, bénéfices et point de vue des deux personnes. Faire proposer une redistribution fictive puis discuter ce qu’elle change. L’équité n’exige pas des tâches identiques. Ne pas réduire la relation à une comptabilité objective ou déclarer le partage juste à partir de sa seule description.
+:::
+
+## Satisfaction et engagement : deux questions
+
+| Notion | Question à distinguer |
+|---|---|
+| **Satisfaction** : évaluation de la relation selon les attentes et les échanges vécus | « Cette relation me convient-elle? » |
+| **Engagement** : lien qui influence l’intention de poursuivre la relation | « Est-ce que je compte poursuivre cette relation? » |
+
+Le **niveau de comparaison** correspond au standard utilisé pour évaluer ce que l’on reçoit.
+
+::: {.fragment}
+Une réponse moins favorable à la première question n’impose pas automatiquement la même réponse à la seconde. Quelles autres informations aideraient à comprendre?
+:::
+
+::: {.notes}
+Manuel p. 250 et 262–264; glossaire p. 441, 445. Trois minutes. D’abord définir et contraster les deux opérations, puis recueillir les propositions avant le modèle. Reprendre deux phrases : « Je suis bien dans cette relation » renseigne sur la satisfaction; « Je compte poursuivre cette relation » renseigne sur l’engagement. Demander quelle information manque dans chaque phrase pour conclure sur l’autre notion. Attentes et satisfaction ne sont pas identiques à la qualité des autres possibilités. Éviter d’assimiler toute continuation à une relation satisfaisante.
+:::
+
+## Le modèle de l’investissement
 
 Les **investissements** sont les ressources consacrées à la relation qui seraient perdues ou diminuées si elle se terminait.
 
-Les **autres possibilités** comprennent une autre relation ou la vie sans cette relation.
+Les **autres possibilités** comprennent une autre relation ou la vie sans cette relation. Leur évaluation correspond au **niveau de comparaison des options possibles**.
 
 ::: {.fragment}
-| Dans le modèle de l’investissement… | Engagement généralement attendu |
+| Dans le modèle… | Engagement généralement attendu |
 |---|---|
 | Plus de satisfaction | Plus fort |
 | Plus d’investissements | Plus fort |
@@ -487,31 +551,28 @@ Les **autres possibilités** comprennent une autre relation ou la vie sans cette
 :::
 
 ::: {.notes}
-Schéma conceptuel original du modèle de l’investissement. Définir investissements : ressources qui seraient perdues ou diminuées si la relation cessait. Qualité des autres possibilités : évaluation des solutions possibles hors de la relation, y compris la vie sans partenaire. Ne pas en faire une recommandation de rester.
+Manuel p. 250 et 262–263. Environ quatre minutes; révéler le tableau après les prédictions de la classe. Définir les ressources par des exemples concrets : temps, projets communs, réseau partagé. Les possibilités ne se limitent pas à une nouvelle personne partenaire. Passer au cas suivant plutôt que multiplier les nouveaux termes.
 :::
 
-## Deux niveaux de comparaison
+## Pourquoi Sam poursuit cette relation?
 
-Le **niveau de comparaison** est le standard avec lequel une personne évalue ce qu’elle reçoit dans la relation.
+**Sam dit : « Les disputes me pèsent, mais je compte poursuivre notre relation. »**
 
-Le **niveau de comparaison des options possibles** concerne ce qu’elle pense pouvoir obtenir dans une autre relation ou en l’absence de relation.
-
-**Deux questions :** « Cette relation répond-elle à mes attentes? » et « Quelles autres possibilités ai-je? »
-
-::: {.notes}
-Manuel p. 250; glossaire p. 445. Le premier éclaire la satisfaction; le second aide à comprendre la dépendance et les possibilités de continuation ou de départ.
+::: {.fragment}
+Sam et Alex ont consacré beaucoup de temps à un projet commun et partagent un cercle d’amitié.
 :::
 
-## L’engagement d’obligation et l’engagement personnel
+::: {.fragment}
+Sam imagine difficilement une vie satisfaisante sans cette relation.
+:::
 
-**Engagement d’obligation** : se sentir lié par des contraintes, des normes ou les couts d’une rupture.
+**Quels éléments éclairent la satisfaction? Lesquels éclairent l’engagement?**
 
-**Engagement personnel** : vouloir maintenir une relation à laquelle on accorde une valeur personnelle.
-
-**Exemple fictif :** « Je reste parce que je le souhaite » ou « Je reste parce que je me sens dans l’obligation de le faire ».
+**Si Sam découvrait des possibilités satisfaisantes en dehors de cette relation, que prédit le modèle pour son engagement?**
 
 ::: {.notes}
-Manuel p. 263–264; glossaire p. 441. Les deux formes peuvent coexister. Le modèle de l’investissement prédit l’engagement sans suffire à expliquer toutes les motivations de la continuation.
+Environ cinq minutes. Cas fictif, pas un conseil de vie. Faire identifier d’abord ce qui est connu : les disputes sont vécues comme un cout; le jugement global de satisfaction n’est pas entièrement connu. Les projets et le réseau peuvent être des investissements dans la mesure où leur perte serait perçue en cas de rupture. La troisième information concerne la qualité perçue des autres possibilités. Selon le modèle, de meilleures possibilités vont dans le sens d’un engagement plus faible, les autres facteurs étant comparables; elles ne déterminent pas à elles seules une rupture.
+En prolongement oral seulement si utile : l’engagement personnel renvoie à la valeur accordée au lien; l’engagement d’obligation aux contraintes/normes/couts de rupture. Demander quelle information manque pour distinguer ces motivations chez Sam, plutôt qu’attribuer automatiquement un motif à sa décision. Manuel p. 263–264.
 :::
 
 ## Le soutien social

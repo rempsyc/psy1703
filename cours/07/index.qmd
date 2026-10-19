@@ -5,14 +5,14 @@ subtitle: "Attraction, formation et maintien des relations"
 
 **20 octobre 2026** · Lecture : chapitre 8 du manuel de Vallerand.
 
-Version initiale du 15 octobre 2026.
+Version du 19 octobre 2026.
 
 [Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary}
 
 ## À retenir
 
 - Expliquer les facteurs qui favorisent l’attraction interpersonnelle.
-- Distinguer les processus qui contribuent à la formation d’une relation.
+- Reconnaitre les indices verbaux et non verbaux d’un échange et les relier à la formation d’une relation.
 - Appliquer des modèles du maintien des relations à des situations fictives.
 
 ## Pour participer
