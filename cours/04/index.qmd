@@ -25,11 +25,3 @@ subtitle: "Sélectionner, organiser et juger l’information sociale"
 Apportez un **téléphone, une tablette ou un ordinateur bien chargé** pour participer aux activités Wooclap et compléter les **quiz évalués obligatoires**. L’accès sera affiché en classe.
 
 Vous travaillerez en équipe de trois ou quatre à partir d’un même cas ambigu.
-
-## Après le cours
-
-Complétez les cas travaillés en classe par la lecture du chapitre 4. Reprenez les questions formatives et consultez le [guide de l’examen 1](../../examens/01/guide.qmd).
-
-Pour le 29 septembre : examen 1, cours 1–4 et chapitres 1–4, 25 %, 90 minutes. Aucun quiz ni nouveau chapitre ce jour-là. Le chapitre 4 et le cours 4 seront évalués au quiz 3 du 6 octobre.
-
-[Consulter le tableau des quiz et de leur matière](../../calendrier.qmd#quiz-quelle-matière-préparer).

@@ -20,9 +20,3 @@ Version du 19 octobre 2026.
 Apportez un appareil chargé pour Wooclap et les quiz évalués obligatoires. Les accès seront communiqués en classe.
 
 Quiz 5 : cours 6 et chapitre 6, 1,25 %, 8 questions en 10 minutes. Atelier en équipes de 3 ou 4, sans confidences personnelles.
-
-## Après le cours
-
-Pour le 3 novembre : lire le chapitre 9. Quiz 6 : cours 7 et chapitre 8, 1,25 %, 8 questions en 10 minutes. Le 27 octobre est la semaine de lecture, sans cours.
-
-[Guide de l’examen 2](../../examens/02/guide.qmd) · [Calendrier des quiz](../../calendrier.qmd#quiz-quelle-matière-préparer)
