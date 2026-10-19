@@ -8,12 +8,12 @@ Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie soc
 
 ## Prochaine séance
 
-### Cours 6 — Les attitudes
+### Cours 7 — Communication sociale et relations interpersonnelles
 
-**Mardi 13 octobre 2026 · 13 h 15 à 16 h 05**<br>
+**Mardi 20 octobre 2026 · 13 h 15 à 16 h 05**<br>
 **Campus de Rimouski · Local J462**
 
-[Voir la page du cours 6](cours/06/index.qmd){.btn .btn-primary .btn-lg}
+[Voir la page du cours 7](cours/07/index.qmd){.btn .btn-primary .btn-lg}
 
 ## Comment utiliser ce site
 
