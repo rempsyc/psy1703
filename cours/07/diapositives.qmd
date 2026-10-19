@@ -67,13 +67,13 @@ Reprendre les mêmes dates et pondérations qu’en ouverture. Le quiz comporte 
 
 ## Que se passe-t-il entre ces personnes?
 
-**Pendant le visionnement sans son, notez : 1. les émotions; 2. le sujet de la conversation.**
+**Sans son, notez : 1. les émotions; 2. le sujet.**
 
 ```{=html}
-<iframe id="ramdam-extrait" width="1200" height="480" src="https://www.youtube.com/embed/yn9RoD24bDY?start=21&end=63&mute=1&cc_load_policy=0&rel=0" title="Ramdam — échange entre deux personnages" allow="autoplay; fullscreen; encrypted-media" allowfullscreen></iframe>
+<iframe id="ramdam-extrait" width="1450" height="540" src="https://www.youtube.com/embed/yn9RoD24bDY?start=27&end=63&mute=1&cc_load_policy=0&rel=0" title="Ramdam — échange entre deux personnages" allow="autoplay; fullscreen; encrypted-media" allowfullscreen></iframe>
 <div style="display:flex;gap:18px;margin-top:12px">
-<button type="button" onclick="document.getElementById('ramdam-extrait').src='https://www.youtube.com/embed/yn9RoD24bDY?start=30&amp;end=63&amp;mute=1&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer sans son</button>
-<button type="button" onclick="document.getElementById('ramdam-extrait').src='https://www.youtube.com/embed/yn9RoD24bDY?start=30&amp;end=63&amp;mute=0&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer avec son</button>
+<button type="button" onclick="document.getElementById('ramdam-extrait').src='https://www.youtube.com/embed/yn9RoD24bDY?start=27&amp;end=63&amp;mute=1&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer sans son</button>
+<button type="button" onclick="document.getElementById('ramdam-extrait').src='https://www.youtube.com/embed/yn9RoD24bDY?start=27&amp;end=63&amp;mute=0&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer avec son</button>
 </div>
 ```
 
@@ -135,6 +135,25 @@ Selon le ton et la situation, la même phrase peut être une demande calme, un r
 4 minutes. Chapitre 7, p. 223–224, 226–227 et 236–237. Exemple original. Faire entendre deux tons, puis donner le contexte. Les mots, le ton et la situation se combinent : un indice isolé ne détermine pas toujours le sens. Pas de vocabulaire détaillé des actes de langage à mémoriser.
 :::
 
+## Un intérêt réciproque?
+
+**Manolo et Constance : quels signes d’attirance réciproque?**
+
+```{=html}
+<iframe id="ramdam-attraction" width="1450" height="540" src="https://www.youtube.com/embed/bWQuCQm-X20?start=878&end=983&cc_load_policy=0&rel=0" title="Ramdam — Manolo et Constance" allow="autoplay; fullscreen; encrypted-media" allowfullscreen></iframe>
+<div style="display:flex;gap:18px;margin-top:12px">
+<button type="button" onclick="document.getElementById('ramdam-attraction').src='https://www.youtube.com/embed/bWQuCQm-X20?start=878&amp;end=983&amp;mute=0&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer</button>
+</div>
+```
+
+::: {.credit}
+Ramdam · Manolo et Constance · Extrait de 14:38 à 16:26 · [Ouvrir la vidéo](https://www.youtube.com/watch?v=bWQuCQm-X20&t=878s).
+:::
+
+::: {.notes}
+Ouverture du thème des relations après l’aperçu de communication. Montrer avec son : on cherche ici à comprendre l’attirance et l’incertitude quant à sa réciprocité. Avant : demander de retenir un indice pour chaque personne. Après : environ une minute de discussion, en séparant ce que Manolo éprouve, ce qu’il communique effectivement et ce que Constance manifeste. Distinguer les pensées ou situations imaginées du personnage de l’échange réel. Son hésitation ne permet pas à elle seule de conclure sur l’intérêt de Constance. Recueillir les indices favorables à une interprétation et ceux qui restent ambigus, sans résoudre toute l’histoire. Reprendre brièvement cette scène à la diapositive sur l’attirance réciproque. Environ trois minutes au total, vidéo comprise; raccourcir le cas « Deux personnes, trois rencontres » au besoin. Le bouton « Rejouer » relance le même extrait avec son; le premier visionnement se fait aussi avec son. Repli : raconter une situation fictive où une personne souhaite inviter l’autre, hésite, puis reçoit une proposition de rencontre sans déclaration explicite d’attirance.
+:::
+
 ## Qu’est-ce qu’une relation interpersonnelle?
 
 Une **relation interpersonnelle** est un lien continu entre des personnes qui s’influencent mutuellement dans un contexte social et au fil du temps.
@@ -165,7 +184,9 @@ Manuel p. 250. La théorie examine les effets des échanges sur les pensées, le
 
 ## Deux personnes, trois rencontres
 
-Sam et Alex se croisent à une activité de jeux.
+*Imaginons d’autres situations avec Manolo et Constance pour explorer les concepts.*
+
+Manolo et Constance se croisent à une activité de jeux.
 
 - Première semaine : un bref bonjour.
 - Deuxième semaine : une discussion sur un jeu apprécié.
@@ -174,7 +195,7 @@ Sam et Alex se croisent à une activité de jeux.
 Qu’est-ce qui a changé entre la première et la troisième rencontre?
 
 ::: {.notes}
-Cas fictif récurrent. Recueillir des observations, sans demander de raconter une relation personnelle. Les notions qui suivent servent à préciser les explications.
+Cas fictif récurrent utilisant Manolo et Constance comme repères mémorables. Les situations inventées sont des variantes indépendantes et ne doivent pas correspondre à la chronologie de Ramdam. Présenter cette convention une seule fois, puis jouer librement les exemples. Recueillir des observations, sans demander de raconter une relation personnelle. Les notions qui suivent servent à préciser les explications.
 :::
 
 ## L’attraction interpersonnelle
@@ -183,7 +204,7 @@ L’**attraction interpersonnelle** désigne une évaluation positive d’une au
 
 Elle peut concerner une amitié ou une relation amoureuse.
 
-Aimer passer du temps avec Sam ne signifie pas nécessairement souhaiter une relation amoureuse.
+Aimer passer du temps avec Manolo ne signifie pas nécessairement souhaiter une relation amoureuse.
 
 ## Proximité et familiarité
 
@@ -197,10 +218,10 @@ L’**effet de simple exposition** : les expositions répétées peuvent augment
 La familiarité contribue ainsi à expliquer l’effet de proximité, dans la formation d’amitiés comme de relations amoureuses.
 :::
 
-**Sam et Alex habitent le même immeuble et se croisent souvent. Quel indice montre la proximité? Que faudrait-il observer pour parler d’un effet de simple exposition?**
+**Manolo et Constance habitent le même immeuble et se croisent souvent. Quel indice montre la proximité? Que faudrait-il observer pour parler d’un effet de simple exposition?**
 
 ::: {.notes}
-Manuel p. 252. Environ quatre minutes. Développer la chaine : habiter près facilite la première rencontre, mais aussi les rencontres suivantes, parce que les occasions reviennent et demandent moins d’organisation. La répétition peut rendre la personne plus familière et favoriser l’appréciation. La familiarité est une explication de l’effet de proximité, pas son unique mécanisme ni une garantie d’amitié ou d’amour. Contraste : même immeuble = proximité; croiser souvent = exposition répétée; apprécier davantage après ces rencontres = changement à observer pour illustrer la simple exposition. Ajouter « Au fil des semaines, Sam apprécie davantage Alex » après les réponses de la classe. Si utile, demander de penser en privé au contexte d’une rencontre amicale, sans nommer la personne : qu’est-ce qui permettait de se revoir? Possibilité d’utiliser le cas fictif seulement. Transfert : dans une nouvelle ville, quelle activité régulière pourrait créer des occasions de revoir les mêmes personnes? Intégrer cette question au temps prévu, sans nouvel atelier. La prochaine étude examine une exposition sans conversation.
+Manuel p. 252. Environ quatre minutes. Développer la chaine : habiter près facilite la première rencontre, mais aussi les rencontres suivantes, parce que les occasions reviennent et demandent moins d’organisation. La répétition peut rendre la personne plus familière et favoriser l’appréciation. La familiarité est une explication de l’effet de proximité, pas son unique mécanisme ni une garantie d’amitié ou d’amour. Contraste : même immeuble = proximité; croiser souvent = exposition répétée; apprécier davantage après ces rencontres = changement à observer pour illustrer la simple exposition. Ajouter « Au fil des semaines, Manolo apprécie davantage Constance » après les réponses de la classe. Si utile, demander de penser en privé au contexte d’une rencontre amicale, sans nommer la personne : qu’est-ce qui permettait de se revoir? Possibilité d’utiliser le cas fictif seulement. Transfert : dans une nouvelle ville, quelle activité régulière pourrait créer des occasions de revoir les mêmes personnes? Intégrer cette question au temps prévu, sans nouvel atelier. La prochaine étude examine une exposition sans conversation.
 :::
 
 ## Voir plus souvent, apprécier davantage?
@@ -247,7 +268,7 @@ Brooke Miller, khanacademymedicine, 2014. Extrait 2:54–3:43, anglais. Faire ex
 
 La **similitude** correspond à des ressemblances entre les personnes, notamment dans leurs attitudes et leurs intérêts.
 
-Sam et Alex découvrent aimer les jeux coopératifs.
+Manolo et Constance découvrent aimer les jeux coopératifs.
 
 ::: {.fragment}
 Précisez ce qui se ressemble : les gouts, les valeurs, les habitudes ou les attentes?
@@ -257,10 +278,14 @@ Précisez ce qui se ressemble : les gouts, les valeurs, les habitudes ou les att
 
 L’**attirance réciproque** : apprendre qu’une personne nous apprécie peut favoriser notre attirance envers elle.
 
-« Alex m’a dit avoir aimé notre conversation. »
+« Constance m’a dit avoir aimé notre conversation. »
 
 ::: {.fragment}
-Ce nouvel indice porte sur ce qu’Alex ressent; il ne prouve pas que Sam et Alex se ressemblent.
+Ce nouvel indice porte sur ce que Constance ressent; il ne prouve pas que Manolo et Constance se ressemblent.
+:::
+
+::: {.notes}
+Retour bref à Manolo et Constance : quels indices de la scène permettent de penser que l’intérêt pourrait être réciproque? Quelle information manque encore? Distinguer pensées de Manolo et indices exprimés par Constance.
 :::
 
 ## Deux envies à concilier
@@ -316,7 +341,7 @@ Présenter les questions dans Wooclap, puis reprendre à la pause. Les diapositi
 
 ## 1. Même corridor, mêmes horaires
 
-Sam et Alex empruntent régulièrement le même corridor.
+Manolo et Constance empruntent régulièrement le même corridor.
 
 **Quel facteur facilite leurs rencontres?**
 
@@ -364,7 +389,7 @@ Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson 
 
 **Équipes de 3 ou 4 · 10 minutes de discussion**
 
-Sam et Alex se croisent chaque semaine à une activité. Ils découvrent des intérêts communs. Alex dit à Sam avoir apprécié leur conversation.
+Manolo et Constance se croisent chaque semaine à une activité. Ils découvrent des intérêts communs. Constance dit à Manolo avoir apprécié leur conversation.
 
 1. Repérez **deux facteurs d’attirance** et l’indice concret de chacun.
 2. Changez **un seul détail** du cas : comment votre explication change-t-elle?
@@ -388,17 +413,17 @@ La **révélation de soi** consiste à communiquer des informations personnelles
 
 L’**intimité** renvoie au sentiment de proximité et de lien dans une relation.
 
-**Alex raconte une déception. Comparez les deux réponses de Sam :**
+**Constance raconte une déception. Comparez les deux réponses de Manolo :**
 
 - « Tu exagères. »
-- « Qu’est-ce qui t’a le plus affecté? »
+- « Qu’est-ce qui t’a le plus affectée? »
 
 ::: {.fragment}
-**Quel indice montre la révélation de soi? Quelle information manque pour savoir si Alex ressent davantage d’intimité?**
+**Quel indice montre la révélation de soi? Quelle information manque pour savoir si Constance ressent davantage d’intimité?**
 :::
 
 ::: {.notes}
-Manuel p. 254–255. Environ cinq minutes. Faire inventer une réponse attentive supplémentaire et expliquer ce qui, dans cette réponse, peut faire sentir à Alex que son vécu est compris. La révélation décrit une communication; l’intimité décrit le lien ressenti. L’une ne garantit pas automatiquement l’autre. Après les réponses, contraster explicitement : raconter une déception est une révélation de soi; se sentir plus proche est un indice d’intimité. Ajouter « Après cet échange, Alex se sent plus proche de Sam » et faire identifier ce que cette information permet maintenant de conclure. Aucune confidence demandée à la classe.
+Manuel p. 254–255. Environ cinq minutes. Faire inventer une réponse attentive supplémentaire et expliquer ce qui, dans cette réponse, peut faire sentir à Constance que son vécu est compris. La révélation décrit une communication; l’intimité décrit le lien ressenti. L’une ne garantit pas automatiquement l’autre. Après les réponses, contraster explicitement : raconter une déception est une révélation de soi; se sentir plus proche est un indice d’intimité. Ajouter « Après cet échange, Constance se sent plus proche de Manolo » et faire identifier ce que cette information permet maintenant de conclure. Aucune confidence demandée à la classe.
 :::
 
 ## L’inclusion de l’autre en soi
@@ -422,7 +447,7 @@ Visualisation avec [Rémi Thériault, rempsyc — overlap_circle](https://rempsy
 :::
 
 ::: {.notes}
-Manuel p. 254; glossaire p. 443. Ressources matérielles, personnelles ou informationnelles. Exemple fictif à raconter : Sam découvre les jeux et le cercle d’amitié d’Alex, puis commence à se voir comme une personne capable d’animer une soirée. Quel changement concerne la façon dont Sam se perçoit? Le concept dépasse le partage d’un loisir. Les cercles reprennent la représentation visuelle du soi et de l’autre utilisée dans l’échelle IOS. Présenter ici trois exemples, sans administrer l’échelle ni demander de confidences. Ils ne montrent pas des résultats d’étude ou des étapes obligatoires. La fonction overlap_circle a été développée par Rémi Thériault; elle produit des chevauchements à partir d’un score IOS. Les nombres sont masqués pour centrer l’attention sur le concept. Ne pas présenter le chevauchement comme un pourcentage littéral d’identité partagée ni comme un idéal à maximiser.
+Manuel p. 254; glossaire p. 443. Ressources matérielles, personnelles ou informationnelles. Exemple fictif à raconter : Manolo découvre les jeux et le cercle d’amitié de Constance, puis commence à se voir comme une personne capable d’animer une soirée. Quel changement concerne la façon dont Manolo se perçoit? Le concept dépasse le partage d’un loisir. Les cercles reprennent la représentation visuelle du soi et de l’autre utilisée dans l’échelle IOS. Présenter ici trois exemples, sans administrer l’échelle ni demander de confidences. Ils ne montrent pas des résultats d’étude ou des étapes obligatoires. La fonction overlap_circle a été développée par Rémi Thériault; elle produit des chevauchements à partir d’un score IOS. Les nombres sont masqués pour centrer l’attention sur le concept. Ne pas présenter le chevauchement comme un pourcentage littéral d’identité partagée ni comme un idéal à maximiser.
 :::
 
 ## Le schéma relationnel
@@ -433,7 +458,7 @@ Un **schéma relationnel** organise ce que nous attendons d’une interaction :
 - une représentation de **l’autre**;
 - un **scénario** de ce qui se passe habituellement entre les deux.
 
-**Exemple fictif :** « Quand je demande de l’aide, Alex m’écoute et nous cherchons une solution. »
+**Exemple fictif :** « Quand je demande de l’aide, Constance m’écoute et nous cherchons une solution. »
 
 ::: {.notes}
 Manuel p. 255–256; glossaire p. 447. Le soi relationnel renvoie à la représentation de soi dans une relation avec une personne importante. Différents liens peuvent rendre accessibles différentes façons de se percevoir. Les expériences avec des personnes marquantes contribuent aux attentes, y compris dans une nouvelle relation.
@@ -463,7 +488,7 @@ Ces composantes peuvent varier séparément au fil d’une relation.
 
 ## Trois composantes, un exemple
 
-Sam et Alex ont beaucoup de désir et se connaissent encore peu.
+Manolo et Constance ont beaucoup de désir et se connaissent encore peu.
 
 <label><input type="radio" name="triangle"> Intimité</label><br>
 <label><input type="radio" name="triangle"> Passion</label><br>
@@ -507,12 +532,12 @@ L’**attachement** est un lien affectif qui pousse à chercher la proximité d�
 Manuel p. 260–262; glossaire p. 438, 444–445. Prendre environ quatre minutes : définir chaque dimension, puis construire les quatre combinaisons avec la classe. Les styles sont relativement stables mais peuvent changer et varier selon la relation. La matrice est une représentation conceptuelle originale. Passer ensuite au même évènement interprété de différentes façons.
 :::
 
-## Sam attend une réponse d’Alex
+## Manolo attend une réponse de Constance
 
-**Alex ne répond pas depuis quelques heures. Voici trois réactions fictives de Sam :**
+**Constance ne répond pas depuis quelques heures. Voici trois réactions fictives de Manolo :**
 
-1. « Alex n’est sans doute pas disponible. Je lui raconterai ma journée plus tard. »
-2. « Et si Alex ne voulait plus me voir? Je vais envoyer plusieurs messages. »
+1. « Constance n’est sans doute pas disponible. Je lui raconterai ma journée plus tard. »
+2. « Et si Constance ne voulait plus me voir? Je vais envoyer plusieurs messages. »
 3. « J’aimerais avoir une réponse, mais parler de ce que je ressens me met mal à l’aise. »
 
 **Pour chaque réaction : quel indice concerne la peur de perdre le lien? Lequel concerne l’inconfort devant la proximité?**
@@ -528,9 +553,9 @@ L’**échange social** examine les avantages et les couts perçus d’une relat
 L’**équité** est la perception d’un rapport juste entre les contributions et les bénéfices de chaque personne.
 
 ::: {.fragment}
-**Sam prépare les repas; Alex fait les courses et la vaisselle.**
+**Manolo prépare les repas; Constance fait les courses et la vaisselle.**
 
-Sam apprécie cuisiner, mais trouve fatigant de devoir aussi prendre en charge tous les menus.
+Manolo apprécie cuisiner, mais trouve fatigant de devoir aussi prendre en charge tous les menus.
 
 **Quelles informations faudrait-il connaitre pour comprendre si le partage leur semble équitable?**
 :::
@@ -574,25 +599,25 @@ Les **autres possibilités** comprennent une autre relation ou la vie sans cette
 Manuel p. 250 et 262–263. Environ quatre minutes; révéler le tableau après les prédictions de la classe. Définir les ressources par des exemples concrets : temps, projets communs, réseau partagé. Les possibilités ne se limitent pas à une nouvelle personne partenaire. Passer au cas suivant plutôt que multiplier les nouveaux termes.
 :::
 
-## Pourquoi Sam poursuit cette relation?
+## Pourquoi Manolo poursuit cette relation?
 
-**Sam dit : « Les disputes me pèsent, mais je compte poursuivre notre relation. »**
+**Manolo dit : « Les disputes me pèsent, mais je compte poursuivre notre relation. »**
 
 ::: {.fragment}
-Sam et Alex ont consacré beaucoup de temps à un projet commun et partagent un cercle d’amitié.
+Manolo et Constance ont consacré beaucoup de temps à un projet commun et partagent un cercle d’amitié.
 :::
 
 ::: {.fragment}
-Sam imagine difficilement une vie satisfaisante sans cette relation.
+Manolo imagine difficilement une vie satisfaisante sans cette relation.
 :::
 
 **Quels éléments éclairent la satisfaction? Lesquels éclairent l’engagement?**
 
-**Si Sam découvrait des possibilités satisfaisantes en dehors de cette relation, que prédit le modèle pour son engagement?**
+**Si Manolo découvrait des possibilités satisfaisantes en dehors de cette relation, que prédit le modèle pour son engagement?**
 
 ::: {.notes}
 Environ cinq minutes. Cas fictif, pas un conseil de vie. Faire identifier d’abord ce qui est connu : les disputes sont vécues comme un cout; le jugement global de satisfaction n’est pas entièrement connu. Les projets et le réseau peuvent être des investissements dans la mesure où leur perte serait perçue en cas de rupture. La troisième information concerne la qualité perçue des autres possibilités. Selon le modèle, de meilleures possibilités vont dans le sens d’un engagement plus faible, les autres facteurs étant comparables; elles ne déterminent pas à elles seules une rupture.
-En prolongement oral seulement si utile : l’engagement personnel renvoie à la valeur accordée au lien; l’engagement d’obligation aux contraintes/normes/couts de rupture. Demander quelle information manque pour distinguer ces motivations chez Sam, plutôt qu’attribuer automatiquement un motif à sa décision. Manuel p. 263–264.
+En prolongement oral seulement si utile : l’engagement personnel renvoie à la valeur accordée au lien; l’engagement d’obligation aux contraintes/normes/couts de rupture. Demander quelle information manque pour distinguer ces motivations chez Manolo, plutôt qu’attribuer automatiquement un motif à sa décision. Manuel p. 263–264.
 :::
 
 ## Le soutien social
@@ -603,7 +628,7 @@ Le **soutien social** comprend l’aide disponible pour répondre à des besoins
 - **Informatif ou évaluatif** : fournir des informations ou des conseils.
 - **Matériel** : offrir du temps, un service ou une ressource.
 
-**Sam déménage :** quelle aide est utile maintenant? Comment le savoir?
+**Manolo déménage :** quelle aide est utile maintenant? Comment le savoir?
 
 ::: {.notes}
 Manuel p. 264–265; glossaire p. 448. Distinguer soutien reçu et disponibilité perçue. Une aide non sollicitée ou répondant mal au besoin peut être moins utile. Le nombre de contacts ne suffit pas à décrire le soutien.
@@ -646,7 +671,7 @@ La **solitude interpersonnelle** est une expérience désagréable liée à l’
 - **Solitude sociale** : manque d’un réseau satisfaisant et d’un sentiment d’appartenance.
 - **Solitude émotionnelle** : manque d’une relation intime satisfaisante.
 
-**Sam connait beaucoup de monde, mais n’a personne à qui parler d’une difficulté.** Quelle dimension est surtout décrite?
+**Manolo connait beaucoup de monde, mais n’a personne à qui parler d’une difficulté.** Quelle dimension est surtout décrite?
 
 ::: {.notes}
 Manuel p. 269–271; glossaire p. 447–448. Réponse : solitude émotionnelle. Distinguer vivre seul et se sentir seul. La solitude existentielle renvoie à une autre expérience, liée à la conscience de la séparation entre soi et autrui et à la finitude. Les évènements et perceptions contribuent à la solitude. Le chapitre présente les approches cognitives et les habiletés sociales.
@@ -666,7 +691,7 @@ Présenter les questions dans Wooclap, puis reprendre aux annonces. Repli sans c
 
 ## 4. Une confidence accueillie
 
-Alex raconte une difficulté. Sam écoute et montre de la compréhension.
+Constance raconte une difficulté. Manolo écoute et montre de la compréhension.
 
 **Quel processus peut soutenir leur lien?**
 
