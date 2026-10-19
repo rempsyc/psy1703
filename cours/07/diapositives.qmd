@@ -65,6 +65,47 @@ Reprendre les mêmes dates et pondérations qu’en ouverture. Le quiz comporte 
 
 **Pour commencer :** comment comprend-on ce que l’autre personne veut dire?
 
+## Que se passe-t-il entre ces personnes?
+
+**Pendant le visionnement sans son, notez : 1. les émotions; 2. le sujet de la conversation.**
+
+```{=html}
+<iframe id="ramdam-extrait" width="1200" height="480" src="https://www.youtube.com/embed/yn9RoD24bDY?start=21&end=63&mute=1&cc_load_policy=0&rel=0" title="Ramdam — échange entre deux personnages" allow="autoplay; fullscreen; encrypted-media" allowfullscreen></iframe>
+<div style="display:flex;gap:18px;margin-top:12px">
+<button type="button" onclick="document.getElementById('ramdam-extrait').src='https://www.youtube.com/embed/yn9RoD24bDY?start=30&amp;end=63&amp;mute=1&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer sans son</button>
+<button type="button" onclick="document.getElementById('ramdam-extrait').src='https://www.youtube.com/embed/yn9RoD24bDY?start=30&amp;end=63&amp;mute=0&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer avec son</button>
+</div>
+```
+
+::: {.credit}
+Ramdam, saison 3, épisode 14 · Extrait de 0:30 à 1:03 · [Ouvrir la vidéo](https://www.youtube.com/watch?v=yn9RoD24bDY&t=30s).
+:::
+
+::: {.notes}
+Premier visionnement sans son ni sous-titres. Avant de lancer : « Pendant le visionnement, écrivez dans vos notes : d’abord les émotions que vous pensez reconnaitre chez chaque personne, puis le sujet précis dont elles parlent. Quelques mots suffisent; si le sujet reste incertain, notez votre hypothèse. » Laisser les personnes écrire pendant la vidéo, sans solliciter de réponses publiques avant la fin. Retenir les indices observés pour le débreffage. Ne pas annoncer laquelle devrait être la plus facile. Ne pas annoncer le conflit ou la colère à l’avance. Après l’extrait, recueillir les prédictions et distinguer les observations (regard, visage, posture, mouvements) des émotions inférées. Le titre du lecteur peut fournir un indice : lancer l’extrait dès que possible sans commenter ce titre. Le lecteur démarre muet; vérifier aussi que les sous-titres sont désactivés.
+Utiliser « Rejouer avec son » sous le lecteur pour relancer les mêmes 33 secondes à 0:30. « Rejouer sans son » relance également au bon repère. Éviter le bouton natif de reprise YouTube, qui peut repartir au début de l’épisode. Si nécessaire, utiliser le lien de la vidéo et revenir à 0:30. Lecture et débreffage : environ cinq minutes au total.
+:::
+
+## Comparons nos prédictions
+
+**Reprenez les deux prédictions écrites dans vos notes pendant le visionnement.**
+
+| 1. Quelles émotions vivent-ils? | 2. De quoi parlent-ils? |
+|---|---|
+| Qu’avez-vous perçu chez chaque personne? | Quel sujet précis avez-vous imaginé? |
+
+::: {.fragment}
+**Rejouons avec le son.** Quelles prédictions sont confirmées, à préciser ou à revoir dans chaque colonne?
+:::
+
+::: {.fragment}
+**Qu’avez-vous le mieux anticipé : les émotions ou le sujet? Quels indices vous ont aidés?**
+:::
+
+::: {.notes}
+Après le premier passage, recueillir quelques réponses dans chacune des deux colonnes, avant de rejouer avec le son via le bouton dédié. Faire garder les prédictions initiales pour éviter de les reconstruire après coup. Après le second passage, demander séparément qui avait anticipé les émotions et qui avait anticipé le sujet; accepter une confirmation partielle. Le contraste attendu par Rémi est une reconnaissance des émotions plus facile que celle du sujet précis; recueillir ce qui se produit réellement sans annoncer un taux de succès ni fabriquer une différence. Le dialogue et le contexte permettent de vérifier le sujet et d’étayer ou nuancer les émotions inférées; ils ne mesurent pas directement l’état intérieur. Faire relever ce qu’apportent les mots et ce qu’ajoutent le ton, le rythme et le volume. Transition vers la définition des systèmes verbal et non verbal sur la diapositive suivante, puis vers les aspects informationnel et relationnel. L’activité ouvre la matière immédiatement après le plan, avant les définitions, pour préserver la découverte. Environ cinq minutes au total; aperçu de communication maintenu à 12–15 minutes. Repli sans vidéo : jouer une même phrase avec deux tons et faire comparer les indices. Sources conceptuelles : chapitre 7, p. 223–227 et 236–237. Aucun objectif évaluable supplémentaire.
+:::
+
 ## La communication verbale et non verbale
 
 La **communication** est un échange dans lequel les personnes transmettent des informations et construisent du sens ensemble.
@@ -92,47 +133,6 @@ Selon le ton et la situation, la même phrase peut être une demande calme, un r
 
 ::: {.notes}
 4 minutes. Chapitre 7, p. 223–224, 226–227 et 236–237. Exemple original. Faire entendre deux tons, puis donner le contexte. Les mots, le ton et la situation se combinent : un indice isolé ne détermine pas toujours le sens. Pas de vocabulaire détaillé des actes de langage à mémoriser.
-:::
-
-## Que se passe-t-il entre ces personnes?
-
-```{=html}
-<iframe id="ramdam-extrait" width="1200" height="540" src="https://www.youtube.com/embed/yn9RoD24bDY?start=30&end=63&mute=1&cc_load_policy=0&rel=0" title="Ramdam — échange entre deux personnages" allow="autoplay; fullscreen; encrypted-media" allowfullscreen></iframe>
-<div style="display:flex;gap:18px;margin-top:12px">
-<button type="button" onclick="document.getElementById('ramdam-extrait').src='https://www.youtube.com/embed/yn9RoD24bDY?start=30&amp;end=63&amp;mute=1&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer sans son</button>
-<button type="button" onclick="document.getElementById('ramdam-extrait').src='https://www.youtube.com/embed/yn9RoD24bDY?start=30&amp;end=63&amp;mute=0&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer avec son</button>
-</div>
-```
-
-::: {.credit}
-Ramdam, saison 3, épisode 14 · Extrait de 0:30 à 1:03 · [Ouvrir la vidéo](https://www.youtube.com/watch?v=yn9RoD24bDY&t=30s).
-:::
-
-::: {.notes}
-Premier visionnement sans son ni sous-titres. Avant de lancer : « Quelles émotions pensez-vous reconnaitre chez chaque personne? Retenez deux indices visibles qui soutiennent votre prédiction. » Ne pas annoncer le conflit ou la colère à l’avance. Après l’extrait, recueillir les prédictions et distinguer les observations (regard, visage, posture, mouvements) des émotions inférées. Le titre du lecteur peut fournir un indice : lancer l’extrait dès que possible sans commenter ce titre. Le lecteur démarre muet; vérifier aussi que les sous-titres sont désactivés.
-Utiliser « Rejouer avec son » sous le lecteur pour relancer les mêmes 33 secondes à 0:30. « Rejouer sans son » relance également au bon repère. Éviter le bouton natif de reprise YouTube, qui peut repartir au début de l’épisode. Si nécessaire, utiliser le lien de la vidéo et revenir à 0:30. Lecture et débreffage : environ cinq minutes au total.
-:::
-
-## Comparons nos prédictions
-
-**Après le visionnement sans son**
-
-- Quelles émotions avez-vous prédites pour chaque personne?
-- Quelles expressions, postures ou quels gestes vous ont guidés?
-
-::: {.fragment}
-**Après le visionnement avec son**
-
-- Quelles prédictions semblent confirmées? Lesquelles faut-il nuancer?
-- Qu’ajoutent les **mots**? Qu’ajoutent le **ton**, le **rythme** et le **volume**?
-:::
-
-::: {.fragment}
-Les mots relèvent du **verbal**. Les expressions, les gestes et les caractéristiques de la voix relèvent du **non verbal**.
-:::
-
-::: {.notes}
-Afficher les questions du premier passage, revenir à la vidéo pour la reprise avec son, puis révéler la comparaison. Valider les hypothèses à partir des indices supplémentaires et du contexte, sans présenter le son comme une mesure certaine de l’état intérieur. Relier à l’aspect relationnel : comment les personnes se situent-elles l’une par rapport à l’autre? Transition : ces échanges contribuent à construire les relations. Repli sans vidéo : Alex propose une soirée de jeux; Sam dit « D’accord » en souriant puis en soupirant et en regardant ailleurs. Faire comparer les indices. Sources conceptuelles : chapitre 7, p. 223–227 et 236–237. L’aperçu reste ciblé sur environ 12–15 minutes, en raccourcissant le débreffage de la porte au besoin. Aucun objectif évaluable supplémentaire.
 :::
 
 ## Qu’est-ce qu’une relation interpersonnelle?
@@ -187,20 +187,20 @@ Aimer passer du temps avec Sam ne signifie pas nécessairement souhaiter une rel
 
 ## Proximité et familiarité
 
-La **proximité physique** facilite les occasions de rencontre et d’interaction.
+L’**effet de proximité** : les personnes proches géographiquement ont davantage d’occasions de nouer une relation.
 
-L’**effet de simple exposition** est la tendance à apprécier davantage un stimulus après des expositions répétées.
-
-**Sam et Alex fréquentent la même activité chaque semaine.**
+L’**effet de simple exposition** : les expositions répétées peuvent augmenter l’appréciation d’une personne, devenue plus familière.
 
 ::: {.fragment}
-Le lieu et l’horaire rendent les rencontres possibles. Revoir Alex peut ensuite rendre son visage plus familier.
+**Proximité géographique → occasions de se rencontrer et de se revoir → familiarité accrue → attraction favorisée.**
+
+La familiarité contribue ainsi à expliquer l’effet de proximité, dans la formation d’amitiés comme de relations amoureuses.
 :::
 
-**Quel indice montre la proximité? Que faudrait-il observer pour parler d’un effet de simple exposition?**
+**Sam et Alex habitent le même immeuble et se croisent souvent. Quel indice montre la proximité? Que faudrait-il observer pour parler d’un effet de simple exposition?**
 
 ::: {.notes}
-Manuel p. 252. Environ quatre minutes avec le cas. Distinguer possibilité de contact, exposition répétée et échanges réels. Faire envisager une activité à distance ou des horaires différents pour voir ce qui change. La proximité peut augmenter les occasions de contact sans garantir une relation. Contraste à expliciter : même lieu/horaire = proximité; appréciation accrue après plusieurs expositions = effet de simple exposition. Une répétition seule ne démontre pas que l’appréciation a augmenté. Faire modifier un seul détail du cas pour passer de l’occasion de contact au changement d’appréciation. La prochaine étude isole une exposition sans conversation.
+Manuel p. 252. Environ quatre minutes. Développer la chaine : habiter près facilite la première rencontre, mais aussi les rencontres suivantes, parce que les occasions reviennent et demandent moins d’organisation. La répétition peut rendre la personne plus familière et favoriser l’appréciation. La familiarité est une explication de l’effet de proximité, pas son unique mécanisme ni une garantie d’amitié ou d’amour. Contraste : même immeuble = proximité; croiser souvent = exposition répétée; apprécier davantage après ces rencontres = changement à observer pour illustrer la simple exposition. Ajouter « Au fil des semaines, Sam apprécie davantage Alex » après les réponses de la classe. Si utile, demander de penser en privé au contexte d’une rencontre amicale, sans nommer la personne : qu’est-ce qui permettait de se revoir? Possibilité d’utiliser le cas fictif seulement. Transfert : dans une nouvelle ville, quelle activité régulière pourrait créer des occasions de revoir les mêmes personnes? Intégrer cette question au temps prévu, sans nouvel atelier. La prochaine étude examine une exposition sans conversation.
 :::
 
 ## Voir plus souvent, apprécier davantage?
