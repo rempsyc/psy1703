@@ -496,14 +496,25 @@ Manuel p. 255–256; glossaire p. 447. Le soi relationnel renvoie à la représe
 
 ## L’amour-tendresse et l’amour-passion
 
-L’**amour-tendresse** se caractérise par l’affection, la confiance, la proximité, l’interdépendance et le souci du bien-être de l’autre.
+L’**amour-tendresse** se caractérise par l’affection, la confiance, la proximité et le souci du bien-être de l’autre.
 
-L’**amour-passion** correspond à un état intense où l’on désire fortement l’union avec l’autre et où ses réponses suscitent des émotions vives.
+L’**amour-passion** correspond à un désir intense d’union avec l’autre, accompagné d’émotions vives.
 
-**Application :** quelle description porte surtout sur le lien affectif durable? Laquelle sur l’intensité de l’expérience?
+| Forme d’amour | Expériences associées |
+|---|---|
+| **Amour-tendresse** | Satisfaction relationnelle, respect, intimité; moins de sentiments négatifs |
+| **Amour-passion** | Euphorie et excitation, mais aussi anxiété et instabilité émotionnelle possibles |
+
+**Une relation moins « électrisante » est-elle nécessairement moins satisfaisante?**
 
 ::: {.notes}
-Manuel p. 257; glossaire p. 437. Le contexte culturel influence la place et l’expression de ces formes d’amour. Éviter de présenter toutes les relations comme une succession obligatoire de deux étapes.
+Manuel p. 257, directement revérifié le 20 octobre; glossaire p. 437. L’amour-tendresse est associé au respect, à la tolérance, à l’amitié, à la satisfaction relationnelle et à l’intimité sexuelle. Le texte indique aussi qu’il préviendrait des expériences négatives : colère, anxiété, dépression et solitude. Présenter ces liens comme des associations, sans promettre qu’une forme d’amour protège chaque personne de toute difficulté.
+
+L’amour-passion peut comporter désir, euphorie et activation agréable, mais aussi crainte du rejet, anxiété, instabilité et préoccupations envahissantes. Il ne faut donc pas assimiler intensité émotionnelle et bonheur : les émotions peuvent être positives ou négatives, notamment selon la réciprocité. Le manuel rapporte également une étude sur la difficulté à maintenir son contrôle cognitif en début de relation passionnelle; détail non nécessaire au débreffage, sans nouvelle notion à mémoriser.
+
+Réponse à la question : non. Une relation moins électrisante peut être satisfaisante grâce à l’affection, la confiance et la proximité. Inversement, la passion ne signifie pas automatiquement insatisfaction : tendresse et passion peuvent coexister. Ne pas imposer un remplacement universel de la passion par la tendresse avec le temps, ni confondre amour-passion et modèle dualiste de la passion retiré de l’oral.
+
+Complément de recherche, facultatif : Kim et Hatfield (2004), Love types and subjective well-being: A cross-cultural study, https://www2.hawaii.edu/~elaineh/104.pdf. Leur enquête distingue satisfaction générale envers la vie et émotions positives/négatives; le résumé rapporte une association plus forte de l’amour-tendresse avec la première, et de l’amour-passion avec l’expérience émotionnelle. Ce n’est pas une comparaison causale de traitements ni une mesure limitée à la satisfaction conjugale. Ne pas présenter l’amour-passion comme un synonyme d’affect négatif.
 :::
 
 ## Le modèle triangulaire de l’amour
