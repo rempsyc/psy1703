@@ -75,3 +75,6 @@ format:
 
 execute:
   freeze: auto
+
+filters:
+  - filters/liens-externes.lua
