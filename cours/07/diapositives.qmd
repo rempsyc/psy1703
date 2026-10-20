@@ -238,14 +238,20 @@ Source : [Moreland et Beach (1992), tableau 2](https://doi.org/10.1016/0022-1031
 Lire les axes : horizontal = présences; vertical = probabilité subjective de nouer une amitié, pas proportion de relations réellement créées. Graphique principal : zoom identifié de 30 à 70 %. Montrer aussi l’échelle complète 0–100 % dans le volet. Le zoom facilite la lecture des différences; il ne démontre ni leur importance pratique ni leur significativité. Moyennes .41, .43, .57, .60; écarts-types .27, .26, .24, .25, non représentés. Le profil illustre qu’une exposition sans conversation peut favoriser l’attirance. Ne pas demander de mémoriser les valeurs ni conclure à une amitié réelle.
 :::
 
-## La similitude des valeurs, des attitudes et des opinions
+## La similitude et l’attirance
 
-La **similitude** correspond à des ressemblances entre les personnes, notamment dans leurs attitudes et leurs intérêts.
+La **similitude** correspond à des ressemblances entre les personnes, notamment dans leurs attitudes, leurs valeurs et leurs intérêts. Ces ressemblances peuvent **favoriser l’attirance**.
 
-Manolo et Constance découvrent aimer les jeux coopératifs.
+**Imaginons que Manolo découvre que Constance aime les mêmes groupes de musique que lui.**
+
+Pourquoi cette découverte pourrait-elle lui donner davantage envie de passer du temps avec elle?
 
 ::: {.fragment}
-Précisez ce qui se ressemble : les gouts, les valeurs, les habitudes ou les attentes?
+Un gout commun leur donne un sujet de conversation et une activité à partager. Manolo peut aussi avoir le sentiment que Constance le comprend.
+:::
+
+::: {.notes}
+Objectif : comprendre pourquoi découvrir une ressemblance peut favoriser le rapprochement, au-delà de simplement classer le type de ressemblance. Cas imaginé, pas une affirmation sur les préférences réelles des personnages. Recueillir deux propositions avant de révéler les pistes. Faire développer : parler d’un groupe apprécié, échanger des chansons, envisager un spectacle ensemble. Le sentiment d’être compris est une interprétation possible du personnage, pas une donnée établie par ce scénario. Contraste avec la proximité : ici, l’information pertinente est le gout partagé, pas le nombre de rencontres. Contraste avec l’attirance réciproque, présentée ensuite : aimer la même musique ne dit pas encore si Constance apprécie Manolo. Demander oralement « Quelle information supplémentaire montrerait qu’elle l’apprécie aussi? » Deux à trois minutes. La similitude favorise le rapprochement sans garantir une relation; ne pas présenter toutes les différences comme des obstacles. La définition et le lien similitude/attraction reprennent la matière déjà au cours; les mécanismes illustratifs ne constituent pas de nouveaux objectifs évaluables.
 :::
 
 ## L’attirance réciproque
@@ -301,6 +307,10 @@ Une impression favorable peut aussi déborder vers des qualités qui n’ont pas
 
 Quel élément de cette conclusion demanderait une information supplémentaire?
 
+::: {.notes}
+Réponse attendue : « Elle doit être attentionnée. » C’est la qualité personnelle attribuée qui demande des informations supplémentaires; juger une personne physiquement attirante ne renseigne pas à lui seul sur sa façon de traiter les autres. Demander quel indice serait pertinent : par exemple, observer comment elle écoute une personne en difficulté ou tient compte de ses besoins. Le cas illustre l’attribution de qualités positives à partir de l’apparence physique, phénomène décrit au chapitre 8, p. 253. Présenter ce mécanisme en mots simples; ne pas introduire « effet de halo » comme terme supplémentaire à apprendre. Ne pas conclure que la personne n’est pas attentionnée : cette qualité reste à vérifier. Faire reformuler : « Je la trouve attirante; je ne sais pas encore si elle est attentionnée. »
+:::
+
 ## Ronde 1 — Qu’est-ce qui favorise le rapprochement?
 
 {{< include _reconnexion.qmd >}}
@@ -317,30 +327,48 @@ Présenter les questions dans Wooclap, puis reprendre à la pause. Les diapositi
 
 Manolo et Constance empruntent régulièrement le même corridor.
 
-**Quel facteur facilite leurs rencontres?**
+Quel facteur facilite leurs rencontres?
+
+A. La proximité géographique
+
+B. La similitude des intérêts
+
+C. La révélation de soi
 
 ::: {.notes}
-La proximité. Les rencontres répétées peuvent aussi favoriser la familiarité. Faire préciser le détail utilisé.
+Réponse A. La proximité. Les rencontres répétées peuvent aussi favoriser la familiarité. Faire préciser le détail utilisé.
 :::
 
 ## 2. Les mêmes activités
 
-« On aime les mêmes activités. »
+Manolo et Constance constatent : « On aime les mêmes activités. »
 
-**Quel facteur d’attirance cette information illustre-t-elle?**
+Quel facteur d’attirance cette information illustre-t-elle?
+
+A. La proximité géographique
+
+B. La similitude des intérêts
+
+C. L’attirance réciproque
 
 ::: {.notes}
-La similitude des intérêts.
+Réponse B. La similitude des intérêts.
 :::
 
 ## 3. Un signe d’intérêt
 
 Manolo apprend que Constance l’apprécie, ce qui augmente son envie de se rapprocher d’elle.
 
-**Quel mécanisme illustre ce cas?**
+Quel mécanisme illustre ce cas?
+
+A. La similitude des intérêts
+
+B. La simple exposition
+
+C. L’attirance réciproque
 
 ::: {.notes}
-L’attirance réciproque. Le signe d’intérêt ne prouve pas la similitude.
+Réponse C. L’attirance réciproque. Le signe d’intérêt ne prouve pas la similitude.
 :::
 
 ## Pause — 10 minutes {#pause-1}
@@ -363,14 +391,32 @@ Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson 
 
 **Équipes de 3 ou 4 · 10 minutes de discussion**
 
-Manolo et Constance se croisent chaque semaine à une activité. Ils découvrent des intérêts communs. Constance dit à Manolo avoir apprécié leur conversation.
+Manolo et Constance suivent le même cours de mathématiques chaque semaine. Au lieu d’écouter le prof, ils discutent et découvrent qu’ils aiment les mêmes groupes de musique. Constance lui dit : « J’aime vraiment parler avec toi! » Manolo a alors encore plus envie de la revoir.
 
 1. Repérez **deux facteurs d’attirance** et l’indice concret de chacun.
 2. Changez **un seul détail** du cas : comment votre explication change-t-elle?
 3. Préparez une explication orale de **30 secondes** pour la classe.
 
 ::: {.notes}
-Consignes avant le lancement. Dix minutes de discussion seulement; tour et débreffage ensuite, hors minuterie. Aucun dessin ni texte à remettre. Prise de notes facultative. Une personne porte-parole par équipe; aucune confidence personnelle. Facteurs possibles : proximité/familiarité, similitude et attirance réciproque. Faire justifier avec les indices.
+Consignes avant le lancement. Dix minutes de discussion seulement; tour et débreffage ensuite, hors minuterie. Aucun dessin ni texte à remettre. Prise de notes facultative. Une personne porte-parole par équipe; aucune confidence personnelle. Situation imaginée avec les personnages de Ramdam. Le clin d’œil au prof sert la mise en scène; l’objectif reste d’expliquer le rapprochement.
+
+Réponses acceptées : choisir deux facteurs parmi les trois suivants, en reliant chacun à son indice.
+
+- Proximité : ils suivent le même cours de mathématiques, dans la même classe, chaque semaine. Le lieu et l’horaire communs créent des occasions de rencontre et de contact répété.
+- Similitude : ils aiment les mêmes groupes de musique. C’est le gout partagé, et non la simple conversation, qui constitue l’indice.
+- Attirance réciproque : Constance exprime qu’elle aime parler avec Manolo, et Manolo a ensuite davantage envie de la revoir. Se savoir apprécié favorise ici son intérêt. Cela n’établit pas à soi seul que Constance veut une relation amoureuse.
+
+Familiarité/simple exposition : accepter une contribution possible des rencontres répétées si l’équipe la formule comme une hypothèse. Le cas ne montre pas que la répétition seule augmente l’appréciation, puisque conversation, similitude et signe d’intérêt sont aussi présents. Ne pas compter proximité et familiarité comme deux explications entièrement établies sans cette distinction. Ne pas demander de trancher quel facteur est le plus fort : le scénario ne permet pas de les isoler.
+
+Exemples de modification d’un seul détail, au choix :
+
+- Remplacer « ils aiment les mêmes groupes » par « ils ont des gouts musicaux très différents ». L’indice de similitude musicale disparait; proximité et signe d’intérêt restent présents. Cela ne signifie pas qu’aucune autre ressemblance existe ni que toute attirance disparait.
+- Remplacer la réplique de Constance par « Je dois partir », sans expression d’appréciation. Le signe explicite d’intérêt n’est plus donné : on ne peut plus invoquer cet indice de réciprocité. Une phrase neutre ne prouve pas un rejet; les gouts communs et la proximité restent dans le cas.
+- Changer le groupe de mathématiques de Manolo pour qu’il ne partage plus ce cours avec Constance. L’occasion régulière de rencontre dans ce cours disparait; les gouts et l’appréciation déjà exprimée restent possibles. Cela ne détruit pas automatiquement le lien.
+
+Modèle de restitution de 30 secondes : « Nous retenons la proximité : ils partagent le même cours chaque semaine. Nous retenons aussi la similitude : ils aiment les mêmes groupes. Si nous changeons seulement les gouts de Constance pour qu’ils soient différents, l’indice de similitude musicale disparait, mais le cours commun continue de faciliter leurs rencontres. »
+
+Débreffage : faire citer les mots du scénario qui soutiennent chaque réponse. Pour la modification, demander ce qui change et ce qui reste identique. Accepter d’autres changements cohérents si l’équipe n’en modifie qu’un et explique précisément le lien avec le concept.
 :::
 
 ## Tour des équipes
@@ -379,7 +425,7 @@ Une personne porte-parole résume la discussion en 30 secondes.
 
 - Quels sont les deux facteurs repérés?
 - Quels détails du cas les illustrent?
-- Quel détail faudrait-il changer pour illustrer un autre facteur?
+- Quel détail avez-vous changé, et comment cela modifie-t-il votre explication?
 
 ## Révélation de soi et intimité
 
@@ -684,28 +730,48 @@ Présenter les questions dans Wooclap, puis reprendre aux annonces. Repli sans c
 
 Constance raconte une difficulté personnelle à Manolo, qui écoute et montre de la compréhension.
 
-**Quel processus Constance illustre-t-elle en racontant cette difficulté?**
+Quel processus Constance illustre-t-elle en racontant cette difficulté?
+
+A. La simple exposition
+
+B. La révélation de soi
+
+C. L’inclusion de l’autre en soi
 
 ::: {.notes}
-La révélation de soi, accueillie avec attention et compréhension, peut favoriser l’intimité.
+Réponse B. La révélation de soi, accueillie avec attention et compréhension, peut favoriser l’intimité.
 :::
 
 ## 5. Un partage jugé juste
 
-Deux personnes font des tâches différentes et jugent le partage juste.
+Manolo et Constance font des tâches différentes et jugent le partage juste.
 
-**Quel concept décrit ce jugement?**
+Quel concept décrit ce jugement?
+
+A. L’équité
+
+B. La similitude
+
+C. L’engagement
 
 ::: {.notes}
-L’équité. Il n’est pas nécessaire de faire les mêmes tâches.
+Réponse A. L’équité. Il n’est pas nécessaire de faire les mêmes tâches.
 :::
 
 ## 6. Rester dans une relation peu satisfaisante
 
-**Quelles informations le modèle de l’investissement invite-t-il à chercher?**
+Manolo trouve sa relation peu satisfaisante, mais compte la poursuivre.
+
+Quelles autres informations le modèle de l’investissement invite-t-il à chercher pour comprendre son engagement?
+
+A. La fréquence des rencontres et la proximité géographique
+
+B. La similitude des intérêts et l’apparence physique
+
+C. Les investissements et la qualité des autres possibilités
 
 ::: {.notes}
-Les investissements et la qualité des autres possibilités. Reprendre les définitions et les indices, sans diagnostic de personnes réelles.
+Réponse C. Les investissements et la qualité des autres possibilités. Reprendre les définitions et les indices, sans diagnostic de personnes réelles.
 :::
 
 ## Les prochaines évaluations {#synthese}
