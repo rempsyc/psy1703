@@ -1,12 +1,12 @@
 ::: {.columns}
 ::: {.column width="58%"}
-Scannez le **code QR**, ou ouvrez **Wooclap** avec le code communiqué en classe.
+Scannez le **code QR**, ou ouvrez [Wooclap](https://app.wooclap.com/BIRQFXF).
 
-**Code du quiz : à ajouter**
+**Code de l’évènement : BIRQFXF**
 
 Utilisez votre identifiant UQAR selon les consignes.
 :::
 ::: {.column width="42%"}
-<div role="img" aria-label="Emplacement du code QR Wooclap" style="width:360px;height:300px;border:3px dashed #123b5d;display:flex;align-items:center;justify-content:center;margin:auto;color:#123b5d;font-size:30px">Code QR à ajouter</div>
+[![](assets/wooclap-quiz-qr.png){fig-alt="QR Wooclap BIRQFXF" width="420"}](https://app.wooclap.com/BIRQFXF)
 :::
 :::
