@@ -210,20 +210,18 @@ La familiarité contribue ainsi à expliquer l’effet de proximité, dans la fo
 Manuel p. 252. Environ quatre minutes. Développer la chaine : suivre le même cours dans la même classe facilite la première rencontre, mais aussi les rencontres suivantes, parce que les occasions reviennent et demandent moins d’organisation. La répétition peut rendre la personne plus familière et favoriser l’appréciation. La familiarité est une explication de l’effet de proximité, pas son unique mécanisme ni une garantie d’amitié ou d’amour. Contraste : même salle de cours = proximité; croiser souvent = exposition répétée; apprécier davantage après ces rencontres = changement à observer pour illustrer la simple exposition. Ajouter « Au fil des semaines, Manolo apprécie davantage Constance » après les réponses de la classe. Si utile, demander de penser en privé au contexte d’une rencontre amicale, sans nommer la personne : qu’est-ce qui permettait de se revoir? Possibilité d’utiliser le cas fictif seulement. Transfert : dans une nouvelle ville, quelle activité régulière pourrait créer des occasions de revoir les mêmes personnes? Intégrer cette question au temps prévu, sans nouvel atelier. La prochaine étude examine une exposition sans conversation.
 :::
 
-## Voir plus souvent, apprécier davantage?
+## La simple exposition en classe {#voir-plus-souvent-apprécier-davantage}
 
-**Question :** la présence répétée suffit-elle à modifier l’impression d’une personne, même sans conversation?
+Dans un **cours universitaire en présentiel**, quatre femmes participent à l’étude avec l’équipe de recherche : elles se font passer pour des étudiantes du cours.
 
-Quatre collaboratrices assistent à un nombre différent de séances : **0, 5, 10 ou 15**.
+- Chacune vient à un nombre différent de cours pendant le trimestre : **0, 5, 10 ou 15**. La classe ne voit donc jamais l’une d’elles.
+- Lorsqu’elles sont présentes, elles **ne discutent pas avec les personnes étudiantes** : celles-ci peuvent les voir, sans apprendre à les connaitre par une conversation.
+- À la fin du trimestre, **130 personnes étudiantes du cours** voient leurs photographies et évaluent notamment la possibilité de devenir leur amie ou ami.
 
-Elles ne discutent pas avec les personnes étudiantes.
-
-À la fin, la classe évalue chaque personne à partir de sa photographie.
-
-**Votre prédiction :** la probabilité estimée de nouer une amitié varie-t-elle avec le nombre de présences?
+**Votre prédiction : une personne vue plus souvent semblera-t-elle plus attirante comme amie, même sans lui avoir parlé?**
 
 ::: {.notes}
-Moreland et Beach (1992). Quatre femmes d’apparence similaire; N = 130 personnes étudiantes pour les évaluations finales. Facteur comparé : nombre de présences. Mesure : jugement d’affinité. Prédiction individuelle avant le résultat. Lien avec la familiarité p. 252 du manuel.
+Moreland et Beach (1992), résumé original revérifié le 20 octobre sur le profil Academia de Richard Moreland. Quatre femmes d’apparence similaire jouent le rôle d’étudiantes dans un grand cours universitaire. Les présences sont physiques dans la classe; les photographies sont présentées lors de l’évaluation finale, pas pendant la manipulation. La femme à zéro présence fournit la comparaison avec un visage jamais rencontré dans ce cours. Faire imaginer à la classe une personne qui vient s’assoir à différents cours sans engager de conversation. Distinguer les femmes qui collaborent au protocole des personnes étudiantes qui les évaluent. Facteur comparé : nombre de présences. Mesure montrée sur la figure suivante : probabilité subjective de devenir proches par une amitié, pas amitiés effectivement formées. Recueillir une prédiction avant le résultat. Lien avec la familiarité p. 252 du manuel. Les nombres exacts et détails du protocole ne sont pas à mémoriser.
 :::
 
 ## La présence et l’envie de nouer une amitié
