@@ -611,15 +611,21 @@ L’**échange social** examine les avantages et les couts perçus d’une relat
 L’**équité** est la perception d’un rapport juste entre les contributions et les bénéfices de chaque personne.
 
 ::: {.fragment}
-**Manolo prépare les repas; Constance fait les courses et la vaisselle.**
+**Manolo et Constance préparent un travail d’équipe en maths et recevront la même note.**
 
-Manolo apprécie cuisiner, mais trouve fatigant de devoir aussi prendre en charge tous les menus.
+Manolo résout les problèmes; Constance vérifie les calculs et rédige les réponses. Manolo doit aussi planifier les rencontres et rappeler les échéances, ce qui lui pèse.
 
-**Quelles informations faudrait-il connaitre pour comprendre si le partage leur semble équitable?**
+**Que faudrait-il savoir pour comprendre si le partage leur semble équitable?**
 :::
 
 ::: {.notes}
-Manuel p. 249–250; glossaire p. 441. Environ quatre minutes sur ce cas. Examiner charge perçue, préférences, ressources, bénéfices et point de vue des deux personnes. Faire proposer une redistribution fictive puis discuter ce qu’elle change. L’équité n’exige pas des tâches identiques. Ne pas réduire la relation à une comptabilité objective ou déclarer le partage juste à partir de sa seule description.
+Manuel p. 249–250; glossaire p. 441. Environ quatre minutes. Scénario imaginé dans le contexte scolaire actuel des personnages, sans emménagement ni saut dans le temps.
+
+Réponses acceptées : temps et effort demandés par chaque tâche; difficulté perçue; préférences et compétences; répartition de la planification et des rappels; bénéfices retirés (note commune, apprentissages); jugement de chaque personne sur sa contribution et celle de l’autre. La même note est un bénéfice commun, mais ne permet pas à elle seule de conclure que le partage est juste ou injuste. Le malaise de Manolo signale une charge perçue à explorer; le point de vue de Constance reste à connaitre.
+
+Exemple concret de question : « Combien de temps chacune de ces tâches vous demande-t-elle, et qui s’occupe de coordonner le travail? » Faire ensuite proposer un ajustement : Constance prend en charge les échéances et l’organisation des rencontres, puis les deux vérifient si le partage leur convient. Ce n’est pas une solution universellement équitable : elle répond à la charge exprimée dans ce cas.
+
+Conclusion : l’équité n’exige pas de faire les mêmes tâches ni de les compter seulement; il faut tenir compte des contributions et des bénéfices perçus par les deux personnes. Ne pas déclarer le partage juste à partir de sa seule description.
 :::
 
 ## Satisfaction et engagement : deux questions
@@ -825,3 +831,16 @@ Lire le **chapitre 9** du manuel.
 **Quiz 6 : cours 7 et chapitre 8**, 1,25 %, 8 questions en 10 minutes.
 
 Le **27 octobre : semaine de lecture**, sans cours.
+
+
+## Joyeuse Halloween! {#joyeuse-halloween .halloween background-image="assets/halloween.svg" background-color="#100f20" background-size="cover" center="true"}
+
+```{=html}
+<style>
+.reveal section.halloween {text-align:center;}
+.reveal section.halloween h2 {color:#ffcc85;font-size:100px;text-shadow:0 3px 18px #000;margin-top:155px;margin-bottom:35px;}
+.reveal section.halloween p {color:#fff4e5;font-size:40px;text-shadow:0 2px 10px #000;}
+</style>
+```
+
+Bonne semaine de lecture et à bientôt!
