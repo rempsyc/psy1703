@@ -303,14 +303,14 @@ Jake Clark, *Daily Struggle / Two Buttons* · [source du modèle](https://imgfli
 
 L’apparence peut influencer les premières impressions et l’attraction.
 
-Une impression favorable peut aussi déborder vers des qualités qui n’ont pas été observées directement.
+L’**effet de halo** : une impression favorable peut déborder vers des qualités qui n’ont pas été observées directement.
 
 **Exemple fictif :** « Cette personne est attirante, donc elle doit être attentionnée. »
 
 Quel élément de cette conclusion demanderait une information supplémentaire?
 
 ::: {.notes}
-Réponse attendue : « Elle doit être attentionnée. » C’est la qualité personnelle attribuée qui demande des informations supplémentaires; juger une personne physiquement attirante ne renseigne pas à lui seul sur sa façon de traiter les autres. Demander quel indice serait pertinent : par exemple, observer comment elle écoute une personne en difficulté ou tient compte de ses besoins. Le cas illustre l’attribution de qualités positives à partir de l’apparence physique, phénomène décrit au chapitre 8, p. 253. Présenter ce mécanisme en mots simples; ne pas introduire « effet de halo » comme terme supplémentaire à apprendre. Ne pas conclure que la personne n’est pas attentionnée : cette qualité reste à vérifier. Faire reformuler : « Je la trouve attirante; je ne sais pas encore si elle est attentionnée. »
+Réponse attendue : « Elle doit être attentionnée. » C’est la qualité personnelle attribuée qui demande des informations supplémentaires; juger une personne physiquement attirante ne renseigne pas à lui seul sur sa façon de traiter les autres. Demander quel indice serait pertinent : par exemple, observer comment elle écoute une personne en difficulté ou tient compte de ses besoins. Le cas illustre l’attribution de qualités positives à partir de l’apparence physique, phénomène décrit au chapitre 8, p. 253. Nommer l’effet de halo et relier explicitement ce terme au mécanisme illustré. Ne pas conclure que la personne n’est pas attentionnée : cette qualité reste à vérifier. Faire reformuler : « Je la trouve attirante; je ne sais pas encore si elle est attentionnée. »
 :::
 
 ## Ronde 1 — Qu’est-ce qui favorise le rapprochement?
@@ -558,20 +558,6 @@ Quelle composante est la plus directement décrite? Quel indice manque pour parl
 Passion. L’engagement demande une information sur la décision de poursuivre la relation. L’exercice ne vise pas à attribuer une étiquette globale à un couple à partir d’une seule phrase.
 :::
 
-## Pause — 10 minutes {#pause-2}
-
-**10 minutes**
-
-{{< include ../_minuterie.qmd >}}
-
-Proposez une chanson ou une photo de votre animal pour la pause.
-
-{{< include _reconnexion.qmd >}}
-
-::: {.notes}
-Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson et de photo, sans imposer de participation personnelle.
-:::
-
 ## L’attachement : deux dimensions
 
 L’**attachement** est un lien affectif qui pousse à chercher la proximité d’une personne pouvant apporter attention et réconfort.
@@ -627,6 +613,21 @@ Exemple concret de question : « Combien de temps chacune de ces tâches vous de
 
 Conclusion : l’équité n’exige pas de faire les mêmes tâches ni de les compter seulement; il faut tenir compte des contributions et des bénéfices perçus par les deux personnes. Ne pas déclarer le partage juste à partir de sa seule description.
 :::
+
+## Pause — 10 minutes {#pause-2}
+
+**10 minutes**
+
+{{< include ../_minuterie.qmd >}}
+
+Proposez une chanson ou une photo de votre animal pour la pause.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Annoncer oralement l’heure de retour. Maintenir le rituel habituel de chanson et de photo, sans imposer de participation personnelle.
+:::
+
 
 ## Satisfaction et engagement : deux questions
 

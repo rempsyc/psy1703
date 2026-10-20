@@ -3,7 +3,7 @@ title: "Guide d’étude — Examen 2"
 ---
 
 ::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **19 octobre 2026**. Ce guide couvre actuellement les cours 5 à 7 et les chapitres 5, 6 et 8. Le cours 8, le chapitre 9 et les précisions apportées en classe seront ajoutés progressivement. La version définitive sera disponible avant l’examen.
+Mise à jour du **20 octobre 2026**. Ce guide couvre actuellement les cours 5 à 7 et les chapitres 5, 6 et 8. Le cours 8, le chapitre 9 et les précisions apportées en classe seront ajoutés progressivement. La version définitive sera disponible avant l’examen.
 :::
 
 ## Repères
@@ -205,6 +205,7 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Similitude des valeurs, des attitudes et des opinions.
 - Proximité géographique et familiarité; effet de simple exposition.
 - Attirance réciproque et attirance physique; premières impressions et stéréotypes liés à l’apparence.
+- Effet de halo — ajout présenté au cours 7.
 - Présences répétées sans interaction : comparaison et profil général des jugements d’affinité dans l’étude présentée en classe.
 - Relations intimes; révélation de soi; inclusion de l’autre en soi; réciprocité.
 - Personnes marquantes; schéma relationnel et soi relationnel; confiance et ses composantes.

@@ -58,6 +58,8 @@ website:
             href: cours/05/index.qmd
           - text: "6 · Les attitudes"
             href: cours/06/index.qmd
+          - text: "7 · Les relations interpersonnelles"
+            href: cours/07/index.qmd
           - text: "Examen 2 — 10 novembre"
             href: examens/02/index.qmd
           - text: "Examen 3 — 15 décembre"

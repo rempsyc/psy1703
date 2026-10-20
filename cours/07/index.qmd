@@ -5,7 +5,7 @@ subtitle: "Attraction, formation et maintien des relations"
 
 **20 octobre 2026** · Lecture : chapitre 8 du manuel de Vallerand.
 
-Version du 19 octobre 2026.
+Version finale — 20 octobre 2026.
 
 [Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary}
 
