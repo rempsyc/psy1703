@@ -1,0 +1,44 @@
+<script>
+// Conserver le lien demandé avant l’activation automatique du mode défilement.
+(() => {
+  const initialHash = window.location.hash;
+  if (!initialHash || initialHash === '#' || initialHash === '#/') return;
+  let interacted = false;
+  for (const event of ['pointerdown', 'touchstart', 'wheel', 'keydown']) {
+    window.addEventListener(event, () => { interacted = true; }, { once: true, passive: true });
+  }
+  function restoreRequestedSlide() {
+    const deck = window.Reveal;
+    if (interacted || !deck || !deck.isScrollView()) return;
+    let indices;
+    let target;
+    const numeric = initialHash.match(/^#\/(\d+)(?:\/(\d+))?(?:\/(\d+))?$/);
+    if (numeric) {
+      const base = deck.getConfig().hashOneBasedIndex ? 1 : 0;
+      indices = { h: Number(numeric[1]) - base, v: Number(numeric[2] || base) - base };
+      target = Array.from(document.querySelectorAll('.slides section[data-index-h]')).find(
+        slide => Number(slide.dataset.indexH) === indices.h && Number(slide.dataset.indexV || 0) === indices.v
+      );
+    } else {
+      let id;
+      try { id = decodeURIComponent(initialHash.replace(/^#\/?/, '').split('/')[0]); }
+      catch (_) { return; }
+      target = document.getElementById(id)?.closest('.slides section');
+      if (!target) return;
+      indices = deck.getIndices(target);
+    }
+    const page = target?.closest('.scroll-page');
+    const viewport = deck.getViewportElement();
+    if (!page || !viewport) return;
+    // Viser la page réelle : le calcul proportionnel de Reveal peut tomber
+    // dans la page précédente après l’arrondi et le scroll-snap.
+    viewport.scrollTop += page.getBoundingClientRect().top - viewport.getBoundingClientRect().top;
+  }
+  window.addEventListener('load', () => {
+    // Attendre le layout final et la restauration de position de Reveal.
+    const restore = () => requestAnimationFrame(() => requestAnimationFrame(restoreRequestedSlide));
+    if (window.Reveal?.isReady()) restore();
+    else window.Reveal?.on('ready', restore);
+  }, { once: true });
+})();
+</script>

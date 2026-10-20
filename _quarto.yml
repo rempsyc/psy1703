@@ -80,3 +80,5 @@ execute:
 
 filters:
   - filters/liens-externes.lua
+
+include-in-header: scripts/liens-diapos-mobile.html
