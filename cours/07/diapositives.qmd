@@ -698,18 +698,6 @@ Le **soutien social** comprend l’aide disponible pour répondre à des besoins
 Manuel p. 264–265; glossaire p. 448. Distinguer soutien reçu et disponibilité perçue. Une aide non sollicitée ou répondant mal au besoin peut être moins utile. Le nombre de contacts ne suffit pas à décrire le soutien.
 :::
 
-## Quand une relation devient difficile
-
-La qualité du lien compte : les relations peuvent aussi apporter conflits, rupture et blessures.
-
-Dans la **violence conjugale**, des actes de domination visent à exercer du pouvoir sur l’autre personne. Ils peuvent être psychologiques, verbaux, physiques, sexuels ou économiques.
-
-Un désaccord et un acte de domination ne décrivent pas la même situation.
-
-::: {.notes}
-Manuel p. 267–268. Présentation académique brève, sans solliciter de témoignages. Les stratégies ordinaires de discussion ne suffisent pas à répondre à la violence. Les statistiques détaillées ne sont pas à mémoriser.
-:::
-
 ## Les conseils relationnels de xkcd
 
 ```{=html}
@@ -842,5 +830,9 @@ Le **27 octobre : semaine de lecture**, sans cours.
 .reveal section.halloween p {color:#fff4e5;font-size:40px;text-shadow:0 2px 10px #000;}
 </style>
 ```
+
+**Au prochain cours, j’enseignerai déguisé!**
+
+Ça vous tente? Venez en costume vous aussi!
 
 Bonne semaine de lecture et à bientôt!
