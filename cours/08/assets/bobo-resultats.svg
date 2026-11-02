@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='864.00pt' height='367.20pt' viewBox='0 0 864.00 367.20'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw4NjQuMDB8MC4wMHwzNjcuMjA='>
+    <rect x='0.00' y='0.00' width='864.00' height='367.20' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwzNjcuMjA=)'>
+<rect x='119.09' y='169.25' width='120.75' height='101.90' style='stroke-width: 0.75; stroke: none; fill: #167C9D;' />
+<rect x='263.99' y='78.68' width='120.75' height='192.47' style='stroke-width: 0.75; stroke: none; fill: #167C9D;' />
+<rect x='408.89' y='259.83' width='120.75' height='11.32' style='stroke-width: 0.75; stroke: none; fill: #829DAD;' />
+<rect x='553.78' y='265.49' width='120.75' height='5.66' style='stroke-width: 0.75; stroke: none; fill: #829DAD;' />
+<rect x='698.68' y='259.83' width='120.75' height='11.32' style='stroke-width: 0.75; stroke: none; fill: #B39A54;' />
+<text x='179.47' y='286.06' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='44.83px' lengthAdjust='spacingAndGlyphs'>Agressif</text>
+<text x='179.47' y='300.96' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='40.00px' lengthAdjust='spacingAndGlyphs'>féminin</text>
+<text x='324.36' y='286.06' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='44.83px' lengthAdjust='spacingAndGlyphs'>Agressif</text>
+<text x='324.36' y='300.96' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='48.95px' lengthAdjust='spacingAndGlyphs'>masculin</text>
+<text x='469.26' y='286.06' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='69.67px' lengthAdjust='spacingAndGlyphs'>Non agressif</text>
+<text x='469.26' y='300.96' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='40.00px' lengthAdjust='spacingAndGlyphs'>féminin</text>
+<text x='614.16' y='286.06' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='69.67px' lengthAdjust='spacingAndGlyphs'>Non agressif</text>
+<text x='614.16' y='300.96' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='48.95px' lengthAdjust='spacingAndGlyphs'>masculin</text>
+<text x='759.05' y='286.06' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='35.20px' lengthAdjust='spacingAndGlyphs'>Aucun</text>
+<text x='759.05' y='300.96' text-anchor='middle' style='font-size: 12.42px;fill: #123B5D; font-family: "Arial";' textLength='40.70px' lengthAdjust='spacingAndGlyphs'>modèle</text>
+<text transform='translate(38.09,157.93) rotate(-90)' text-anchor='middle' style='font-size: 13.80px;fill: #123B5D; font-family: "Arial";' textLength='255.38px' lengthAdjust='spacingAndGlyphs'>Score moyen d’agression physique imitée</text>
+<line x1='91.08' y1='271.15' x2='91.08' y2='44.71' style='stroke-width: 0.75; stroke: #123B5D;' />
+<line x1='91.08' y1='271.15' x2='82.80' y2='271.15' style='stroke-width: 0.75; stroke: #123B5D;' />
+<line x1='91.08' y1='214.54' x2='82.80' y2='214.54' style='stroke-width: 0.75; stroke: #123B5D;' />
+<line x1='91.08' y1='157.93' x2='82.80' y2='157.93' style='stroke-width: 0.75; stroke: #123B5D;' />
+<line x1='91.08' y1='101.32' x2='82.80' y2='101.32' style='stroke-width: 0.75; stroke: #123B5D;' />
+<line x1='91.08' y1='44.71' x2='82.80' y2='44.71' style='stroke-width: 0.75; stroke: #123B5D;' />
+<text x='74.52' y='276.09' text-anchor='end' style='font-size: 13.80px;fill: #123B5D; font-family: "Arial";' textLength='7.67px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='74.52' y='219.48' text-anchor='end' style='font-size: 13.80px;fill: #123B5D; font-family: "Arial";' textLength='15.34px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='74.52' y='162.87' text-anchor='end' style='font-size: 13.80px;fill: #123B5D; font-family: "Arial";' textLength='15.34px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='74.52' y='106.26' text-anchor='end' style='font-size: 13.80px;fill: #123B5D; font-family: "Arial";' textLength='15.34px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='74.52' y='49.65' text-anchor='end' style='font-size: 13.80px;fill: #123B5D; font-family: "Arial";' textLength='15.34px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='469.26' y='28.03' text-anchor='middle' style='font-size: 15.87px; font-weight: bold;fill: #123B5D; font-family: "Arial";' textLength='313.64px' lengthAdjust='spacingAndGlyphs'>Plus d’imitation après un modèle agressif</text>
+<text x='469.26' y='360.58' text-anchor='middle' style='font-size: 10.20px;fill: #123B5D; font-family: "Arial";' textLength='332.00px' lengthAdjust='spacingAndGlyphs'>Reconstitution approximative de la figure du manuel · Axe à partir de zéro</text>
+</g>
+</g>
+</svg>

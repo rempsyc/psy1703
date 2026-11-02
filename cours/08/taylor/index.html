@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="fr-CA">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>La tâche de Taylor — PSY1703</title>
+<style>
+:root{color-scheme:light;--ink:#123b5d;--blue:#167c9d;--line:#cfdae3;--paper:#f1f5f8}*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:#fff;color:var(--ink);font:clamp(17px,1.6vw,23px)/1.4 system-ui,sans-serif}main{max-width:1150px;margin:auto;padding:20px 28px}header{display:flex;align-items:center;justify-content:space-between;gap:12px}h1{font-size:1.45em;margin:0 0 6px}h2{font-size:1.2em;margin:14px 0}p{margin:10px 0}button,a,input{font:inherit}button{border:1px solid #8fa8ba;background:white;color:var(--ink);border-radius:6px;padding:9px 17px;cursor:pointer}button:hover:not(:disabled){background:#e9f4f7}button:disabled{opacity:.45;cursor:default}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #ad7615;outline-offset:3px}.primary{background:var(--ink);color:white}.primary:hover:not(:disabled){background:#205d80}a{color:#136479}.small{font-size:.76em}.quiet{color:#476173}.sound{display:flex;align-items:center;flex-wrap:wrap;gap:9px 15px;background:var(--paper);border-radius:8px;padding:10px 14px;margin:12px 0}.sound input[type=checkbox]{width:21px;height:21px;vertical-align:middle;accent-color:var(--blue)}.sound input[type=range]{width:140px;accent-color:var(--blue)}.sound button{font-size:.8em;padding:5px 12px}.sound output{font-size:.8em;min-width:42px}#audio-status{font-size:.73em;margin:3px 0;min-height:1em}.badge{font-size:.8em;background:#e8f0f5;border-radius:20px;padding:5px 13px}.actions{display:flex;gap:12px;flex-wrap:wrap;margin:15px 0}fieldset{border:0;padding:0;margin:14px 0}legend{font-weight:650;margin-bottom:8px}.options{display:grid;grid-template-columns:repeat(11,minmax(0,1fr));gap:5px}.options button{padding:9px 1px;font-size:.95em;min-height:48px}.options button[aria-pressed=true]{background:var(--ink);color:#fff;box-shadow:inset 0 0 0 2px #167c9d}.ends{display:flex;justify-content:space-between;font-size:.7em;margin-top:4px}#target{width:min(90%,600px);min-height:170px;font-size:2.5em;font-weight:750;border:3px solid var(--ink);touch-action:manipulation}#target[data-signal=wait]{background:#e7eff4}#target[data-signal=warning]{background:#f3da7c}#target[data-signal=go]{background:#c44c3c;color:white}#target[data-signal=early]{background:#f4ece2}#arena{text-align:center;padding:20px 0}#retry{margin-top:12px}#feedback{background:var(--paper);border-radius:8px;padding:20px}.meter{height:20px;background:#dce6ec;border-radius:4px;overflow:hidden;margin:15px 0}.meter span{display:block;height:100%;background:var(--blue)}.cards{display:grid;grid-template-columns:1fr 1fr;gap:12px}.card{background:var(--paper);border-radius:8px;padding:15px}.card strong{display:block;margin-top:7px}.scroll{overflow:auto}table{border-collapse:collapse;width:100%;font-size:.75em;text-align:left}td,th{border-bottom:1px solid var(--line);padding:8px;white-space:nowrap}svg{width:100%;max-height:245px;font:16px system-ui,sans-serif}details{margin:16px 0}summary{cursor:pointer;font-weight:600}footer{border-top:1px solid var(--line);margin-top:18px;padding-top:10px;font-size:.7em}li{margin:8px 0}@media(max-width:600px){main{padding:14px}header{align-items:flex-start}.options{grid-template-columns:repeat(6,1fr)}.cards{grid-template-columns:1fr}.sound{gap:8px}#target{min-height:150px}h1{font-size:1.3em}.sound input[type=range]{width:110px}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+</style>
+<script src="taylor.js" defer></script>
+</head>
+<body><main>
+<header><div><h1>La tâche de Taylor</h1><span class="quiet small">Compétition de temps de réaction · démonstration de classe</span></div><button type="button" id="fullscreen" class="small">Agrandir</button></header>
+<section class="sound" aria-label="Réglages du son">
+<label><input id="sound" type="checkbox"> Son facultatif</label>
+<label for="volume" class="small">Volume d’écoute</label><input id="volume" type="range" min="0" max="100" value="12"><output id="volume-value" for="volume">12 %</output>
+<button type="button" id="test-sound">Tester le son</button><span class="small quiet">Commencez à faible volume sur votre appareil.</span>
+</section><p id="audio-status" role="status">Le son est désactivé. Vous pouvez aussi faire toute la tâche sans son.</p>
+<section id="intro">
+<h2>Avant chaque manche, vous choisissez le bruit destiné au partenaire.</h2>
+<ol><li>Choisissez une <strong>intensité de 0 à 10</strong>, puis une <strong>durée de 0 à 2 secondes</strong>. Zéro permet de ne pas administrer de bruit.</li><li>Validez. Attendez le signal <strong>PARTEZ</strong>, puis touchez le carré ou appuyez sur <strong>Espace</strong>.</li><li>Si vous perdez, vous découvrez le bruit choisi pour vous. Le son est joué uniquement si vous l’avez activé.</li></ol>
+<p>Vous jouez <strong>13 manches contre un partenaire simulé</strong>. Une condition vous est attribuée au hasard; nous comparerons les situations au débreffage.</p>
+<p class="small quiet">Les niveaux de la tâche sont relatifs, pas des décibels. Vos choix restent sur cette page, sans envoi ni sauvegarde automatique. Vous pouvez arrêter à tout moment.</p>
+<div class="actions"><button id="begin" class="primary" type="button">Commencer la tâche</button></div>
+</section>
+<section id="play" hidden>
+<p><span id="trial" class="badge"></span></p>
+<div id="setting"><p id="choice-hint"></p>
+<fieldset><legend>1. Intensité destinée au partenaire</legend><div id="intensity-options" class="options"></div><div class="ends"><span>0 · aucun bruit</span><span>10 · intensité la plus élevée</span></div></fieldset>
+<fieldset id="duration-options" disabled><legend>2. Durée destinée au partenaire · secondes</legend><div id="duration-buttons" class="options"></div></fieldset>
+<button type="button" id="ready" class="primary" disabled>Valider mes choix et jouer</button></div>
+<div id="arena" hidden><p id="arena-hint"></p><button type="button" id="target" data-signal="wait" aria-label="Cible de réaction">Attendez…</button><div><button type="button" id="retry" hidden>Reprendre le même essai</button></div></div>
+<div id="feedback" hidden aria-live="polite"><h2 id="outcome"></h2><p id="latency"></p><p id="opponent"></p><div class="meter" aria-hidden="true"><span id="signal-fill"></span></div><p id="sound-note" class="small"></p><button id="next" type="button" class="primary">Essai suivant</button></div>
+</section>
+<section id="results" hidden>
+<h2 id="result-title" tabindex="-1"></h2><p id="condition"></p>
+<div class="cards"><div class="card">Premier choix, avant tout résultat<strong id="first-value"></strong></div><div class="card">Moyennes des choix juste après une défaite<strong id="after-value"></strong></div></div>
+<h2>Les intensités que vous avez choisies</h2><svg id="plot" viewBox="0 0 700 200" role="img" aria-label="Intensités choisies à chacun des essais, de zéro à dix"></svg>
+<p><strong>Le partenaire et les victoires/défaites étaient programmés.</strong> Les deux conditions avaient la même suite de résultats. Seuls les choix du partenaire différaient.</p>
+<p>Comparez d’abord les conditions A et B, puis vos interprétations. Une évolution pendant votre seule partie ne permet pas d’isoler l’effet de la provocation.</p>
+<p class="small quiet">Ces nombres décrivent vos choix dans cette simulation; ils ne donnent pas un diagnostic ni un score validé d’agressivité.</p>
+<details><summary>Revoir mes essais</summary><div class="scroll"><table><thead><tr><th>Essai</th><th>Intensité choisie</th><th>Durée (s)</th><th>Réaction (ms)</th><th>Résultat</th><th>Partenaire : choix montré</th><th>Écoute</th></tr></thead><tbody id="trials"></tbody></table></div></details>
+<div class="actions"><button type="button" id="download">Télécharger mes essais (CSV)</button><button type="button" id="reset">Recommencer une nouvelle partie</button></div>
+</section>
+<button type="button" id="quit" class="small" hidden>Arrêter et voir mes choix</button>
+<footer>Adaptation pédagogique originale de la variante CRTT à bruit blanc du paradigme de Taylor. <a href="https://doi.org/10.1177/1948550618775408" target="_blank" rel="noopener noreferrer">Chester et Lasko (2019)</a> · <a href="https://doi.org/10.1007/s12671-023-02246-w" target="_blank" rel="noopener noreferrer">Thériault et Dandeneau (2023)</a> · <a href="https://doi.org/10.31234/osf.io/x4p9v_v1" target="_blank" rel="noopener noreferrer">Thériault, Masson et Dandeneau (2025, préprint)</a> · <a href="../diapositives.html#/tache-de-taylor">Retour aux diapositives</a></footer>
+</main></body></html>

@@ -1,0 +1,1945 @@
+<!DOCTYPE html>
+<html lang="fr-CA"><head>
+<link href="../../assets/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.11.9">
+
+  <meta name="author" content="Rémi Thériault">
+  <title>PSY1703 — Psychologie sociale – Psychologie sociale</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-ecf95ce5bef098ae4da9162d76d7af87.css">
+  <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+  <script>
+  // Conserver le lien demandé avant l’activation automatique du mode défilement.
+  (() => {
+    const initialHash = window.location.hash;
+    if (!initialHash || initialHash === '#' || initialHash === '#/') return;
+    let interacted = false;
+    for (const event of ['pointerdown', 'touchstart', 'wheel', 'keydown']) {
+      window.addEventListener(event, () => { interacted = true; }, { once: true, passive: true });
+    }
+    function restoreRequestedSlide() {
+      const deck = window.Reveal;
+      if (interacted || !deck || !deck.isScrollView()) return;
+      let indices;
+      let target;
+      const numeric = initialHash.match(/^#\/(\d+)(?:\/(\d+))?(?:\/(\d+))?$/);
+      if (numeric) {
+        const base = deck.getConfig().hashOneBasedIndex ? 1 : 0;
+        indices = { h: Number(numeric[1]) - base, v: Number(numeric[2] || base) - base };
+        target = Array.from(document.querySelectorAll('.slides section[data-index-h]')).find(
+          slide => Number(slide.dataset.indexH) === indices.h && Number(slide.dataset.indexV || 0) === indices.v
+        );
+      } else {
+        let id;
+        try { id = decodeURIComponent(initialHash.replace(/^#\/?/, '').split('/')[0]); }
+        catch (_) { return; }
+        target = document.getElementById(id)?.closest('.slides section');
+        if (!target) return;
+        indices = deck.getIndices(target);
+      }
+      const page = target?.closest('.scroll-page');
+      const viewport = deck.getViewportElement();
+      if (!page || !viewport) return;
+      // Viser la page réelle : le calcul proportionnel de Reveal peut tomber
+      // dans la page précédente après l’arrondi et le scroll-snap.
+      viewport.scrollTop += page.getBoundingClientRect().top - viewport.getBoundingClientRect().top;
+    }
+    window.addEventListener('load', () => {
+      // Attendre le layout final et la restauration de position de Reveal.
+      const restore = () => requestAnimationFrame(() => requestAnimationFrame(restoreRequestedSlide));
+      if (window.Reveal?.isReady()) restore();
+      else window.Reveal?.on('ready', restore);
+    }, { once: true });
+  })();
+  </script>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Psychologie sociale</h1>
+  <p class="subtitle">Cours 8 — L’agression</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Rémi Thériault
+</div>
+        <p class="quarto-title-affiliation">
+            UQAR — PSY1703-04
+          </p>
+    </div>
+</div>
+
+  <p class="date">3 novembre 2026</p>
+</section>
+<section id="quiz-de-lecture-6-125" class="slide level2">
+<h2>Quiz de lecture 6 — 1,25 %</h2>
+<p><strong>Cours 7 et chapitre 8 · 8 questions · 10 minutes · Travail individuel</strong></p>
+<div class="quiz-timer" role="timer" aria-live="polite">
+  <div class="quiz-timer-display">10:00</div>
+  <div class="quiz-timer-controls">
+    <button class="quiz-timer-start" type="button">Démarrer</button>
+    <button class="quiz-timer-pause" type="button" disabled="">Pause</button>
+    <button class="quiz-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+<style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
+.quiz-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 390px;
+  text-align: center;
+  padding: 0.28rem 0.45rem 0.35rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.35rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+  z-index: 10;
+}
+
+.quiz-timer-display {
+  color: #123b5d;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.quiz-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-timer-controls button {
+  margin: 0;
+  padding: 0.22rem 0.45rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.quiz-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.quiz-timer.warning {
+  border-color: #c62828;
+}
+
+.quiz-timer.warning .quiz-timer-display {
+  color: #c62828;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 10 * 60 * 1000;
+  document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    if (timer.dataset.initialized === "true") return;
+    timer.dataset.initialized = "true";
+    const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
+    const display = timer.querySelector(".quiz-timer-display");
+    const startButton = timer.querySelector(".quiz-timer-start");
+    const pauseButton = timer.querySelector(".quiz-timer-pause");
+    const resetButton = timer.querySelector(".quiz-timer-reset");
+    let state = { running: false, remaining: duration, end: null };
+
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved && typeof saved.remaining === "number") state = saved;
+    } catch (_) {}
+
+    function remainingNow() {
+      return state.running && state.end
+        ? Math.max(0, state.end - Date.now())
+        : Math.max(0, state.remaining);
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
+    function render() {
+      const remaining = remainingNow();
+      const totalSeconds = Math.ceil(remaining / 1000);
+      const minutes = Math.floor(totalSeconds / 60);
+      const seconds = totalSeconds % 60;
+      display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      timer.classList.toggle("warning", remaining <= 2 * 60 * 1000);
+      startButton.disabled = state.running || remaining === 0;
+      startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+      pauseButton.disabled = !state.running;
+
+      if (state.running && remaining === 0) {
+        state = { running: false, remaining: 0, end: null };
+        save();
+      }
+    }
+
+    startButton.addEventListener("click", () => {
+      const remaining = remainingNow();
+      state = { running: true, remaining, end: Date.now() + remaining };
+      save();
+      render();
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state = { running: false, remaining: remainingNow(), end: null };
+      save();
+      render();
+    });
+
+    resetButton.addEventListener("click", () => {
+      state = { running: false, remaining: duration, end: null };
+      save();
+      render();
+    });
+
+    render();
+    window.setInterval(render, 250);
+  });
+});
+</script>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/JIESIIR" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : JIESIIR</strong></p>
+<p>Utilisez votre identifiant UQAR selon les consignes.</p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/JIESIIR" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-quiz-qr.png" alt="Code QR Wooclap JIESIIR" width="420"></a></p>
+</div></div>
+<aside class="notes">
+<p>10 minutes. Vérifier identification UQAR et accès avant le départ. Code du quiz : JIESIIR; évènement distinct des activités IFDJTAT. Questions évaluées et clé conservées séparément dans Box. Les huit meilleurs quiz sur dix valent ensemble 10 %.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="quiz-et-examen-quoi-préparer" class="slide level2">
+<h2>Quiz et examen — quoi préparer?</h2>
+<p><strong>Quiz 7 · 17 novembre · 1,25 %</strong></p>
+<p>Cours <strong>8</strong> et chapitre <strong>9 — L’agression</strong>. 8 questions · 10 minutes.</p>
+<p><strong>Examen 2 · 10 novembre · 30 %</strong></p>
+<p>Cours <strong>5 à 8</strong> et chapitres <strong>5, 6, 8 et 9</strong>. Répartition annoncée : <strong>50 % cours / 50 % manuel</strong>.</p>
+<p><a href="../../examens/02/guide.html">Guide d’étude de l’examen 2</a></p>
+<aside class="notes">
+<p>3 minutes. Distinguer le quiz 6 du jour (cours 7, chapitre 8) du quiz 7 suivant. Aucun cours le 27 octobre. L’examen occupe la séance du 10 novembre. Les articles cités sont des ressources, pas des lectures intégrales obligatoires.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="plan-de-la-séance" class="slide level2">
+<h2>Plan de la séance</h2>
+<ol type="1">
+<li><strong>Les formes d’agression et les réactions à une situation aversive</strong></li>
+<li><strong>L’apprentissage, la socialisation et le traitement de l’information</strong></li>
+<li><strong>Les contributions biologiques et la violence dans les médias</strong></li>
+</ol>
+<p><strong>Pour commencer :</strong> qu’est-ce qui permet de distinguer une plaisanterie d’une agression?</p>
+<aside class="notes">
+<p>4 minutes avec lancement. Fil conducteur : comprendre un geste exige de distinguer ce qui arrive, ce qui est interprété et ce qui est appris. Situations fictives, aucune confidence demandée. On peut participer en analysant les indices, sans raconter une expérience personnelle. Les prolongements mettant en scène Manolo, Constance et Fabrice sont imaginaires, sauf la scène vidéo identifiée.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-conflit-et-lagression" class="slide level2">
+<h2>Le conflit et l’agression</h2>
+<p><strong>Quels gestes ou paroles font monter le conflit?</strong></p>
+<iframe id="ramdam-agression" width="1450" height="540" src="https://www.youtube.com/embed/2FUEJDVWyQk?start=420&amp;end=532&amp;rel=0&amp;cc_load_policy=0" title="Ramdam — Fureur et taï chi : le conflit et l’agression" allow="autoplay; fullscreen; encrypted-media" allowfullscreen=""></iframe>
+<div style="display:flex;gap:18px;margin-top:12px">
+<button type="button" onclick="document.getElementById('ramdam-agression').src='https://www.youtube.com/embed/2FUEJDVWyQk?start=420&amp;end=532&amp;autoplay=1&amp;cc_load_policy=0&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer</button>
+</div>
+<div class="credit">
+<p>Ramdam · saison 5, épisode 40 · <em>Fureur et taï chi</em> · 7:00–8:52 · <a href="https://www.youtube.com/watch?v=2FUEJDVWyQk&amp;t=420s" target="_blank" rel="noopener noreferrer">Ouvrir la vidéo</a>.</p>
+</div>
+<aside class="notes">
+<p>6 à 8 minutes, extrait compris. Avant : « Repérez une parole ou un geste précis qui fait monter le conflit. » Après : recueillir deux observations, puis demander quel but poursuit chaque personnage et quels indices permettent de le proposer. Distinguer un désaccord, une émotion de colère et une conduite visant à faire du tort; la définition vient à la diapositive suivante. Ne pas attribuer automatiquement une intention hostile à toute réaction ferme. Demander : « À quel moment pourrait-on interrompre cette escalade sans renoncer à son objectif? » Faire proposer une phrase ou une action concrète plutôt qu’un simple conseil de rester calme. Relever oralement la référence à la philosophie indienne signalée dans ce passage : « Quel rôle cette référence joue-t-elle dans l’échange? Une idée sur le calme suffit-elle à changer notre manière d’agir dans un conflit? » Partir des paroles réellement entendues, sans attribuer à une tradition entière le propos d’un personnage ni assimiler le taï chi à une tradition indienne. Utiliser ce clin d’œil comme transition vers la régulation des réactions, sans ouvrir une nouvelle matière à mémoriser sur les philosophies ou reprendre les résultats de mes recherches. Transfert : dans un travail d’équipe, formuler une limite ou une demande qui protège le but sans humilier l’autre. Repli si la vidéo ne charge pas : ouvrir le lien dans un nouvel onglet, puis utiliser les situations de la diapositive suivante. Les situations suivantes sont des exemples distincts, pas une transcription de cet extrait.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lagression-la-colère-et-lassertion" class="slide level2">
+<h2>L’agression, la colère et l’assertion</h2>
+<p>L’<strong>agression</strong> est un comportement physique ou verbal dirigé vers une personne avec l’intention de lui faire du tort physiquement ou psychologiquement.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Situation</th>
+<th>Ce qu’il faut distinguer</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Manolo se sent en colère, mais ne menace personne.</td>
+<td>Une émotion et un comportement</td>
+</tr>
+<tr class="even">
+<td>Constance dit fermement : « Je refuse qu’on prenne mon repas. »</td>
+<td>L’assertion et l’intention de nuire</td>
+</tr>
+<tr class="odd">
+<td>Une personne tente de frapper Fabrice, mais le manque.</td>
+<td>L’intention et le résultat</td>
+</tr>
+</tbody>
+</table>
+<aside class="notes">
+<p>5 minutes. Manuel p.&nbsp;276; glossaire p.&nbsp;437. Définir assertion : conduite assurée orientée vers un objectif, sans intention de nuire nécessaire. Réponses : colère seule ≠ agression; poser une limite ferme n’est pas une agression par sa seule fermeté; une tentative peut être agressive sans blessure réalisée. Ajouter oralement l’accident : dommage sans intention. Une intention doit être inférée d’indices, pas lue dans l’esprit. Faire nommer quel détail change chaque jugement; accepter un contexte supplémentaire qui modifierait l’interprétation, sans perdre le cas décrit. Utilité : ne pas confondre défense de ses droits et attaque.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lagression-hostile-et-instrumentale" class="slide level2">
+<h2>L’agression hostile et instrumentale</h2>
+<p>L’<strong>agression hostile</strong> vise à faire souffrir ou à blesser.</p>
+<p>L’<strong>agression instrumentale</strong> utilise le tort fait à autrui comme moyen d’obtenir autre chose.</p>
+<p><strong>Même geste : diffuser un message humiliant.</strong></p>
+<ul>
+<li>« Je veux que Fabrice souffre après ce qu’il m’a dit. »</li>
+<li>« Je veux que Fabrice abandonne sa candidature. »</li>
+</ul>
+<p>Quel objectif change?</p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;276, glossaire p.&nbsp;437. Première motivation : hostile. Deuxième : instrumentale; humiliation pour obtenir le retrait. Les deux font du tort intentionnellement, donc instrumental ne veut pas dire inoffensif. Une personne peut poursuivre les deux objectifs; ne pas exiger une catégorie exclusive si plusieurs motifs sont explicites. Accepter vengeance comme hostile dans la première phrase. Faire modifier une seule phrase du cas pour changer le motif; garder le geste constant.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lagression-réactive-proactive-et-relationnelle" class="slide level2">
+<h2>L’agression réactive, proactive et relationnelle</h2>
+<p><strong>Réactive</strong> : réponse à une situation perçue comme provocante ou aversive. <strong>Proactive</strong> : conduite initiée dans un but instrumental.</p>
+<p><strong>Directe</strong> : attaque physique ou verbale dirigée vers la personne. <strong>Indirecte ou relationnelle</strong> : tort par manipulation de ses relations.</p>
+<p>Fabrice est exclu d’un groupe pour le faire céder. Ailleurs, Manolo insulte immédiatement une personne après avoir cru être provoqué.</p>
+<p>Ces catégories décrivent des aspects différents d’un geste.</p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;276, glossaire p.&nbsp;437. Exclusion utilisée comme pression : relationnelle et proactive/instrumentale; insulte répondant à une provocation perçue : directe et réactive. Hostile/instrumentale portent sur la fonction; réactive/proactive sur la dynamique de déclenchement, avec recoupements. Une agression relationnelle peut aussi être hostile. Ne pas enseigner « relationnelle = féminine » : le manuel rapporte des variations de fréquence, pas des catégories exclusives. Faire expliquer la menace de retrait d’amitié comme contrôle du lien. Transfert : repérer une agression qui ne laisse pas de blessure physique.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="tache-de-taylor" class="slide level2">
+<h2>La tâche de Taylor</h2>
+<style>
+#taylor-classe {text-align:center; margin:35px auto; max-width:1250px;}
+#taylor-classe .signal {font-size:76px; font-weight:700; min-height:170px; display:flex; align-items:center; justify-content:center; line-height:1.2;}
+#taylor-classe button {font:inherit; font-size:38px; padding:20px 35px; margin:12px; border:3px solid #24475c; border-radius:14px; background:white; color:#17394e; cursor:pointer;}
+#taylor-classe .go {background:#d6f3df; min-width:850px; min-height:180px; font-size:64px;}
+#taylor-classe .sound {font-size:23px; margin-top:35px;}
+#taylor-classe .sound input {vertical-align:middle;}
+</style>
+<div id="taylor-classe">
+<div class="signal" aria-live="polite">Quel bruit pour l’autre?</div>
+<div class="actions"></div>
+<div class="sound"><label><input type="checkbox" class="audio"> Son</label> <label>Volume <input class="volume" type="range" min="0" max="20" value="5" aria-label="Volume du son"></label> <button class="reset" style="font-size:23px;padding:6px 14px">Recommencer</button></div>
+</div>
+<script>
+(()=>{
+const el=document.getElementById('taylor-classe'), label=el.querySelector('.signal'), actions=el.querySelector('.actions');
+let timer, round=0, ctx, generation=0;
+const rounds=[{win:false,noise:0},{win:true,noise:2},{win:false,noise:2}];
+const names=['Aucun','Faible','Fort'];
+function buttons(items){actions.replaceChildren(); for(const [text,fn,cls] of items){const b=document.createElement('button'); b.type='button'; b.textContent=text; if(cls)b.className=cls; b.onclick=e=>{e.stopPropagation();fn();}; actions.append(b);}}
+function sound(level){if(!level||!el.querySelector('.audio').checked)return; try{ctx??=new (window.AudioContext||window.webkitAudioContext)();ctx.resume(); const o=ctx.createOscillator(),g=ctx.createGain();o.frequency.value=220;o.connect(g);g.connect(ctx.destination);const t=ctx.currentTime;g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(Number(el.querySelector('.volume').value)/100*(level===1?.15:.3),t+.02);g.gain.linearRampToValueAtTime(0,t+.3);o.start(t);o.stop(t+.31);}catch{}}
+function choose(){label.textContent='Quel bruit pour l’autre?'; buttons(names.map((n,i)=>[n,()=>ready(i)]));}
+function ready(choice){label.textContent='Votre choix : '+names[choice].toLowerCase();buttons([['Prêts?',()=>wait(choice)]]);}
+function wait(choice){const token=++generation;label.textContent='Attendez…';buttons([['…',()=>{clearTimeout(timer);generation++;label.textContent='Trop tôt!';buttons([['Reprendre',()=>ready(choice)]]);},'go']]);timer=setTimeout(()=>{if(token!==generation)return;label.textContent='Cliquez!' ;buttons([['Cliquez!',()=>result(choice),'go']]);},1800+Math.random()*1800);}
+function result(choice){const r=rounds[round];label.textContent=r.win?'Manche gagnée':'Manche perdue';actions.replaceChildren();const p=document.createElement('p');p.style.fontSize='38px';p.textContent=r.win?'Votre bruit : '+names[choice].toLowerCase():'Bruit du partenaire : '+names[r.noise].toLowerCase();actions.append(p);sound(r.win?choice:r.noise);const b=document.createElement('button');b.textContent=round<2?'Manche suivante':'Terminer';b.onclick=e=>{e.stopPropagation();round++;if(round<3)choose();else{label.textContent='Et maintenant, quel bruit choisir?';buttons([]);}};actions.append(b);}
+el.querySelector('.reset').onclick=()=>{clearTimeout(timer);generation++;round=0;choose();};
+choose();
+})();
+</script>
+<aside class="notes">
+<p>4 à 6 minutes. Démonstration collective : je pilote les clics. Dire oralement : « Un partenaire simulé joue contre nous. Si nous gagnons, il reçoit le bruit choisi; si nous perdons, nous recevons son choix. Quel bruit lui destiner? » Recueillir un choix à mains levées puis cliquer sur Aucun, Faible ou Fort. Cliquer Prêts; au signal, le groupe lève la main et je clique sur le grand bouton. Trois manches seulement. Pas d’appareil étudiant, pas de collecte ni de score individuel. Le clic représente la réponse de vitesse; aucun temps ni score n’est affiché. Expliquer oralement l’adaptation collective à mains levées, sans l’inscrire à l’écran. Les issues sont programmées (défaite, victoire, défaite), indépendamment du clic. Le partenaire choisit aucun bruit au début, puis fort; une dernière décision peut être discutée oralement après la troisième manche. Annoncer le caractère simulé dès le départ. Le son est facultatif, désactivé par défaut et plafonné; les libellés suffisent. La tonalité brève illustre seulement le principe du bruit, sans reproduire une stimulation aversive de recherche. Demander avant la première manche : « Pensez-vous garder le même choix? » Après : « Avez-vous eu envie de changer? À quel moment? » Accueillir aussi la stabilité; aucune réaction n’est attendue ou exigée. Le but est de vivre la structure choix → compétition → conséquence → nouveau choix, pas de démontrer un effet expérimental dans cette classe.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="taylor-mesure" class="slide level2">
+<h2>La tâche de Taylor : mesurer l’agression</h2>
+<p><strong>Le clic :</strong> la compétition de vitesse.</p>
+<p><strong>Le bruit choisi :</strong> le comportement étudié.</p>
+<p>Après un bruit fort, que voudrait-on envoyer à l’autre?</p>
+<div class="credit">
+<p><a href="https://doi.org/10.1177/1948550618775408" target="_blank" rel="noopener noreferrer">Chester et Lasko (2019)</a>.</p>
+</div>
+<aside class="notes">
+<p>2 à 3 minutes. Distinguer la vitesse de réaction et le choix d’une conséquence pour autrui. Dans la recherche, on s’intéresse au bruit choisi dans une situation où la personne croit affecter quelqu’un. Ici le partenaire est annoncé simulé, la durée est fixe, trois choix seulement et aucun résultat individuel interprétable. Cette animation n’est pas une mesure validée d’agressivité. Demander si le choix exprime riposte, compétition ou règle de réciprocité; un bouton seul ne révèle pas une intention avec certitude. Relier à l’agression réactive : une provocation perçue peut modifier une réponse sans la rendre inévitable. Transfert : après un message hostile, quelle réponse protège notre objectif sans chercher à faire souffrir? La comparaison des conditions et les détails méthodologiques de la version complète sont réservés à une autre occasion.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="taylor-recherches-remi" class="slide level2">
+<h2>La tâche de Taylor dans mes recherches</h2>
+<p><strong>« Voici une tâche que j’ai utilisée dans mes recherches. »</strong></p>
+<ul>
+<li>Un article dans <em>Mindfulness</em> : Thériault et Dandeneau (2023).</li>
+<li>Un préprint sur deux interventions de bienveillance : Thériault, Masson et Dandeneau (2025).</li>
+</ul>
+<p>Dans ces travaux, la tâche permet de <strong>mesurer un comportement</strong>, en complément des questionnaires.</p>
+<div class="credit">
+<p><a href="https://doi.org/10.1007/s12671-023-02246-w" target="_blank" rel="noopener noreferrer">Article dans Mindfulness</a> · <a href="https://doi.org/10.31234/osf.io/x4p9v_v1" target="_blank" rel="noopener noreferrer">Préprint</a>.</p>
+</div>
+<aside class="notes">
+<p>Environ une minute. Présenter ces références comme des exemples d’utilisation personnelle de cette méthode. Elles servent à ancrer la tâche dans une recherche concrète; elles ne sont pas de nouvelles lectures obligatoires. Aucune conclusion sur les interventions, aucun résultat statistique ni détail de réplication à présenter ou à faire apprendre ici. Contexte méthodologique seulement, au besoin : l’article de 2023 emploie la CRTT comme mesure comportementale dans des recherches sur l’amorçage de la pleine conscience; le préprint compare un entrainement de six semaines à la méditation de bienveillance, un entrainement de réflexion sur ces thèmes et une liste d’attente. Dans les deux cas, la tâche représente une mesure parmi d’autres : ne pas réduire tout le projet à cette seule tâche ni confondre la manipulation étudiée avec la mesure. J’ai également employé cette tâche dans deux études pilotes non publiées préparatoires à l’étude principale du préprint. Les évoquer en une phrase comme expérience de préparation, sans aborder leurs résultats ni les présenter comme des études publiées. Terminer par : « Le point pour notre cours est le type de décision observée : quel bruit choisit-on de destiner à l’autre? » Reprendre ensuite les explications d’agression du chapitre. Les résultats des deux références et les pilotes ne constituent pas de matière supplémentaire à évaluer.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-frustration-et-lagression" class="slide level2">
+<h2>La frustration et l’agression</h2>
+<p>La <strong>frustration</strong> survient lorsqu’un obstacle empêche d’atteindre un but.</p>
+<p><strong>Hypothèse initiale</strong> : la frustration produit une tendance à agresser; toute agression proviendrait d’une frustration.</p>
+<p>Manolo perd un fichier de travail juste avant la remise.</p>
+<p>Il pourrait accuser Constance, demander de l’aide, recommencer ou se retirer. Qu’est-ce que ces possibilités changent à l’explication?</p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;278–279. L’hypothèse originale est présentée comme proposition historique, puis révisée : frustration ne détermine pas une réponse unique; d’autres expériences aversives et des buts instrumentaux interviennent. Ne pas affirmer que la frustration est nécessaire ou suffisante. Déplacement : si Manolo n’ose s’en prendre à la personne responsable et s’en prend à une autre cible moins risquée. Définir le terme au moment de cet exemple. Réponses acceptables : solutions apprises, conséquences anticipées, perception de l’intention, intensité du malaise. La présence de ces options rend une explication mécanique insuffisante.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-perspective-néoassociationniste" class="slide level2">
+<h2>La perspective néoassociationniste</h2>
+<p>Une expérience aversive suscite un <strong>affect négatif</strong> et active des pensées, souvenirs et tendances à agir associés.</p>
+<p><strong>Fichier perdu → malaise → pensées d’attaque ou de fuite</strong></p>
+<div class="fragment">
+<p>L’interprétation, les règles sociales et les réponses disponibles peuvent modifier la réaction.</p>
+</div>
+<p>Le message « tu l’as supprimé exprès » et le message « une panne a touché tout le monde » n’orientent pas la même réponse.</p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;279–281 et figure 9.1. Définir affect négatif : état émotionnel désagréable. Le modèle va au-delà de la frustration : douleur et autres expériences aversives peuvent amorcer le réseau. Indices associés à l’agression facilitent l’activation; les processus cognitifs plus élaborés permettent de préciser colère, peur, attribution et conduite. Faire comparer les deux explications du fichier perdu. Conclusion : une première impulsion ne fixe pas l’action. Pas de promesse que toute personne peut neutraliser toute réaction par un simple choix.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-indices-associés-à-lagression" class="slide level2">
+<h2>Les indices associés à l’agression</h2>
+<p><strong>Étude classique : la présence d’armes</strong></p>
+<ol type="1">
+<li>Certaines personnes reçoivent une provocation; d’autres non.</li>
+<li>Des armes, des raquettes ou aucun objet particulier sont visibles.</li>
+<li>Les personnes peuvent ensuite administrer des chocs à un partenaire.</li>
+</ol>
+<p><strong>Prédiction :</strong> dans quelle situation les indices pourraient-ils le plus favoriser une réponse agressive?</p>
+<aside class="notes">
+<p>3 minutes. Manuel p.&nbsp;279–280, Berkowitz et LePage, 1967, rapport secondaire. Le partenaire est associé à une procédure expérimentale; expliquer le caractère organisé de la situation, sans prétendre connaitre tous les détails non donnés. Mesure : nombre de chocs administrés. Résultat rapporté : davantage de chocs chez les personnes provoquées en présence d’armes que chez les personnes provoquées sans ces indices. Dans une condition les armes sont attribuées au partenaire, dans une autre à une étude distincte : la présence des indices importe aussi sans attribution au partenaire. Ne pas assimiler tout objet aperçu à un déclencheur universel. Ne pas reproduire la provocation ni apporter d’arme en classe; utiliser le récit et la prédiction.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-transfert-dexcitation" class="slide level2">
+<h2>Le transfert d’excitation</h2>
+<p>Une <strong>activation physiologique résiduelle</strong> peut amplifier une réaction à une situation suivante si elle est attribuée à celle-ci.</p>
+<p>Manolo monte rapidement quatre étages. Essoufflé, il lit : « Ton travail n’est vraiment pas sérieux. »</p>
+<p><strong>Escaliers → activation persistante → message interprété comme une attaque → réaction amplifiée</strong></p>
+<p>Que pourrait changer le fait d’identifier la source de son activation?</p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;281–282. Définir activation : mobilisation corporelle, par exemple rythme cardiaque et respiration. Ce cas illustre une possibilité, pas un résultat recueilli en classe. Une activation n’est pas en soi de la colère. L’attribution au premier évènement peut réduire l’amplification liée au second; le contexte et l’interprétation comptent. Accepter attendre, reconnaitre l’essoufflement, relire le message ou demander une précision comme applications raisonnables, sans garantie clinique. Mise en scène volontaire possible : lire la phrase sur un ton neutre puis irrité, sans exercice physique imposé. Différence avec néoassociation : ici persistance et attribution de l’activation; là activation d’un réseau d’affects/pensées par une expérience aversive.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="connectez-vous-à-wooclap-ronde-1" class="slide level2">
+<h2>Connectez-vous à Wooclap — ronde 1</h2>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : IFDJTAT</strong></p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap IFDJTAT" width="420"></a></p>
+</div></div>
+<p>Formes d’agression, frustration et activation.</p>
+<p><a href="#/pause-1">Reprendre le cours après la ronde</a></p>
+<aside class="notes">
+<p>5 minutes. Utiliser les deux questions suivantes dans l’évènement, puis reprendre directement à la pause 1. Repli sans connexion : réflexion individuelle de 20 secondes, choix à mains levées et justification d’une réponse. Les questions suivantes sont les archives publiques, pas le quiz évalué.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lagression-instrumentale-application" class="slide level2">
+<h2>L’agression instrumentale — application</h2>
+<p>Une personne menace de diffuser une rumeur pour obtenir une place dans une équipe. Quel objectif indique surtout une agression instrumentale?</p>
+<p>A. Ressentir une émotion désagréable.<br>
+B. Obtenir la place au moyen de la menace.<br>
+C. Répondre sans intention de nuire.<br>
+D. Affirmer calmement son intérêt.</p>
+<aside class="notes">
+<p>Réponse B : tort ou menace comme moyen d’obtenir une autre fin. A est un état affectif; C retire l’intention; D décrit une assertion. Si la rumeur est déjà diffusée pour faire souffrir et obtenir une place, les fonctions peuvent se combiner. Demander quel détail de l’énoncé soutient B.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-transfert-dexcitation-application" class="slide level2">
+<h2>Le transfert d’excitation — application</h2>
+<p>Après une activité physique, une personne interprète toute son activation comme la conséquence d’un reproche. Quel processus illustre surtout ce cas?</p>
+<p>A. Le transfert d’excitation.<br>
+B. L’apprentissage par observation.<br>
+C. La manipulation des liens sociaux.<br>
+D. Le déplacement de l’agression vers une autre cible.</p>
+<aside class="notes">
+<p>Réponse A. Activation résiduelle et attribution au reproche. B demanderait un modèle observé; C une action sur les relations; D un changement de cible, absent ici. Ne pas faire de la seule présence d’exercice une preuve de transfert : l’attribution explicitement décrite est décisive.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="pause-1" class="slide level2">
+<h2>Pause — 10 minutes</h2>
+<p><strong>Pause — 10 minutes</strong></p>
+<p>Proposez une chanson ou une photo de votre animal de compagnie.</p>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : IFDJTAT</strong></p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap IFDJTAT" width="420"></a></p>
+</div></div>
+<aside class="notes">
+<p>Pause 1. Propositions chanson/photo dans la question ouverte de l’évènement d’engagement. Réponses multiples, mentions J’aime, envoi d’images et compte à rebours de dix minutes; modération désactivée, liste ou grille. Connexion aux activités : IFDJTAT. Heure de retour annoncée oralement. Reprendre à l’atelier, sans sauter celui-ci.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="atelier" class="slide level2">
+<h2>Atelier — la frustration et l’interprétation</h2>
+<div class="quiz-timer" role="timer" aria-live="polite">
+  <div class="quiz-timer-display">10:00</div>
+  <div class="quiz-timer-controls">
+    <button class="quiz-timer-start" type="button">Démarrer</button>
+    <button class="quiz-timer-pause" type="button" disabled="">Pause</button>
+    <button class="quiz-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+<style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
+.quiz-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 390px;
+  text-align: center;
+  padding: 0.28rem 0.45rem 0.35rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.35rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+  z-index: 10;
+}
+
+.quiz-timer-display {
+  color: #123b5d;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.quiz-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-timer-controls button {
+  margin: 0;
+  padding: 0.22rem 0.45rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.quiz-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.quiz-timer.warning {
+  border-color: #c62828;
+}
+
+.quiz-timer.warning .quiz-timer-display {
+  color: #c62828;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 10 * 60 * 1000;
+  document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    if (timer.dataset.initialized === "true") return;
+    timer.dataset.initialized = "true";
+    const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
+    const display = timer.querySelector(".quiz-timer-display");
+    const startButton = timer.querySelector(".quiz-timer-start");
+    const pauseButton = timer.querySelector(".quiz-timer-pause");
+    const resetButton = timer.querySelector(".quiz-timer-reset");
+    let state = { running: false, remaining: duration, end: null };
+
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved && typeof saved.remaining === "number") state = saved;
+    } catch (_) {}
+
+    function remainingNow() {
+      return state.running && state.end
+        ? Math.max(0, state.end - Date.now())
+        : Math.max(0, state.remaining);
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
+    function render() {
+      const remaining = remainingNow();
+      const totalSeconds = Math.ceil(remaining / 1000);
+      const minutes = Math.floor(totalSeconds / 60);
+      const seconds = totalSeconds % 60;
+      display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      timer.classList.toggle("warning", remaining <= 2 * 60 * 1000);
+      startButton.disabled = state.running || remaining === 0;
+      startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+      pauseButton.disabled = !state.running;
+
+      if (state.running && remaining === 0) {
+        state = { running: false, remaining: 0, end: null };
+        save();
+      }
+    }
+
+    startButton.addEventListener("click", () => {
+      const remaining = remainingNow();
+      state = { running: true, remaining, end: Date.now() + remaining };
+      save();
+      render();
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state = { running: false, remaining: remainingNow(), end: null };
+      save();
+      render();
+    });
+
+    resetButton.addEventListener("click", () => {
+      state = { running: false, remaining: duration, end: null };
+      save();
+      render();
+    });
+
+    render();
+    window.setInterval(render, 250);
+  });
+});
+</script>
+<p><strong>Équipes de 3 ou 4 · Discussion de 10 minutes · Une personne porte-parole</strong></p>
+<p>Juste avant la remise, le fichier de Manolo a disparu. Il vient de courir pour arriver à temps. Il lit « Bravo, beau travail… » de Constance et prépare un message humiliant.</p>
+<ol type="1">
+<li>Qu’observez-vous? Qu’est-ce que Manolo ajoute par son interprétation?</li>
+<li>Expliquez deux mécanismes possibles en citant leurs indices.</li>
+<li>Une information révèle une panne générale. Comment la réaction pourrait-elle changer?</li>
+<li>Proposez une réponse qui protège son but sans faire du tort.</li>
+</ol>
+<aside class="notes">
+<p>25 minutes au total : 3 consignes, 10 travail avec minuteur lancé après les consignes, 7 restitution, 5 débreffage. Aucun dessin, aucun dépôt. Préciser : la fin du message de Constance est absente; ne pas supposer son intention. Exemple de réponse : fait = fichier perdu et message; inférence = sarcasme et sabotage. Frustration = but de remise bloqué; néoassociation = malaise activant pensées d’attaque; transfert possible = activation persistante de la course attribuée au message. Deux mécanismes argumentés suffisent, sans obliger à tous les nommer. La réponse humiliant Constance peut être réactive à la provocation perçue; motif hostile si faire souffrir est le but. Le cas ne dit pas qu’elle a saboté le travail. Information de panne : explication externe, moins d’intention hostile perçue; l’urgence demeure, donc pas nécessairement disparition du malaise. Réponses possibles : demander « Est-ce que tu parles de la panne? », chercher une sauvegarde, demander un délai avec preuve de panne, attendre avant d’envoyer. Le retrait temporaire n’est pas nécessairement une fuite durable. Au tour, demander une comparaison ou un indice différent par équipe; viser 30–45 secondes et regrouper si la classe est nombreuse. Débreffage final : comprendre un déclencheur n’excuse pas le tort; il indique où agir. Transfert au stage : vérifier l’interprétation d’un message bref avant une réponse professionnelle.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="bandura-video" class="slide level2">
+<h2>L’apprentissage par observation</h2>
+<p>Apprendre une conduite <strong>en observant un modèle</strong>.</p>
+<p><strong>Quels gestes les enfants reprendront-ils?</strong></p>
+<iframe width="1450" height="540" src="https://www.youtube.com/embed/Z0iWpSNu3NU?rel=0" title="Albert Bandura — images classiques de la poupée Bobo" allow="fullscreen; encrypted-media" allowfullscreen=""></iframe>
+<div class="credit">
+<p>Albert Bandura · Images classiques de Bobo, commentées en anglais · 5 min 02 · <a href="https://www.youtube.com/watch?v=Z0iWpSNu3NU" target="_blank" rel="noopener noreferrer">Ouvrir la vidéo</a>.</p>
+</div>
+<aside class="notes">
+<p>8 minutes, film compris. Ouvrir le bloc apprentissage et développement avec ces images; Ramdam reste l’ouverture du cours. Annoncer oralement : « On voit un modèle adulte, puis de jeunes enfants en salle d’expérimentation. Repérez un geste précis qu’ils pourraient reproduire. » Demander une prédiction avant de lancer. La narration anglaise peut être résumée oralement : l’image suffit pour repérer les gestes. Ce montage historique commenté par Bandura illustre ses recherches; ne pas attribuer chaque séquence à une seule condition ou à la seule étude de 1961. Si la vidéo ne charge pas, utiliser le lien dans un nouvel onglet; à défaut, poursuivre avec le protocole et la figure des diapositives suivantes. Après : faire décrire un geste distinctif repris du modèle (par exemple le maniement du maillet), plutôt que conclure seulement « les enfants frappent ». Le point développemental est que l’apprentissage par observation est déjà observable chez des enfants d’âge préscolaire. L’étude de 1961 porte sur des enfants d’environ 3 à 6 ans; elle ne date pas l’apparition de l’agression, ne montre pas que toute agression s’apprend par imitation et ne prédit pas une trajectoire individuelle de violence. Des gestes envers une poupée en laboratoire ne sont pas équivalents à une intention de blesser une personne. Les comparaisons expérimentales suivantes soutiennent l’interprétation au-delà du montage vidéo. Transfert : dans une école, une famille ou une équipe, que montre un adulte lorsqu’il règle un désaccord? Faire proposer une conduite observable à modeler (poser une limite sans humilier, reformuler une demande), pas une confidence personnelle. Transition : « L’enfant peut apprendre une manière de faire avant même qu’on le récompense directement. Qu’est-ce qui favorisera ensuite sa mise en pratique? »</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lapprentissage-social" class="slide level2">
+<h2>L’apprentissage social</h2>
+<p>Un comportement peut être acquis <strong>en observant un modèle</strong>, puis maintenu ou freiné par ses conséquences.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Observation</th>
+<th>Expérience directe</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fabrice voit une personne obtenir une faveur après une menace.</td>
+<td>Fabrice menace à son tour et obtient ce qu’il veut.</td>
+</tr>
+<tr class="even">
+<td>Il apprend une manière de faire et une conséquence possible.</td>
+<td>La conséquence peut renforcer sa propre conduite.</td>
+</tr>
+</tbody>
+</table>
+<p>Apprendre une conduite et la manifester ne sont pas identiques.</p>
+<aside class="notes">
+<p>5 minutes. Manuel p.&nbsp;282–284. Définir apprentissage vicariant : acquisition par observation des conduites et de leurs conséquences. Conditionnement opérant : modification de la probabilité d’un comportement selon ses conséquences. Les parents, pairs et personnages médiatiques peuvent servir de modèles. L’observation n’exige pas une consigne d’imiter. Acquisition ≠ exécution immédiate : une conduite apprise peut ne pas être manifestée selon les conséquences attendues et le contexte. Faire proposer un exemple professionnel : une personne en stage observe comment une équipe traite un désaccord; l’humiliation applaudie enseigne une norme différente d’une reformulation respectueuse.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lapprentissage-par-observation-la-poupée-bobo" class="slide level2">
+<h2>L’apprentissage par observation — la poupée Bobo</h2>
+<p><strong>Des enfants d’âge préscolaire observent un adulte.</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Modèle agressif</th>
+<th>Modèle non agressif</th>
+<th>Groupe témoin</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Gestes et paroles agressifs envers Bobo</td>
+<td>Jeu calme, sans attaquer Bobo</td>
+<td>Aucun modèle préalable</td>
+</tr>
+</tbody>
+</table>
+<p>Après une frustration légère commune, les enfants jouent dans une autre pièce, <strong>sans le modèle</strong>.</p>
+<p><strong>Prédiction individuelle :</strong> quels gestes seront reproduits?</p>
+<aside class="notes">
+<p>6 minutes. Manuel p.&nbsp;283–284; Bandura, Ross et Ross, 1961. Personnes participantes : 72 enfants de maternelle, pas des adultes novices; adultes collaborateurs jouent les modèles, pas des enfants choisis pour leur agressivité. Modèle agressif : gestes distinctifs envers la poupée; modèle calme : jeu de construction. Au test : jouets disponibles, observation des conduites pendant vingt minutes. Les jouets attrayants sont retirés juste avant pour créer une légère frustration commune : elle ne départage donc pas les trois conditions. La personne qui conduit la séance demeure discrète dans la pièce; « sans le modèle » ne signifie pas « sans aucun adulte ». Recueillir une prédiction avant résultats; ne pas réaliser des coups sur une personne de la classe. Mise en scène : trois rôles volontaires lisent observation → transition → codage; aucun enfant ni agression réelle, aucune donnée issue des rôles. Réponse attendue : surtout reproduction des gestes distinctifs après modèle agressif.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="limitation-de-comportements-agressifs" class="slide level2">
+<h2>L’imitation de comportements agressifs</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="assets/bobo-resultats.svg" class="" alt="Score moyen de conduites physiques imitées : nettement plus élevé après les modèles agressifs; reconstitution approximative." width="1150" height="490"></p>
+<figcaption>Agression physique imitée selon le modèle observé</figcaption>
+</figure>
+</div>
+<div class="credit">
+<p>Profil de résultats de Bandura, Ross et Ross (1961), rapporté dans Vallerand, figure 9.2, p.&nbsp;283. Reconstitution graphique approximative dans R; valeurs non à mémoriser.</p>
+</div>
+<aside class="notes">
+<p>5 minutes. Lire d’abord les axes : conditions observées en abscisse, score moyen de conduites physiques imitées en ordonnée. Chaque barre représente un groupe; la différence illustre la reproduction de conduites observées, pas un pourcentage de personnes devenues violentes. Les barres sont relevées approximativement de la figure du manuel, pas des données individuelles et pas des valeurs simulées. Aucun test nouveau n’est calculé. Résultat central : beaucoup plus d’imitation après modèle agressif. Différences entre modèle féminin/masculin ne sont pas l’objectif ni une règle sur chaque enfant; ne pas faire apprendre ce classement. Demander : quel détail montre l’apprentissage au-delà du simple état de colère? Réponse : reproduction de gestes distinctifs du modèle dans un autre lieu, en son absence. La mesure de jeu envers une poupée ne représente pas directement des agressions graves dans la vie quotidienne.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-renforcement-linhibition-et-la-désinhibition" class="slide level2">
+<h2>Le renforcement, l’inhibition et la désinhibition</h2>
+<p>Le <strong>renforcement</strong> augmente la probabilité d’une conduite par ses conséquences.</p>
+<p><strong>Inhibition</strong> : freiner une conduite. <strong>Désinhibition</strong> : diminuer ce frein.</p>
+<p>Une personne humilie une collègue. L’équipe rit et lui donne ce qu’elle demandait.</p>
+<p>Une nouvelle personne peut apprendre <strong>quoi faire</strong>, mais aussi <strong>ce qui semble permis et payant</strong>.</p>
+<aside class="notes">
+<p>5 minutes. Manuel p.&nbsp;282–284. Distinguer apprentissage d’une réponse et conditions qui permettent son expression. Renforcement direct si la personne qui humilie obtient attention ou avantage; apprentissage vicariant pour la nouvelle personne qui observe. Voir une sanction crédible peut inhiber l’expression; voir une conduite récompensée peut la désinhiber. Désinhibition n’est pas acquisition obligatoire d’une conduite nouvelle. Variante acceptable : un rire peut aussi être nerveux; le cas précise sa fonction seulement si la personne le perçoit comme approbation. Ajouter contraste : l’équipe pose une limite et obtient une demande respectueuse. Utilité : une réaction de groupe peut soutenir un comportement qu’aucune personne ne dit souhaiter.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-désengagement-moral" class="slide level2">
+<h2>Le désengagement moral</h2>
+<p>Le <strong>désengagement moral</strong> permet de mettre à distance les règles qui freineraient normalement une conduite nuisible.</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Phrase dans une équipe</th>
+<th>Ce qu’elle permet d’éviter</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>« C’est juste une blague. »</td>
+<td>Reconnaitre le tort</td>
+</tr>
+<tr class="even">
+<td>« Tout le monde l’a fait. »</td>
+<td>Assumer sa responsabilité</td>
+</tr>
+<tr class="odd">
+<td>« Elle l’avait cherché. »</td>
+<td>Examiner son propre geste</td>
+</tr>
+</tbody>
+</table>
+<p>Qu’est-ce qui changerait si on décrivait précisément l’action et ses conséquences?</p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;284 : justification morale, comparaison avantageuse, déplacement/diffusion de responsabilité, distorsion/minimisation des conséquences, déshumanisation et blâme de la victime. Ces trois exemples ne constituent pas toute la typologie. Réponses : « Trois personnes ont partagé le message privé; la personne visée a été exclue », plutôt que « une blague a circulé ». Ne pas évaluer un diagnostic moral de la personne; identifier le mécanisme discursif. Retour à Ramdam : minimiser en « taquinerie » masque des actes, mais ne suffit pas à conclure que Fabrice, qui minimise ce qu’il subit, est auteur d’un désengagement moral destiné à agresser. Distinguer la parole de la personne visée de la justification de l’auteur du tort.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-processus-de-coercition-familiale" class="slide level2">
+<h2>Le processus de coercition familiale</h2>
+<p>Une <strong>interaction coercitive</strong> peut se maintenir lorsque l’escalade permet à chaque personne d’échapper à une situation désagréable.</p>
+<p><strong>Demande → cris → retrait de la demande → fin des cris</strong></p>
+<ul>
+<li>Crier permet d’éviter la demande.</li>
+<li>Céder permet de faire cesser les cris.</li>
+</ul>
+<p>Le soulagement immédiat peut entretenir une difficulté future.</p>
+<aside class="notes">
+<p>5 minutes. Manuel p.&nbsp;285–286, modèle de Patterson. Renforcement négatif : retrait d’une stimulation aversive augmentant une conduite, pas synonyme de punition. Ici cris renforcés par retrait de demande; capitulation renforcée par fin des cris. Exemple fictif de rangement, pas jugement sur une famille réelle. Mini-théâtre possible : deux volontaires lisent à voix ordinaire « range le matériel », « je refuse », « laisse tomber »; la classe identifie ce que chacun évite. Pas de cris, menace ni provocation vécue. Accepter une description sans terme « négatif » si le retrait et le maintien sont compris. Débreffage professionnel : analyser une séquence et les conséquences plutôt que réduire la difficulté à un trait. Les conditions de vie et les caractéristiques de l’enfant et des adultes interviennent; le modèle n’attribue pas tout à une seule personne.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-traitement-de-linformation-sociale" class="slide level2">
+<h2>Le traitement de l’information sociale</h2>
+<p>Avant une action, une personne peut :</p>
+<p><strong>1. Repérer des indices → 2. Les interpréter → 3. Clarifier un but</strong></p>
+<p><strong>4. Trouver des réponses → 5. Les évaluer → 6. Agir</strong></p>
+<p>Ses expériences, règles et schémas influencent ces étapes.</p>
+<p>Le <strong>biais d’attribution hostile</strong> est une tendance à attribuer des intentions hostiles dans les situations ambigües.</p>
+<aside class="notes">
+<p>5 minutes. Manuel p.&nbsp;286–288, figure 9.3; glossaire p.&nbsp;438. Modèle Crick et Dodge, travaux sur les interactions d’enfants; schéma de processus, pas six étapes conscientes garanties. Encodage sélectif : remarquer surtout les sourires des pairs après une collision. Interprétation : croire la collision délibérée. But : se venger ou poursuivre le jeu. Répertoire : menacer, demander, s’éloigner. Évaluation : anticiper gain ou cout et capacité. Action : mettre en œuvre. Appliquer aux deux messages du fichier perdu; le biais ne signifie pas que toute perception de menace est fausse. Une menace explicite demande de la protection, pas seulement une nouvelle interprétation.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="pause-2" class="slide level2">
+<h2>Pause — 10 minutes</h2>
+<p><strong>Pause — 10 minutes</strong></p>
+<p>Proposez une chanson ou une photo de votre animal de compagnie.</p>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : IFDJTAT</strong></p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap IFDJTAT" width="420"></a></p>
+</div></div>
+<aside class="notes">
+<p>Pause 2 après le traitement de l’information. Mêmes réglages de question ouverte que pause 1, mais ligne distincte. Protéger dix minutes réelles; annoncer le retour oralement. Reprendre aux trajectoires de développement.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-développement-des-conduites-agressives" class="slide level2">
+<h2>Le développement des conduites agressives</h2>
+<p>Les suivis longitudinaux rapportés dans le manuel montrent que les agressions physiques apparaissent tôt et diminuent généralement après la petite enfance.</p>
+<p>La socialisation aide aussi à apprendre <strong>à ne pas frapper</strong> et à remplacer le geste par d’autres réponses.</p>
+<p>Comment ce résultat nuance-t-il l’idée que toute agression physique doit d’abord être apprise par imitation?</p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;288–289. Études répétant les mesures au fil du développement : profil général, pas pourcentage à retenir. Réponse : l’imitation explique l’acquisition de certaines formes ou leur maintien; elle n’implique pas que le premier geste physique exige un modèle. Apprendre le langage, la négociation et la régulation peut réduire les gestes physiques. Une minorité garde des niveaux élevés; pas une trajectoire fixée à vie. Ne pas opposer socialisation et biologie comme deux explications exclusives.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-contributions-génétiques-et-environnementales" class="slide level2">
+<h2>Les contributions génétiques et environnementales</h2>
+<p>Les études de jumeaux comparent les ressemblances de jumeaux monozygotes et dizygotes pour estimer les contributions aux différences entre personnes.</p>
+<p><strong>Héritabilité</strong> : part des différences observées, dans une population et un contexte, associée aux différences génétiques.</p>
+<p>Une contribution génétique peut coexister avec l’apprentissage et avec des possibilités de changement.</p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;288–291, encadré 9.2. MZ génétiquement identiques; DZ en moyenne moitié de variation génétique ségrégante partagée. Hypothèses et mesures conditionnent les estimations. L’héritabilité ne donne pas la part génétique du comportement d’une personne; ne pas présenter « 60 % de son agression est génétique ». Pas de pourcentage à mémoriser. Corrélation gène-environnement : dispositions liées aux environnements rencontrés ou suscités. Interaction gène-environnement : effet du contexte varie selon caractéristiques génétiques. Le manuel discute MAOA et maltraitance avec des réplications et débats; aucun dépistage ni prédiction individuelle à en tirer. Ces mécanismes seront approfondis seulement si utiles, sans ajouter une leçon de génétique moléculaire.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-perspectives-psychanalytique-et-éthologique" class="slide level2">
+<h2>Les perspectives psychanalytique et éthologique</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Perspective historique</th>
+<th>Proposition centrale</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Psychanalytique</td>
+<td>Une pulsion agressive cherche à s’exprimer.</td>
+</tr>
+<tr class="even">
+<td>Éthologique</td>
+<td>Une tendance innée à l’agression intraspécifique aurait des fonctions adaptatives.</td>
+</tr>
+</tbody>
+</table>
+<p>Le manuel souligne les difficultés à expliquer la diversité des conduites humaines par une énergie qui doit nécessairement se décharger.</p>
+<aside class="notes">
+<p>3 minutes. Manuel p.&nbsp;276–278. Éthologie : étude comparative des bases biologiques des comportements animaux et humains. Intraspécifique : entre membres d’une même espèce. Lorenz : fonctions de répartition des ressources et sélection, modèle hydraulique et inhibitions; les adaptations ne sont pas des justifications morales. Freud : Thanatos et réorientation vers extérieur. Présenter ces propositions comme historiques, pas consensus démontré. Catharsis : proposition de réduction de la tendance agressive par son expression. Manuel rapporte que se défouler peut maintenir ou accroître l’agression; distinguer expression agressive, verbalisation d’un problème et activité physique sans rumination. Humour verbal : « Le cerveau n’est pas une bouilloire avec soupape obligatoire. » Faire expliquer la limite de cette image plutôt qu’en faire une définition.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-violence-dans-les-médias" class="slide level2">
+<h2>La violence dans les médias</h2>
+<p>Trois questions demandent trois comparaisons différentes.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Méthode</th>
+<th>Question examinée</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Expérience</td>
+<td>Après deux contenus différents, les conduites mesurées diffèrent-elles?</td>
+</tr>
+<tr class="even">
+<td>Étude transversale</td>
+<td>Exposition et agression vont-elles ensemble au même moment?</td>
+</tr>
+<tr class="odd">
+<td>Suivi longitudinal</td>
+<td>L’exposition précède-t-elle des différences ultérieures d’agression?</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Quel comportement est effectivement mesuré?</strong></p>
+<aside class="notes">
+<p>4 minutes. Manuel p.&nbsp;291–294. Expérience de jeu : novices assignés à jeu violent ou non violent; ensuite compétition, partenaire complice et punition par bruit aversif; ce partenaire est organisé par l’équipe, pas un adversaire aléatoire. Mesure de laboratoire, pas criminalité observée. Les expériences rapportées indiquent des effets à court terme dans ces tâches. Suivi Huesmann : plus de 300 enfants de 6–10 ans, comportements quinze ans après; exposition plus forte prédit davantage d’agression, avec covariables; ne pas reprendre les âges 8 et 30 des anciennes diapos Blais, différents du manuel. Poser une seule limite utile : ce que la mesure permet réellement de conclure. Les résultats et débats présentés ici sont ceux du chapitre, pas une synthèse exhaustive actualisée de tous les jeux vidéo.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-mécanismes-de-linfluence-médiatique" class="slide level2">
+<h2>Les mécanismes de l’influence médiatique</h2>
+<p>Un contenu peut :</p>
+<ul>
+<li><strong>Activer</strong> des pensées et une excitation à court terme.</li>
+<li>Fournir des <strong>modèles et scripts</strong> pour répondre à un conflit.</li>
+<li><strong>Désinhiber</strong> une conduite ou banaliser ses conséquences.</li>
+</ul>
+<p><strong>Scénario A :</strong> l’humiliation donne du prestige, sans conséquence visible.<br>
+<strong>Scénario B :</strong> la même action montre le tort causé et une autre façon d’obtenir de l’aide.</p>
+<p>Qu’apprendrait une personne de chaque scénario?</p>
+<aside class="notes">
+<p>5 minutes. Manuel p.&nbsp;292–295. Script : représentation d’une séquence attendue de conduite dans une situation. A : humiliation présentée comme efficace/acceptable, conséquences réduites; B : cout et alternative rendus visibles. Ce sont mécanismes possibles; ne pas annoncer qu’un visionnement transforme chaque personne. Préciser rôle des conséquences, justification, identification et réalités du contexte. Les modèles observés peuvent aussi être non agressifs. Reprendre Ramdam : le récit ne montre pas seulement une menace, il conteste la minimisation; choisir un extrait avec violence n’a donc pas une fonction éducative unique déterminée par sa présence. Faire justifier un détail de mise en scène plutôt que voter « télévision bonne ou mauvaise ».</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-nouveaux-médias-et-la-cyberintimidation" class="slide level2">
+<h2>Les nouveaux médias et la cyberintimidation</h2>
+<p>La <strong>cyberintimidation</strong> est une forme d’intimidation utilisant les médias numériques.</p>
+<p>Une rumeur peut circuler au-delà du groupe initial, être relayée et réapparaitre.</p>
+<p>Avant de partager un message humiliant : <strong>qu’est-ce que mon geste ajoute à sa diffusion et à son efficacité?</strong></p>
+<aside class="notes">
+<p>3 minutes. Manuel p.&nbsp;295–296; glossaire à vérifier pour l’étiquette exacte si nécessaire. Identifier les actions : créer, relayer, approuver, contester; pas toutes de même nature. Diffusion de responsabilité : « je n’ai fait que transférer ». Application future : ne pas rediffuser pour dénoncer en exposant davantage la personne; conserver les éléments utiles par les voies appropriées. Si une situation réelle inquiète, parler à une personne de confiance ou aux services aux personnes étudiantes; modalités UQAR sur la page institutionnelle liée dans la diapo d’aide. Pas de confidences en plénière. L’encadré radicalisation appartient à la lecture obligatoire, mais n’est pas développé oralement ici.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="connectez-vous-à-wooclap-ronde-2" class="slide level2">
+<h2>Connectez-vous à Wooclap — ronde 2</h2>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : IFDJTAT</strong></p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap IFDJTAT" width="420"></a></p>
+</div></div>
+<p>Apprentissage, interprétation et médias.</p>
+<p><a href="#/transfert-final">Reprendre le cours après la ronde</a></p>
+<aside class="notes">
+<p>4 minutes. Deux questions suivantes; conserver la prédiction individuelle puis débreffer. Lien vers le transfert final, après les archives et après la pause 2 déjà prise. Aucun quiz évalué ici.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lapprentissage-et-le-renforcement-application" class="slide level2">
+<h2>L’apprentissage et le renforcement — application</h2>
+<p>Une personne observe une collègue menacer puis obtenir une faveur. Elle apprend ainsi une stratégie sans l’avoir encore essayée. Quel mécanisme est décrit?</p>
+<p>A. Une frustration rendue inévitable.<br>
+B. Un apprentissage par observation.<br>
+C. Une catharsis de sa propre colère.<br>
+D. Un renforcement direct de sa propre menace.</p>
+<aside class="notes">
+<p>B. La personne observe; elle n’a pas encore produit la conduite, donc D n’est pas décrit. A ne correspond ni au but bloqué ni au caractère non déterministe; C n’implique aucune expression agressive personnelle. La conduite de la collègue peut avoir été directement renforcée; distinguer qui apprend et qui reçoit la conséquence.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lattribution-hostile-application" class="slide level2">
+<h2>L’attribution hostile — application</h2>
+<p>Une personne reçoit un message ambigü. Elle en déduit immédiatement : « On cherche à m’humilier. » Quelle information aiderait le plus à vérifier son interprétation?</p>
+<p>A. Le degré de certitude de sa première impression.<br>
+B. Une explication du contexte et du sens du message.<br>
+C. L’accord de proches qui n’ont pas vu le message.<br>
+D. Le nombre de fois où elle imagine une réplique.</p>
+<aside class="notes">
+<p>B. Faire préciser une question concrète : « Quand tu dis beau travail, tu parles de quelle partie? » La certitude seule n’ajoute pas d’indice; des proches sans accès au message ne vérifient pas son contexte; imaginer une réplique peut entretenir l’interprétation. Un seul exemple n’établit pas une tendance stable. Si le message contient une menace explicite, chercher de la protection plutôt que présumer l’ambigüité.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="transfert-final" class="slide level2">
+<h2>L’agression : agir sur une séquence</h2>
+<p>Reprenez le fichier perdu de Manolo.</p>
+<p><strong>À quel moment agir?</strong></p>
+<ul>
+<li>Vérifier les indices et l’intention prêtée à Constance.</li>
+<li>Laisser diminuer l’activation avant de répondre.</li>
+<li>Chercher une solution au but bloqué.</li>
+<li>Soutenir une réponse respectueuse dans le groupe.</li>
+</ul>
+<p><strong>Choisissez un geste concret applicable à une équipe de stage.</strong></p>
+<aside class="notes">
+<p>3 minutes. Réponses acceptables : demander contexte, proposer sauvegarde, répartir la récupération, refuser humiliation sans attaquer, donner attention à une demande calme. Lier à mécanisme : attribution, activation, frustration, renforcement/modèle. Faire comparer avec la première interprétation de la séance : qu’est-ce qu’on sait maintenant qu’on ne voyait pas? Ne pas présenter ces pistes comme un traitement ni faire porter la responsabilité à la personne ciblée. Si danger ou intimidation réelle : priorité à la sécurité et à l’aide. Aucune réponse personnelle exigée.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="laide-et-la-sécurité" class="slide level2">
+<h2>L’aide et la sécurité</h2>
+<p>Une situation vous préoccupe? Vous pouvez en parler en privé à une personne de confiance et consulter les ressources de l’UQAR.</p>
+<p><a href="https://www.uqar.ca/services/services-a-la-communaute-universitaire/aide-psychosocial-accompagnement-et-activites/" target="_blank" rel="noopener noreferrer">Aide psychosociale de l’UQAR — demande de soutien</a></p>
+<p>Vous pouvez analyser tous les cas du cours sans raconter une expérience personnelle.</p>
+<aside class="notes">
+<p>1 minute. Canal enseignant : contact institutionnel indiqué au plan officiel, sans promettre disponibilité immédiate ou secret absolu. Page institutionnelle vérifiée le 20 octobre : demande par formulaire; contact annoncé dans les cinq jours ouvrables. Proposer un échange après le cours pour orienter, sans transformer la séance en collecte de témoignages.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="quiz-et-examen-quoi-préparer-1" class="slide level2">
+<h2>Quiz et examen — quoi préparer?</h2>
+<p><strong>Quiz 7 · 17 novembre · 1,25 %</strong></p>
+<p>Cours <strong>8</strong> et chapitre <strong>9 — L’agression</strong>. 8 questions · 10 minutes.</p>
+<p><strong>Examen 2 · 10 novembre · 30 %</strong></p>
+<p>Cours <strong>5 à 8</strong> et chapitres <strong>5, 6, 8 et 9</strong>. Répartition annoncée : <strong>50 % cours / 50 % manuel</strong>.</p>
+<p><a href="../../examens/02/guide.html">Guide d’étude de l’examen 2</a></p>
+<p><strong>Pour l’examen :</strong> carte étudiante, matériel d’écriture et identifiant UQAR.</p>
+<aside class="notes">
+<p>2 minutes. Rappel début et fin identique. Carte à obtenir au guichet étudiant si nécessaire. Le rappel Moodle de la veille doit demander de prévoir les toilettes avant la séance; le 9 novembre, à publier séparément. Les consignes projetées de l’examen demanderont carte visible, identifiant inscrit, aucune sortie avant remise. Ne pas créer une publication Moodle dans ce cycle.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<div class="footer footer-default">
+<p>PSY1703 — Psychologie sociale · Automne 2026</p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': false,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"\u003ci class=\"fas fa-gear\">\u003c/i>","content":"\u003cul class=\"slide-menu-items\">\n\u003cli class=\"slide-tool-item active\" data-item=\"0\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\">\u003ckbd>f\u003c/kbd> Fullscreen\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"1\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\">\u003ckbd>s\u003c/kbd> Speaker View\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"2\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\">\u003ckbd>o\u003c/kbd> Slide Overview\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"3\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\">\u003ckbd>e\u003c/kbd> PDF Export Mode\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"4\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\">\u003ckbd>r\u003c/kbd> Scroll View Mode\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"5\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\">\u003ckbd>?\u003c/kbd> Keyboard Help\u003c/a>\u003c/li>\n\u003c/ul>"}],"openButton":true,"openButtonLabel":"Menu des diapositives"},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'fade',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1600,
+
+        height: 900,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 8.0e-2,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copié");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copié");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/rempsyc\.github\.io\/psy1703\/");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+          window.quartoDecorateExternalLinks = function (root) {
+         var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+              if (!link.classList.contains('no-external-icon')) {
+              }
+            }
+          }
+          };
+          window.quartoDecorateExternalLinks(window.document);
+        // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+        // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+        const hideOnEscAndFocusOut = {
+          name: 'hideOnEscAndFocusOut',
+          defaultValue: true,
+          fn(instance) {
+            const dismiss = () => {
+              // A show scheduled by the trigger delay would otherwise reopen it
+              instance.clearDelayTimeouts();
+              instance.hide();
+            };
+            const onKeyDown = (event) => {
+              if (event.key !== 'Escape') {
+                return;
+              }
+              // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+              // except an open reveal.js slide menu, which Esc should close too.
+              // The menu handles keys only when its keyboard option is on.
+              const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+                window.Reveal.getConfig().menu?.keyboard !== false;
+              if (!menuHandlesEsc) {
+                event.stopPropagation();
+              }
+              if (instance.popper.contains(window.document.activeElement)) {
+                // Disabled while refocusing so the focus trigger does not reopen it
+                instance.disable();
+                instance.reference.focus();
+                instance.enable();
+              }
+              dismiss();
+            };
+            const onFocusOut = (event) => {
+              const target = event.relatedTarget;
+              if (target && !instance.reference.contains(target) &&
+                  !instance.popper.contains(target)) {
+                dismiss();
+              }
+            };
+            // On the trigger too: a click trigger (code-annotations: select) has no
+            // blur handling. Attached for the instance's lifetime so leaving the
+            // trigger also cancels a show still pending on the trigger delay.
+            instance.reference.addEventListener('focusout', onFocusOut);
+            return {
+              onShow() {
+                window.document.addEventListener('keydown', onKeyDown, true);
+                instance.popper.addEventListener('focusout', onFocusOut);
+              },
+              onHide() {
+                window.document.removeEventListener('keydown', onKeyDown, true);
+                instance.popper.removeEventListener('focusout', onFocusOut);
+              },
+              onDestroy() {
+                instance.reference.removeEventListener('focusout', onFocusOut);
+              },
+            };
+          },
+        };
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+            plugins: [hideOnEscAndFocusOut],
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>
