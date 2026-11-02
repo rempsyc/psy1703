@@ -7,7 +7,7 @@ subtitle: "Attraction, formation et maintien des relations"
 
 Version finale — 20 octobre 2026.
 
-[Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary}
+[Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 
 ## À retenir
 

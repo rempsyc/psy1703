@@ -15,7 +15,7 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 | 13 octobre | [Les attitudes](cours/06/index.qmd) | Chapitre 6 | Version finale |
 | 20 octobre | [Les relations interpersonnelles](cours/07/index.qmd) | Chapitre 8 | Version finale |
 | 27 octobre | Semaine de lecture | — | Pas de cours |
-| 3 novembre | L'agression | Chapitre 9 | À venir |
+| 3 novembre | [L'agression](cours/08/index.qmd) | Chapitre 9 | Version initiale |
 | 10 novembre | [Examen 2](examens/02/index.qmd) | — | Évaluation |
 | 17 novembre | Les comportements d'aide | Chapitre 10 | À venir |
 | 24 novembre | L'influence sociale et le conformisme | Chapitre 11 | À venir |

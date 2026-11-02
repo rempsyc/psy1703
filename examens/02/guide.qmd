@@ -3,7 +3,7 @@ title: "Guide d’étude — Examen 2"
 ---
 
 ::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **20 octobre 2026**. Ce guide couvre actuellement les cours 5 à 7 et les chapitres 5, 6 et 8. Le cours 8, le chapitre 9 et les précisions apportées en classe seront ajoutés progressivement. La version définitive sera disponible avant l’examen.
+Mise à jour du **2 novembre 2026**. Ce guide couvre les chapitres 5, 6, 8 et 9 ainsi que les repères des cours 5 à 8. Le cours 8 est en préparation; les précisions apportées en classe seront ajoutées après la séance. La version définitive sera disponible avant l’examen.
 :::
 
 ## Repères
@@ -247,6 +247,56 @@ Les repères sur les relations portent sur le chapitre 8 et les entrées pertine
 
 **Cours 8 et chapitre 9**
 
-La liste de notions sera ajoutée au fil des prochaines séances.
+### Définitions et formes d’agression
+
+- Agression; assertion; distinction entre comportement, émotion, intention et conséquence.
+- Agression hostile et instrumentale; agression défensive, réactive et proactive.
+- Agression directe et agression indirecte, sociale ou relationnelle.
+- Tâche de Taylor (variante CRTT) : principe, choix mesurés, rôle de la provocation et distinction avec la performance de réaction — contenu prévu au cours 8.
+- Distinguer la simulation pédagogique et les conditions d’une mesure comportementale de recherche.
+
+### Perspectives et mécanismes psychosociaux
+
+- Perspectives psychanalytique et éthologique; agression intraspécifique; fonctions proposées et limites.
+- Hypothèse initiale frustration–agression, révisions et limites; déplacement de l’agression.
+- Catharsis et résultats rapportés sur l’expression agressive.
+- Perspective néoassociationniste; expériences aversives, affect négatif, indices associés à l’agression et processus cognitifs.
+- Étude de la présence d’armes : comparaison, résultat général et rôle de la provocation.
+- Rumination, réévaluation et maintien de la colère.
+- Transfert d’excitation; activation résiduelle, contexte et attribution de l’activation.
+
+### Apprentissage et traitement de l’information
+
+- Théorie de l’apprentissage social; conditionnement opérant et apprentissage vicariant.
+- Imitation; acquisition et manifestation d’une conduite; renforcement, inhibition et désinhibition.
+- Étude de la poupée Bobo : modèles comparés, absence du modèle au test et profil général d’imitation.
+- Attention, motivation, mémoire et capacité de reproduire une conduite observée.
+- Désengagement moral : justification, comparaison avantageuse, responsabilité, conséquences, déshumanisation et blâme.
+- Processus de coercition familiale; renforcement négatif et maintien des échanges coercitifs.
+- Modèle du traitement cognitif de l’information sociale : étapes et rôle des expériences, règles et schémas.
+- Biais d’attribution hostile et situations ambigües.
+- Culture et conduites agressives; culture de l’honneur et interprétation de la menace.
+
+### Développement et contributions génétiques et environnementales
+
+- Trajectoire générale des agressions physiques pendant l’enfance et apprentissage de réponses socialement acceptables.
+- Études longitudinales et limites d’une explication fondée seulement sur l’apprentissage des agressions physiques.
+- Génétique du comportement; méthode des jumeaux monozygotes et dizygotes.
+- Héritabilité, environnement partagé et environnement unique; portée et limites des estimations.
+- Corrélation et interaction gène–environnement; contributions multiples et transactions au cours du développement.
+- Exemple MAOA et maltraitance : question examinée, interprétation générale et incertitudes rapportées.
+
+### Violence dans les médias et nouveaux médias
+
+- Études expérimentales, transversales et longitudinales : comparaisons et comportements effectivement mesurés.
+- Jeux vidéo et télévision : profil des résultats rapportés, effets à court terme et associations à plus long terme.
+- Activation, amorçage, apprentissage de modèles et de scripts, désinhibition et banalisation des conséquences.
+- Identification, conséquences montrées, justification et caractéristiques de la personne et du contexte.
+- Nouveaux médias, communautés virtuelles, cyberintimidation et diffusion de conduites agressives.
+- Radicalisation religieuse violente : définition, facteurs personnels et contextuels, croyances et désengagement moral; portée du modèle proposé.
+
+### Progression de la matière
+
+Ces repères portent sur le chapitre 9, p. 275–297, ses encadrés et les entrées pertinentes du glossaire. Le cours du 3 novembre est en préparation : la matière effectivement présentée et les ajouts oraux seront précisés après la séance. Les statistiques exactes, valeurs des figures, noms, années et détails procéduraux secondaires demeurent exclus selon les consignes générales. La liste reste évolutive jusqu’à sa version définitive.
 
 [Retour aux ressources de l’examen 2](index.qmd)

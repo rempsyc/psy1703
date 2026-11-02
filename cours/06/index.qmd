@@ -9,7 +9,7 @@ subtitle: "Mesure des attitudes, dissonance et persuasion"
 **Diapositives finales de la séance du 13 octobre 2026.** Des corrections ponctuelles peuvent encore être apportées.
 :::
 
-[Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary}
+[Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 
 ## À retenir
 
