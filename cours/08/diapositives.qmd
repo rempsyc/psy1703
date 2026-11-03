@@ -1149,7 +1149,7 @@ Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manu
 2 minutes. Rappel début et fin identique. Carte à obtenir au guichet étudiant si nécessaire. Le rappel Moodle de la veille doit demander de prévoir les toilettes avant la séance; le 9 novembre, à publier séparément. Les consignes projetées de l’examen demanderont carte visible, identifiant inscrit, aucune sortie avant remise. Ne pas créer une publication Moodle dans ce cycle.
 :::
 
-## Matériel supplémentaire — La culture de l’honneur {#supplement}
+## Matériel supplémentaire — La culture de l’honneur {visibility="hidden"}
 
 **Quand une offense est interprétée comme une menace au statut.**
 
@@ -1161,7 +1161,7 @@ Une remarque publique peut être perçue comme une maladresse ou comme un affron
 Réserve, 3 minutes. Manuel p. 284–285, encadré 9.1. Culture de l’honneur : normes de réputation et réponses à l’offense; éviter les portraits uniformes des personnes d’une origine. Chercher la norme et l’interprétation, pas une essence culturelle. Ne pas utiliser cette réserve comme preuve d’enseignement si elle n’est pas présentée.
 :::
 
-## Les normes de groupe et la riposte
+## Les normes de groupe et la riposte {visibility="hidden"}
 
 Après une insulte, les amis de Simon disent :
 
@@ -1174,7 +1174,7 @@ Après une insulte, les amis de Simon disent :
 Réserve, 3 minutes. Application aux normes, honneur et apprentissage social, manuel p. 282–285. Dans le premier cas, la non-riposte menace la réputation; dans le second, l’appui offre une autre façon de préserver sa place. Expliquer le mécanisme de conséquence sociale attendue. Ne pas attribuer le premier scénario à une culture entière.
 :::
 
-## Les gènes et l’environnement : une interaction
+## Les gènes et l’environnement : une interaction {visibility="hidden"}
 
 Un même contexte difficile n’a pas nécessairement le même effet sur tout le monde.
 
@@ -1186,7 +1186,7 @@ Une **interaction** signifie que l’association entre un facteur et une conduit
 Réserve, 3 minutes. Manuel p. 289–291. Non. Distinguer interaction et simple addition de contributions. L’exemple MAOA et maltraitance est présenté dans le manuel avec des incertitudes de réplication; ne pas enseigner un gène de la violence ni un test prédictif individuel. Rester au principe si le temps manque.
 :::
 
-## L’exposition et la sélection des médias
+## L’exposition et la sélection des médias {visibility="hidden"}
 
 Deux explications possibles d’une association :
 
@@ -1200,7 +1200,7 @@ Deux explications possibles d’une association :
 Réserve, 3 minutes. Manuel p. 291–294. Mesurer agression initiale, suivre dans le temps et attribuer des conditions dans des expériences complémentaires. Une relation inverse peut être examinée; ne pas prétendre que les deux explications sont toujours également soutenues. Aucun sondage de la classe ne permet de les départager causalement.
 :::
 
-## Le conflit : choisir une réponse qui protège son but
+## Le conflit : choisir une réponse qui protège son but {visibility="hidden"}
 
 Un collègue critique publiquement votre travail.
 
@@ -1212,7 +1212,7 @@ Formulez une réponse qui précise le problème, pose une limite et demande une 
 Réserve, 4 minutes. Application p. 276, 286–288. Exemple : « Peux-tu préciser le passage à corriger? Je veux qu’on discute du travail sans attaque personnelle. » Faire comparer avec « Tu es incapable de commenter correctement ». La première formulation poursuit le but et pose une limite; la seconde attaque la personne. Aucun récit personnel demandé.
 :::
 
-## L’agression : expliquer un cas avec deux mécanismes
+## L’agression : expliquer un cas avec deux mécanismes {visibility="hidden"}
 
 Après une journée éprouvante, Simon reçoit une remarque ambigüe. Ses amis rient. Il publie un message humiliant.
 

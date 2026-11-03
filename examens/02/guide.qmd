@@ -2,8 +2,8 @@
 title: "Guide d’étude — Examen 2"
 ---
 
-::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **2 novembre 2026**. Ce guide couvre les chapitres 5, 6, 8 et 9 ainsi que les repères des cours 5 à 8. Le cours 8 est en préparation; les précisions apportées en classe seront ajoutées après la séance. La version définitive sera disponible avant l’examen.
+::: {.callout-note title="Guide définitif"}
+Version du **3 novembre 2026**, après le cours 8. Matière : cours 5 à 8 et chapitres 5, 6, 8 et 9. Les diapositives supplémentaires non présentées ne constituent pas de matière de cours à étudier; les notions issues indépendamment du manuel obligatoire demeurent admissibles lorsqu’elles figurent dans ce guide.
 :::
 
 ## Repères
@@ -176,9 +176,9 @@ L’examen comprendra une question à développement très court associée à ch
 
 - Appliquer les notions d’attitude, d’ambivalence, de persuasion et de comportement planifié à des situations politiques ou quotidiennes nouvelles.
 
-### Progression de la matière
+### Périmètre confirmé
 
-Ces repères portent sur le chapitre 6. Ils seront précisés après la séance du 13 octobre et complétés par les ajouts faits en classe. Les exclusions générales de mémorisation indiquées plus haut s’appliquent aussi à ce chapitre, notamment aux valeurs des tableaux, aux statistiques exactes, aux noms et années des chercheurs et aux détails procéduraux secondaires.
+Les notions ci-dessus définissent le bassin de matière admissible pour ce bloc. Les exclusions générales de mémorisation s’appliquent. Les sources externes citées pour approfondir et les détails des exemples fictifs ne sont pas à mémoriser.
 
 ## Bloc 3 — Communication et relations interpersonnelles
 
@@ -239,9 +239,9 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Évènements de vie, caractéristiques personnelles et cycle de maintien de la solitude.
 - Approches cognitives, habiletés sociales et interventions auprès des personnes âgées.
 
-### Progression de la matière
+### Périmètre confirmé
 
-Les repères sur les relations portent sur le chapitre 8 et les entrées pertinentes du glossaire; l’aperçu de communication correspond aux diapositives du cours 7. La matière réellement présentée et les ajouts oraux de la séance du 20 octobre seront consignés après le cours. Les valeurs exactes, noms, années et détails procéduraux secondaires demeurent exclus selon les consignes générales. Cette liste n’est pas encore définitive.
+Les notions ci-dessus définissent le bassin de matière admissible pour ce bloc. Les exclusions générales de mémorisation s’appliquent. Les sources externes citées pour approfondir et les détails des exemples fictifs ne sont pas à mémoriser.
 
 ## Bloc 4 — L’agression
 
@@ -252,9 +252,9 @@ Les repères sur les relations portent sur le chapitre 8 et les entrées pertine
 - Agression; assertion; distinction entre comportement, émotion, intention et conséquence.
 - Agression hostile et instrumentale; agression défensive, réactive et proactive.
 - Agression directe et agression indirecte, sociale ou relationnelle; distinguer le but, le déclencheur et la forme d’une conduite.
-- Tâche de Taylor (variante CRTT) : principe, choix mesurés, rôle de la provocation et distinction avec la performance de réaction — contenu prévu au cours 8.
+- Tâche de Taylor (variante CRTT) : principe, choix mesurés, rôle de la provocation et distinction avec la performance de réaction.
 - Distinguer la simulation pédagogique et les conditions d’une mesure comportementale de recherche.
-- Étude de bienveillance présentée au cours 8 : interventions comparées, résultat général sur l’agression et comportement mesuré — enseignement prévu, à confirmer après la séance.
+- Étude de bienveillance présentée au cours 8 : interventions comparées, résultat général sur l’agression et comportement mesuré.
 
 ### Perspectives et mécanismes psychosociaux
 
@@ -297,8 +297,8 @@ Les repères sur les relations portent sur le chapitre 8 et les entrées pertine
 - Nouveaux médias, communautés virtuelles, cyberintimidation et diffusion de conduites agressives.
 - Radicalisation religieuse violente : définition, facteurs personnels et contextuels, croyances et désengagement moral; portée du modèle proposé.
 
-### Progression de la matière
+### Périmètre confirmé
 
-Ces repères portent sur le chapitre 9, p. 275–297, ses encadrés et les entrées pertinentes du glossaire. Le cours du 3 novembre est en préparation : la matière effectivement présentée et les ajouts oraux seront précisés après la séance. Les statistiques exactes, valeurs des figures, noms, années et détails procéduraux secondaires demeurent exclus selon les consignes générales. La liste reste évolutive jusqu’à sa version définitive.
+Les notions ci-dessus définissent le bassin de matière admissible pour ce bloc. Les exclusions générales de mémorisation s’appliquent. Les sources externes citées pour approfondir et les détails des exemples fictifs ne sont pas à mémoriser.
 
 [Retour aux ressources de l’examen 2](index.qmd)

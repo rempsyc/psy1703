@@ -19,7 +19,7 @@ twitter-card:
 
 **3 novembre 2026** · Lecture : chapitre 9 du manuel de Vallerand.
 
-Version initiale — 2 novembre 2026.
+Version finale — 3 novembre 2026.
 
 [Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 
@@ -34,3 +34,7 @@ Version initiale — 2 novembre 2026.
 Apportez un appareil chargé pour Wooclap et les quiz évalués obligatoires. Les accès seront communiqués en classe.
 
 Quiz 6 : cours 7 et chapitre 8, 1,25 %, 8 questions en 10 minutes. Atelier de discussion en équipes de 3 ou 4, sans confidences personnelles.
+
+## Après le cours
+
+[Préparez l’examen 2 du 10 novembre avec le guide d’étude final](../../examens/02/guide.qmd). Prochaine lecture : chapitre 10, pour le cours 9 du 17 novembre.
