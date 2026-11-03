@@ -7,7 +7,7 @@ subtitle: "Formes, explications et violence dans les médias"
 
 Version initiale — 2 novembre 2026.
 
-[Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary}
+[Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 
 ## À retenir
 
