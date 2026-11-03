@@ -339,7 +339,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <p><strong>Code de l’évènement : JIESIIR</strong></p>
 <p>Utilisez votre identifiant UQAR selon les consignes.</p>
 </div><div class="column" style="width:42%;">
-<p><a href="https://app.wooclap.com/JIESIIR" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-quiz-qr.png" alt="Code QR Wooclap JIESIIR" width="420"></a></p>
+<p><a href="https://app.wooclap.com/JIESIIR" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-quiz-qr.png" alt="QR Wooclap JIESIIR" width="420"></a></p>
 </div></div>
 <aside class="notes">
 <p>10 minutes. Vérifier identification UQAR et accès avant le départ. Code du quiz : JIESIIR; évènement distinct des activités IFDJTAT. Questions évaluées et clé conservées séparément dans Box. Les huit meilleurs quiz sur dix valent ensemble 10 %.</p>
@@ -355,13 +355,16 @@ document.addEventListener("DOMContentLoaded", () => {
           display:block!important;
       }</style></aside>
 </section>
-<section id="quiz-et-examen-quoi-préparer" class="slide level2">
-<h2>Quiz et examen — quoi préparer?</h2>
+<section id="les-prochaines-évaluations" class="slide level2">
+<h2>Les prochaines évaluations</h2>
 <p><strong>Quiz 7 · 17 novembre · 1,25 %</strong></p>
-<p>Cours <strong>8</strong> et chapitre <strong>9 — L’agression</strong>. 8 questions · 10 minutes.</p>
+<p><strong>Matière évaluée : cours 8 et chapitre 9 — L’agression.</strong></p>
+<p>8 questions · 10 minutes. Les 8 meilleurs quiz sur 10 comptent pour <strong>10 %</strong>.</p>
 <p><strong>Examen 2 · 10 novembre · 30 %</strong></p>
 <p>Cours <strong>5 à 8</strong> et chapitres <strong>5, 6, 8 et 9</strong>. Répartition annoncée : <strong>50 % cours / 50 % manuel</strong>.</p>
+<p>Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.</p>
 <p><a href="../../examens/02/guide.html">Guide d’étude de l’examen 2</a></p>
+<p><strong>Pour l’examen :</strong> carte étudiante, matériel d’écriture et identifiant UQAR.</p>
 <aside class="notes">
 <p>3 minutes. Distinguer le quiz 6 du jour (cours 7, chapitre 8) du quiz 7 suivant. Aucun cours le 27 octobre. L’examen occupe la séance du 10 novembre. Les articles cités sont des ressources, pas des lectures intégrales obligatoires.</p>
 <style type="text/css">
@@ -692,8 +695,9 @@ choose();
 <div class="column" style="width:58%;">
 <p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
 <p><strong>Code de l’évènement : IFDJTAT</strong></p>
+<p>Gardez l’onglet ouvert pour les rondes et les propositions de pause.</p>
 </div><div class="column" style="width:42%;">
-<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap IFDJTAT" width="420"></a></p>
+<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="QR Wooclap IFDJTAT" width="420"></a></p>
 </div></div>
 <p>Formes d’agression, frustration et activation.</p>
 <p><a href="#/pause-1">Reprendre le cours après la ronde</a></p>
@@ -755,14 +759,151 @@ D. Le déplacement de l’agression vers une autre cible.</p>
 </section>
 <section id="pause-1" class="slide level2">
 <h2>Pause — 10 minutes</h2>
-<p><strong>Pause — 10 minutes</strong></p>
-<p>Proposez une chanson ou une photo de votre animal de compagnie.</p>
+<p><strong>10 minutes</strong></p>
+<div class="quiz-timer" role="timer" aria-live="polite">
+  <div class="quiz-timer-display">10:00</div>
+  <div class="quiz-timer-controls">
+    <button class="quiz-timer-start" type="button">Démarrer</button>
+    <button class="quiz-timer-pause" type="button" disabled="">Pause</button>
+    <button class="quiz-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+<style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
+.quiz-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 390px;
+  text-align: center;
+  padding: 0.28rem 0.45rem 0.35rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.35rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+  z-index: 10;
+}
+
+.quiz-timer-display {
+  color: #123b5d;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.quiz-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-timer-controls button {
+  margin: 0;
+  padding: 0.22rem 0.45rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.quiz-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.quiz-timer.warning {
+  border-color: #c62828;
+}
+
+.quiz-timer.warning .quiz-timer-display {
+  color: #c62828;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 10 * 60 * 1000;
+  document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    if (timer.dataset.initialized === "true") return;
+    timer.dataset.initialized = "true";
+    const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
+    const display = timer.querySelector(".quiz-timer-display");
+    const startButton = timer.querySelector(".quiz-timer-start");
+    const pauseButton = timer.querySelector(".quiz-timer-pause");
+    const resetButton = timer.querySelector(".quiz-timer-reset");
+    let state = { running: false, remaining: duration, end: null };
+
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved && typeof saved.remaining === "number") state = saved;
+    } catch (_) {}
+
+    function remainingNow() {
+      return state.running && state.end
+        ? Math.max(0, state.end - Date.now())
+        : Math.max(0, state.remaining);
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
+    function render() {
+      const remaining = remainingNow();
+      const totalSeconds = Math.ceil(remaining / 1000);
+      const minutes = Math.floor(totalSeconds / 60);
+      const seconds = totalSeconds % 60;
+      display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      timer.classList.toggle("warning", remaining <= 2 * 60 * 1000);
+      startButton.disabled = state.running || remaining === 0;
+      startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+      pauseButton.disabled = !state.running;
+
+      if (state.running && remaining === 0) {
+        state = { running: false, remaining: 0, end: null };
+        save();
+      }
+    }
+
+    startButton.addEventListener("click", () => {
+      const remaining = remainingNow();
+      state = { running: true, remaining, end: Date.now() + remaining };
+      save();
+      render();
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state = { running: false, remaining: remainingNow(), end: null };
+      save();
+      render();
+    });
+
+    resetButton.addEventListener("click", () => {
+      state = { running: false, remaining: duration, end: null };
+      save();
+      render();
+    });
+
+    render();
+    window.setInterval(render, 250);
+  });
+});
+</script>
+<p>Proposez une chanson ou une photo de votre animal pour la pause.</p>
 <div class="columns">
 <div class="column" style="width:58%;">
 <p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
 <p><strong>Code de l’évènement : IFDJTAT</strong></p>
+<p>Gardez l’onglet ouvert pour les rondes et les propositions de pause.</p>
 </div><div class="column" style="width:42%;">
-<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap IFDJTAT" width="420"></a></p>
+<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="QR Wooclap IFDJTAT" width="420"></a></p>
 </div></div>
 <aside class="notes">
 <p>Pause 1. Propositions chanson/photo dans la question ouverte de l’évènement d’engagement. Réponses multiples, mentions J’aime, envoi d’images et compte à rebours de dix minutes; modération désactivée, liste ou grille. Connexion aux activités : IFDJTAT. Heure de retour annoncée oralement. Reprendre à l’atelier, sans sauter celui-ci.</p>
@@ -1171,14 +1312,151 @@ document.addEventListener("DOMContentLoaded", () => {
 </section>
 <section id="pause-2" class="slide level2">
 <h2>Pause — 10 minutes</h2>
-<p><strong>Pause — 10 minutes</strong></p>
-<p>Proposez une chanson ou une photo de votre animal de compagnie.</p>
+<p><strong>10 minutes</strong></p>
+<div class="quiz-timer" role="timer" aria-live="polite">
+  <div class="quiz-timer-display">10:00</div>
+  <div class="quiz-timer-controls">
+    <button class="quiz-timer-start" type="button">Démarrer</button>
+    <button class="quiz-timer-pause" type="button" disabled="">Pause</button>
+    <button class="quiz-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+<style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
+.quiz-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 390px;
+  text-align: center;
+  padding: 0.28rem 0.45rem 0.35rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.35rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+  z-index: 10;
+}
+
+.quiz-timer-display {
+  color: #123b5d;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.quiz-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-timer-controls button {
+  margin: 0;
+  padding: 0.22rem 0.45rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.quiz-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.quiz-timer.warning {
+  border-color: #c62828;
+}
+
+.quiz-timer.warning .quiz-timer-display {
+  color: #c62828;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 10 * 60 * 1000;
+  document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    if (timer.dataset.initialized === "true") return;
+    timer.dataset.initialized = "true";
+    const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
+    const display = timer.querySelector(".quiz-timer-display");
+    const startButton = timer.querySelector(".quiz-timer-start");
+    const pauseButton = timer.querySelector(".quiz-timer-pause");
+    const resetButton = timer.querySelector(".quiz-timer-reset");
+    let state = { running: false, remaining: duration, end: null };
+
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved && typeof saved.remaining === "number") state = saved;
+    } catch (_) {}
+
+    function remainingNow() {
+      return state.running && state.end
+        ? Math.max(0, state.end - Date.now())
+        : Math.max(0, state.remaining);
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
+    function render() {
+      const remaining = remainingNow();
+      const totalSeconds = Math.ceil(remaining / 1000);
+      const minutes = Math.floor(totalSeconds / 60);
+      const seconds = totalSeconds % 60;
+      display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      timer.classList.toggle("warning", remaining <= 2 * 60 * 1000);
+      startButton.disabled = state.running || remaining === 0;
+      startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+      pauseButton.disabled = !state.running;
+
+      if (state.running && remaining === 0) {
+        state = { running: false, remaining: 0, end: null };
+        save();
+      }
+    }
+
+    startButton.addEventListener("click", () => {
+      const remaining = remainingNow();
+      state = { running: true, remaining, end: Date.now() + remaining };
+      save();
+      render();
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state = { running: false, remaining: remainingNow(), end: null };
+      save();
+      render();
+    });
+
+    resetButton.addEventListener("click", () => {
+      state = { running: false, remaining: duration, end: null };
+      save();
+      render();
+    });
+
+    render();
+    window.setInterval(render, 250);
+  });
+});
+</script>
+<p>Proposez une chanson ou une photo de votre animal pour la pause.</p>
 <div class="columns">
 <div class="column" style="width:58%;">
 <p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
 <p><strong>Code de l’évènement : IFDJTAT</strong></p>
+<p>Gardez l’onglet ouvert pour les rondes et les propositions de pause.</p>
 </div><div class="column" style="width:42%;">
-<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap IFDJTAT" width="420"></a></p>
+<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="QR Wooclap IFDJTAT" width="420"></a></p>
 </div></div>
 <aside class="notes">
 <p>Pause 2 après le traitement de l’information. Mêmes réglages de question ouverte que pause 1, mais ligne distincte. Protéger dix minutes réelles; annoncer le retour oralement. Reprendre aux trajectoires de développement.</p>
@@ -1365,8 +1643,9 @@ document.addEventListener("DOMContentLoaded", () => {
 <div class="column" style="width:58%;">
 <p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
 <p><strong>Code de l’évènement : IFDJTAT</strong></p>
+<p>Gardez l’onglet ouvert pour les rondes et les propositions de pause.</p>
 </div><div class="column" style="width:42%;">
-<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap IFDJTAT" width="420"></a></p>
+<p><a href="https://app.wooclap.com/IFDJTAT" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="QR Wooclap IFDJTAT" width="420"></a></p>
 </div></div>
 <p>Apprentissage, interprétation et médias.</p>
 <p><a href="#/transfert-final">Reprendre le cours après la ronde</a></p>
@@ -1470,12 +1749,14 @@ D. Le nombre de fois où elle imagine une réplique.</p>
           display:block!important;
       }</style></aside>
 </section>
-<section id="quiz-et-examen-quoi-préparer-1" class="slide level2">
-<h2>Quiz et examen — quoi préparer?</h2>
+<section id="les-prochaines-évaluations-1" class="slide level2">
+<h2>Les prochaines évaluations</h2>
 <p><strong>Quiz 7 · 17 novembre · 1,25 %</strong></p>
-<p>Cours <strong>8</strong> et chapitre <strong>9 — L’agression</strong>. 8 questions · 10 minutes.</p>
+<p><strong>Matière évaluée : cours 8 et chapitre 9 — L’agression.</strong></p>
+<p>8 questions · 10 minutes. Les 8 meilleurs quiz sur 10 comptent pour <strong>10 %</strong>.</p>
 <p><strong>Examen 2 · 10 novembre · 30 %</strong></p>
 <p>Cours <strong>5 à 8</strong> et chapitres <strong>5, 6, 8 et 9</strong>. Répartition annoncée : <strong>50 % cours / 50 % manuel</strong>.</p>
+<p>Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manuel, cela implique que les 50 % des questions associées aux cours seront fort probablement aussi dans le manuel. Ainsi, il est conseillé de donner un peu plus de poids à l’étude des cours plutôt qu’au manuel.</p>
 <p><a href="../../examens/02/guide.html">Guide d’étude de l’examen 2</a></p>
 <p><strong>Pour l’examen :</strong> carte étudiante, matériel d’écriture et identifiant UQAR.</p>
 <aside class="notes">
