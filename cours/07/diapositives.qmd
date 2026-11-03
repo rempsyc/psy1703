@@ -6,9 +6,20 @@ institute: "UQAR — PSY1703-04"
 date: 2026-10-20
 date-format: "D MMMM YYYY"
 lang: fr-CA
+title-image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Couple_kissing_in_Cologne%2C_Germany-2April2011.jpg"
+title-image-alt: "Un couple s’embrasse dans une rue de Cologne."
+title-image-position: "50% 28%"
+title-image-source: "https://commons.wikimedia.org/wiki/File:Couple_kissing_in_Cologne,_Germany-2April2011.jpg"
+title-image-author: "Tim Bartel"
+title-image-license: "CC BY-SA 2.0"
+title-image-license-url: "https://creativecommons.org/licenses/by-sa/2.0/"
 format:
   revealjs:
     theme: [simple, ../../_themes/slides.scss]
+    css: ../../_themes/title-photo.css
+    template-partials: [../../_templates/title-slide.html]
+    title-slide-attributes:
+      class: image-title
     slide-number: c/t
     show-slide-number: all
     transition: fade

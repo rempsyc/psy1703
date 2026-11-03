@@ -6,11 +6,20 @@ institute: "UQAR — PSY1703-04"
 date: 2026-11-03
 date-format: "D MMMM YYYY"
 lang: fr-CA
+title-image-credit: "Jany St-Cyr face à Angel Blackwell · L’Œil régional · Photo gracieuseté"
+title-image: "https://oeilregional.com/wp-content/uploads/2026/05/DB-SPO-st-cyr-casino-jpeg-720x1080.jpg"
+title-image-alt: "Jany St-Cyr lors de son premier combat contre Angel Blackwell."
+title-image-position: "50% 52%"
+title-image-source: "https://oeilregional.com/un-deuxieme-combat-pour-jany-st-cyr/"
 resources:
   - taylor/**
 format:
   revealjs:
     theme: [simple, ../../_themes/slides.scss]
+    css: ../../_themes/title-photo.css
+    template-partials: [../../_templates/title-slide.html]
+    title-slide-attributes:
+      class: image-title
     slide-number: c/t
     show-slide-number: all
     transition: fade
@@ -1012,7 +1021,7 @@ B. Faire préciser une question concrète : « Quand tu dis beau travail, tu par
 
 ## Le renforcement négatif — application
 
-Un enfant crie; un adulte retire sa demande et les cris cessent. Quelle conséquence peut renforcer les cris?
+Un enfant crie; un adulte retire sa demande et les cris cessent. Quelle conséquence pourrait rendre l’enfant plus susceptible de crier lors d’une prochaine demande?
 
 A. Le retrait de la demande.
 
@@ -1023,23 +1032,23 @@ C. La réparation du conflit.
 D. La disparition de toute frustration future.
 
 ::: {.notes}
-A. Le retrait de la demande peut augmenter la probabilité des cris. La fin des cris peut aussi renforcer le renoncement de l’adulte. Négatif désigne ici un retrait, pas un jugement moral. Manuel p.285–286.
+A. Le retrait de la demande peut augmenter la probabilité que l’enfant crie lors de prochaines demandes. Il ne s’agit ni du volume des cris ni d’une reprise immédiate; le renforcement se définit par la probabilité future de la conduite. La fin des cris peut aussi renforcer le renoncement de l’adulte. Négatif désigne ici un retrait, pas un jugement moral. Manuel p.285–286.
 :::
 
 ## La mesure expérimentale — application
 
-Après un jeu violent ou non violent attribué au hasard, on mesure le bruit choisi pour un partenaire. Que mesure-t-on directement?
+Des personnes sont réparties au hasard entre un jeu vidéo violent et un jeu non violent. Elles font ensuite une tâche de Taylor : une compétition de vitesse où elles choisissent l’intensité et la durée du bruit désagréable destiné à leur adversaire. Que permet d’observer directement ce choix?
 
 A. La violence criminelle future.
 
 B. La fréquence des disputes familiales.
 
-C. Un choix comportemental dans une situation expérimentale.
+C. Un comportement dirigé vers un adversaire dans cette situation expérimentale.
 
 D. Une personnalité agressive permanente.
 
 ::: {.notes}
-C. Le bruit destiné au partenaire est le comportement observé dans cette situation. On ne mesure pas directement les disputes familiales, la criminalité ou une personnalité immuable. Manuel p.291–294; lien Taylor.
+C. On observe le choix d’intensité et de durée du bruit destiné à l’adversaire dans la tâche de Taylor. Le jeu vidéo constitue la première situation attribuée; Taylor est une autre tâche, administrée ensuite pour mesurer un comportement. Le bruit n’est donc pas un son choisi à l’intérieur du jeu vidéo. On ne mesure pas directement les disputes familiales, la criminalité ou une personnalité immuable. Manuel p.291–294; lien Taylor.
 :::
 
 ## L’agression : agir sur une séquence {#transfert-final}
