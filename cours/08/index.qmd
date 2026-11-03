@@ -19,7 +19,9 @@ twitter-card:
 
 **3 novembre 2026** · Lecture : chapitre 9 du manuel de Vallerand.
 
-Version finale — 3 novembre 2026.
+::: {.callout-note title="Version finale"}
+**Diapositives finales de la séance du 3 novembre 2026.** Des corrections ponctuelles peuvent encore être apportées.
+:::
 
 [Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 
