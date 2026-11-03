@@ -29,11 +29,11 @@ format:
 pagetitle: "Cours 5 — L’attribution"
 description: "Diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
 open-graph:
-  title: "Cours 5 — L’attribution"
+  title: "PSY1703 — Psychologie sociale — Cours 5 — L’attribution"
   description: "Diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
-  title: "Cours 5 — L’attribution"
+  title: "PSY1703 — Psychologie sociale — Cours 5 — L’attribution"
   description: "Diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
 ---
 

@@ -29,11 +29,11 @@ format:
 pagetitle: "Cours 2 — Méthodes de recherche"
 description: "Diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
 open-graph:
-  title: "Cours 2 — Méthodes de recherche"
+  title: "PSY1703 — Psychologie sociale — Cours 2 — Méthodes de recherche"
   description: "Diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
-  title: "Cours 2 — Méthodes de recherche"
+  title: "PSY1703 — Psychologie sociale — Cours 2 — Méthodes de recherche"
   description: "Diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
 ---
 

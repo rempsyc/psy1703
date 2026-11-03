@@ -4,11 +4,11 @@ subtitle: "Mesure des attitudes, dissonance et persuasion"
 pagetitle: "Cours 6 — Les attitudes"
 description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
 open-graph:
-  title: "Cours 6 — Les attitudes"
+  title: "PSY1703 — Psychologie sociale — Cours 6 — Les attitudes"
   description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
-  title: "Cours 6 — Les attitudes"
+  title: "PSY1703 — Psychologie sociale — Cours 6 — Les attitudes"
   description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
 ---
 

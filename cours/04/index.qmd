@@ -4,11 +4,11 @@ subtitle: "Sélectionner, organiser et juger l’information sociale"
 pagetitle: "Cours 4 — Les cognitions sociales"
 description: "Ressources et diapositives — Cours 4 — Les cognitions sociales · PSY1703, psychologie sociale · UQAR."
 open-graph:
-  title: "Cours 4 — Les cognitions sociales"
+  title: "PSY1703 — Psychologie sociale — Cours 4 — Les cognitions sociales"
   description: "Ressources et diapositives — Cours 4 — Les cognitions sociales · PSY1703, psychologie sociale · UQAR."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
-  title: "Cours 4 — Les cognitions sociales"
+  title: "PSY1703 — Psychologie sociale — Cours 4 — Les cognitions sociales"
   description: "Ressources et diapositives — Cours 4 — Les cognitions sociales · PSY1703, psychologie sociale · UQAR."
 ---
 

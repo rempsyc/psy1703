@@ -4,11 +4,11 @@ subtitle: "Introduction à la psychologie sociale"
 pagetitle: "Cours 1 — Voir le social autrement"
 description: "Ressources et diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
 open-graph:
-  title: "Cours 1 — Voir le social autrement"
+  title: "PSY1703 — Psychologie sociale — Cours 1 — Voir le social autrement"
   description: "Ressources et diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
-  title: "Cours 1 — Voir le social autrement"
+  title: "PSY1703 — Psychologie sociale — Cours 1 — Voir le social autrement"
   description: "Ressources et diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
 ---
 
