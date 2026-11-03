@@ -588,9 +588,9 @@ Apprendre une conduite et la manifester ne sont pas identiques.
 ::: {.column width="53%"}
 **Acquisition :** apprendre une conduite. **Manifestation :** la mettre en pratique.
 
-Une enfant observe une adulte humilier quelqu’un pour obtenir sa place.
+Une enfant voit une adulte bousculer quelqu’un pour passer devant dans une file.
 
-Elle peut ensuite **décrire la stratégie**, mais ne l’utilise pas.
+Elle peut ensuite **décrire le geste et son but**, mais ne bouscule personne.
 
 **Elle a appris la stratégie sans la mettre en pratique : acquisition et manifestation sont distinctes.**
 :::
@@ -607,7 +607,7 @@ Elle peut ensuite **décrire la stratégie**, mais ne l’utilise pas.
 
 
 ::: {.notes}
-3 minutes. Manuel p.282–284. Acquisition = conduite apprise; manifestation/performance = conduite produite dans une situation. Le cas de l’enfant distingue connaissance et utilisation; les conséquences attendues peuvent freiner la manifestation. Le GIF montre des gestes exécutés, pas leur acquisition. Ne pas présenter cette scène comme un entrainement ni affirmer que l’un imite l’autre; ces détails narratifs n’ont pas été vérifiés. Le contrepoint aide à comprendre pourquoi une scène de combat ne prouve pas comment les conduites ont été apprises. Faire varier les conséquences qui favoriseraient ou inhiberaient l’expression. Transfert : une personne en stage peut retenir un modèle agressif sans le reproduire immédiatement.
+3 minutes. Manuel p.282–284. Acquisition = conduite apprise; manifestation/performance = conduite produite dans une situation. Exemple physique : l’enfant a retenu le geste (bousculer) et son but (passer devant), sans l’exécuter. Réponse acceptable : « Elle a appris une manière d’obtenir une place, mais ne la reproduit pas. » Le cas de l’enfant distingue connaissance et utilisation; les conséquences attendues peuvent freiner la manifestation. Le GIF montre des gestes exécutés, pas leur acquisition. Ne pas présenter cette scène comme un entrainement ni affirmer que l’un imite l’autre; ces détails narratifs n’ont pas été vérifiés. Le contrepoint aide à comprendre pourquoi une scène de combat ne prouve pas comment les conduites ont été apprises. Faire varier les conséquences qui favoriseraient ou inhiberaient l’expression. Transfert : une personne en stage peut retenir un modèle agressif sans le reproduire immédiatement.
 :::
 
 ## Les conditions de l’apprentissage par observation
