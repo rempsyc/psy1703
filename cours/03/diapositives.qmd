@@ -6,9 +6,22 @@ institute: "UQAR — PSY1703-04"
 date: 2026-09-15
 date-format: "D MMMM YYYY"
 lang: fr-CA
+title-image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cat_in_the_mirror_%282016%3B_cropped_2024%29.jpg"
+title-image-alt: "Un chat regarde son reflet dans un miroir."
+title-image-position: "50% 50%"
+title-image-fit: "cover"
+title-image-source: "https://commons.wikimedia.org/wiki/File:Cat_in_the_mirror_(2016;_cropped_2024).jpg"
+title-image-credit: "Photo : Albarubescens"
+title-image-license: "CC BY-SA 4.0"
+title-image-license-url: "https://creativecommons.org/licenses/by-sa/4.0/"
+
 format:
   revealjs:
     theme: [simple, ../../_themes/slides.scss]
+    css: ../../_themes/title-photo.css
+    template-partials: [../../_templates/title-slide.html]
+    title-slide-attributes:
+      class: image-title
     slide-number: c/t
     show-slide-number: all
     transition: fade
@@ -32,10 +45,15 @@ description: "Diapositives — Cours 3 — Le soi · PSY1703, psychologie social
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 3 — Le soi"
   description: "Diapositives — Cours 3 — Le soi · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cat_in_the_mirror_%282016%3B_cropped_2024%29.jpg"
+  image-alt: "Un chat regarde son reflet dans un miroir."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 3 — Le soi"
   description: "Diapositives — Cours 3 — Le soi · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cat_in_the_mirror_%282016%3B_cropped_2024%29.jpg"
+  image-alt: "Un chat regarde son reflet dans un miroir."
+  card-style: summary_large_image
 ---
 
 

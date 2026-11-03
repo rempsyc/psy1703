@@ -6,10 +6,15 @@ description: "Ressources et diapositives — Cours 5 — L’attribution · PSY1
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 5 — L’attribution"
   description: "Ressources et diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
+  image: "https://i.imgflip.com/23ls.jpg"
+  image-alt: "Zoë Roth sourit devant un exercice d’incendie : photographie connue sous le nom Disaster Girl."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 5 — L’attribution"
   description: "Ressources et diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
+  image: "https://i.imgflip.com/23ls.jpg"
+  image-alt: "Zoë Roth sourit devant un exercice d’incendie : photographie connue sous le nom Disaster Girl."
+  card-style: summary_large_image
 ---
 
 **Mardi 6 octobre 2026**<br>

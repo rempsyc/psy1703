@@ -15,7 +15,7 @@ $if(date)$
 $endif$
   </div>
   <figure class="cover-photo">
-    <img src="$title-image$" alt="$title-image-alt$" style="object-position:$title-image-position$;">
+    <img src="$title-image$" alt="$title-image-alt$" style="object-position:$title-image-position$;object-fit:$if(title-image-fit)$$title-image-fit$$else$cover$endif$;">
     <figcaption><a href="$title-image-source$" target="_blank" rel="noopener noreferrer">$if(title-image-credit)$$title-image-credit$$else$Photo : $title-image-author$$endif$</a>$if(title-image-license)$ · <a href="$title-image-license-url$" target="_blank" rel="noopener noreferrer">$title-image-license$</a>$endif$</figcaption>
   </figure>
 </section>

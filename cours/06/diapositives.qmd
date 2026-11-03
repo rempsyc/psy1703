@@ -6,9 +6,20 @@ institute: "UQAR — PSY1703-04"
 date: 2026-10-13
 date-format: "D MMMM YYYY"
 lang: fr-CA
+title-image: "https://i.imgflip.com/1g8my4.jpg"
+title-image-alt: "Un personnage hésite devant deux boutons rouges : modèle de mème Two Buttons."
+title-image-position: "50% 50%"
+title-image-fit: "contain"
+title-image-source: "https://imgflip.com/meme/Two-Buttons"
+title-image-credit: "Two Buttons · Jake Clark · via Imgflip"
+
 format:
   revealjs:
     theme: [simple, ../../_themes/slides.scss]
+    css: ../../_themes/title-photo.css
+    template-partials: [../../_templates/title-slide.html]
+    title-slide-attributes:
+      class: image-title
     slide-number: c/t
     show-slide-number: all
     transition: fade
@@ -31,10 +42,15 @@ description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 6 — Les attitudes"
   description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
+  image: "https://i.imgflip.com/1g8my4.jpg"
+  image-alt: "Un personnage hésite devant deux boutons rouges : modèle de mème Two Buttons."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 6 — Les attitudes"
   description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
+  image: "https://i.imgflip.com/1g8my4.jpg"
+  image-alt: "Un personnage hésite devant deux boutons rouges : modèle de mème Two Buttons."
+  card-style: summary_large_image
 ---
 
 ## Quiz de lecture 4 — 1,25 %

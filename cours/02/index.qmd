@@ -6,10 +6,15 @@ description: "Ressources et diapositives — Cours 2 — Méthodes de recherche 
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 2 — Méthodes de recherche"
   description: "Ressources et diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
+  image: "https://imgs.xkcd.com/comics/correlation.png"
+  image-alt: "Bande dessinée xkcd sur la distinction entre corrélation et causalité."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 2 — Méthodes de recherche"
   description: "Ressources et diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
+  image: "https://imgs.xkcd.com/comics/correlation.png"
+  image-alt: "Bande dessinée xkcd sur la distinction entre corrélation et causalité."
+  card-style: summary_large_image
 ---
 
 **Mardi 8 septembre 2026**<br>

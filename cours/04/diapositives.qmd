@@ -6,9 +6,20 @@ institute: "UQAR — PSY1703-04"
 date: 2026-09-22
 date-format: "D MMMM YYYY"
 lang: fr-CA
+title-image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kaninchen_und_Ente.png"
+title-image-alt: "Une même figure peut être perçue comme un canard ou un lapin."
+title-image-position: "50% 50%"
+title-image-fit: "contain"
+title-image-source: "https://commons.wikimedia.org/wiki/File:Kaninchen_und_Ente.png"
+title-image-credit: "Canard-lapin · Fliegende Blätter, 1892 · Domaine public"
+
 format:
   revealjs:
     theme: [simple, ../../_themes/slides.scss]
+    css: ../../_themes/title-photo.css
+    template-partials: [../../_templates/title-slide.html]
+    title-slide-attributes:
+      class: image-title
     slide-number: c/t
     show-slide-number: all
     transition: fade
@@ -31,10 +42,15 @@ description: "Diapositives — Cours 4 — Les cognitions sociales · PSY1703, p
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 4 — Les cognitions sociales"
   description: "Diapositives — Cours 4 — Les cognitions sociales · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kaninchen_und_Ente.png"
+  image-alt: "Une même figure peut être perçue comme un canard ou un lapin."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 4 — Les cognitions sociales"
   description: "Diapositives — Cours 4 — Les cognitions sociales · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kaninchen_und_Ente.png"
+  image-alt: "Une même figure peut être perçue comme un canard ou un lapin."
+  card-style: summary_large_image
 ---
 
 ## Quiz de lecture 2 — 1,25 %

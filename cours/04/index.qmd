@@ -6,10 +6,15 @@ description: "Ressources et diapositives — Cours 4 — Les cognitions sociales
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 4 — Les cognitions sociales"
   description: "Ressources et diapositives — Cours 4 — Les cognitions sociales · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kaninchen_und_Ente.png"
+  image-alt: "Une même figure peut être perçue comme un canard ou un lapin."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 4 — Les cognitions sociales"
   description: "Ressources et diapositives — Cours 4 — Les cognitions sociales · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kaninchen_und_Ente.png"
+  image-alt: "Une même figure peut être perçue comme un canard ou un lapin."
+  card-style: summary_large_image
 ---
 
 **Mardi 22 septembre 2026**<br>

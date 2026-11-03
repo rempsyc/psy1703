@@ -6,9 +6,22 @@ institute: "UQAR — PSY1703-04"
 date: 2026-09-08
 date-format: "D MMMM YYYY"
 lang: fr-CA
+title-image: "https://imgs.xkcd.com/comics/correlation.png"
+title-image-alt: "Bande dessinée xkcd sur la distinction entre corrélation et causalité."
+title-image-position: "50% 50%"
+title-image-fit: "contain"
+title-image-source: "https://xkcd.com/552/"
+title-image-credit: "Correlation · Randall Munroe, xkcd nº 552"
+title-image-license: "CC BY-NC 2.5"
+title-image-license-url: "https://creativecommons.org/licenses/by-nc/2.5/"
+
 format:
   revealjs:
     theme: [simple, ../../_themes/slides.scss]
+    css: ../../_themes/title-photo.css
+    template-partials: [../../_templates/title-slide.html]
+    title-slide-attributes:
+      class: image-title
     slide-number: c/t
     show-slide-number: all
     transition: fade
@@ -31,10 +44,15 @@ description: "Diapositives — Cours 2 — Méthodes de recherche · PSY1703, ps
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 2 — Méthodes de recherche"
   description: "Diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
+  image: "https://imgs.xkcd.com/comics/correlation.png"
+  image-alt: "Bande dessinée xkcd sur la distinction entre corrélation et causalité."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 2 — Méthodes de recherche"
   description: "Diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
+  image: "https://imgs.xkcd.com/comics/correlation.png"
+  image-alt: "Bande dessinée xkcd sur la distinction entre corrélation et causalité."
+  card-style: summary_large_image
 ---
 
 ## Pratique de quiz sur Wooclap {#connexion-quiz}

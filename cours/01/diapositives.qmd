@@ -6,9 +6,22 @@ institute: "UQAR — PSY1703-04"
 date: 2026-09-01
 date-format: "D MMMM YYYY"
 lang: fr-CA
+title-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/View_of_Shibuya_Crossing.jpg"
+title-image-alt: "Une foule traverse le carrefour de Shibuya à Tokyo."
+title-image-position: "50% 50%"
+title-image-fit: "cover"
+title-image-source: "https://commons.wikimedia.org/wiki/File:View_of_Shibuya_Crossing.jpg"
+title-image-credit: "Shibuya · Photo : Ewong17"
+title-image-license: "CC BY-SA 4.0"
+title-image-license-url: "https://creativecommons.org/licenses/by-sa/4.0/"
+
 format:
   revealjs:
     theme: [simple, ../../_themes/slides.scss]
+    css: ../../_themes/title-photo.css
+    template-partials: [../../_templates/title-slide.html]
+    title-slide-attributes:
+      class: image-title
     slide-number: c/t
     show-slide-number: all
     transition: fade
@@ -31,10 +44,15 @@ description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, 
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 1 — Voir le social autrement"
   description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/View_of_Shibuya_Crossing.jpg"
+  image-alt: "Une foule traverse le carrefour de Shibuya à Tokyo."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 1 — Voir le social autrement"
   description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/View_of_Shibuya_Crossing.jpg"
+  image-alt: "Une foule traverse le carrefour de Shibuya à Tokyo."
+  card-style: summary_large_image
 ---
 
 ## Bienvenue à PSY1703
