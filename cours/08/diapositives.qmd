@@ -11,12 +11,14 @@ title-image: "https://oeilregional.com/wp-content/uploads/2026/05/DB-SPO-st-cyr-
 title-image-alt: "Jany St-Cyr lors de son premier combat contre Angel Blackwell."
 title-image-position: "50% 52%"
 title-image-source: "https://oeilregional.com/un-deuxieme-combat-pour-jany-st-cyr/"
+include-after-body: assets/naruto-gifs.html
 resources:
+  - assets/naruto-gifs.html
   - taylor/**
 format:
   revealjs:
     theme: [simple, ../../_themes/slides.scss]
-    css: ../../_themes/title-photo.css
+    css: [../../_themes/title-photo.css, assets/naruto-gifs.css]
     template-partials: [../../_templates/title-slide.html]
     title-slide-attributes:
       class: image-title
@@ -124,16 +126,29 @@ Transfert : dans un travail d’équipe, formuler une limite ou une demande qui 
 
 ## L’agression, la colère et l’assertion
 
-L’**agression** est un comportement physique ou verbal dirigé vers une personne avec l’intention de lui faire du tort physiquement ou psychologiquement.
+L’**agression** est une conduite dirigée vers une personne avec l’intention de lui faire du tort physiquement ou psychologiquement.
 
-| Situation | Ce qu’il faut distinguer |
-|---|---|
-| Manolo se sent en colère, mais ne menace personne. | Une émotion et un comportement |
-| Constance dit fermement : « Je refuse qu’on prenne mon repas. » | L’assertion et l’intention de nuire |
-| Une personne tente de frapper Fabrice, mais le manque. | L’intention et le résultat |
+::: {.columns}
+::: {.column width="53%"}
+- **Colère :** Manolo se sent furieux.
+- **Assertion :** il réclame fermement son CD.
+- **Agression :** il brise les broches pour faire du tort à Mariane.
+
+**L’agression suppose une conduite visant à faire du tort; ressentir de la colère ne suffit pas.**
+:::
+::: {.column width="47%"}
+<div class="naruto-gif" data-gif>
+<img src="https://i.gifer.com/C38a.gif" alt="Gros plan animé sur le regard de Naruto, utilisé pour évoquer la colère." loading="lazy">
+<canvas hidden aria-hidden="true"></canvas>
+<button type="button" aria-pressed="false">Figer le GIF</button>
+<p class="gif-credit">Naruto · <a href="https://i.gifer.com/C38a.gif" target="_blank" rel="noopener noreferrer">GIF proposé · Gifer</a></p>
+</div>
+:::
+:::
+
 
 ::: {.notes}
-5 minutes. Manuel p. 276; glossaire p. 437. Définir assertion : conduite assurée orientée vers un objectif, sans intention de nuire nécessaire. Réponses : colère seule ≠ agression; poser une limite ferme n’est pas une agression par sa seule fermeté; une tentative peut être agressive sans blessure réalisée. Ajouter oralement l’accident : dommage sans intention. Une intention doit être inférée d’indices, pas lue dans l’esprit. Faire nommer quel détail change chaque jugement; accepter un contexte supplémentaire qui modifierait l’interprétation, sans perdre le cas décrit. Utilité : ne pas confondre défense de ses droits et attaque.
+4 à 5 minutes. Manuel p.275–276. La colère est une émotion; l’assertion une conduite assurée vers un objectif sans intention de nuire nécessaire. La définition d’agression implique une conduite et une intention de tort : ce n’est donc pas le seul visage en colère ni le seul volume de voix qui tranche. Le GIF évoque visuellement une colère intense, sans servir à diagnostiquer l’état d’une personne réelle. Demander d’abord ce que le regard suggère, puis quel comportement et quelle intention il faudrait identifier pour parler d’agression. Dans Ramdam, réclamer le CD peut être ferme sans être une attaque; briser les broches en représailles vise un tort matériel et peut viser à faire souffrir Mariane. Reprendre la tentative : essayer de frapper sans atteindre peut être agressif; casser par accident ne prouve pas une intention de nuire. Pas de parallèle automatique entre trouble psychologique et agressivité. Figer le GIF si l’on veut concentrer l’attention sur les distinctions.
 :::
 
 ## L’agression hostile et instrumentale
@@ -142,29 +157,54 @@ L’**agression hostile** vise à faire souffrir ou à blesser.
 
 L’**agression instrumentale** utilise le tort fait à autrui comme moyen d’obtenir autre chose.
 
-**Même geste : briser une création de Mariane.**
+**Même geste : briser une broche de Mariane.**
 
 - « Je veux que Mariane paie pour ce qu’elle m’a fait. »
 - « Je veux forcer Mariane à me rendre le CD. »
 
-Quel objectif change?
+Faire souffrir est le but hostile; obtenir un avantage est le but instrumental.
 
 ::: {.notes}
 4 minutes. Manuel p. 276, glossaire p. 437. Première motivation : hostile. Deuxième : instrumentale; dommage pour obtenir le retour du CD. Les deux motifs sont des variantes inventées pour comparer les fonctions; ne pas prétendre qu’ils sont tous deux donnés dans le clip. Les deux font du tort intentionnellement, donc instrumental ne veut pas dire inoffensif. Une personne peut poursuivre les deux objectifs; ne pas exiger une catégorie exclusive si plusieurs motifs sont explicites. Accepter vengeance comme hostile dans la première phrase. Faire modifier une seule phrase du cas pour changer le motif; garder le geste constant.
 :::
 
-## L’agression réactive, proactive et relationnelle
+## L’agression réactive et proactive
 
-**Réactive** : réponse à une situation perçue comme provocante ou aversive. **Proactive** : conduite initiée dans un but instrumental.
+::: {.columns}
+::: {.column width="53%"}
+**Réactive :** réponse à une situation perçue comme provocante ou aversive.
 
-**Directe** : attaque physique ou verbale dirigée vers la personne. **Indirecte ou relationnelle** : tort par manipulation de ses relations.
+**Proactive :** conduite initiée dans un but instrumental.
 
-Fabrice est exclu d’un groupe pour le faire céder. Ailleurs, Manolo insulte immédiatement une personne après avoir cru être provoqué.
+**Une riposte visible ne révèle pas à elle seule le déclencheur initial ni le but du combat.**
+:::
+::: {.column width="47%"}
+<div class="naruto-gif" data-gif>
+<img src="https://i.pinimg.com/originals/29/25/d4/2925d4a7177ace6b736800cced78d90b.gif" alt="Naruto et Sasuke échangent et esquivent des coups dans un combat animé." loading="lazy">
+<canvas hidden aria-hidden="true"></canvas>
+<button type="button" aria-pressed="false">Figer le GIF</button>
+<p class="gif-credit">Naruto · <a href="https://i.pinimg.com/originals/29/25/d4/2925d4a7177ace6b736800cced78d90b.gif" target="_blank" rel="noopener noreferrer">GIF proposé · Pinterest</a></p>
+</div>
+:::
+:::
 
-Ces catégories décrivent des aspects différents d’un geste.
 
 ::: {.notes}
-4 minutes. Manuel p. 276, glossaire p. 437. Exclusion utilisée comme pression : relationnelle et proactive/instrumentale; insulte répondant à une provocation perçue : directe et réactive. Hostile/instrumentale portent sur la fonction; réactive/proactive sur la dynamique de déclenchement, avec recoupements. Une agression relationnelle peut aussi être hostile. Ne pas enseigner « relationnelle = féminine » : le manuel rapporte des variations de fréquence, pas des catégories exclusives. Faire expliquer la menace de retrait d’amitié comme contrôle du lien. Transfert : repérer une agression qui ne laisse pas de blessure physique.
+3 minutes. Manuel p.276. Le GIF montre des échanges de coups; ne pas inventer le motif ou le déclencheur du combat à partir de la boucle. La succession attaque/riposte peut être repérée, mais le contexte précédent est nécessaire pour conclure sur le caractère réactif/proactif et le but hostile/instrumental. Manolo qui brise les broches après la prise du CD illustre une riposte; une conduite initiée pour obtenir un avantage illustre le versant proactif. Les axes se recoupent : ne pas apprendre réactive = toujours hostile, proactive = tout ce qui est prévu. L’intérêt du GIF est de distinguer observation d’une séquence et interprétation de son origine.
+:::
+
+## L’agression directe et relationnelle
+
+**Directe :** attaque physique ou verbale dirigée vers la personne.
+
+**Relationnelle :** tort causé en manipulant ses relations ou sa réputation.
+
+Fabrice est exclu d’un groupe pour le faire céder. Manolo insulte quelqu’un après avoir cru être provoqué.
+
+**Insulter ou exclure décrit la forme de l’agression. Répondre à une provocation décrit ce qui la déclenche.**
+
+::: {.notes}
+3 minutes. Manuel p.276. Exclusion utilisée comme pression : relationnelle et proactive/instrumentale. Insulte après provocation perçue : directe et réactive. Une agression relationnelle peut aussi être hostile. Ne pas transformer ces axes en catégories exclusives ni enseigner relationnelle = féminine. Faire expliquer la menace de retrait d’amitié comme contrôle du lien. Cette séparation reprend le contenu de la diapositive antérieure, sans nouvelle notion. Le GIF reste sur la diapositive précédente afin de ne pas présenter un combat physique comme illustration d’une exclusion.
 :::
 
 ## L’intention et les conséquences
@@ -175,7 +215,7 @@ Ces catégories décrivent des aspects différents d’un geste.
 - Manolo le lance pour faire peur à Simon, mais vise mal.
 - Manolo le brise pour faire souffrir Simon.
 
-**Quel détail change notre jugement?**
+**L’intention de faire du tort distingue l’agression de l’accident, même si le résultat est identique.**
 
 ::: {.notes}
 3 minutes. Manuel p. 275–276. Faire justifier chaque cas avant de donner la réponse. Accident : dommage sans intention de nuire. Deuxième cas : la menace ou l’intimidation peut viser un tort psychologique même sans intention de casser le téléphone; préciser ce but, ne pas réduire tout au bris. Dernier : indice explicite d’intention de nuire. Débreffage : conséquence matérielle identique, intentions différentes; une tentative peut aussi être agressive sans réussir. Au travail, décrire les faits et chercher les indices avant d’attribuer une intention.
@@ -191,7 +231,7 @@ Manolo humilie Simon pour le faire quitter une équipe, après avoir reçu une i
 | **En réponse à quoi?** | Une insulte reçue |
 | **Par quel moyen?** | Une humiliation devant les autres |
 
-**Une seule étiquette suffit-elle?**
+**But, déclencheur et forme décrivent trois dimensions d’une même conduite.**
 
 ::: {.notes}
 3 minutes. Manuel p. 276. Le but décrit est instrumental; la séquence répond à une provocation perçue et peut être réactive. Humiliation adressée directement : agression verbale directe; ne conclure à une manipulation relationnelle que si la scène décrit une atteinte aux liens ou à la réputation. Ajouter oralement « il répand une rumeur pour faire exclure Simon » pour obtenir clairement le versant relationnel. Ces catégories décrivent des dimensions qui se recoupent, pas trois boites exclusives. Le mécanisme à comprendre est la différence entre but, déclencheur et moyen.
@@ -219,18 +259,12 @@ Mesures avant, juste après six semaines d’intervention, puis six semaines plu
 
 ## La bienveillance et l’agression {#taylor-resultats}
 
-<img src="assets/taylor_results.png" alt="Indicateur d’agression : baisse dans le groupe réflexion après l’intervention, encore visible au suivi; méditation proche du niveau initial et liste d’attente plus élevée." style="display:block;height:440px;max-width:100%;object-fit:contain;margin:0 auto 15px;">
+<img src="assets/taylor_results.png" alt="Indicateur d’agression : baisse dans le groupe réflexion après l’intervention, encore visible au suivi; méditation proche du niveau initial et liste d’attente plus élevée." style="display:block;height:600px;max-width:100%;object-fit:contain;margin:0 auto 5px;">
 
-**1 : avant · 2 : après les six semaines · 3 : suivi six semaines plus tard**
-
-**Après l’intervention : moins d’agression dans le groupe lecture–réflexion.**
-
-::: {.credit}
-Figure de mes recherches · Meditation = méditation; Reflection = lecture–réflexion; Waitlist = liste d’attente · [Préprint](https://doi.org/10.31234/osf.io/x4p9v_v1).
-:::
+<p style="font-size:19px;text-align:center;margin:4px 0;">1 : avant · 2 : après six semaines · 3 : suivi six semaines plus tard · <a href="https://doi.org/10.31234/osf.io/x4p9v_v1" target="_blank" rel="noopener noreferrer">Mes recherches — préprint</a></p>
 
 ::: {.notes}
-5 à 6 minutes. Lire les axes et les groupes avant d’interpréter. Plus bas = moins d’agression selon l’indicateur de la tâche; ce n’est pas une proportion de personnes violentes. La figure fournie est centrée au départ : les zéros initiaux ne signifient ni absence d’agression ni identité de chaque personne. Ne pas faire mémoriser les valeurs ni lire les étoiles comme la taille du bénéfice. Résultat des contrastes du préprint, section Results, Table 3 : à T2, le groupe réflexion a un indicateur plus faible que la liste d’attente ET que la méditation. À T3, l’écart avec la liste d’attente persiste (Table 4); la comparaison réflexion–méditation n’est plus statistiquement concluante. Ne pas dire que la réflexion reste supérieure à la méditation au suivi. Le groupe méditation ne montre pas la réduction attendue dans cette étude; cela ne prouve pas que toute méditation est sans effet dans toute situation.
+5 à 6 minutes. Repères : 1 avant, 2 après les six semaines, 3 suivi six semaines plus tard. Meditation = méditation; Reflection = lecture–réflexion; Waitlist = liste d’attente. Après l’intervention : moins d’agression dans le groupe lecture–réflexion. Lire les axes et les groupes avant d’interpréter. Plus bas = moins d’agression selon l’indicateur de la tâche; ce n’est pas une proportion de personnes violentes. La figure fournie est centrée au départ : les zéros initiaux ne signifient ni absence d’agression ni identité de chaque personne. Ne pas faire mémoriser les valeurs ni lire les étoiles comme la taille du bénéfice. Résultat des contrastes du préprint, section Results, Table 3 : à T2, le groupe réflexion a un indicateur plus faible que la liste d’attente ET que la méditation. À T3, l’écart avec la liste d’attente persiste (Table 4); la comparaison réflexion–méditation n’est plus statistiquement concluante. Ne pas dire que la réflexion reste supérieure à la méditation au suivi. Le groupe méditation ne montre pas la réduction attendue dans cette étude; cela ne prouve pas que toute méditation est sans effet dans toute situation.
 Interprétation : une intervention structurée autour de lectures, d’écriture et de balados sur la bienveillance constitue une piste intéressante. La comparaison ne permet pas d’attribuer le résultat à la lecture seule ni d’identifier le mécanisme actif. Le préprint rapporte des effets de petite ampleur sur cet indicateur. Limites à rappeler brièvement : abandons plus fréquents dans le groupe réflexion, comparaison à une liste d’attente et mesure en tâche expérimentale; le résultat ne garantit pas une baisse de toute violence quotidienne. Aucun besoin d’ajouter ces détails aux apprentissages évalués si nous ne les travaillons pas en classe.
 Transition : « Mais comment avons-nous mesuré l’agression sans demander seulement aux gens s’ils se trouvent agressifs? Voici le principe de la tâche. » Réserver les résultats sur l’aide, la compassion, les attitudes et les dons au prochain cours; ils ne sont pas présentés ici.
 :::
@@ -322,7 +356,7 @@ La **frustration** survient lorsqu’un obstacle empêche d’atteindre un but.
 
 Mariane a pris le CD dont Manolo a besoin pour préparer son émission.
 
-Il pourrait attaquer Mariane, réclamer son CD, chercher une autre musique ou attendre. Qu’est-ce que ces possibilités changent à l’explication?
+Il peut réclamer son CD, chercher une autre musique ou attendre : **la frustration ne conduit pas automatiquement à l’agression.**
 
 ::: {.notes}
 4 minutes. Manuel p. 278–279. L’hypothèse originale est présentée comme proposition historique, puis révisée : frustration ne détermine pas une réponse unique; d’autres expériences aversives et des buts instrumentaux interviennent. Ne pas affirmer que la frustration est nécessaire ou suffisante. Déplacement : si Manolo n’ose s’en prendre à la personne responsable et s’en prend à une autre cible moins risquée. Définir le terme au moment de cet exemple. Réponses acceptables : solutions apprises, conséquences anticipées, perception de l’intention, intensité du malaise. La présence de ces options rend une explication mécanique insuffisante.
@@ -330,9 +364,9 @@ Il pourrait attaquer Mariane, réclamer son CD, chercher une autre musique ou at
 
 ## La perspective néoassociationniste
 
-Une expérience aversive suscite un **affect négatif** et active des pensées, souvenirs et tendances à agir associés.
+Une expérience aversive suscite un **affect négatif** (état émotionnel désagréable) et active des pensées, souvenirs et tendances à agir associés.
 
-**Fichier perdu → malaise → pensées d’attaque ou de fuite**
+**CD pris → malaise → pensées d’attaque ou de fuite**
 
 ::: {.fragment}
 L’interprétation, les règles sociales et les réponses disponibles peuvent modifier la réaction.
@@ -364,7 +398,7 @@ Penser « elle veut faire rater mon émission » ou « elle n’avait pas réali
 
 La provocation ne suffit donc pas à décrire toute la situation : **les indices du contexte comptent aussi**.
 
-**Quel élément a changé entre les conditions comparées?**
+**À provocation comparable, la présence d’armes distingue les conditions.**
 
 ::: {.notes}
 2 à 3 minutes. Manuel p. 279–280; étude classique rapportée de Berkowitz et LePage. Faire rappeler la prédiction de la diapositive précédente avant de donner le résultat. La comparaison pertinente garde la provocation présente et fait varier les objets; ne pas expliquer tout par des personnes plus souvent provoquées. Mesure : nombre de chocs, pas une opinion sur les armes. Les armes étaient associées ou non au partenaire selon les conditions; ne pas inventer un tableau chiffré ni présenter la présence d’une arme comme suffisante pour provoquer chaque personne. Reprise pédagogique de la séparation procédure/résultat observée chez Blais, diapos 8–9 et 12–13; contenu fondé sur le manuel. Transfert : repérer les indices du contexte qui rendent une réponse agressive plus accessible, sans prétendre lire une intention à partir d’un seul objet.
@@ -378,7 +412,7 @@ Manolo monte rapidement quatre étages. Essoufflé, il lit : « Ton travail n’
 
 **Escaliers → activation persistante → message interprété comme une attaque → réaction amplifiée**
 
-Que pourrait changer le fait d’identifier la source de son activation?
+Identifier son essoufflement peut éviter d’attribuer toute son activation au message reçu.
 
 ::: {.notes}
 4 minutes. Manuel p. 281–282. Définir activation : mobilisation corporelle, par exemple rythme cardiaque et respiration. Ce cas illustre une possibilité, pas un résultat recueilli en classe. Une activation n’est pas en soi de la colère. L’attribution au premier évènement peut réduire l’amplification liée au second; le contexte et l’interprétation comptent. Accepter attendre, reconnaitre l’essoufflement, relire le message ou demander une précision comme applications raisonnables, sans garantie clinique. Mise en scène volontaire possible : lire la phrase sur un ton neutre puis irrité, sans exercice physique imposé. Différence avec néoassociation : ici persistance et attribution de l’activation; là activation d’un réseau d’affects/pensées par une expérience aversive.
@@ -386,11 +420,13 @@ Que pourrait changer le fait d’identifier la source de son activation?
 
 ## Le déplacement de l’agression
 
+Le **déplacement de l’agression** consiste à diriger une réponse agressive vers une autre cible que la source initiale de frustration.
+
 La demande de Manolo est refusée par une personne en autorité.
 
 Il n’ose pas lui répondre. À la maison, il humilie Nathan pour un oubli mineur.
 
-**La source de la frustration et la cible de la réponse sont-elles les mêmes?**
+**Le refus vient de la personne en autorité; l’agression vise Nathan.**
 
 ::: {.notes}
 3 minutes. Manuel p. 278–279. Déplacement : réponse agressive dirigée vers une autre cible que la source initiale de frustration. Faire repérer source, inhibition de la réponse initiale et cible ultérieure. Le cas propose ce mécanisme; il ne permet pas de connaitre avec certitude toutes les raisons de la réaction. Ne pas présenter la frustration comme nécessaire ou suffisante. Transfert professionnel : un usager irrité peut réagir à une situation antérieure; cela aide à chercher une explication sans accepter les insultes.
@@ -398,19 +434,21 @@ Il n’ose pas lui répondre. À la maison, il humilie Nathan pour un oubli mine
 
 ## La rumination et le maintien de la colère
 
-Après une dispute, trois façons de passer les minutes suivantes :
+La **rumination** consiste à revenir de façon répétitive sur une offense et les torts subis.
 
 | Ruminer | Réévaluer | Se distraire |
 |---|---|---|
 | Repasser l’offense et les torts subis | Chercher une autre interprétation | Porter son attention ailleurs |
 
-**Quelle stratégie risque de garder l’offense présente?**
+**À retenir : ruminer peut entretenir la colère; réévaluer change l’interprétation, se distraire déplace l’attention.**
 
 ::: {.notes}
-3 minutes. Manuel p. 279, relu le 2 novembre. Définir rumination comme retour répétitif sur l’offense et ses implications; réévaluation comme changement de lecture de la situation. Étude racontée dans le manuel : souvenir d’un épisode de colère, consignes de traitement différentes, puis observation d’images; la rumination entretient une coloration négative jusque devant du matériel neutre. Ne pas fabriquer d’intensités ni de nombre de participants. Prédiction avant résultat; préciser que maintien de la colère ne signifie pas forcément comportement agressif.
+3 minutes. Manuel p. 279, relu le 2 novembre. Attendu pour l’étude : définir la rumination, la distinguer de la réévaluation et de la distraction, et expliquer sur un exemple comment elle peut entretenir la colère. Exemple acceptable : « Manolo repasse mentalement la prise du CD et prépare sa revanche; il garde l’offense présente. » Réévaluation : envisager que Mariane ignorait son besoin; distraction : consacrer quelques minutes à une activité sans rapport. Ces stratégies ne garantissent pas un effet identique chez toute personne.  Définir rumination comme retour répétitif sur l’offense et ses implications; réévaluation comme changement de lecture de la situation. Étude racontée dans le manuel : souvenir d’un épisode de colère, consignes de traitement différentes, puis observation d’images; la rumination entretient une coloration négative jusque devant du matériel neutre. Ne pas fabriquer d’intensités ni de nombre de participants. Prédiction avant résultat; préciser que maintien de la colère ne signifie pas forcément comportement agressif.
 :::
 
 ## La réévaluation dans un conflit
+
+La **réévaluation** consiste à modifier son interprétation d’une situation pour en changer l’impact émotionnel.
 
 **Fait :** Mariane a pris le CD de Manolo.
 
@@ -418,7 +456,7 @@ Après une dispute, trois façons de passer les minutes suivantes :
 - Autre possibilité : « Elle a peut-être sous-estimé les conséquences pour moi. »
 - Question à poser : « Savais-tu que j’en avais besoin aujourd’hui? »
 
-**Réévaluer l’intention oblige-t-il à accepter le geste?**
+**Vérifier l’intention reste compatible avec une limite ferme et la demande de rendre le CD.**
 
 ::: {.notes}
 3 minutes. Manuel p.279–281. Non : le CD a bien été pris et Manolo peut en réclamer le retour. Ce qui change est la certitude sur le but poursuivi par Mariane. L’autre explication est une hypothèse à vérifier, pas une vérité ni une excuse. Faire distinguer fait, conséquence sur le but et intention supposée. Conclure : poser une limite et demander réparation restent compatibles avec une interprétation moins hostile. Ce développement est fictif à partir du CD signalé dans le clip; il ne transcrit pas un dialogue de l’épisode.
@@ -516,37 +554,17 @@ Pause 1. Propositions chanson/photo dans la question ouverte de l’évènement 
 
 **Équipes de 3 ou 4 · Discussion de 10 minutes · Une personne porte-parole**
 
-Mariane a pris le CD dont Manolo a besoin pour son émission. En réaction, Manolo brise des créations de Mariane.
+Mariane a pris le CD dont Manolo a besoin pour son émission. En réaction, Manolo brise des broches de Mariane.
 
 1. Quel but est bloqué pour Manolo? Quel tort fait-il à Mariane?
-2. Expliquez deux mécanismes en citant leurs indices.
-3. Sait-on qu’elle voulait faire rater son émission? Que faudrait-il vérifier?
+2. Comment la frustration et l’interprétation des intentions de Mariane peuvent-elles contribuer à la riposte de Manolo? Appuyez chaque explication sur un détail du cas.
+3. Sait-on si Mariane voulait empêcher Manolo de réussir son émission? Que faudrait-il vérifier?
 4. Quelle réponse aurait protégé son but sans détruire les objets de Mariane?
 
 ::: {.notes}
-Prévoir environ 18 à 20 minutes : 2 à 3 de consignes, puis 10 minutes pleines de discussion active au minuteur, puis 5 à 7 de partage et débreffage. Lancer le minuteur après les consignes; ne pas soustraire le temps de présentation ou de restitution aux dix minutes actives. Aucun dépôt. Point de départ conforme à la correction de l’enseignant et au résumé de l’épisode : Mariane prend la musique et Manolo détruit ses créations en représailles. Le nom précis des objets n’est pas nécessaire : le résumé les nomme broches, mais on garde « créations » sans prétendre à une identification visuelle indépendante. Ne pas inventer un message humiliant, une course ou un échange supplémentaire comme faits de l’épisode.
-Réponses : but bloqué = disposer de sa musique pour l’émission; tort = détériorer les biens de Mariane. Frustration liée au but; agression réactive car riposte au geste de Mariane; fonction hostile si le but est de lui faire payer ou de lui faire du tort. Ne pas affirmer ce motif sans demander les indices du dialogue; instrumental serait une hypothèse si le geste visait à obtenir le retour du CD, pas une conclusion établie. La perspective néoassociationniste peut expliquer malaise et pensées d’attaque. L’intention de sabotage de Mariane n’est pas établie par le seul fait de prendre le CD. Demander ce qu’elle savait du besoin et du délai; ne pas inventer sa réponse. Le transfert d’excitation ne constitue pas une bonne réponse ici en l’absence d’une source d’activation antérieure distincte montrée ou indiquée.
-Réponses alternatives : réclamer le CD, demander son retour à temps, proposer une solution pour les deux activités, chercher une autre musique et poser une règle d’emprunt. Débreffage : expliquer une riposte ne la justifie pas; endommager ses créations ne récupère pas automatiquement la musique. Faire comparer une réaction qui vise la réparation à une réaction qui vise à faire souffrir.
-:::
-
-## L’apprentissage par observation {#bandura-video}
-
-Apprendre une conduite **en observant un modèle**.
-
-**Quels gestes les enfants reprendront-ils?**
-
-```{=html}
-<iframe width="1450" height="540" src="https://www.youtube.com/embed/Z0iWpSNu3NU?rel=0" title="Albert Bandura — images classiques de la poupée Bobo" allow="fullscreen; encrypted-media" allowfullscreen></iframe>
-```
-
-::: {.credit}
-Albert Bandura · Images classiques de Bobo, commentées en anglais · 5 min 02 · [Ouvrir la vidéo](https://www.youtube.com/watch?v=Z0iWpSNu3NU).
-:::
-
-::: {.notes}
-8 minutes, film compris. Ouvrir le bloc apprentissage et développement avec ces images; Ramdam reste l’ouverture du cours. Annoncer oralement : « On voit un modèle adulte, puis de jeunes enfants en salle d’expérimentation. Repérez un geste précis qu’ils pourraient reproduire. » Demander une prédiction avant de lancer. La narration anglaise peut être résumée oralement : l’image suffit pour repérer les gestes. Ce montage historique commenté par Bandura illustre ses recherches; ne pas attribuer chaque séquence à une seule condition ou à la seule étude de 1961. Si la vidéo ne charge pas, utiliser le lien dans un nouvel onglet; à défaut, poursuivre avec le protocole et la figure des diapositives suivantes.
-Après : faire décrire un geste distinctif repris du modèle (par exemple le maniement du maillet), plutôt que conclure seulement « les enfants frappent ». Le point développemental est que l’apprentissage par observation est déjà observable chez des enfants d’âge préscolaire. L’étude de 1961 porte sur des enfants d’environ 3 à 6 ans; elle ne date pas l’apparition de l’agression, ne montre pas que toute agression s’apprend par imitation et ne prédit pas une trajectoire individuelle de violence. Des gestes envers une poupée en laboratoire ne sont pas équivalents à une intention de blesser une personne. Les comparaisons expérimentales suivantes soutiennent l’interprétation au-delà du montage vidéo.
-Transfert : dans une école, une famille ou une équipe, que montre un adulte lorsqu’il règle un désaccord? Faire proposer une conduite observable à modeler (poser une limite sans humilier, reformuler une demande), pas une confidence personnelle. Transition : « L’enfant peut apprendre une manière de faire avant même qu’on le récompense directement. Qu’est-ce qui favorisera ensuite sa mise en pratique? »
+Prévoir environ 18 à 20 minutes : 2 à 3 de consignes, puis 10 minutes pleines de discussion active au minuteur, puis 5 à 7 de partage et débreffage. Lancer le minuteur après les consignes; ne pas soustraire le temps de présentation ou de restitution aux dix minutes actives. Aucun dépôt. Point de départ conforme à la correction de l’enseignant et au résumé de l’épisode : Mariane prend la musique et Manolo détruit ses broches en représailles. Les objets sont les « broches », selon la précision donnée sur le dialogue de Sélina. Ne pas inventer un message humiliant, une course ou un échange supplémentaire comme faits de l’épisode.
+Exemples de réponses acceptables à la question 2 : « Le CD manque alors que Manolo en a besoin pour son émission : un obstacle bloque son but, ce qui crée de la frustration. » « S’il croit que Mariane cherche à saboter son émission, cette interprétation peut amplifier sa colère et orienter sa réponse vers la vengeance. » Cette seconde réponse doit rester conditionnelle : la pensée de Manolo et l’intention de Mariane ne sont pas établies par le seul résumé. À la question 3 : « Non, prendre le CD ne démontre pas vouloir faire échouer l’émission; il faut vérifier si Mariane savait quand Manolo en avait besoin et pourquoi elle l’a pris. » Accepter une formulation différente si elle relie correctement concept et détail. Réponses : but bloqué = disposer de sa musique pour l’émission; tort = détériorer les biens de Mariane. Frustration liée au but; agression réactive car riposte au geste de Mariane; fonction hostile si le but est de lui faire payer ou de lui faire du tort. Ne pas affirmer ce motif sans demander les indices du dialogue; instrumental serait une hypothèse si le geste visait à obtenir le retour du CD, pas une conclusion établie. La perspective néoassociationniste peut expliquer malaise et pensées d’attaque. L’intention de sabotage de Mariane n’est pas établie par le seul fait de prendre le CD. Demander ce qu’elle savait du besoin et du délai; ne pas inventer sa réponse. Le transfert d’excitation ne constitue pas une bonne réponse ici en l’absence d’une source d’activation antérieure distincte montrée ou indiquée.
+Réponses alternatives : réclamer le CD, demander son retour à temps, proposer une solution pour les deux activités, chercher une autre musique et poser une règle d’emprunt. Débreffage : expliquer une riposte ne la justifie pas; endommager ses broches ne récupère pas automatiquement la musique. Faire comparer une réaction qui vise la réparation à une réaction qui vise à faire souffrir.
 :::
 
 ## L’apprentissage social
@@ -566,28 +584,42 @@ Apprendre une conduite et la manifester ne sont pas identiques.
 
 ## L’acquisition et la manifestation d’une conduite
 
+::: {.columns}
+::: {.column width="53%"}
+**Acquisition :** apprendre une conduite. **Manifestation :** la mettre en pratique.
+
 Une enfant observe une adulte humilier quelqu’un pour obtenir sa place.
 
-Le lendemain, elle peut **décrire la stratégie**, mais ne l’utilise pas.
+Elle peut ensuite **décrire la stratégie**, mais ne l’utilise pas.
 
-**N’a-t-elle rien appris?**
+**Elle a appris la stratégie sans la mettre en pratique : acquisition et manifestation sont distinctes.**
+:::
+::: {.column width="47%"}
+<div class="naruto-gif" data-gif>
+<img src="https://i.redd.it/4vqx0urkhr5d1.gif" alt="Kakashi et Sasuke exécutent et évitent des gestes dans une séquence de combat." loading="lazy">
+<canvas hidden aria-hidden="true"></canvas>
+<button type="button" aria-pressed="false">Figer le GIF</button>
+<p class="gif-credit">Naruto · <a href="https://i.redd.it/4vqx0urkhr5d1.gif" target="_blank" rel="noopener noreferrer">GIF proposé · Reddit</a></p>
+</div>
+**Le geste exécuté est visible. Son apprentissage ne l’est pas.**
+:::
+:::
 
-Savoir reproduire une conduite et décider de la manifester sont deux choses différentes.
 
 ::: {.notes}
-3 minutes. Manuel p. 282–284. Acquisition : la conduite est apprise; performance : elle est manifestée dans la situation. La description est un indice de connaissance, pas une preuve de capacité motrice parfaite ni d’usage futur. Les conséquences anticipées peuvent freiner ou favoriser la manifestation. Faire imaginer une conséquence qui inhiberait la conduite puis une réponse alternative valorisée. Au stage, l’absence d’imitation immédiate ne prouve pas qu’un modèle n’a eu aucune influence.
+3 minutes. Manuel p.282–284. Acquisition = conduite apprise; manifestation/performance = conduite produite dans une situation. Le cas de l’enfant distingue connaissance et utilisation; les conséquences attendues peuvent freiner la manifestation. Le GIF montre des gestes exécutés, pas leur acquisition. Ne pas présenter cette scène comme un entrainement ni affirmer que l’un imite l’autre; ces détails narratifs n’ont pas été vérifiés. Le contrepoint aide à comprendre pourquoi une scène de combat ne prouve pas comment les conduites ont été apprises. Faire varier les conséquences qui favoriseraient ou inhiberaient l’expression. Transfert : une personne en stage peut retenir un modèle agressif sans le reproduire immédiatement.
 :::
 
 ## Les conditions de l’apprentissage par observation
 
-**Voir un modèle ne garantit pas une imitation.**
+**Pour apprendre une conduite observée puis la reproduire, quatre conditions interviennent :**
 
 1. Porter **attention** à sa conduite.
 2. La garder en **mémoire**.
 3. Pouvoir la **reproduire**.
 4. Avoir une **motivation** à la manifester.
 
-Une personne regarde une procédure, mais oublie une étape : où se situe la difficulté?
+**Voir le modèle ne suffit donc pas.** Oublier une étape observée révèle une difficulté de mémorisation.
 
 ::: {.notes}
 3 minutes. Manuel p. 284. Réponse : rétention en mémoire dans le cas décrit; ne pas supposer un manque de volonté. Faire varier un seul détail : distraction = attention; geste trop difficile = reproduction; conséquence redoutée = motivation. Cette séquence est un outil pour préciser une difficulté, pas un diagnostic exhaustif. Transfert : montrer une manière respectueuse de résoudre un conflit, la faire rappeler puis pratiquer, et soutenir son usage.
@@ -607,6 +639,24 @@ Après une frustration légère commune, les enfants jouent dans une autre pièc
 
 ::: {.notes}
 6 minutes. Manuel p. 283–284; Bandura, Ross et Ross, 1961. Personnes participantes : 72 enfants de maternelle, pas des adultes novices; adultes collaborateurs jouent les modèles, pas des enfants choisis pour leur agressivité. Modèle agressif : gestes distinctifs envers la poupée; modèle calme : jeu de construction. Au test : jouets disponibles, observation des conduites pendant vingt minutes. Les jouets attrayants sont retirés juste avant pour créer une légère frustration commune : elle ne départage donc pas les trois conditions. La personne qui conduit la séance demeure discrète dans la pièce; « sans le modèle » ne signifie pas « sans aucun adulte ». Recueillir une prédiction avant résultats; ne pas réaliser des coups sur une personne de la classe. Mise en scène : trois rôles volontaires lisent observation → transition → codage; aucun enfant ni agression réelle, aucune donnée issue des rôles. Réponse attendue : surtout reproduction des gestes distinctifs après modèle agressif.
+:::
+
+## L’apprentissage par observation {#bandura-video}
+
+**Repérez un geste précis repris du modèle par les enfants.**
+
+```{=html}
+<iframe width="1450" height="540" src="https://www.youtube.com/embed/Z0iWpSNu3NU?rel=0" title="Albert Bandura — images classiques de la poupée Bobo" allow="fullscreen; encrypted-media" allowfullscreen></iframe>
+```
+
+::: {.credit}
+Albert Bandura · Images classiques de Bobo, commentées en anglais · 5 min 02 · [Ouvrir la vidéo](https://www.youtube.com/watch?v=Z0iWpSNu3NU).
+:::
+
+::: {.notes}
+8 minutes, film compris. Présenter ces images immédiatement après le protocole de Bobo et la prédiction; Ramdam reste l’ouverture du cours. Annoncer oralement : « On voit un modèle adulte, puis de jeunes enfants en salle d’expérimentation. Repérez un geste précis qu’ils pourraient reproduire. » Demander une prédiction avant de lancer. La narration anglaise peut être résumée oralement : l’image suffit pour repérer les gestes. Ce montage historique commenté par Bandura illustre ses recherches; ne pas attribuer chaque séquence à une seule condition ou à la seule étude de 1961. Si la vidéo ne charge pas, utiliser le lien dans un nouvel onglet; à défaut, rappeler le protocole précédent et poursuivre avec la figure suivante.
+Après : faire décrire un geste distinctif repris du modèle (par exemple le maniement du maillet), plutôt que conclure seulement « les enfants frappent ». Le point développemental est que l’apprentissage par observation est déjà observable chez des enfants d’âge préscolaire. L’étude de 1961 porte sur des enfants d’environ 3 à 6 ans; elle ne date pas l’apparition de l’agression, ne montre pas que toute agression s’apprend par imitation et ne prédit pas une trajectoire individuelle de violence. Des gestes envers une poupée en laboratoire ne sont pas équivalents à une intention de blesser une personne. Les comparaisons expérimentales suivantes soutiennent l’interprétation au-delà du montage vidéo.
+Transfert : dans une école, une famille ou une équipe, que montre un adulte lorsqu’il règle un désaccord? Faire proposer une conduite observable à modeler (poser une limite sans humilier, reformuler une demande), pas une confidence personnelle. Transition : « L’enfant peut apprendre une manière de faire avant même qu’on le récompense directement. Qu’est-ce qui favorisera ensuite sa mise en pratique? »
 :::
 
 ## L’imitation de comportements agressifs
@@ -645,7 +695,7 @@ Le **désengagement moral** permet de mettre à distance les règles qui freiner
 | « Tout le monde l’a fait. » | Assumer sa responsabilité |
 | « Elle l’avait cherché. » | Examiner son propre geste |
 
-Qu’est-ce qui changerait si on décrivait précisément l’action et ses conséquences?
+Décrire précisément le geste et le tort rend plus difficile sa minimisation et rappelle la responsabilité de son auteur.
 
 ::: {.notes}
 4 minutes. Manuel p. 284 : justification morale, comparaison avantageuse, déplacement/diffusion de responsabilité, distorsion/minimisation des conséquences, déshumanisation et blâme de la victime. Ces trois exemples ne constituent pas toute la typologie. Réponses : « Trois personnes ont partagé le message privé; la personne visée a été exclue », plutôt que « une blague a circulé ». Ne pas évaluer un diagnostic moral de la personne; identifier le mécanisme discursif. Retour à Ramdam : minimiser en « taquinerie » masque des actes, mais ne suffit pas à conclure que Fabrice, qui minimise ce qu’il subit, est auteur d’un désengagement moral destiné à agresser. Distinguer la parole de la personne visée de la justification de l’auteur du tort.
@@ -653,7 +703,7 @@ Qu’est-ce qui changerait si on décrivait précisément l’action et ses cons
 
 ## Les témoins et l’escalade du conflit
 
-Après la prise du CD, Manolo s’apprête à briser une création de Mariane.
+Après la prise du CD, Manolo s’apprête à briser une broche de Mariane.
 
 **Variante fictive :** les autres assistent à la scène.
 
@@ -663,7 +713,7 @@ Après la prise du CD, Manolo s’apprête à briser une création de Mariane.
 | Encourager la riposte | Une détérioration présentée comme méritée |
 | « On peut récupérer ton CD sans casser ses affaires. » | Une autre réponse, soutenue par le groupe |
 
-**Qu’est-ce que les témoins ajoutent à la situation?**
+**Les témoins peuvent encourager la riposte ou soutenir une solution sans détérioration.**
 
 ::: {.notes}
 3 à 4 minutes. Exemple fictif, construit à partir du cas Mariane/Manolo. Liens admissibles : apprentissage social et conséquences p.282–284, désengagement moral p.284, diffusion et cyberintimidation p.295–296. Inspiration de West 52–53, sans reprendre son étude non vérifiée. Les approbations peuvent donner une récompense sociale attendue; le relais élargit l’atteinte; une proposition concrète soutient une conduite concurrente. Ne pas dire que toute présence d’un groupe amplifie automatiquement l’agression. Dans la première ligne, l’approbation précède le bris : parler d’une conséquence anticipée, pas d’un renforcement déjà démontré par des répétitions. Après le geste, des approbations répétées pourraient contribuer au maintien. Réponse attendue : le conflit n’est pas seulement un face-à-face; les réactions du groupe changent les conséquences prévues. Cette présence des témoins et leurs répliques sont inventées pour comparer les mécanismes, pas attribuées au clip. Faire proposer une phrase de témoin qui protège la relation sans encourager la détérioration.
@@ -691,7 +741,7 @@ Le soulagement immédiat peut entretenir une difficulté future.
 | Un adulte demande de ranger; l’enfant crie. | L’adulte retire sa demande. |
 | L’adulte renonce à la demande. | Les cris cessent. |
 
-**Quel comportement pourrait devenir plus fréquent chez chacun?**
+**Les cris de l’enfant et le retrait de la demande par l’adulte peuvent tous deux devenir plus fréquents.**
 
 ::: {.notes}
 4 minutes. Manuel p. 285–286. Cris renforcés par retrait de la demande; renoncement de l’adulte renforcé par fin des cris. Définir à nouveau renforcement négatif : retrait d’un élément aversif qui augmente une conduite. Négatif ne signifie pas mauvais; arrêt des cris ne prouve pas apprentissage d’une résolution. Faire rejouer oralement à volume ordinaire, puis proposer une interruption qui maintient une limite sans humiliation et valorise une demande calme. Pas de recette parentale universelle ni de blâme; ressources et contexte comptent.
@@ -699,17 +749,17 @@ Le soulagement immédiat peut entretenir une difficulté future.
 
 ## Le renforcement d’une réponse de remplacement
 
-**Même besoin : récupérer le CD pour préparer l’émission.**
+**Variante fictive : récupérer le CD pour préparer l’émission.**
 
-- Manolo insulte Mariane → les autres s’occupent aussitôt de lui.
+- Manolo insulte Mariane → ses amis l’écoutent pour l’apaiser et l’aident à récupérer son CD.
 - Manolo formule une demande précise → personne ne répond.
 
-**Quelle manière de demander de l’aide risque de se maintenir?**
+**Si seules les insultes obtiennent attention et aide, elles risquent de se maintenir.**
 
-Que changer pour rendre une demande respectueuse efficace?
+Écouter aussi les demandes calmes et y répondre concrètement, tout en posant une limite aux insultes.
 
 ::: {.notes}
-3 minutes. Manuel p.282–286 : conséquences des conduites et coercition; application professionnelle. Réponse : si elle produit régulièrement l’attention ou l’aide attendue, l’insulte peut être maintenue. Une seule scène permet de proposer ce mécanisme, pas de prouver un apprentissage. La réponse de remplacement doit aussi donner accès à une aide utile : répondre à une demande claire, reconnaitre la démarche respectueuse et répartir une action concrète. Ne pas faire de l’ignorance systématique des insultes une règle : poser une limite, protéger les personnes et orienter vers une demande acceptable. Exemple : « Je peux t’aider à récupérer le CD. Dis-moi quand tu en as besoin; je ne poursuis pas la discussion avec des insultes. » Distinguer conséquence immédiate satisfaisante et solution durable. Inspiration Sullivan, renforcement positif/négatif, et West 55; aucun protocole nouveau ni prescription clinique.
+3 minutes. Manuel p.282–286 : conséquences des conduites et coercition; application professionnelle. Les amis cherchent à apaiser Manolo et à comprendre le problème, pas à approuver son insulte. Toutefois, si attention et aide suivent régulièrement les insultes, tandis que les demandes calmes restent sans réponse, cette différence de conséquences peut favoriser les insultes. Le renforcement se définit par son effet sur la conduite future, pas par la bonne intention des amis. Réponse acceptable : « Écouter aussi sa demande calme et l’aider à récupérer le CD, tout en posant une limite aux insultes. » Réponse : si elle produit régulièrement l’attention ou l’aide attendue, l’insulte peut être maintenue. Une seule scène permet de proposer ce mécanisme, pas de prouver un apprentissage. La réponse de remplacement doit aussi donner accès à une aide utile : répondre à une demande claire, reconnaitre la démarche respectueuse et répartir une action concrète. Ne pas faire de l’ignorance systématique des insultes une règle : poser une limite, protéger les personnes et orienter vers une demande acceptable. Exemple : « Je peux t’aider à récupérer le CD. Dis-moi quand tu en as besoin; je ne poursuis pas la discussion avec des insultes. » Distinguer conséquence immédiate satisfaisante et solution durable. Inspiration Sullivan, renforcement positif/négatif, et West 55; aucun protocole nouveau ni prescription clinique.
 :::
 
 ## Le traitement de l’information sociale
@@ -736,7 +786,7 @@ Mariane a pris le CD de Manolo.
 
 **Lecture B :** « Elle n’a peut-être pas réalisé que j’en avais besoin maintenant. »
 
-**Le geste est connu. Son intention l’est-elle autant?**
+**La prise du CD est connue; l’intention de saboter l’émission reste à vérifier.**
 
 ::: {.notes}
 3 minutes. Manuel p.286–288. Le fait de prendre le CD est donné; l’ambiguïté porte sur l’intention, pas sur l’existence du geste. A attribue un but hostile; B formule une possibilité à vérifier. Demander si elle connaissait l’horaire de l’émission, ce qu’elle prévoyait pour le retour et comment le récupérer. Ni lecture ne permet seule de lire l’esprit. Biais d’attribution hostile désigne une tendance, pas un diagnostic à partir d’un seul épisode. Une explication moins hostile ne retire pas le droit de poser une limite. Prolongement fictif, pas transcription du clip.
@@ -744,7 +794,7 @@ Mariane a pris le CD de Manolo.
 
 ## Le traitement de l’information : où intervenir?
 
-**CD pris → « Elle sabote mon émission » → vouloir lui faire payer → briser ses créations**
+**CD pris → « Elle sabote mon émission » → vouloir lui faire payer → briser ses broches**
 
 Trois points d’intervention :
 
@@ -752,7 +802,7 @@ Trois points d’intervention :
 - **But :** clarifier plutôt que punir.
 - **Réponse :** poser une question sans attaquer.
 
-**Changer un maillon oblige-t-il à nier ce qu’on ressent?**
+**On peut reconnaitre sa colère tout en vérifiant son interprétation et en choisissant une autre réponse.**
 
 ::: {.notes}
 3 minutes. Manuel p. 286–288; schéma simplifié, ne remplace pas les étapes complètes. Réponse : non, on peut être blessé et choisir une autre réponse. Replacer encodage, interprétation, but, réponses possibles, sélection et action. Faire formuler deux phrases différentes et leurs conséquences anticipées. Exemple : « Savais-tu que j’avais besoin du CD pour mon émission? » La prise de recul agit entre interprétation et comportement; elle ne garantit pas une bonne réponse de l’autre.
@@ -774,11 +824,11 @@ Pause 2 après le traitement de l’information. Mêmes réglages de question ou
 
 ## Le développement des conduites agressives
 
-Les suivis longitudinaux rapportés dans le manuel montrent que les agressions physiques apparaissent tôt et diminuent généralement après la petite enfance.
+Les suivis longitudinaux montrent que les agressions physiques apparaissent tôt et diminuent généralement après la petite enfance.
 
 La socialisation aide aussi à apprendre **à ne pas frapper** et à remplacer le geste par d’autres réponses.
 
-Comment ce résultat nuance-t-il l’idée que toute agression physique doit d’abord être apprise par imitation?
+L’imitation explique certaines conduites, mais **le premier geste agressif ne nécessite pas toujours un modèle.**
 
 ::: {.notes}
 4 minutes. Manuel p. 288–289. Études répétant les mesures au fil du développement : profil général, pas pourcentage à retenir. Réponse : l’imitation explique l’acquisition de certaines formes ou leur maintien; elle n’implique pas que le premier geste physique exige un modèle. Apprendre le langage, la négociation et la régulation peut réduire les gestes physiques. Une minorité garde des niveaux élevés; pas une trajectoire fixée à vie. Ne pas opposer socialisation et biologie comme deux explications exclusives.
@@ -803,7 +853,7 @@ Deux enfants frappent à l’âge préscolaire.
 - L’un apprend progressivement à demander de l’aide.
 - L’autre continue à frapper dans plusieurs situations.
 
-**Une observation à quatre ans permet-elle de prédire leur parcours?**
+**Une observation isolée ne décrit pas un parcours : il faut suivre l’évolution et les contextes.**
 
 ::: {.notes}
 3 minutes. Manuel p. 288–291. Non : il faut observer l’évolution, les contextes, les relations et les réponses disponibles; ne pas diagnostiquer sur une scène. Expliquer ce qu’apporte un suivi longitudinal : mesures répétées chez les mêmes personnes. Les trajectoires sont des descriptions d’évolution, pas des destins. Transfert en éducation : suivre les changements et les conditions qui les accompagnent plutôt qu’étiqueter un enfant « agressif pour toujours ».
@@ -829,7 +879,7 @@ Cela aide à étudier **les différences entre personnes**.
 
 Cela ne dit pas quelle « partie » du geste d’un enfant serait génétique.
 
-**Une contribution génétique rend-elle l’intervention inutile?**
+**Une contribution génétique n’exclut ni l’apprentissage ni les effets d’une intervention.**
 
 ::: {.notes}
 3 minutes. Manuel p. 289–291, encadré 9.2 relu le 2 novembre. Non : héritabilité n’est ni immuabilité ni pourcentage du comportement d’un individu. La comparaison monozygotes/dizygotes repose sur des hypothèses et la qualité des mesures. Des environnements peuvent aussi différer pour deux enfants d’une même famille. Ne pas donner une valeur universelle; contexte et population importent. Transfert : une prédisposition peut guider un soutien sans enfermer la personne dans un destin.
@@ -840,7 +890,7 @@ Cela ne dit pas quelle « partie » du geste d’un enfant serait génétique.
 | Perspective historique | Proposition centrale |
 |---|---|
 | Psychanalytique | Une pulsion agressive cherche à s’exprimer. |
-| Éthologique | Une tendance innée à l’agression intraspécifique aurait des fonctions adaptatives. |
+| Éthologique | Une tendance innée à l’agression **intraspécifique (entre membres d’une même espèce)** aurait des fonctions adaptatives. |
 
 Le manuel souligne les difficultés à expliquer la diversité des conduites humaines par une énergie qui doit nécessairement se décharger.
 
@@ -850,14 +900,26 @@ Le manuel souligne les difficultés à expliquer la diversité des conduites hum
 
 ## La catharsis : l’idée du réservoir
 
+::: {.columns}
+::: {.column width="53%"}
+La **catharsis** désigne la réduction supposée de la tendance agressive par son expression.
+
 **Intuition :** « Si je me défoule agressivement, je viderai ma colère. »
 
-Cette image suppose une pression qui doit sortir.
-
-**Et si répéter l’attaque entretenait plutôt l’offense et les réponses agressives?**
+**Répéter une attaque peut entretenir l’offense et les réponses agressives plutôt que les réduire.**
+:::
+::: {.column width="47%"}
+<div class="naruto-gif" data-gif>
+<img src="https://i.makeagif.com/media/3-16-2023/8xuGsY.gif" alt="Sakura secoue Naruto en le tenant par son vêtement, dans une scène caricaturale de colère." loading="lazy">
+<canvas hidden aria-hidden="true"></canvas>
+<button type="button" aria-pressed="false">Figer le GIF</button>
+<p class="gif-credit">Naruto · <a href="https://i.makeagif.com/media/3-16-2023/8xuGsY.gif" target="_blank" rel="noopener noreferrer">GIF proposé · MakeaGIF</a></p>
+</div>
+:::
+:::
 
 ::: {.notes}
-3 minutes. Manuel p. 276–279. Expliquer le modèle hydraulique comme intuition théorique, pas mécanisme biologique établi. La catharsis agressive n’est pas une nécessité démontrée. Distinguer parler de son émotion et répéter une conduite agressive. Faire proposer ce qui pourrait être renforcé par le défoulement : répétition du scénario de riposte, attention à l’offense. Ne pas demander une démonstration agressive ou de frapper un objet.
+3 minutes. Manuel p. 276–279. Le GIF caricatural illustre l’idée de se défouler sur autrui, pas une preuve de catharsis : la boucle ne montre pas que Sakura serait ensuite calmée. Dire directement : « Elle exprime sa colère par une attaque; cela ne démontre pas que l’attaque la soulage durablement. » Expliquer le modèle hydraulique comme intuition théorique, pas mécanisme biologique établi. La catharsis agressive n’est pas une nécessité démontrée. Distinguer parler de son émotion et répéter une conduite agressive. Faire proposer ce qui pourrait être renforcé par le défoulement : répétition du scénario de riposte, attention à l’offense. Ne pas demander une démonstration agressive ou de frapper un objet.
 :::
 
 ## Exprimer une émotion sans entretenir l’attaque
@@ -868,7 +930,7 @@ Après un conflit, Manolo peut :
 - décrire ce qui l’a blessé et sa demande;
 - prendre une pause, puis chercher une solution.
 
-**Qu’est-ce qui entretient l’offense? Qu’est-ce qui prépare une action utile?**
+**Préparer des insultes entretient l’attaque; formuler sa demande prépare une solution.**
 
 ::: {.notes}
 3 minutes. Manuel p. 279 et application aux distinctions p. 276. Préparer des insultes répète l’attaque et peut entretenir la rumination. Décrire une émotion n’est pas une agression par définition; une pause est utile si elle permet de revenir à un but concret. Ne pas affirmer que toute activité physique calme forcément ou que verbaliser suffit. Réponse transférable : « Je suis contrarié parce que mon travail a été abimé; voici ce dont j’ai besoin. »
@@ -910,7 +972,7 @@ Dans les expériences rapportées au manuel, le groupe exposé au jeu violent ch
 
 **Jeu attribué → choix d’une conséquence pour autrui**
 
-Pourquoi ce résultat renseigne-t-il sur une conduite agressive, plutôt que seulement sur la colère ressentie?
+Le choix d’un bruit désagréable destiné à autrui est **une conduite mesurée**, plutôt qu’une déclaration de colère.
 
 ::: {.notes}
 3 minutes. Manuel p.291–292; résultat général rapporté par le chapitre, pas synthèse actualisée de tous les jeux vidéo. Attendu : le choix impose une conséquence désagréable à autrui, tandis qu’un questionnaire de colère mesure une émotion déclarée. Faire rappeler ce qui varie et ce qui est mesuré avant de révéler le résultat; ne pas laisser le groupe confondre durée du jeu et durée du bruit. Taylor joue ici le rôle de mesure, alors que dans mon préprint l’intervention portait sur la bienveillance : même famille de mesure, manipulation différente. Ne pas convertir le résultat en violence grave ni en destin individuel. Structure inspirée de Blais 8–9; la figure ou le libellé protégé du cours modèle ne sont pas copiés. Transfert : quand un article annonce « plus d’agression », demander quelle conduite a été observée.
@@ -935,7 +997,7 @@ On mesure l’exposition à la violence télévisée pendant l’enfance, puis l
 | Que se passe-t-il après une exposition attribuée? | Comment exposition et conduites évoluent-elles? |
 | Contrôle plus direct de la comparaison | Observation dans le temps |
 
-**Pourquoi les deux approches sont-elles utiles?**
+**L’expérience compare des expositions attribuées; le suivi décrit l’évolution dans le temps.**
 
 ::: {.notes}
 3 minutes. Manuel p. 291–294. Faire expliquer un atout de chaque méthode en termes concrets. Expérience : comparaison de conditions attribuées, souvent comportement immédiat dans un contexte organisé. Longitudinal : ordre temporel et évolution, mais facteurs non attribués. Ni une expérience unique ni une association unique ne répond à toutes les questions. Débreffage : comparer les opérations et les mesures plutôt que classer une méthode comme toujours supérieure.
@@ -952,7 +1014,7 @@ Un contenu peut :
 **Scénario A :** l’humiliation donne du prestige, sans conséquence visible.  
 **Scénario B :** la même action montre le tort causé et une autre façon d’obtenir de l’aide.
 
-Qu’apprendrait une personne de chaque scénario?
+Un scénario peut enseigner des moyens d’agresser et leurs bénéfices attendus; un autre peut montrer des réponses de remplacement.
 
 ::: {.notes}
 5 minutes. Manuel p. 292–295. Script : représentation d’une séquence attendue de conduite dans une situation. A : humiliation présentée comme efficace/acceptable, conséquences réduites; B : cout et alternative rendus visibles. Ce sont mécanismes possibles; ne pas annoncer qu’un visionnement transforme chaque personne. Préciser rôle des conséquences, justification, identification et réalités du contexte. Les modèles observés peuvent aussi être non agressifs. Reprendre Ramdam : le récit ne montre pas seulement une menace, il conteste la minimisation; choisir un extrait avec violence n’a donc pas une fonction éducative unique déterminée par sa présence. Faire justifier un détail de mise en scène plutôt que voter « télévision bonne ou mauvaise ».
@@ -969,7 +1031,7 @@ Qu’apprendrait une personne de chaque scénario?
 
 Deux internautes s’insultent. Une rencontre change leur manière de se répondre.
 
-**Qu’est-ce que l’écran peut nous faire perdre de vue?**
+**L’attention portée à la dispute peut faire perdre de vue la personne visée et les conséquences pour elle.**
 :::
 :::
 
@@ -987,7 +1049,7 @@ La **cyberintimidation** est une forme d’intimidation utilisant les médias nu
 
 Une rumeur peut circuler au-delà du groupe initial, être relayée et réapparaitre.
 
-Avant de partager un message humiliant : **qu’est-ce que mon geste ajoute à sa diffusion et à son efficacité?**
+**Partager un message humiliant élargit son public, prolonge sa circulation et peut amplifier le tort causé à la personne visée.**
 
 ::: {.notes}
 3 minutes. Manuel p. 295–296; glossaire à vérifier pour l’étiquette exacte si nécessaire. Identifier les actions : créer, relayer, approuver, contester; pas toutes de même nature. Diffusion de responsabilité : « je n’ai fait que transférer ». Application future : ne pas rediffuser pour dénoncer en exposant davantage la personne; conserver les éléments utiles par les voies appropriées. Si une situation réelle inquiète, parler à une personne de confiance ou aux services aux personnes étudiantes; consulter les ressources institutionnelles de soutien. Pas de confidences en plénière. L’encadré radicalisation appartient à la lecture obligatoire, mais n’est pas développé oralement ici.
@@ -1001,10 +1063,10 @@ Avant de partager un message humiliant : **qu’est-ce que mon geste ajoute à s
 
 Apprentissage, interprétation et médias.
 
-[Reprendre le cours après la ronde](#transfert-final)
+[Reprendre le cours après la ronde](#evaluations-fin)
 
 ::: {.notes}
-8 à 10 minutes. Quatre questions suivantes; conserver la prédiction individuelle puis débreffer. Lien vers le transfert final, après les archives et après la pause 2 déjà prise. Aucun quiz évalué ici.
+8 à 10 minutes. Quatre questions suivantes; conserver la prédiction individuelle puis débreffer. Après le débreffage, rejoindre directement le rappel des évaluations, sans parcourir les questions archivées. La pause 2 a déjà eu lieu. Aucun quiz évalué ici.
 :::
 
 ## L’apprentissage et le renforcement — application
@@ -1065,24 +1127,7 @@ D. Une personnalité agressive permanente.
 C. On observe le choix d’intensité et de durée du bruit destiné à l’adversaire dans la tâche de Taylor. Le jeu vidéo constitue la première situation attribuée; Taylor est une autre tâche, administrée ensuite pour mesurer un comportement. Le bruit n’est donc pas un son choisi à l’intérieur du jeu vidéo. On ne mesure pas directement les disputes familiales, la criminalité ou une personnalité immuable. Manuel p.291–294; lien Taylor.
 :::
 
-## L’agression : agir sur une séquence {#transfert-final}
-
-Reprenez le CD de Manolo, pris par Mariane.
-
-**À quel moment agir?**
-
-- Vérifier les indices et l’intention prêtée à Mariane.
-- Laisser diminuer l’activation avant de répondre.
-- Chercher une solution au but bloqué.
-- Soutenir une réponse respectueuse dans le groupe.
-
-**Choisissez un geste concret applicable à une équipe de stage.**
-
-::: {.notes}
-3 minutes. Réponses acceptables : demander si elle connaissait le besoin, organiser le retour du CD, trouver une autre musique, refuser humiliation sans attaquer, donner attention à une demande calme. Lier à mécanisme : attribution, activation, frustration, renforcement/modèle. Faire comparer avec la première interprétation de la séance : qu’est-ce qu’on sait maintenant qu’on ne voyait pas? Ne pas présenter ces pistes comme un traitement ni faire porter la responsabilité à la personne ciblée. Si danger ou intimidation réelle : priorité à la sécurité et à l’aide. Aucune réponse personnelle exigée.
-:::
-
-## Les prochaines évaluations
+## Les prochaines évaluations {#evaluations-fin}
 
 **Quiz 7 · 17 novembre · 1,25 %**
 
@@ -1110,7 +1155,7 @@ Note : Puisque la plupart des concepts vus dans le cours sont aussi dans le manu
 
 Une remarque publique peut être perçue comme une maladresse ou comme un affront exigeant une riposte.
 
-**Quelles normes rendent la riposte attendue?**
+**Lorsque la réputation dépend de la riposte, ne pas répondre peut être perçu comme une perte de statut.**
 
 ::: {.notes}
 Réserve, 3 minutes. Manuel p. 284–285, encadré 9.1. Culture de l’honneur : normes de réputation et réponses à l’offense; éviter les portraits uniformes des personnes d’une origine. Chercher la norme et l’interprétation, pas une essence culturelle. Ne pas utiliser cette réserve comme preuve d’enseignement si elle n’est pas présentée.
@@ -1123,7 +1168,7 @@ Après une insulte, les amis de Simon disent :
 - « Tu dois lui rendre la pareille. »
 - Ou : « On peut te soutenir sans que tu l’attaques. »
 
-**Comment le groupe peut-il augmenter ou réduire le cout de ne pas riposter?**
+**Se moquer du refus de riposter augmente son cout social; soutenir une limite calme le réduit.**
 
 ::: {.notes}
 Réserve, 3 minutes. Application aux normes, honneur et apprentissage social, manuel p. 282–285. Dans le premier cas, la non-riposte menace la réputation; dans le second, l’appui offre une autre façon de préserver sa place. Expliquer le mécanisme de conséquence sociale attendue. Ne pas attribuer le premier scénario à une culture entière.
@@ -1135,7 +1180,7 @@ Un même contexte difficile n’a pas nécessairement le même effet sur tout le
 
 Une **interaction** signifie que l’association entre un facteur et une conduite varie selon un autre facteur.
 
-**Cela permet-il de prédire avec certitude le geste d’une personne?**
+**Une interaction entre prédispositions et contexte ne permet pas de prédire avec certitude un geste individuel.**
 
 ::: {.notes}
 Réserve, 3 minutes. Manuel p. 289–291. Non. Distinguer interaction et simple addition de contributions. L’exemple MAOA et maltraitance est présenté dans le manuel avec des incertitudes de réplication; ne pas enseigner un gène de la violence ni un test prédictif individuel. Rester au principe si le temps manque.

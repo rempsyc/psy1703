@@ -1,0 +1,14 @@
+<script>
+(()=>{
+ function setup(){
+  document.querySelectorAll('[data-gif]').forEach(box=>{
+   const img=box.querySelector('img'), canvas=box.querySelector('canvas'), button=box.querySelector('button');
+   let frozen=false;
+   function freeze(){if(!img.complete||!img.naturalWidth)return false;canvas.width=img.naturalWidth;canvas.height=img.naturalHeight;canvas.getContext('2d').drawImage(img,0,0);canvas.hidden=false;img.hidden=true;frozen=true;button.textContent='Animer le GIF';button.setAttribute('aria-pressed','true');return true;}
+   button.addEventListener('click',()=>{if(frozen){canvas.hidden=true;img.hidden=false;frozen=false;button.textContent='Figer le GIF';button.setAttribute('aria-pressed','false');}else freeze();});
+   if(matchMedia('(prefers-reduced-motion: reduce)').matches){if(img.complete)freeze();else img.addEventListener('load',freeze,{once:true});}
+  });
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',setup);else setup();
+})();
+</script>
