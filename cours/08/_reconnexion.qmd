@@ -1,0 +1,12 @@
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou ouvrez [Wooclap](https://app.wooclap.com/IFDJTAT).
+
+**Code de l’évènement : IFDJTAT**
+
+Gardez l’onglet ouvert pour les rondes et les propositions de pause.
+:::
+::: {.column width="42%"}
+[![](assets/wooclap-activites-qr.png){fig-alt="QR Wooclap IFDJTAT" width="420"}](https://app.wooclap.com/IFDJTAT)
+:::
+:::

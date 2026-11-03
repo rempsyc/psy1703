@@ -1,0 +1,12 @@
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou ouvrez [Wooclap](https://app.wooclap.com/JIESIIR).
+
+**Code de l’évènement : JIESIIR**
+
+Utilisez votre identifiant UQAR selon les consignes.
+:::
+::: {.column width="42%"}
+[![](assets/wooclap-quiz-qr.png){fig-alt="QR Wooclap JIESIIR" width="420"}](https://app.wooclap.com/JIESIIR)
+:::
+:::
