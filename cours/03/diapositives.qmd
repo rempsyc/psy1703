@@ -27,6 +27,15 @@ format:
     footer: "PSY1703 — Psychologie sociale · Automne 2026"
     embed-resources: false
     auto-play-media: false
+pagetitle: "Cours 3 — Le soi"
+description: "Diapositives — Cours 3 — Le soi · PSY1703, psychologie sociale · UQAR."
+open-graph:
+  title: "Cours 3 — Le soi"
+  description: "Diapositives — Cours 3 — Le soi · PSY1703, psychologie sociale · UQAR."
+  site-name: "PSY1703 — Psychologie sociale"
+twitter-card:
+  title: "Cours 3 — Le soi"
+  description: "Diapositives — Cours 3 — Le soi · PSY1703, psychologie sociale · UQAR."
 ---
 
 

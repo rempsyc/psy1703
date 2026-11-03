@@ -37,6 +37,20 @@ format:
     overview: true
     footer: "PSY1703 — Psychologie sociale · Automne 2026"
     embed-resources: false
+pagetitle: "Cours 7 — Les relations interpersonnelles"
+description: "Diapositives — Cours 7 — Les relations interpersonnelles · PSY1703, psychologie sociale · UQAR."
+open-graph:
+  title: "Cours 7 — Les relations interpersonnelles"
+  description: "Diapositives — Cours 7 — Les relations interpersonnelles · PSY1703, psychologie sociale · UQAR."
+  site-name: "PSY1703 — Psychologie sociale"
+  image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Couple_kissing_in_Cologne%2C_Germany-2April2011.jpg"
+  image-alt: "Un couple s’embrasse dans une rue de Cologne."
+twitter-card:
+  title: "Cours 7 — Les relations interpersonnelles"
+  description: "Diapositives — Cours 7 — Les relations interpersonnelles · PSY1703, psychologie sociale · UQAR."
+  image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Couple_kissing_in_Cologne%2C_Germany-2April2011.jpg"
+  image-alt: "Un couple s’embrasse dans une rue de Cologne."
+  card-style: summary_large_image
 ---
 
 ## Quiz de lecture 5 — 1,25 %

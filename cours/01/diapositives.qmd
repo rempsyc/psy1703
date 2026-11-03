@@ -26,6 +26,15 @@ format:
     overview: true
     footer: "PSY1703 — Psychologie sociale · Automne 2026"
     embed-resources: false
+pagetitle: "Cours 1 — Voir le social autrement"
+description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
+open-graph:
+  title: "Cours 1 — Voir le social autrement"
+  description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
+  site-name: "PSY1703 — Psychologie sociale"
+twitter-card:
+  title: "Cours 1 — Voir le social autrement"
+  description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
 ---
 
 ## Bienvenue à PSY1703

@@ -1,6 +1,15 @@
 ---
 title: "Cours 2 — Méthodes de recherche"
 subtitle: "Étudier les conduites sociales"
+pagetitle: "Cours 2 — Méthodes de recherche"
+description: "Ressources et diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
+open-graph:
+  title: "Cours 2 — Méthodes de recherche"
+  description: "Ressources et diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
+  site-name: "PSY1703 — Psychologie sociale"
+twitter-card:
+  title: "Cours 2 — Méthodes de recherche"
+  description: "Ressources et diapositives — Cours 2 — Méthodes de recherche · PSY1703, psychologie sociale · UQAR."
 ---
 
 **Mardi 8 septembre 2026**<br>

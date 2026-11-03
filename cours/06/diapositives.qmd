@@ -26,6 +26,15 @@ format:
     overview: true
     footer: "PSY1703 — Psychologie sociale · Automne 2026"
     embed-resources: false
+pagetitle: "Cours 6 — Les attitudes"
+description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
+open-graph:
+  title: "Cours 6 — Les attitudes"
+  description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
+  site-name: "PSY1703 — Psychologie sociale"
+twitter-card:
+  title: "Cours 6 — Les attitudes"
+  description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
 ---
 
 ## Quiz de lecture 4 — 1,25 %

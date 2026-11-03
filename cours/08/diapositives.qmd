@@ -37,6 +37,20 @@ format:
     overview: true
     footer: "PSY1703 — Psychologie sociale · Automne 2026"
     embed-resources: false
+pagetitle: "Cours 8 — L’agression"
+description: "Diapositives — Cours 8 — L’agression · PSY1703, psychologie sociale · UQAR."
+open-graph:
+  title: "Cours 8 — L’agression"
+  description: "Diapositives — Cours 8 — L’agression · PSY1703, psychologie sociale · UQAR."
+  site-name: "PSY1703 — Psychologie sociale"
+  image: "https://oeilregional.com/wp-content/uploads/2026/05/DB-SPO-st-cyr-casino-jpeg-720x1080.jpg"
+  image-alt: "Jany St-Cyr lors de son premier combat contre Angel Blackwell."
+twitter-card:
+  title: "Cours 8 — L’agression"
+  description: "Diapositives — Cours 8 — L’agression · PSY1703, psychologie sociale · UQAR."
+  image: "https://oeilregional.com/wp-content/uploads/2026/05/DB-SPO-st-cyr-casino-jpeg-720x1080.jpg"
+  image-alt: "Jany St-Cyr lors de son premier combat contre Angel Blackwell."
+  card-style: summary_large_image
 ---
 
 ## Quiz de lecture 6 — 1,25 %

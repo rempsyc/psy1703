@@ -1,6 +1,15 @@
 ---
 title: "Cours 6 — Les attitudes"
 subtitle: "Mesure des attitudes, dissonance et persuasion"
+pagetitle: "Cours 6 — Les attitudes"
+description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
+open-graph:
+  title: "Cours 6 — Les attitudes"
+  description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
+  site-name: "PSY1703 — Psychologie sociale"
+twitter-card:
+  title: "Cours 6 — Les attitudes"
+  description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
 ---
 
 **13 octobre 2026** · Lecture : chapitre 6 du manuel de Vallerand.
