@@ -251,7 +251,7 @@ Les repères sur les relations portent sur le chapitre 8 et les entrées pertine
 
 - Agression; assertion; distinction entre comportement, émotion, intention et conséquence.
 - Agression hostile et instrumentale; agression défensive, réactive et proactive.
-- Agression directe et agression indirecte, sociale ou relationnelle.
+- Agression directe et agression indirecte, sociale ou relationnelle; distinguer le but, le déclencheur et la forme d’une conduite.
 - Tâche de Taylor (variante CRTT) : principe, choix mesurés, rôle de la provocation et distinction avec la performance de réaction — contenu prévu au cours 8.
 - Distinguer la simulation pédagogique et les conditions d’une mesure comportementale de recherche.
 - Étude de bienveillance présentée au cours 8 : interventions comparées, résultat général sur l’agression et comportement mesuré — enseignement prévu, à confirmer après la séance.
@@ -263,13 +263,14 @@ Les repères sur les relations portent sur le chapitre 8 et les entrées pertine
 - Catharsis et résultats rapportés sur l’expression agressive.
 - Perspective néoassociationniste; expériences aversives, affect négatif, indices associés à l’agression et processus cognitifs.
 - Étude de la présence d’armes : comparaison, résultat général et rôle de la provocation.
-- Rumination, réévaluation et maintien de la colère; application à une interprétation de conflit.
+- Rumination, réévaluation et distraction : les distinguer et expliquer leur lien avec le maintien de la colère à partir d’un exemple.
 - Transfert d’excitation; activation résiduelle, contexte et attribution de l’activation.
 
 ### Apprentissage et traitement de l’information
 
 - Théorie de l’apprentissage social; conditionnement opérant et apprentissage vicariant.
 - Imitation; acquisition et manifestation d’une conduite; renforcement, inhibition et désinhibition.
+- Repérer les conséquences pouvant maintenir une conduite agressive et soutenir une réponse de remplacement.
 - Étude de la poupée Bobo : modèles comparés, absence du modèle au test et profil général d’imitation.
 - Attention, motivation, mémoire et capacité de reproduire une conduite observée; repérer une difficulté dans une situation.
 - Désengagement moral : justification, comparaison avantageuse, responsabilité, conséquences, déshumanisation et blâme.

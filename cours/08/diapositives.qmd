@@ -6,7 +6,7 @@ institute: "UQAR — PSY1703-04"
 date: 2026-11-03
 date-format: "D MMMM YYYY"
 lang: fr-CA
-title-image-credit: "Jany St-Cyr face à Angel Blackwell · L’Œil régional · Photo gracieuseté"
+title-image-credit: "Jany St-Cyr face à Angel Blackwell · Mars 2026 · Colisée de Laval"
 title-image: "https://oeilregional.com/wp-content/uploads/2026/05/DB-SPO-st-cyr-casino-jpeg-720x1080.jpg"
 title-image-alt: "Jany St-Cyr lors de son premier combat contre Angel Blackwell."
 title-image-position: "50% 52%"
