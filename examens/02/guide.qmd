@@ -175,10 +175,6 @@ L’examen comprendra une question à développement très court associée à ch
 
 - Appliquer les notions d’attitude, d’ambivalence, de persuasion et de comportement planifié à des situations politiques ou quotidiennes nouvelles.
 
-### Périmètre confirmé
-
-Les notions ci-dessus définissent le bassin de matière admissible pour ce bloc. Les exclusions générales de mémorisation s’appliquent. Les sources externes citées pour approfondir et les détails des exemples fictifs ne sont pas à mémoriser.
-
 ## Bloc 3 — Communication et relations interpersonnelles
 
 **Cours 7 et chapitre 8**
@@ -238,10 +234,6 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Évènements de vie, caractéristiques personnelles et cycle de maintien de la solitude.
 - Approches cognitives, habiletés sociales et interventions auprès des personnes âgées.
 
-### Périmètre confirmé
-
-Les notions ci-dessus définissent le bassin de matière admissible pour ce bloc. Les exclusions générales de mémorisation s’appliquent. Les sources externes citées pour approfondir et les détails des exemples fictifs ne sont pas à mémoriser.
-
 ## Bloc 4 — L’agression
 
 **Cours 8 et chapitre 9**
@@ -296,8 +288,8 @@ Les notions ci-dessus définissent le bassin de matière admissible pour ce bloc
 - Nouveaux médias, communautés virtuelles, cyberintimidation et diffusion de conduites agressives.
 - Radicalisation religieuse violente : définition, facteurs personnels et contextuels, croyances et désengagement moral; portée du modèle proposé.
 
-### Périmètre confirmé
+## Une méthode de préparation
 
-Les notions ci-dessus définissent le bassin de matière admissible pour ce bloc. Les exclusions générales de mémorisation s’appliquent. Les sources externes citées pour approfondir et les détails des exemples fictifs ne sont pas à mémoriser.
+Pour chaque notion, essayez d’abord de la définir sans vos notes. Comparez-la ensuite à une notion proche et inventez un court exemple. Vérifiez votre réponse dans les diapositives, le chapitre ou le glossaire, puis notez les deux ou trois éléments que toute bonne définition devrait contenir. Pour les études présentées, entrainez-vous aussi à identifier la comparaison importante, le résultat général et le mécanisme illustré.
 
 [Retour aux ressources de l’examen 2](index.qmd)
