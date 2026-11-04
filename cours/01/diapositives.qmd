@@ -6,14 +6,12 @@ institute: "UQAR — PSY1703-04"
 date: 2026-09-01
 date-format: "D MMMM YYYY"
 lang: fr-CA
-title-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/View_of_Shibuya_Crossing.jpg"
-title-image-alt: "Une foule traverse le carrefour de Shibuya à Tokyo."
+title-image: "assets/titre-adobe-2167052140.jpg"
+title-image-alt: "Illustration de silhouettes en conversation, accompagnées de bulles de dialogue."
 title-image-position: "50% 50%"
-title-image-fit: "cover"
-title-image-source: "https://commons.wikimedia.org/wiki/File:View_of_Shibuya_Crossing.jpg"
-title-image-credit: "Shibuya · Photo : Ewong17"
-title-image-license: "CC BY-SA 4.0"
-title-image-license-url: "https://creativecommons.org/licenses/by-sa/4.0/"
+title-image-fit: "contain"
+title-image-source: "https://stock.adobe.com/ca/2167052140"
+title-image-credit: "Shah Zain / stock.adobe.com"
 
 format:
   revealjs:
@@ -44,14 +42,14 @@ description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, 
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 1 — Voir le social autrement"
   description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
-  image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/View_of_Shibuya_Crossing.jpg"
-  image-alt: "Une foule traverse le carrefour de Shibuya à Tokyo."
+  image: "assets/titre-adobe-2167052140.jpg"
+  image-alt: "Illustration de silhouettes en conversation, accompagnées de bulles de dialogue."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 1 — Voir le social autrement"
   description: "Diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
-  image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/View_of_Shibuya_Crossing.jpg"
-  image-alt: "Une foule traverse le carrefour de Shibuya à Tokyo."
+  image: "assets/titre-adobe-2167052140.jpg"
+  image-alt: "Illustration de silhouettes en conversation, accompagnées de bulles de dialogue."
   card-style: summary_large_image
 ---
 

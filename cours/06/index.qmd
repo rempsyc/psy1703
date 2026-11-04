@@ -6,14 +6,14 @@ description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY170
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 6 — Les attitudes"
   description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
-  image: "https://i.imgflip.com/1g8my4.jpg"
-  image-alt: "Un personnage hésite devant deux boutons rouges : modèle de mème Two Buttons."
+  image: "assets/titre-adobe-1808892907.jpg"
+  image-alt: "Une femme répond à des journalistes dans une scène illustrative d’entrevue politique."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 6 — Les attitudes"
   description: "Ressources et diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
-  image: "https://i.imgflip.com/1g8my4.jpg"
-  image-alt: "Un personnage hésite devant deux boutons rouges : modèle de mème Two Buttons."
+  image: "assets/titre-adobe-1808892907.jpg"
+  image-alt: "Une femme répond à des journalistes dans une scène illustrative d’entrevue politique."
   card-style: summary_large_image
 ---
 

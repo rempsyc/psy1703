@@ -6,12 +6,12 @@ institute: "UQAR — PSY1703-04"
 date: 2026-10-13
 date-format: "D MMMM YYYY"
 lang: fr-CA
-title-image: "https://i.imgflip.com/1g8my4.jpg"
-title-image-alt: "Un personnage hésite devant deux boutons rouges : modèle de mème Two Buttons."
-title-image-position: "50% 50%"
+title-image: "assets/titre-adobe-1808892907.jpg"
+title-image-alt: "Une femme répond à des journalistes dans une scène illustrative d’entrevue politique."
+title-image-position: "45% 50%"
 title-image-fit: "contain"
-title-image-source: "https://imgflip.com/meme/Two-Buttons"
-title-image-credit: "Two Buttons · Jake Clark · via Imgflip"
+title-image-source: "https://stock.adobe.com/ca/1808892907"
+title-image-credit: "Malik25/peopleimages.com / stock.adobe.com"
 
 format:
   revealjs:
@@ -42,14 +42,14 @@ description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 6 — Les attitudes"
   description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
-  image: "https://i.imgflip.com/1g8my4.jpg"
-  image-alt: "Un personnage hésite devant deux boutons rouges : modèle de mème Two Buttons."
+  image: "assets/titre-adobe-1808892907.jpg"
+  image-alt: "Une femme répond à des journalistes dans une scène illustrative d’entrevue politique."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 6 — Les attitudes"
   description: "Diapositives — Cours 6 — Les attitudes · PSY1703, psychologie sociale · UQAR."
-  image: "https://i.imgflip.com/1g8my4.jpg"
-  image-alt: "Un personnage hésite devant deux boutons rouges : modèle de mème Two Buttons."
+  image: "assets/titre-adobe-1808892907.jpg"
+  image-alt: "Une femme répond à des journalistes dans une scène illustrative d’entrevue politique."
   card-style: summary_large_image
 ---
 

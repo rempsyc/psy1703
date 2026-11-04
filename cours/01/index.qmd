@@ -6,14 +6,14 @@ description: "Ressources et diapositives — Cours 1 — Voir le social autremen
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 1 — Voir le social autrement"
   description: "Ressources et diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
-  image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/View_of_Shibuya_Crossing.jpg"
-  image-alt: "Une foule traverse le carrefour de Shibuya à Tokyo."
+  image: "assets/titre-adobe-2167052140.jpg"
+  image-alt: "Illustration de silhouettes en conversation, accompagnées de bulles de dialogue."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 1 — Voir le social autrement"
   description: "Ressources et diapositives — Cours 1 — Voir le social autrement · PSY1703, psychologie sociale · UQAR."
-  image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/View_of_Shibuya_Crossing.jpg"
-  image-alt: "Une foule traverse le carrefour de Shibuya à Tokyo."
+  image: "assets/titre-adobe-2167052140.jpg"
+  image-alt: "Illustration de silhouettes en conversation, accompagnées de bulles de dialogue."
   card-style: summary_large_image
 ---
 
