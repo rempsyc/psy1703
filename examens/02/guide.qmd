@@ -1,10 +1,9 @@
 ---
 title: "Guide d’étude — Examen 2"
+subtitle: "Cours 5–8 et chapitres 5, 6, 8 et 9"
+date: "2026-11-04"
+date-format: "D MMMM YYYY"
 ---
-
-::: {.callout-note title="Guide définitif"}
-Version du **4 novembre 2026**, après le cours 8. Matière : cours 5 à 8 et chapitres 5, 6, 8 et 9. Les diapositives supplémentaires non présentées ne constituent pas de matière de cours à étudier; les notions issues indépendamment du manuel obligatoire demeurent admissibles lorsqu’elles figurent dans ce guide.
-:::
 
 ## Repères
 
@@ -46,7 +45,7 @@ Par exemple, vous pourriez devoir expliquer ce qu’illustre une expérience ou 
 
 Vous n’avez pas à reproduire une définition mot à mot. Une formulation provenant des diapositives, du texte du manuel ou du glossaire sera acceptée si elle exprime correctement les éléments essentiels. Une paraphrase exacte dans vos propres mots sera également acceptée. Chaque réponse vaudra trois points. Selon la question, deux éléments de 1,5 point ou trois éléments de 1 point seront attendus; cette répartition sera indiquée dans la consigne. Lorsqu’une consigne demande explicitement des composantes ou une distinction, ces éléments font partie de la réponse attendue.
 
-L’examen comprendra une question à développement très court associée à chacun des quatre cours évalués et une associée à chacun des quatre chapitres. Les huit questions seront courtes et ne prendront pas la forme de longues études de cas.
+L’examen comprendra une question à développement très court associée à chacun des cours 5 à 8 et une associée à chacun des chapitres 5, 6, 8 et 9. Les huit questions seront courtes et ne prendront pas la forme de longues études de cas.
 
 ## Bloc 1 — Les attributions
 
