@@ -6,14 +6,14 @@ description: "Ressources et diapositives — Cours 5 — L’attribution · PSY1
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 5 — L’attribution"
   description: "Ressources et diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
-  image: "https://i.imgflip.com/3x0vuk.jpg"
-  image-alt: "Deux Spider-Man se pointent mutuellement du doigt."
+  image: "https://i.imgflip.com/3enly7.jpg"
+  image-alt: "Trois Spider-Man se pointent mutuellement du doigt."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 5 — L’attribution"
   description: "Ressources et diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
-  image: "https://i.imgflip.com/3x0vuk.jpg"
-  image-alt: "Deux Spider-Man se pointent mutuellement du doigt."
+  image: "https://i.imgflip.com/3enly7.jpg"
+  image-alt: "Trois Spider-Man se pointent mutuellement du doigt."
   card-style: summary_large_image
 ---
 

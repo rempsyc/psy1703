@@ -6,12 +6,12 @@ institute: "UQAR — PSY1703-04"
 date: 2026-10-06
 date-format: "D MMMM YYYY"
 lang: fr-CA
-title-image: "https://i.imgflip.com/3x0vuk.jpg"
-title-image-alt: "Deux Spider-Man se pointent mutuellement du doigt."
+title-image: "https://i.imgflip.com/3enly7.jpg"
+title-image-alt: "Trois Spider-Man se pointent mutuellement du doigt."
 title-image-position: "50% 50%"
 title-image-fit: "contain"
-title-image-source: "https://imgflip.com/memetemplate/236867132/Two-Spidermen-pointing-at-each-other"
-title-image-credit: "Spider-Man (1967) · Mème via Imgflip"
+title-image-source: "https://imgflip.com/memetemplate/206014687/3-Spidermen-Pointing-at-each-other"
+title-image-credit: "Trois Spider-Man · Mème via Imgflip"
 
 format:
   revealjs:
@@ -42,14 +42,14 @@ description: "Diapositives — Cours 5 — L’attribution · PSY1703, psycholog
 open-graph:
   title: "PSY1703 — Psychologie sociale — Cours 5 — L’attribution"
   description: "Diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
-  image: "https://i.imgflip.com/3x0vuk.jpg"
-  image-alt: "Deux Spider-Man se pointent mutuellement du doigt."
+  image: "https://i.imgflip.com/3enly7.jpg"
+  image-alt: "Trois Spider-Man se pointent mutuellement du doigt."
   site-name: "PSY1703 — Psychologie sociale"
 twitter-card:
   title: "PSY1703 — Psychologie sociale — Cours 5 — L’attribution"
   description: "Diapositives — Cours 5 — L’attribution · PSY1703, psychologie sociale · UQAR."
-  image: "https://i.imgflip.com/3x0vuk.jpg"
-  image-alt: "Deux Spider-Man se pointent mutuellement du doigt."
+  image: "https://i.imgflip.com/3enly7.jpg"
+  image-alt: "Trois Spider-Man se pointent mutuellement du doigt."
   card-style: summary_large_image
 ---
 
