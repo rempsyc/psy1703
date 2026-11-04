@@ -59,7 +59,6 @@ L’examen comprendra une question à développement très court associée à ch
 - Attributions spontanées et réactives; situations favorisant la recherche d’une cause.
 - Désir de contrôle, complexité attributionnelle et besoin de structure cognitive.
 - Théories de l’attribution et théories attributionnelles.
-
 - Théorie naïve de l’action.
 - Théorie des inférences correspondantes : correspondance, choix, désirabilité sociale et effets distinctifs.
 - Pertinence hédonique et personnalisme.
@@ -70,7 +69,6 @@ L’examen comprendra une question à développement très court associée à ch
 - Approche pragmatique, économie cognitive et correction d’une première inférence.
 - Explications par les raisons et attributions relationnelles.
 - Raisonnement contrefactuel et conséquences affectives ou comportementales.
-
 - Biais attributionnels; biais égocentrique.
 - Erreur attributionnelle fondamentale et inférence de correspondance.
 - Biais acteur–observateur : hypothèse classique, mécanismes proposés et limites de généralisation.
@@ -82,7 +80,6 @@ L’examen comprendra une question à développement très court associée à ch
 - Avantage du rôle et inférence de compétence dans un jeu de questions.
 - Évaluer une explication par une prédiction ou une comparaison pertinente.
 - Étude du texte choisi ou imposé : contraste central, profil des résultats et portée de la conclusion.
-
 - Modèle bifactoriel de l’émotion et limites des résultats classiques.
 - Théorie attributionnelle des émotions.
 - Motivation à l’accomplissement : attentes, émotions et action.
@@ -108,7 +105,6 @@ L’examen comprendra une question à développement très court associée à ch
 - Modèles de structure : unidimensionnel, tripartite classique et tripartite révisé.
 - Composantes cognitive, affective et conative; manifestations et déterminants de l’attitude.
 - Complexité intégrative et organisation des évaluations.
-
 - Mesures explicites et implicites; mesures directes et indirectes.
 - Désirabilité sociale et présentation de soi dans les réponses déclarées.
 - Échelle de Likert; inversion du sens de certains items; différenciateur sémantique.
@@ -116,14 +112,12 @@ L’examen comprendra une question à développement très court associée à ch
 - Indicateurs comportementaux, psychophysiologiques et neurologiques de l’attitude.
 - Fonctions de connaissance, d’adaptation sociale, d’expression et de défense du soi.
 - Valeurs et attitudes; principes généraux des typologies de valeurs et liens valeurs-attitudes-comportements.
-
 - Sources affectives, comportementales, cognitives, culturelles et génétiques.
 - Évaluation conditionnée; effet de simple exposition; infusion de l’affect.
 - Conditionnement opérant; perception de soi (autoperception); effet d’implication corporelle.
 - Apprentissage social ou par observation; modèle croyance-évaluation.
 - Influence de la culture et du contexte sur la formation et l’expression des attitudes.
 - Contributions génétiques et environnementales; portée de l’héritabilité dans ce domaine.
-
 - Consistance cognitive; théorie de l’équilibre.
 - Dissonance cognitive; cognitions consonantes, dissonantes et non pertinentes.
 - Importance des cognitions; voies de réduction de la dissonance.
@@ -131,7 +125,6 @@ L’examen comprendra une question à développement très court associée à ch
 - Dissonance postdécisionnelle; perception sélective de l’information; justification de l’effort; paradigme de l’hypocrisie.
 - Principales interprétations complémentaires : gestion de l’impression, perception de soi, orientation à l’action et autoaffirmation.
 - Distinguer gestion de l’impression, perception de soi et dissonance à partir des indices d’une situation.
-
 - Persuasion; apprentissage du message; rôle de la source, du message, de l’auditoire et du médium.
 - Approche fondée sur la réponse cognitive; pensées favorables et défavorables au message.
 - Modèle de la vraisemblance de l’élaboration cognitive; routes centrale et périphérique.
@@ -141,7 +134,6 @@ L’examen comprendra une question à développement très court associée à ch
 - Changement des attitudes explicites et implicites; modèles proposés et limites de généralisation.
 - Réactance psychologique; défense active; contre-argumentation; inoculation psychosociale.
 - Convictions fortes et conditions de résistance ou de changement.
-
 - Correspondance entre l’attitude et le comportement : action, cible, situation et temps.
 - Rôle de la personne, de la situation, du temps disponible et des caractéristiques de l’attitude.
 - Théories de l’action raisonnée et du comportement planifié.
@@ -150,7 +142,6 @@ L’examen comprendra une question à développement très court associée à ch
 - Modèle du processus attitude-comportement; accessibilité et activation de l’attitude.
 - Modèle MODE; motivation et opportunité; processus spontanés et délibérés.
 - Attitudes et radicalisation : articulation générale des mécanismes présentés dans l’encadré.
-
 - Appliquer les notions d’attitude, d’ambivalence, de persuasion et de comportement planifié à des situations politiques ou quotidiennes nouvelles.
 
 ## Bloc 3 — Communication et relations interpersonnelles
@@ -162,13 +153,11 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Communication; systèmes verbal et non verbal.
 - Aspects informationnel et relationnel d’un échange.
 - Repérer les indices verbaux et non verbaux d’une situation et expliquer le rôle du contexte dans leur interprétation.
-
 - Relation interpersonnelle : cadres temporel, cognitif, social et émotionnel; influence mutuelle et diversité des domaines.
 - Théories de l’échange social; satiété et rareté; théorie de l’équité.
 - Théorie de l’interdépendance sociale : fréquence, diversité des domaines et force de l’influence.
 - Niveau de comparaison et niveau de comparaison des options possibles.
 - Sociobiologie humaine, psychologie évolutionniste et besoin d’appartenance.
-
 - Similitude des valeurs, des attitudes et des opinions.
 - Proximité géographique et familiarité; effet de simple exposition.
 - Attirance réciproque et attirance physique; premières impressions et stéréotypes liés à l’apparence.
@@ -176,7 +165,6 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Présences répétées sans interaction : comparaison et profil général des jugements d’affinité dans l’étude présentée en classe.
 - Relations intimes; révélation de soi; inclusion de l’autre en soi; réciprocité.
 - Personnes marquantes; schéma relationnel et soi relationnel; confiance et ses composantes.
-
 - Premières conceptions de l’amour; amour comparé à l’amitié.
 - Amour-tendresse et amour-passion : associations avec les expériences relationnelles et émotionnelles; variations culturelles.
 - Couleurs de l’amour : amour-passion, amour ludique, amour-tendresse, amour possessif, amour altruiste et amour pratique.
@@ -185,12 +173,10 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Théorie de l’attachement adulte; anxiété d’abandon et évitement de l’intimité.
 - Styles d’attachement sécurisant, préoccupé, craintif et détaché; hyperactivation et désactivation de l’attachement.
 - Stabilité et changements de l’attachement; variations selon les relations.
-
 - Engagement; conditions de continuation et de rupture d’une relation.
 - Modèle de l’investissement : satisfaction, ressources investies et autres options.
 - Engagement d’obligation et engagement personnel; motivations associées.
 - Application du modèle de l’investissement à l’engagement dans un groupe et à la déradicalisation.
-
 - Santé et soutien social; soutien émotionnel, informatif ou évaluatif, matériel.
 - Soutien reçu, soutien perçu et adéquation aux besoins.
 - Relations et bonheur; script personnel du bonheur.
@@ -210,7 +196,6 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Tâche de Taylor (variante CRTT) : principe, choix mesurés, rôle de la provocation et distinction avec la performance de réaction.
 - Distinguer la simulation pédagogique et les conditions d’une mesure comportementale de recherche.
 - Étude de bienveillance présentée au cours 8 : interventions comparées, résultat général sur l’agression et comportement mesuré.
-
 - Perspectives psychanalytique et éthologique; agression intraspécifique; fonctions proposées et limites.
 - Hypothèse initiale frustration–agression, révisions et limites; déplacement de l’agression.
 - Catharsis et résultats rapportés sur l’expression agressive.
@@ -218,7 +203,6 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Étude de la présence d’armes : comparaison, résultat général et rôle de la provocation.
 - Rumination, réévaluation et distraction : les distinguer et expliquer leur lien avec le maintien de la colère à partir d’un exemple.
 - Transfert d’excitation; activation résiduelle, contexte et attribution de l’activation.
-
 - Théorie de l’apprentissage social; conditionnement opérant et apprentissage vicariant.
 - Imitation; acquisition et manifestation d’une conduite; renforcement, inhibition et désinhibition.
 - Repérer les conséquences pouvant maintenir une conduite agressive et soutenir une réponse de remplacement.
@@ -229,14 +213,12 @@ Pour cet aperçu, révisez les diapositives du cours 7. Les notions à étudier 
 - Modèle du traitement cognitif de l’information sociale : étapes et rôle des expériences, règles et schémas.
 - Biais d’attribution hostile et situations ambigües.
 - Culture et conduites agressives; culture de l’honneur et interprétation de la menace.
-
 - Trajectoire générale des agressions physiques pendant l’enfance et apprentissage de réponses socialement acceptables.
 - Études longitudinales et limites d’une explication fondée seulement sur l’apprentissage des agressions physiques.
 - Génétique du comportement; méthode des jumeaux monozygotes et dizygotes.
 - Héritabilité, environnement partagé et environnement unique; portée et limites des estimations.
 - Corrélation et interaction gène–environnement; contributions multiples et transactions au cours du développement.
 - Exemple MAOA et maltraitance : question examinée, interprétation générale et incertitudes rapportées.
-
 - Études expérimentales, transversales et longitudinales : comparaisons et comportements effectivement mesurés.
 - Jeux vidéo et télévision : profil des résultats rapportés, effets à court terme et associations à plus long terme.
 - Activation, amorçage, apprentissage de modèles et de scripts, désinhibition et banalisation des conséquences.
