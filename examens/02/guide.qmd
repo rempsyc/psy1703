@@ -3,7 +3,7 @@ title: "Guide d’étude — Examen 2"
 ---
 
 ::: {.callout-note title="Guide définitif"}
-Version du **3 novembre 2026**, après le cours 8. Matière : cours 5 à 8 et chapitres 5, 6, 8 et 9. Les diapositives supplémentaires non présentées ne constituent pas de matière de cours à étudier; les notions issues indépendamment du manuel obligatoire demeurent admissibles lorsqu’elles figurent dans ce guide.
+Version du **4 novembre 2026**, après le cours 8. Matière : cours 5 à 8 et chapitres 5, 6, 8 et 9. Les diapositives supplémentaires non présentées ne constituent pas de matière de cours à étudier; les notions issues indépendamment du manuel obligatoire demeurent admissibles lorsqu’elles figurent dans ce guide.
 :::
 
 ## Repères
@@ -18,7 +18,7 @@ Version du **3 novembre 2026**, après le cours 8. Matière : cours 5 à 8 et ch
 
 ## Ce que vous devriez pouvoir faire
 
-Préparez-vous à reconnaitre et définir les concepts, à distinguer des notions proches, à expliquer un résultat ou un mécanisme et à appliquer les notions à une situation nouvelle. Les questions à développement demanderont de définir de grands concepts en quelques phrases. Certaines consignes pourront aussi demander de développer un acronyme, de nommer des composantes ou de distinguer des processus. Chaque réponse sera évaluée à partir de trois éléments essentiels, pour un total de trois points.
+Préparez-vous à reconnaitre et définir les concepts, à distinguer des notions proches, à expliquer un résultat ou un mécanisme et à appliquer les notions à une situation nouvelle. Les questions à développement demanderont de définir de grands concepts en quelques phrases. Certaines consignes pourront aussi demander de développer un acronyme, de nommer des composantes ou de distinguer des processus. Chaque réponse vaudra trois points. Le nombre d’éléments attendus et leur pondération seront précisés dans chaque question; une même phrase pourra contenir plusieurs éléments.
 
 ## Comment étudier le manuel efficacement
 
@@ -44,7 +44,7 @@ Par exemple, vous pourriez devoir expliquer ce qu’illustre une expérience ou 
 
 ## Comment les réponses à développement seront corrigées
 
-Vous n’avez pas à reproduire une définition mot à mot. Une formulation provenant des diapositives, du texte du manuel ou du glossaire sera acceptée si elle exprime correctement les éléments essentiels. Une paraphrase exacte dans vos propres mots sera également acceptée. Chaque réponse vaudra trois points, généralement un point par élément important. Lorsqu’une consigne demande explicitement des composantes ou une distinction, ces éléments font partie de la réponse attendue.
+Vous n’avez pas à reproduire une définition mot à mot. Une formulation provenant des diapositives, du texte du manuel ou du glossaire sera acceptée si elle exprime correctement les éléments essentiels. Une paraphrase exacte dans vos propres mots sera également acceptée. Chaque réponse vaudra trois points. Selon la question, deux éléments de 1,5 point ou trois éléments de 1 point seront attendus; cette répartition sera indiquée dans la consigne. Lorsqu’une consigne demande explicitement des composantes ou une distinction, ces éléments font partie de la réponse attendue.
 
 L’examen comprendra une question à développement très court associée à chacun des quatre cours évalués et une associée à chacun des quatre chapitres. Les huit questions seront courtes et ne prendront pas la forme de longues études de cas.
 
