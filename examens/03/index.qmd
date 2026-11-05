@@ -4,7 +4,7 @@ title: "Examen 3"
 
 **15 décembre 2026 · 35 %**
 
-Cette page rassemblera les ressources utiles pour l’examen 3.
+Programme adapté à la suite de la grève : **cours 9 à 11 et chapitres 10, 11 et 13**. Le chapitre 12 est facultatif; seules les notions de ce thème présentées en classe et précisées au guide pourront être évaluées comme matière du cours.
 
 ::: {.exam-resource-grid}
 ::: {.exam-resource-card}

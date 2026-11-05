@@ -64,16 +64,16 @@ twitter-card:
 {{< include _connexion-quiz.qmd >}}
 
 ::: {.notes}
-10 minutes. Vérifier identification UQAR et accès avant le départ. Code du quiz : JIESIIR; évènement distinct des activités IFDJTAT. Questions évaluées et clé conservées séparément dans Box. Les huit meilleurs quiz sur dix valent ensemble 10 %.
+10 minutes. Vérifier identification UQAR et accès avant le départ. Code du quiz : JIESIIR; évènement distinct des activités IFDJTAT. Questions évaluées et clé conservées séparément dans Box. Les huit meilleurs quiz sur neuf valent ensemble 10 %.
 :::
 
 ## Les prochaines évaluations
 
-**Quiz 7 · Date à confirmer · 1,25 %**
+**Quiz 7 · 24 novembre · 1,25 %**
 
 **Matière évaluée : cours 8 et chapitre 9 — L’agression.**
 
-8 questions · 10 minutes. Les 8 meilleurs quiz sur 10 comptent pour **10 %**.
+8 questions · 10 minutes. Les 8 meilleurs quiz sur 9 comptent pour **10 %**.
 
 **Examen 2 · 17 novembre · 30 %**
 
@@ -1129,11 +1129,11 @@ C. On observe le choix d’intensité et de durée du bruit destiné à l’adve
 
 ## Les prochaines évaluations {#evaluations-fin}
 
-**Quiz 7 · Date à confirmer · 1,25 %**
+**Quiz 7 · 24 novembre · 1,25 %**
 
 **Matière évaluée : cours 8 et chapitre 9 — L’agression.**
 
-8 questions · 10 minutes. Les 8 meilleurs quiz sur 10 comptent pour **10 %**.
+8 questions · 10 minutes. Les 8 meilleurs quiz sur 9 comptent pour **10 %**.
 
 **Examen 2 · 17 novembre · 30 %**
 

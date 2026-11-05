@@ -39,4 +39,4 @@ Quiz 6 : cours 7 et chapitre 8, 1,25 %, 8 questions en 10 minutes. Atelier de di
 
 ## Après le cours
 
-[Préparez l’examen 2 du 17 novembre avec le guide d’étude final](../../examens/02/guide.qmd). Prochaine lecture : chapitre 10, pour le cours 9, dont la date sera précisée.
+[Préparez l’examen 2 du 17 novembre avec le guide d’étude final](../../examens/02/guide.qmd). Prochaine lecture : chapitre 10, pour le cours 9 du 24 novembre.
