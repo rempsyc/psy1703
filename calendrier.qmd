@@ -14,7 +14,7 @@ Le calendrier ci-dessous sert d'accès aux diapositives. Le [plan de cours offic
 | 6 octobre | [L’attribution](cours/05/index.qmd) | Chapitre 5 | Version finale |
 | 13 octobre | [Les attitudes](cours/06/index.qmd) | Chapitre 6 | Version finale |
 | 20 octobre | [Les relations interpersonnelles](cours/07/index.qmd) | Chapitre 8 | Version finale |
-| 27 octobre | Semaine de lecture | — | Pas de cours |
+| 27 octobre | Semaine de lecture | Chapitre 7 facultatif | Pas de cours |
 | 3 novembre | [L'agression](cours/08/index.qmd) | Chapitre 9 | Version finale |
 | 10 novembre | Grève | — | Pas de cours |
 | 17 novembre | [Examen 2](examens/02/index.qmd) | — | Évaluation reportée |
