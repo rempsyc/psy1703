@@ -16,12 +16,15 @@ Le calendrier ci-dessous sert d'accès aux diapositives. En cas d'écart, le [pl
 | 20 octobre | [Les relations interpersonnelles](cours/07/index.qmd) | Chapitre 8 | Version finale |
 | 27 octobre | Semaine de lecture | — | Pas de cours |
 | 3 novembre | [L'agression](cours/08/index.qmd) | Chapitre 9 | Version finale |
-| 10 novembre | [Examen 2](examens/02/index.qmd) | — | Évaluation |
-| 17 novembre | Les comportements d'aide | Chapitre 10 | À venir |
+| 10 novembre | Grève | — | Pas de cours |
+| 17 novembre | [Examen 2](examens/02/index.qmd) | — | Évaluation reportée |
+| À préciser | Les comportements d'aide | Chapitre 10 | À replanifier |
 | 24 novembre | L'influence sociale et le conformisme | Chapitre 11 | À venir |
 | 1er décembre | Les groupes | Chapitre 12 | À venir |
 | 8 décembre | Les relations intergroupes et les préjugés | Chapitre 13 | À venir · appréciations d’enseignement en classe |
 | 15 décembre | [Examen 3](examens/03/index.qmd) | — | Évaluation |
+
+Le calendrier des cours et des quiz suivant l’examen 2 sera précisé à la suite du report. Les autres dates ci-dessous restent prévisionnelles.
 
 ## Quiz : quelle matière préparer?
 
@@ -35,7 +38,7 @@ Le numéro du quiz ne correspond pas au numéro du chapitre. Le tableau indique 
 | Quiz 4 | 13 octobre | **Chapitre 5 et cours 5** |
 | Quiz 5 | 20 octobre | **Chapitre 6 et cours 6** |
 | Quiz 6 | 3 novembre | **Chapitre 8 et cours 7** |
-| Quiz 7 | 17 novembre | **Chapitre 9 et cours 8** |
+| Quiz 7 | À confirmer | **Chapitre 9 et cours 8** |
 | Quiz 8 | 24 novembre | **Chapitre 10 et cours 9** |
 | Quiz 9 | 1er décembre | **Chapitre 11 et cours 10** |
 | Quiz 10 | 8 décembre | **Chapitre 12 et cours 11** |
