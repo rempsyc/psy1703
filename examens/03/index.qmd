@@ -18,7 +18,7 @@ Le guide présente les repères communs et sera complété au fil des prochaines
 ::: {.exam-resource-card}
 ## Consignes de l’examen
 
-Matériel permis, déroulement de la séance et minuterie de 90 minutes.
+Matériel permis, déroulement de la séance et minuterie de 120 minutes.
 
 [Afficher les consignes](../consignes.qmd){.btn .btn-outline-primary}
 :::

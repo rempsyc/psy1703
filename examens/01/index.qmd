@@ -18,7 +18,7 @@ Matière des cours 1 à 4 et des chapitres 1 à 4, priorités d’étude et form
 ::: {.exam-resource-card}
 ## Consignes de l’examen
 
-Matériel permis, déroulement de la séance et minuterie de 90 minutes.
+Consignes communes et minuterie pour les prochains examens.
 
 [Afficher les consignes](../consignes.qmd){.btn .btn-outline-primary}
 :::

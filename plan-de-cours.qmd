@@ -9,6 +9,10 @@ Le plan de cours officiel de **PSY1703-04 — Psychologie sociale**, automne 202
 Le cours du 10 novembre est annulé et l’examen 2 est reporté au 17 novembre. Les trois derniers cours auront lieu les 24 novembre, 1er et 8 décembre; les groupes et les relations intergroupes seront réunis dans le dernier cours. Les lectures obligatoires de ce dernier bloc sont les chapitres 10, 11 et 13; le chapitre 12 est facultatif. Le quiz 10 est supprimé : les **8 meilleurs quiz sur 9** comptent pour **10 %** de la note finale. L’examen 3 reste prévu le 15 décembre. Consultez le [calendrier adapté](calendrier.qmd) et le [guide cumulatif de l’examen 3](examens/03/guide.qmd).
 :::
 
+::: {.callout-note title="Durée de l’examen final"}
+À la suite du retour sur l’examen 2, l’examen 3 du 15 décembre durera **120 minutes au maximum**, pour les mêmes **32 QCM et 8 réponses courtes**. Vous pourrez remettre votre copie et quitter plus tôt. Cette durée remplace celle indiquée dans le PDF ci-dessous; les mesures d’accommodement applicables sont maintenues.
+:::
+
 [Ouvrir ou télécharger le plan de cours (PDF)](documents/plan-de-cours-psy1703-a2026_v2.pdf){.btn .btn-primary target="_blank"}
 
 <iframe

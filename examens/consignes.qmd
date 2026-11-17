@@ -26,7 +26,7 @@ format:
 
 ```{=html}
 <div id="exam-timer" class="exam-timer" role="timer" aria-live="polite">
-  <div id="exam-timer-display" class="exam-timer-display">90:00</div>
+  <div id="exam-timer-display" class="exam-timer-display">120:00</div>
   <div class="exam-timer-controls">
     <button id="exam-timer-start" type="button">Démarrer</button>
     <button id="exam-timer-pause" type="button" disabled>Pause</button>
@@ -35,14 +35,14 @@ format:
 </div>
 ```
 
-- **90 minutes** · 32 choix multiples · 8 développements courts
+- **120 minutes** · 32 choix multiples · 8 développements courts
 - Seuls la **carte étudiante UQAR**, la **copie d’examen** et le **matériel d’écriture** sont permis.
 - Gardez votre **carte étudiante visible** et inscrivez votre **identifiant UQAR** sur la copie.
 - Manuel, notes, téléphone, ordinateur et IA : **interdits**.
 - Gardez le **silence** et ne communiquez pas avec vos camarades.
 - **Aucune sortie** avant d’avoir remis votre copie.
 - Choix multiples : entourez **une seule lettre**; aucune pénalité pour une mauvaise réponse.
-- Développements : répondez **brièvement et précisément**, dans vos propres mots.
+- Développements : répondez **brièvement et précisément** aux éléments demandés.
 - Avant de remettre votre copie, vérifiez les **40 questions**.
 
 ::: {.callout-important appearance="simple" icon="false"}
@@ -107,8 +107,8 @@ Lorsque vous avez terminé, remettez votre copie à l’avant et quittez la sall
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const duration = 90 * 60 * 1000;
-  const storageKey = "psy1703-exam-timer-v1";
+  const duration = 120 * 60 * 1000;
+  const storageKey = "psy1703-exam-timer-v2-120";
   const timer = document.getElementById("exam-timer");
   const display = document.getElementById("exam-timer-display");
   const startButton = document.getElementById("exam-timer-start");
