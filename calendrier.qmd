@@ -32,15 +32,15 @@ Le numéro du quiz ne correspond pas au numéro du chapitre. Le tableau indique 
 
 | Quiz | Date de passation | Matière évaluée au quiz |
 |---|---|---|
-| Quiz 1 | 15 septembre | **Chapitres 1–2 et cours 1–2** |
-| Quiz 2 | 22 septembre | **Chapitre 3 et cours 3** |
-| Quiz 3 | 6 octobre | **Chapitre 4 et cours 4** |
-| Quiz 4 | 13 octobre | **Chapitre 5 et cours 5** |
-| Quiz 5 | 20 octobre | **Chapitre 6 et cours 6** |
-| Quiz 6 | 3 novembre | **Chapitre 8 et cours 7** |
-| Quiz 7 | 24 novembre | **Chapitre 9 et cours 8** |
-| Quiz 8 | 1er décembre | **Chapitre 10 et cours 9** |
-| Quiz 9 | 8 décembre | **Chapitre 11 et cours 10** |
+| Quiz 1 | 15 septembre | **Cours 1–2 et chapitres 1–2** |
+| Quiz 2 | 22 septembre | **Cours 3 et chapitre 3** |
+| Quiz 3 | 6 octobre | **Cours 4 et chapitre 4** |
+| Quiz 4 | 13 octobre | **Cours 5 et chapitre 5** |
+| Quiz 5 | 20 octobre | **Cours 6 et chapitre 6** |
+| Quiz 6 | 3 novembre | **Cours 7 et chapitre 8** |
+| Quiz 7 | 24 novembre | **Cours 8 et chapitre 9** |
+| Quiz 8 | 1er décembre | **Cours 9 et chapitre 10** |
+| Quiz 9 | 8 décembre | **Cours 10 et chapitre 11** |
 
 
 **Le quiz 10 est supprimé en raison de la grève. Les 8 meilleurs quiz sur 9 comptent pour 10 % de la note finale (1,25 % chacun).**
