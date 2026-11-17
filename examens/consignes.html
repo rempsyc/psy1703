@@ -180,7 +180,7 @@
 <section id="consignes" class="slide level2">
 <h2>Consignes</h2>
 <div id="exam-timer" class="exam-timer" role="timer" aria-live="polite">
-  <div id="exam-timer-display" class="exam-timer-display">90:00</div>
+  <div id="exam-timer-display" class="exam-timer-display">120:00</div>
   <div class="exam-timer-controls">
     <button id="exam-timer-start" type="button">Démarrer</button>
     <button id="exam-timer-pause" type="button" disabled="">Pause</button>
@@ -188,14 +188,14 @@
   </div>
 </div>
 <ul>
-<li><strong>90 minutes</strong> · 32 choix multiples · 8 développements courts</li>
+<li><strong>120 minutes</strong> · 32 choix multiples · 8 développements courts</li>
 <li>Seuls la <strong>carte étudiante UQAR</strong>, la <strong>copie d’examen</strong> et le <strong>matériel d’écriture</strong> sont permis.</li>
 <li>Gardez votre <strong>carte étudiante visible</strong> et inscrivez votre <strong>identifiant UQAR</strong> sur la copie.</li>
 <li>Manuel, notes, téléphone, ordinateur et IA : <strong>interdits</strong>.</li>
 <li>Gardez le <strong>silence</strong> et ne communiquez pas avec vos camarades.</li>
 <li><strong>Aucune sortie</strong> avant d’avoir remis votre copie.</li>
 <li>Choix multiples : entourez <strong>une seule lettre</strong>; aucune pénalité pour une mauvaise réponse.</li>
-<li>Développements : répondez <strong>brièvement et précisément</strong>, dans vos propres mots.</li>
+<li>Développements : répondez <strong>brièvement et précisément</strong> aux éléments demandés.</li>
 <li>Avant de remettre votre copie, vérifiez les <strong>40 questions</strong>.</li>
 </ul>
 <div class="callout callout-important no-icon callout-style-simple">
@@ -262,8 +262,8 @@
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const duration = 90 * 60 * 1000;
-  const storageKey = "psy1703-exam-timer-v1";
+  const duration = 120 * 60 * 1000;
+  const storageKey = "psy1703-exam-timer-v2-120";
   const timer = document.getElementById("exam-timer");
   const display = document.getElementById("exam-timer-display");
   const startButton = document.getElementById("exam-timer-start");
