@@ -418,6 +418,26 @@ Attribué à Charles R. Swindoll.
 Résumer le jeu de mots en français : tout le monde sait qu’il y a une tâche, chacun s’attend à ce que quelqu’un s’en charge et personne ne la fait. Faire nommer le blocage, puis demander quelle confirmation permettrait de savoir que la tâche est prise en charge. L’attribution à Swindoll circule dans des sources secondaires, et le récit est aussi publié sans nom d’auteur.
 :::
 
+## La diffusion de la responsabilité dans le clavardage
+
+<div class="c09-meme-gru">
+  <img src="https://i.imgflip.com/26jxvz.jpg" width="700" height="449" alt="Gru présente son plan en quatre cases. Dans la dernière, il se retourne vers le tableau, étonné.">
+  <ol>
+    <li>J’envoie une demande au groupe.</li>
+    <li>Dix personnes la voient.</li>
+    <li>Tout le monde attend que quelqu’un réponde.</li>
+    <li>Tout le monde attend que quelqu’un réponde.</li>
+  </ol>
+</div>
+
+::: {.credit}
+Gru’s Plan · [Modèle Imgflip](https://imgflip.com/meme/Grus-Plan) · Légendes françaises.
+:::
+
+::: {.notes}
+Une minute. Revenir au message de Sélina présenté au début de ce bloc. L’indice de lecture n’indique pas que quelqu’un prend la tâche en charge. Dans le mème, le mécanisme est explicite : chacun attend la réponse d’une autre personne. Rappeler la demande adressée à Simon. Passer ensuite à une autre explication possible du silence du groupe, l’ignorance pluraliste.
+:::
+
 ## L’ignorance pluraliste
 
 L’**ignorance pluraliste** survient lorsque des personnes interprètent la réserve des autres comme le signe qu’il n’y a pas de problème, alors qu’elles s’interrogent aussi.
@@ -453,26 +473,6 @@ Une personne peut hésiter à intervenir parce qu’elle craint de se tromper de
 
 ::: {.notes}
 Éviter de figer un terme technique avant comparaison avec le chapitre. Distinguer cette crainte de l’idée qu’une autre personne s’en occupe et du doute sur l’existence du besoin. En stage, proposer « Souhaitez-vous que je vous indique la personne responsable? » au lieu d’imposer une intervention. L’enjeu est une prise de contact adaptée, pas se substituer à un rôle pour lequel on n’a pas la formation.
-:::
-
-## La diffusion de la responsabilité dans le clavardage
-
-<div class="c09-meme-gru">
-  <img src="https://i.imgflip.com/26jxvz.jpg" width="700" height="449" alt="Gru présente son plan en quatre cases. Dans la dernière, il se retourne vers le tableau, étonné.">
-  <ol>
-    <li>J’envoie une demande au groupe.</li>
-    <li>Dix personnes la voient.</li>
-    <li>Tout le monde attend que quelqu’un réponde.</li>
-    <li>Tout le monde attend que quelqu’un réponde.</li>
-  </ol>
-</div>
-
-::: {.credit}
-Gru’s Plan · [Modèle Imgflip](https://imgflip.com/meme/Grus-Plan) · Légendes françaises.
-:::
-
-::: {.notes}
-Une minute. Faire dire précisément ce que le nombre de lectures ne garantit pas : une prise en charge. « Je pensais que quelqu’un d’autre s’en occupait » apporte un indice de diffusion. Un message lu sans autre information peut aussi avoir été ignoré par manque de disponibilité. Demander quelle confirmation remplacerait le seul indicateur Vu.
 :::
 
 ## Les obstacles à l’intervention
