@@ -862,6 +862,70 @@ Demander de formuler une réponse utile même quand la personne ne peut venir. L
 Demander à deux personnes de proposer une répartition qu’une équipe de stage pourrait utiliser. Une tâche attribuée mais non confirmée reste incertaine. L’objectif commun exige que les trois fonctions soient couvertes, pas que tout le monde fasse la même chose.
 :::
 
+## Wooclap — les obstacles et la coopération
+
+{{< include _reconnexion.qmd >}}
+
+Quatre questions · Identifier l’indice, puis proposer une modification concrète.
+
+[Passer à mes recherches sur la bienveillance](#recherches-bienveillance)
+
+::: {.notes}
+8 minutes avec débreffage. Revenir sur l’atelier et la matière principale. Repli par vote en classe avec les quatre diapositives suivantes. Passer ensuite à mes recherches sur la bienveillance.
+:::
+
+## La diffusion de la responsabilité
+
+Simon comprend qu’il faut graver les cédéroms avant l’ouverture du kiosque. Il attend parce qu’il pense qu’une des neuf autres personnes qui ont reçu le message va y répondre. Quel mécanisme décrit le mieux son raisonnement?
+
+- A. L’ignorance pluraliste.
+- B. La diffusion de la responsabilité.
+- C. La crainte d’être jugé.
+- D. La norme de réciprocité.
+
+::: {.notes}
+B. Le besoin est déjà reconnu. Le frein est la prise en charge personnelle. Faire proposer une demande précise à une personne, avec confirmation et possibilité de refus.
+:::
+
+## L’ignorance pluraliste
+
+Les membres de l’équipe se demandent en privé s’il faut graver les dernières copies tout de suite. En voyant que les autres ne réagissent pas, chaque personne conclut que la situation peut attendre. Quel mécanisme décrit cette interprétation?
+
+- A. La diffusion de la responsabilité.
+- B. La crainte d’être jugé.
+- C. L’ignorance pluraliste.
+- D. Le calcul des couts de l’aide.
+
+::: {.notes}
+C. Le silence est traité comme un indice sur l’urgence. Comparer avec la question précédente. Faire ajouter au message un fait qui rend le besoin plus clair, par exemple le nombre de copies restantes et l’heure d’ouverture du kiosque.
+:::
+
+## Les conséquences de l’aide
+
+Sélina veut apprendre à graver elle-même les CD de l’album. Quelle offre l’aide à avancer tout en lui laissant le choix de ce qu’elle fait elle-même?
+
+- A. Je peux graver les disques pendant que tu tiens le kiosque.
+- B. Je peux demander à Simon de prendre la gravure en charge.
+- C. Je peux graver toutes les copies et tu vérifieras le résultat.
+- D. Veux-tu que je te montre comment graver un disque ou qu’on en grave un ensemble?
+
+::: {.notes}
+D. La proposition tient compte de son objectif et lui laisse un choix avant d’agir. Demander ce que les autres formulations changent dans son rôle. Transfert : formuler une offre équivalente en stage.
+:::
+
+## La coopération
+
+Pour la vente des CD, tout le monde grave les cédéroms. Il faut encore vérifier les copies et tenir le kiosque. Quelle décision de l’équipe règle le problème de coordination?
+
+- A. Répartir la gravure, la vérification et la vente, puis confirmer qui prend chaque tâche.
+- B. Demander au groupe de décider ensemble quels disques graver en premier.
+- C. Fixer une heure commune pour lancer la gravure.
+- D. Demander à chaque personne de choisir un disque à graver.
+
+::: {.notes}
+A. Le défi est de couvrir les rôles nécessaires au but commun. Les autres choix organisent seulement la gravure. En équipe de stage, demander quelle tâche n’a encore personne pour la prendre.
+:::
+
 ## La bienveillance dans mes recherches {#recherches-bienveillance}
 
 **Six semaines · Répartition aléatoire en trois groupes**
@@ -964,70 +1028,6 @@ Figure 4 et tableau 3. La tâche mesure les montants proposés après le program
 
 ::: {.notes}
 Environ 1 minute 30. Présenter trois extraits des journaux de lecture, sans identifiant. Les commentaires portent sur une réflexion ou une intention. Le nuage (figure 2 du préprint) indique les mots employés dans les journaux de lecture. Il sert à illustrer les thèmes abordés.
-:::
-
-## Wooclap — les obstacles et la coopération
-
-{{< include _reconnexion.qmd >}}
-
-Quatre questions · Identifier l’indice, puis proposer une modification concrète.
-
-[Passer aux évaluations à venir](#evaluations-fin)
-
-::: {.notes}
-8 minutes avec débreffage. Revenir sur l’atelier et la matière avant de conclure la séance. Repli par vote en classe avec les quatre diapositives suivantes. Passer ensuite aux évaluations à venir.
-:::
-
-## La diffusion de la responsabilité
-
-Simon comprend qu’il faut graver les cédéroms avant l’ouverture du kiosque. Il attend parce qu’il pense qu’une des neuf autres personnes qui ont reçu le message va y répondre. Quel mécanisme décrit le mieux son raisonnement?
-
-- A. L’ignorance pluraliste.
-- B. La diffusion de la responsabilité.
-- C. La crainte d’être jugé.
-- D. La norme de réciprocité.
-
-::: {.notes}
-B. Le besoin est déjà reconnu. Le frein est la prise en charge personnelle. Faire proposer une demande précise à une personne, avec confirmation et possibilité de refus.
-:::
-
-## L’ignorance pluraliste
-
-Les membres de l’équipe se demandent en privé s’il faut graver les dernières copies tout de suite. En voyant que les autres ne réagissent pas, chaque personne conclut que la situation peut attendre. Quel mécanisme décrit cette interprétation?
-
-- A. La diffusion de la responsabilité.
-- B. La crainte d’être jugé.
-- C. L’ignorance pluraliste.
-- D. Le calcul des couts de l’aide.
-
-::: {.notes}
-C. Le silence est traité comme un indice sur l’urgence. Comparer avec la question précédente. Faire ajouter au message un fait qui rend le besoin plus clair, par exemple le nombre de copies restantes et l’heure d’ouverture du kiosque.
-:::
-
-## Les conséquences de l’aide
-
-Sélina veut apprendre à graver elle-même les CD de l’album. Quelle offre l’aide à avancer tout en lui laissant le choix de ce qu’elle fait elle-même?
-
-- A. Je peux graver les disques pendant que tu tiens le kiosque.
-- B. Je peux demander à Simon de prendre la gravure en charge.
-- C. Je peux graver toutes les copies et tu vérifieras le résultat.
-- D. Veux-tu que je te montre comment graver un disque ou qu’on en grave un ensemble?
-
-::: {.notes}
-D. La proposition tient compte de son objectif et lui laisse un choix avant d’agir. Demander ce que les autres formulations changent dans son rôle. Transfert : formuler une offre équivalente en stage.
-:::
-
-## La coopération
-
-Pour la vente des CD, tout le monde grave les cédéroms. Il faut encore vérifier les copies et tenir le kiosque. Quelle décision de l’équipe règle le problème de coordination?
-
-- A. Répartir la gravure, la vérification et la vente, puis confirmer qui prend chaque tâche.
-- B. Demander au groupe de décider ensemble quels disques graver en premier.
-- C. Fixer une heure commune pour lancer la gravure.
-- D. Demander à chaque personne de choisir un disque à graver.
-
-::: {.notes}
-A. Le défi est de couvrir les rôles nécessaires au but commun. Les autres choix organisent seulement la gravure. En équipe de stage, demander quelle tâche n’a encore personne pour la prendre.
 :::
 
 ## Quiz et examen — quoi préparer? {#evaluations-fin}
