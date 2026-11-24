@@ -1,0 +1,5 @@
+.reveal .c09-paire,.reveal .c09-etapes{display:flex;gap:24px;margin:38px 0;align-items:stretch}
+.reveal .c09-paire>div,.reveal .c09-etapes>span{flex:1;padding:25px 28px;border-radius:12px;background:#edf4f8;border-top:6px solid #397693}
+.reveal .c09-paire>div:nth-child(2){background:#f8f1e8;border-color:#a46131}
+.reveal .c09-paire p{margin-bottom:0}
+.reveal .c09-etapes>span{text-align:center;font-size:.82em}

@@ -3,7 +3,7 @@ title: "Guide d’étude — Examen 3"
 ---
 
 ::: {.callout-note title="Guide cumulatif en préparation"}
-Mise à jour du **4 novembre 2026**. Les listes de notions seront ajoutées progressivement après la vérification des chapitres et des contenus réellement enseignés. Cette version ne constitue pas encore une liste exhaustive.
+Mise à jour du **22 novembre 2026**. Les listes de notions seront ajoutées progressivement après la vérification des chapitres et des contenus réellement enseignés. Cette version ne constitue pas encore une liste exhaustive.
 :::
 
 ## Repères
@@ -11,12 +11,12 @@ Mise à jour du **4 novembre 2026**. Les listes de notions seront ajoutées prog
 - Date : 15 décembre 2026.
 - Durée maximale : 120 minutes; vous pourrez remettre votre copie plus tôt.
 - Pondération : 35 % de la note finale.
-- Matière : cours 9 à 11 et chapitres 10, 11 et 13 du manuel.
+- Matière : cours 9, 10 et 12 et chapitres 10, 11 et 13 du manuel.
 - L’examen comportera 32 questions à choix multiples et 8 questions à développement très court.
 - 50 % des points proviendront du matériel du cours et 50 % du manuel. Une notion peut se trouver dans les deux sources.
 - Les liens externes et les articles cités pour approfondir ne constituent pas de la matière supplémentaire à étudier.
 
-Le programme est adapté à la suite de la grève. Le cours du 8 décembre réunira une sélection de notions sur les groupes et les relations intergroupes. **Le chapitre 12 est facultatif et ne constitue pas une lecture évaluée.** Les notions de ce thème effectivement présentées en classe et inscrites au guide pourront être évaluées comme matière du cours.
+Le programme est adapté à la suite de la grève. Le cours 11 sur les groupes est annulé. Le cours 12 du 8 décembre porte sur les relations intergroupes et inclut une sélection de notions sur les groupes. **Le chapitre 12 est facultatif et ne constitue pas une lecture évaluée.** Les notions de ce thème effectivement présentées en classe et inscrites au guide pourront être évaluées comme matière du cours.
 
 ## Ce que vous devriez pouvoir faire
 
@@ -24,7 +24,7 @@ Préparez-vous à reconnaitre et définir les concepts, à distinguer des notion
 
 ## Comment étudier le manuel efficacement
 
-Concentrez-vous d’abord sur les **termes en gras**, particulièrement ceux qui sont mis en évidence en **bleu** et qui se retrouvent souvent dans le glossaire. Vous devriez pouvoir reconnaitre ces termes, les définir dans vos mots et les distinguer d’un concept voisin.
+Concentrez-vous d’abord sur les **termes en gras**, particulièrement ceux qui sont mis en évidence en **bleu** et qui se retrouvent souvent dans le glossaire. Vous devriez pouvoir reconnaitre ces termes, les définir correctement et les distinguer d’un concept voisin.
 
 Apprenez également le nom et le sens des **théories, concepts, processus et principes centraux**, même lorsqu’ils ne correspondent pas à une entrée isolée du glossaire. Pour une étude présentée dans le chapitre, retenez surtout :
 
@@ -55,7 +55,21 @@ Les huit questions à développement très court seront réparties entre les tro
 
 **Cours 9 et chapitre 10**
 
-La liste de notions sera ajoutée au fil des prochaines séances.
+**Chapitre 10 — Lecture vérifiée**
+
+- Comportement d’aide, altruisme, motivations altruiste et égoïste.
+- Normes de réciprocité, d’équité, de responsabilité sociale et de justice. Modèles, modelage et messages.
+- Effet du passant, modèle cognitif du comportement d’aide et ses cinq étapes, diffusion de la responsabilité et calcul du passant. Repérer l’étape où l’aide se bloque dans une situation et justifier ce choix. Comprendre ce que compare l’étude par interphone et son résultat général.
+- Influences personnelles, dont sélection familiale, caractéristiques de la personne aidante et facteurs de personnalité et d’émotions.
+- Effet d’être de bonne humeur, modèle du soulagement des émotions négatives et modèle activation–cout–bénéfice.
+- Émotion empathique, détresse personnelle et modèle intégratif de Batson. Interpréter le résultat général de l’étude sur l’empathie et la possibilité de partir.
+- Modèle des attributions–émotions–comportement d’aide de Weiner.
+- Influences interpersonnelles, dont caractéristiques perçues, similarité, relation communale et intimité. Modèle du maintien de l’autoévaluation.
+- Conséquences possibles de l’aide, de l’absence d’aide et du refus d’une offre, pour les deux personnes concernées.
+
+**Cours 9 — Matière à confirmer après la séance**
+
+L’atelier prévoit l’application du modèle en cinq étapes. Comparer ce que montrent les expériences de la pièce enfumée, de l’interphone et du bon Samaritain. L’objectif prévu sur la coopération est d’expliquer le rôle de la coordination dans l’atteinte d’un but commun. La matière propre au cours et la sélection d’études présentées seront confirmées après la séance.
 
 ## Bloc 2 — L’influence sociale et le conformisme
 
@@ -65,7 +79,7 @@ La liste de notions sera ajoutée au fil des prochaines séances.
 
 ## Bloc 3 — Groupes, relations intergroupes et préjugés
 
-**Cours 11 et chapitre 13**
+**Cours 12 et chapitre 13**
 
 Le cours réunira une sélection de notions des thèmes « groupes » et « relations intergroupes ». L’identité sociale servira de lien entre ces thèmes; la polarisation de groupe sera intégrée au cours 10 sur l’influence sociale. Les notions précises et leur répartition seront confirmées après préparation et enseignement.
 

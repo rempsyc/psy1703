@@ -6,16 +6,14 @@ page-layout: full
 
 Bienvenue sur le site des diapositives du cours **PSY1703-04 — Psychologie sociale**.
 
-Le cours du **10 novembre est annulé en raison de la grève**. L’examen 2 est reporté au **17 novembre**.
-
 ## Prochaine séance
 
-### Examen 2
+### Cours 9 — Les comportements d’aide
 
-**Mardi 17 novembre 2026 · 13 h 15**<br>
+**Mardi 24 novembre 2026 · 13 h 15**<br>
 **Campus de Rimouski · Local J462**
 
-[Voir la page de l’examen 2](examens/02/index.qmd){.btn .btn-primary .btn-lg}
+[Voir la page du cours 9](cours/09/index.qmd){.btn .btn-primary .btn-lg}
 
 ## Comment utiliser ce site
 

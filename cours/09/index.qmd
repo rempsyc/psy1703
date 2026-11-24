@@ -1,0 +1,44 @@
+---
+title: "Cours 9 — Les comportements d’aide"
+subtitle: "Altruisme, effet du passant et coopération"
+pagetitle: "Cours 9 — Les comportements d’aide"
+description: "Ressources et diapositives — Cours 9 — Les comportements d’aide · PSY1703, psychologie sociale · UQAR."
+open-graph:
+  title: "PSY1703 — Psychologie sociale — Cours 9 — Les comportements d’aide"
+  description: "Ressources et diapositives — Cours 9 — Les comportements d’aide · PSY1703, psychologie sociale · UQAR."
+  site-name: "PSY1703 — Psychologie sociale"
+  image: "assets/titre-adobe-487071213.jpg"
+  image-alt: "Des bénévoles en chandail vert préparent et distribuent des dons dans un centre communautaire."
+twitter-card:
+  title: "PSY1703 — Psychologie sociale — Cours 9 — Les comportements d’aide"
+  description: "Ressources et diapositives — Cours 9 — Les comportements d’aide · PSY1703, psychologie sociale · UQAR."
+  image: "assets/titre-adobe-487071213.jpg"
+  image-alt: "Des bénévoles en chandail vert préparent et distribuent des dons dans un centre communautaire."
+  card-style: summary_large_image
+---
+
+**24 novembre 2026** · Lecture : chapitre 10 du manuel de Vallerand.
+
+::: {.callout-note title="Première version"}
+Diapositives mises à jour le 23 novembre 2026.
+:::
+
+[Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+
+## À retenir
+
+- Distinguer un comportement d’aide et les motivations proposées pour l’expliquer.
+- Repérer les obstacles situationnels et relationnels à l’aide.
+- Organiser une aide et une coopération adaptées au besoin.
+
+## Pour participer
+
+Apportez un appareil chargé pour Wooclap et les quiz évalués obligatoires.
+
+Le quiz 7 du 24 novembre porte sur le **cours 8 et le chapitre 9** : 8 questions, 10 minutes, 1,25 %. Les huit meilleurs quiz sur neuf comptent pour 10 %.
+
+## Après le cours
+
+Prochaine lecture : chapitre 11 — L’influence sociale. Le quiz 8 du 1er décembre porte sur le cours 9 et le chapitre 10.
+
+[Guide d’étude de l’examen 3](../../examens/03/guide.qmd)

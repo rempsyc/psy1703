@@ -6,7 +6,7 @@ toc: false
 Le plan de cours officiel de **PSY1703-04 — Psychologie sociale**, automne 2026, est disponible ci-dessous.
 
 ::: {.callout-important title="Adaptations liées à la grève — automne 2026"}
-Le cours du 10 novembre est annulé et l’examen 2 est reporté au 17 novembre. Les trois derniers cours auront lieu les 24 novembre, 1er et 8 décembre; les groupes et les relations intergroupes seront réunis dans le dernier cours. Les lectures obligatoires de ce dernier bloc sont les chapitres 10, 11 et 13; le chapitre 12 est facultatif. Le quiz 10 est supprimé : les **8 meilleurs quiz sur 9** comptent pour **10 %** de la note finale. L’examen 3 reste prévu le 15 décembre. Consultez le [calendrier adapté](calendrier.qmd) et le [guide cumulatif de l’examen 3](examens/03/guide.qmd).
+Le cours du 10 novembre est annulé et l’examen 2 est reporté au 17 novembre. Le cours 9 aura lieu le 24 novembre, le cours 10 le 1er décembre et le cours 12 le 8 décembre. Le cours 11 sur les groupes est annulé. Certaines notions sur les groupes sont intégrées aux cours 10 et 12. Les lectures obligatoires de ce dernier bloc sont les chapitres 10, 11 et 13; le chapitre 12 est facultatif. Le quiz 10 est supprimé : les **8 meilleurs quiz sur 9** comptent pour **10 %** de la note finale. L’examen 3 reste prévu le 15 décembre et porte sur les cours 9, 10 et 12 et les chapitres 10, 11 et 13. Consultez le [calendrier adapté](calendrier.qmd) et le [guide cumulatif de l’examen 3](examens/03/guide.qmd).
 :::
 
 ::: {.callout-note title="Durée de l’examen final"}

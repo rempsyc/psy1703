@@ -1,0 +1,12 @@
+::: {.columns}
+::: {.column width="58%"}
+Scannez le **code QR**, ou ouvrez [Wooclap](https://app.wooclap.com/RDCXFGC){target="_blank" rel="noopener noreferrer"}.
+
+**Code de l’évènement : RDCXFGC**
+
+Gardez cet onglet ouvert pour les rondes et les propositions de pause.
+:::
+::: {.column width="42%"}
+[![](assets/wooclap-activites-qr.png){fig-alt="Code QR Wooclap RDCXFGC" width="420"}](https://app.wooclap.com/RDCXFGC){target="_blank" rel="noopener noreferrer"}
+:::
+:::
