@@ -238,32 +238,31 @@ Faire comparer les couts et les bénéfices anticipés de chacune des trois poss
 
 ## Les normes et le comportement d’aide
 
-**Réciprocité :** rendre l’aide reçue.
+Les **normes sociales** sont des attentes partagées à propos de ce qu’on devrait faire dans une situation.
 
-**Responsabilité sociale :** aider une personne qui dépend de notre aide, même sans retour attendu.
-
-Manolo aide à préparer le kiosque avec Mariane après qu’elle l’a aidé à monter sa vidéo.
-
-Simon montre à une personne qui vient aider à la vente comment faire fonctionner le kiosque.
-
-**Équité** — corriger un déséquilibre perçu. **Justice** — aider selon ce qu’on juge mérité.
+- **Réciprocité :** rendre l’aide reçue.
+- **Responsabilité sociale :** aider une personne qui dépend de notre aide, même sans retour attendu.
+- **Équité :** corriger un déséquilibre dans la contribution ou les bénéfices des personnes.
+- **Justice :** apporter de l’aide selon ce qu’on estime que la personne mérite.
 
 ::: {.notes}
-Manuel p. 302–303 et glossaire p. 446. Équité : après une répartition inégale des copies à graver, rééquilibrer le travail. Justice : discuter du jugement selon lequel une personne mérite ou non de recevoir de l’aide et de ses effets. Faire relever l’indice : aide passée dans le premier cas; besoin et absence de retour attendu dans le second. Les normes sont des attentes sociales, pas des garanties d’action. Modifier le premier cas : aucune aide passée, mais la personne ne sait pas graver seule. Le mécanisme à proposer change. En stage, clarifier les responsabilités de l’équipe plutôt que supposer qu’une dette personnelle assure la continuité du service.
+Manuel p. 302–303 et glossaire p. 446. Présenter les quatre normes comme des attentes sociales qui peuvent orienter l’aide. Passer au tableau suivant pour illustrer chacune à partir du même projet de vente des CD.
 :::
 
 
 ## Les normes d’aide en comparaison
 
-| Norme | Indice à rechercher | Exemple pour la vente des CD |
-|---|---|---|
-| **Réciprocité** | Un service a déjà été rendu. | Simon aide Sélina en retour de son aide pour une vidéo. |
-| **Responsabilité sociale** | La personne dépend du coup de main. | Simon montre à une nouvelle personne comment tenir le kiosque. |
-| **Équité** | La répartition parait déséquilibrée. | On redistribue les copies à graver pour répartir la charge. |
-| **Justice** | Le geste dépend de ce qu’on juge mérité. | Une personne décide qui mérite qu’on l’aide à rattraper son retard. |
+Dans nos exemples, Sélina et ses amis préparent des CD pour la vente de la classe-neige.
+
+| Norme | Exemple |
+|---|---|
+| **Réciprocité** | Sélina a aidé Simon à monter une vidéo. Simon l’aide à graver les CD pour lui rendre ce service. |
+| **Responsabilité sociale** | Mariane ne sait pas utiliser le logiciel de gravure. Simon l’aide parce qu’elle a besoin de lui, sans attendre de retour. |
+| **Équité** | Sélina doit graver 30 CD et Simon seulement 10. Simon prend en charge 10 des CD de Sélina pour rééquilibrer leur travail. |
+| **Justice** | Une panne a retardé la gravure des CD de Sélina. Manolo estime qu’elle mérite de l’aide et vient lui donner un coup de main. |
 
 ::: {.notes}
-Faire comparer les raisons d’aider, en gardant le même objectif de vente. Donner un indice à changer pour passer de la réciprocité à la responsabilité sociale. Pour la justice, distinguer jugement de mérite et véritable besoin. Comparer l’équité, qui porte ici sur la répartition du travail. Le même geste peut correspondre à plus d’une norme selon les raisons données.
+Faire comparer les quatre raisons d’aider en gardant le même projet de vente. L’aide reçue auparavant illustre la réciprocité. La dépendance au soutien de Simon illustre la responsabilité sociale. La charge de travail initialement inégale illustre l’équité. Le jugement de Manolo sur le mérite de Sélina illustre la justice. Si Manolo pensait que le retard était dû à un choix de Sélina, son jugement de mérite pourrait changer. Le même geste peut correspondre à plusieurs normes selon les raisons données.
 :::
 
 ## Les modèles et l’apprentissage de l’aide
