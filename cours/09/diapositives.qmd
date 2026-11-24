@@ -358,20 +358,32 @@ Annoncer oralement l’heure de retour. Prévoir la question ouverte Wooclap : r
 
 L’**effet du passant** désigne une diminution possible de l’aide individuelle en présence d’autres témoins.
 
-**La présence d’autres personnes peut changer ce que chacun interprète et prend en charge.**
+Dans notre scénario, Sélina écrit au groupe qui prépare les CD pour la classe-neige :
 
-Dans le clavardage de l’équipe, dix lectures du message ne donnent pas dix engagements.
+> « Je ne pourrai pas finir de graver les CD seule avant 16 h. Est-ce que quelqu’un peut venir? »
+
+**Dix personnes ont vu le message. Personne ne répond.**
 
 ::: {.notes}
-Faire prédire ce que la présence d’autres témoins peut changer. Ce cas numérique est une application à discuter, pas une réplication de laboratoire. Éviter la règle absolue « plus il y a de monde, jamais d’aide ». Ne pas confondre probabilité qu’une personne aide et probabilité qu’au moins une aide apparaisse dans un groupe. Manuel p. 306–309, figure 10.3 et glossaire p. 442. Dans l’étude par interphone, une voix semble faire un malaise. La personne qui se croit l’unique autre auditrice signale plus souvent et plus vite le problème que celles qui croient que d’autres l’entendent. Les personnes sont isolées et ne voient pas la réaction des autres : faire expliquer pourquoi cette comparaison illustre la diffusion de responsabilité. Aucun chiffre à mémoriser. En situation dangereuse, la présence d’autres personnes peut aussi fournir un appui.
+Introduire le scénario fictif qui sera repris dans les diapositives suivantes et dans l’atelier. Demander ce qui pourrait changer si Sélina envoyait la demande à une seule personne plutôt qu’à tout le groupe. Distinguer la probabilité qu’un témoin intervienne et la probabilité qu’au moins une personne dans un groupe intervienne. Manuel p. 306–309 et glossaire p. 442. Expliquer que la présence d’autres personnes peut influencer notre interprétation du besoin et notre sentiment de responsabilité personnelle. Passer à l’expérience à l’interphone pour illustrer ce dernier mécanisme.
 :::
 
 ## L’effet du passant à l’interphone
 
-<div class="c09-paire"><div><strong>Une seule autre personne à l’écoute</strong><p>Je pense être la seule personne à entendre la demande.</p></div><div><strong>Plusieurs autres à l’écoute</strong><p>Je crois que d’autres entendent la même demande.</p></div></div>
+Dans l’expérience de Darley et Latané, les participants discutent à l’interphone depuis des pièces séparées. Ils entendent une personne qui semble faire un malaise et qui demande de l’aide.
+
+<div class="c09-paire"><div><strong>Seul témoin</strong><p>Je crois être la seule personne à entendre le malaise.</p></div><div><strong>Plusieurs témoins</strong><p>Je crois qu’une ou quatre autres personnes l’entendent aussi.</p></div></div>
+
+::: {.fragment}
+**Résultat :** le signalement du malaise est moins fréquent et plus lent lorsque d’autres témoins sont supposés être à l’écoute.
+:::
+
+::: {.credit}
+Darley et Latané (1968) · [Article original](https://pubmed.ncbi.nlm.nih.gov/5645600/) · Manuel, p. 306–309.
+:::
 
 ::: {.notes}
-Prédire quel groupe signalera le plus souvent et le plus vite la situation avant de rappeler le résultat général de l’étude (manuel p. 306–309). Les personnes sont isolées et ne peuvent pas voir le calme d’autrui. La manipulation permet de tester ce qui change quand la responsabilité peut paraitre partagée.
+Avant d’afficher le résultat, demander dans quelle condition les participants signaleront plus souvent et plus vite le malaise à l’expérimentateur. Le malaise est simulé par un enregistrement; les participants croient l’entendre en direct. Ils sont isolés et ne voient pas les autres réactions. Faire le lien avec la diffusion de la responsabilité, puis revenir à Sélina : la demande est reconnue, mais chacun peut penser qu’un autre membre du groupe va y répondre. Aucun chiffre à mémoriser.
 :::
 
 ## La diffusion de la responsabilité
