@@ -432,6 +432,9 @@ Ici l’interprétation de la situation est centrale. Reprendre le message : « 
 
 <div class="c09-paire"><div><strong>Une pièce enfumée</strong><p>Les autres restent assis. Y a-t-il vraiment un problème?</p></div><div><strong>Un appel à l’interphone</strong><p>Le besoin est clair. Est-ce à moi de m’en occuper?</p></div></div>
 
+- **Ignorance pluraliste** — [Latané et Darley (1968)](https://pubmed.ncbi.nlm.nih.gov/5704479/) : la fumée est moins souvent signalée en présence de personnes passives que lorsqu’on est seul.
+- **Diffusion de la responsabilité** — [Darley et Latané (1968)](https://pubmed.ncbi.nlm.nih.gov/5645600/) : le malaise est moins souvent signalé lorsque d’autres personnes sont censées l’entendre aussi.
+
 ::: {.notes}
 Dans l’expérience de Latané et Darley (1968), les personnes seules signalaient la fumée plus souvent que celles entourées de comparses qui restaient passifs. Comparer ce résultat avec l’expérience de l’interphone. Demander quel obstacle chacune des deux phrases illustre. Au retour au clavardage, rendre le besoin clair agit sur l’interprétation. Une demande adressée avec confirmation agit sur la prise en charge.
 :::
