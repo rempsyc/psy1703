@@ -30,7 +30,7 @@ Le calendrier ci-dessous sert d'accès aux diapositives. Le [plan de cours offic
 
 Le numéro du quiz ne correspond pas au numéro du chapitre. Le tableau indique uniquement la matière évaluée au quiz. Les chapitres indiqués ci-dessous proviennent du manuel de Vallerand.
 
-| Quiz | Date de passation | Matière évaluée au quiz |
+| Quiz | Passation | Matière évaluée au quiz |
 |---|---|---|
 | Quiz 1 | 15 septembre | **Cours 1–2 et chapitres 1–2** |
 | Quiz 2 | 22 septembre | **Cours 3 et chapitre 3** |
@@ -38,10 +38,12 @@ Le numéro du quiz ne correspond pas au numéro du chapitre. Le tableau indique 
 | Quiz 4 | 13 octobre | **Cours 5 et chapitre 5** |
 | Quiz 5 | 20 octobre | **Cours 6 et chapitre 6** |
 | Quiz 6 | 3 novembre | **Cours 7 et chapitre 8** |
-| Quiz 7 | 24 novembre | **Cours 8 et chapitre 9** |
-| Quiz 8 | 1er décembre | **Cours 9 et chapitre 10** |
-| Quiz 9 | 8 décembre | **Cours 10 et chapitre 11** |
+| Quiz 7 | 24 novembre · cours 9 | **Cours 8 et chapitre 9** |
+| Quiz 8 | 1er décembre · cours 10 | **Cours 9 et chapitre 10** |
+| Quiz 9 | 8 décembre · cours 12 | **Cours 10 et chapitre 11** |
 
+
+Le cours 11 sur les groupes est annulé. Le quiz 9 est maintenu le 8 décembre, au début du cours 12.
 
 **Le quiz 10 est supprimé en raison de la grève. Les 8 meilleurs quiz sur 9 comptent pour 10 % de la note finale (1,25 % chacun).**
 

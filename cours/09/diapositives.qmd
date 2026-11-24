@@ -57,9 +57,7 @@ twitter-card:
 
 ## Quiz de lecture 7 — 1,25 %
 
-**Cours 8 et chapitre 9 — L’agression**
-
-8 questions · **10 minutes** · Travail individuel
+**Cours 8 et chapitre 9 · 8 questions · 10 minutes · Travail individuel**
 
 {{< include ../_minuterie.qmd >}}
 
