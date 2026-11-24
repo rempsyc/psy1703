@@ -1,0 +1,2733 @@
+<!DOCTYPE html>
+<html lang="fr-CA"><head>
+<link href="../../assets/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.11.9">
+
+  <meta name="author" content="Rémi Thériault">
+  <title>PSY1703 — Psychologie sociale – Cours 9 — Les comportements d’aide</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-ecf95ce5bef098ae4da9162d76d7af87.css">
+  <link rel="stylesheet" href="../../_themes/title-photo.css">
+  <link rel="stylesheet" href="assets/rythme-visuel.css">
+  <link rel="stylesheet" href="assets/diffusion-responsabilite.css">
+  <link rel="stylesheet" href="assets/modele-aide.css">
+  <link rel="stylesheet" href="assets/naruto-gifs.css">
+  <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+  <script>
+  // Conserver le lien demandé avant l’activation automatique du mode défilement.
+  (() => {
+    const initialHash = window.location.hash;
+    if (!initialHash || initialHash === '#' || initialHash === '#/') return;
+    let interacted = false;
+    for (const event of ['pointerdown', 'touchstart', 'wheel', 'keydown']) {
+      window.addEventListener(event, () => { interacted = true; }, { once: true, passive: true });
+    }
+    function restoreRequestedSlide() {
+      const deck = window.Reveal;
+      if (interacted || !deck || !deck.isScrollView()) return;
+      let indices;
+      let target;
+      const numeric = initialHash.match(/^#\/(\d+)(?:\/(\d+))?(?:\/(\d+))?$/);
+      if (numeric) {
+        const base = deck.getConfig().hashOneBasedIndex ? 1 : 0;
+        indices = { h: Number(numeric[1]) - base, v: Number(numeric[2] || base) - base };
+        target = Array.from(document.querySelectorAll('.slides section[data-index-h]')).find(
+          slide => Number(slide.dataset.indexH) === indices.h && Number(slide.dataset.indexV || 0) === indices.v
+        );
+      } else {
+        let id;
+        try { id = decodeURIComponent(initialHash.replace(/^#\/?/, '').split('/')[0]); }
+        catch (_) { return; }
+        target = document.getElementById(id)?.closest('.slides section');
+        if (!target) return;
+        indices = deck.getIndices(target);
+      }
+      const page = target?.closest('.scroll-page');
+      const viewport = deck.getViewportElement();
+      if (!page || !viewport) return;
+      // Viser la page réelle : le calcul proportionnel de Reveal peut tomber
+      // dans la page précédente après l’arrondi et le scroll-snap.
+      viewport.scrollTop += page.getBoundingClientRect().top - viewport.getBoundingClientRect().top;
+    }
+    window.addEventListener('load', () => {
+      // Attendre le layout final et la restauration de position de Reveal.
+      const restore = () => requestAnimationFrame(() => requestAnimationFrame(restoreRequestedSlide));
+      if (window.Reveal?.isReady()) restore();
+      else window.Reveal?.on('ready', restore);
+    }, { once: true });
+  })();
+  </script>
+<meta property="og:title" content="PSY1703 — Psychologie sociale — Cours 9 — Les comportements d’aide">
+<meta property="og:description" content="Diapositives — Cours 9 — Les comportements d’aide · PSY1703, psychologie sociale · UQAR.">
+<meta property="og:image" content="https://rempsyc.github.io/psy1703/cours/09/assets/titre-adobe-487071213.jpg">
+<meta property="og:site_name" content="PSY1703 — Psychologie sociale">
+<meta property="og:image:alt" content="Des bénévoles en chandail vert préparent et distribuent des dons dans un centre communautaire.">
+<meta property="og:image:height" content="1067">
+<meta property="og:image:width" content="1600">
+<meta name="twitter:title" content="PSY1703 — Psychologie sociale — Cours 9 — Les comportements d’aide">
+<meta name="twitter:description" content="Diapositives — Cours 9 — Les comportements d’aide · PSY1703, psychologie sociale · UQAR.">
+<meta name="twitter:image" content="https://rempsyc.github.io/psy1703/cours/09/assets/titre-adobe-487071213.jpg">
+<meta name="twitter:image:alt" content="Des bénévoles en chandail vert préparent et distribuent des dons dans un centre communautaire.">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="image-title center">
+  <div class="cover-copy">
+  <h1 class="title">Psychologie sociale</h1>
+  <p class="subtitle">Cours 9 — Les comportements d’aide</p>
+  <p class="author">Rémi Thériault</p>
+  <p class="institute">UQAR — PSY1703-04</p>
+  <p class="date">24 novembre 2026</p>
+  </div>
+  <figure class="cover-photo">
+    <img src="assets/titre-adobe-487071213.jpg" alt="Des bénévoles en chandail vert préparent et distribuent des dons dans un centre communautaire." style="object-position:42% 50%;object-fit:cover;">
+    <figcaption><a href="https://stock.adobe.com/ca/487071213" target="_blank" rel="noopener noreferrer">Adobe Stock · 487071213</a></figcaption>
+  </figure>
+</section>
+<section id="quiz-de-lecture-7-125" class="slide level2">
+<h2>Quiz de lecture 7 — 1,25 %</h2>
+<p><strong>Cours 8 et chapitre 9 — L’agression</strong></p>
+<p>8 questions · <strong>10 minutes</strong> · Travail individuel</p>
+<div class="quiz-timer" role="timer" aria-live="polite">
+  <div class="quiz-timer-display">10:00</div>
+  <div class="quiz-timer-controls">
+    <button class="quiz-timer-start" type="button">Démarrer</button>
+    <button class="quiz-timer-pause" type="button" disabled="">Pause</button>
+    <button class="quiz-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+<style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
+.quiz-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 390px;
+  text-align: center;
+  padding: 0.28rem 0.45rem 0.35rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.35rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+  z-index: 10;
+}
+
+.quiz-timer-display {
+  color: #123b5d;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.quiz-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-timer-controls button {
+  margin: 0;
+  padding: 0.22rem 0.45rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.quiz-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.quiz-timer.warning {
+  border-color: #c62828;
+}
+
+.quiz-timer.warning .quiz-timer-display {
+  color: #c62828;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 10 * 60 * 1000;
+  document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    if (timer.dataset.initialized === "true") return;
+    timer.dataset.initialized = "true";
+    const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
+    const display = timer.querySelector(".quiz-timer-display");
+    const startButton = timer.querySelector(".quiz-timer-start");
+    const pauseButton = timer.querySelector(".quiz-timer-pause");
+    const resetButton = timer.querySelector(".quiz-timer-reset");
+    let state = { running: false, remaining: duration, end: null };
+
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved && typeof saved.remaining === "number") state = saved;
+    } catch (_) {}
+
+    function remainingNow() {
+      return state.running && state.end
+        ? Math.max(0, state.end - Date.now())
+        : Math.max(0, state.remaining);
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
+    function render() {
+      const remaining = remainingNow();
+      const totalSeconds = Math.ceil(remaining / 1000);
+      const minutes = Math.floor(totalSeconds / 60);
+      const seconds = totalSeconds % 60;
+      display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      timer.classList.toggle("warning", remaining <= 2 * 60 * 1000);
+      startButton.disabled = state.running || remaining === 0;
+      startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+      pauseButton.disabled = !state.running;
+
+      if (state.running && remaining === 0) {
+        state = { running: false, remaining: 0, end: null };
+        save();
+      }
+    }
+
+    startButton.addEventListener("click", () => {
+      const remaining = remainingNow();
+      state = { running: true, remaining, end: Date.now() + remaining };
+      save();
+      render();
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state = { running: false, remaining: remainingNow(), end: null };
+      save();
+      render();
+    });
+
+    resetButton.addEventListener("click", () => {
+      state = { running: false, remaining: duration, end: null };
+      save();
+      render();
+    });
+
+    render();
+    window.setInterval(render, 250);
+  });
+});
+</script>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/TZSACKH" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : TZSACKH</strong></p>
+<p>Utilisez votre identifiant UQAR selon les consignes.</p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/TZSACKH" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-quiz-tzsackh.png" alt="Code QR Wooclap TZSACKH" width="420"></a></p>
+</div></div>
+<aside class="notes">
+<p>Vérifier l’identification UQAR et la connexion avant de lancer les dix minutes. Le code du quiz est TZSACKH. Les activités et les pauses utilisent RDCXFGC. Les huit meilleurs quiz sur neuf comptent pour 10 %. Prévoir le secours autorisé en cas de difficulté technique; ne pas improviser une nouvelle modalité de notation.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="quiz-et-examen-quoi-préparer" class="slide level2">
+<h2>Quiz et examen — quoi préparer?</h2>
+<p><strong>Cours 11 annulé (grève étudiante) · Chapitre 12 facultatif et exclu de l’examen.</strong></p>
+<p><strong>Quiz 8 · 1er décembre · 1,25 %</strong></p>
+<p>Cours 9 et chapitre 10 — Les comportements d’aide.</p>
+<p>8 questions · 10 minutes · Les 8 meilleurs quiz sur 9 : <strong>10 %</strong>.</p>
+<p><strong>Examen 3 · 15 décembre · 35 % · 120 minutes maximum</strong></p>
+<p>Cours 9, 10 et 12 · Chapitres 10, 11 et 13 · 32 QCM et 8 réponses courtes.</p>
+<p><strong>50 % cours / 50 % manuel · 56 points.</strong></p>
+<aside class="notes">
+<p>Distinguer la lecture du jour du périmètre du quiz qui vient de se terminer. Le cours 12 est maintenu le 8 décembre. Le quiz 9 aura lieu ce jour-là et portera sur le cours 10 et le chapitre 11. Certaines notions sur les groupes seront abordées aux cours 10 et 12 et pourront être évaluées comme matière du cours si elles figurent au guide d’étude. Rappeler carte étudiante, matériel d’écriture et identifiant UQAR pour l’examen. Les mesures individuelles confirmées s’appliquent.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="retour-examen-2" class="slide level2">
+<h2>Connectez-vous à Wooclap</h2>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : RDCXFGC</strong></p>
+<p>Gardez cet onglet ouvert pour les rondes et les propositions de pause.</p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap RDCXFGC" width="420"></a></p>
+</div></div>
+<p><strong>Examen 2</strong> · Deux estimations, puis les résultats de la classe.</p>
+<aside class="notes">
+<p>4 minutes. Dans Wooclap uniquement : faire estimer la médiane, puis le maximum; afficher ensuite la diapositive descriptive préparée pour l’évènement. Ne pas projeter la note minimale ni des copies individuelles.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="plan-de-la-séance" class="slide level2">
+<h2>Plan de la séance</h2>
+<ol type="1">
+<li><strong>L’aide, l’altruisme et les motivations</strong></li>
+<li><strong>Les témoins et les obstacles à l’aide</strong></li>
+<li><strong>La coopération et les conséquences de l’aide</strong></li>
+</ol>
+<p><strong>Pour commencer :</strong> voir une personne en difficulté suffit-il pour l’aider?</p>
+<aside class="notes">
+<p>Fil conducteur : les prolongements fictifs du projet de cédérom de Sélina au profit d’une activité scolaire. Comprendre pourquoi un geste ne révèle pas tout son motif, puis comment une organisation peut faciliter une aide utile. Présenter les cas comme des prolongements inventés à partir du projet de cédérom, sans récit personnel demandé. Possibilité de réfléchir par écrit avant le partage.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lentraide" class="slide level2">
+<h2>L’entraide</h2>
+<iframe id="ramdam-entraide" width="1450" height="540" src="https://www.youtube.com/embed/tATPusr2qtU?start=0&amp;end=91&amp;rel=0" title="Ramdam — Surprise, surprise… : l’entraide" allow="autoplay; fullscreen; encrypted-media" allowfullscreen=""></iframe>
+<div style="margin-top:12px">
+<button type="button" onclick="document.getElementById('ramdam-entraide').src='https://www.youtube.com/embed/tATPusr2qtU?start=0&amp;end=91&amp;autoplay=1&amp;rel=0'" style="font:inherit;font-size:26px;padding:8px 18px;cursor:pointer">Rejouer</button>
+</div>
+<div class="credit">
+<p>Ramdam · saison 1, épisode 39 · <em>Surprise, surprise…</em> · 0:18–1:27 · <a href="https://www.youtube.com/watch?v=tATPusr2qtU&amp;t=18s" target="_blank" rel="noopener noreferrer">Ouvrir la vidéo</a>.</p>
+</div>
+<aside class="notes">
+<p>Avant de lancer : « Sélina veut vendre des copies de l’album de l’école et verser la moitié des recettes au comité qui finance la classe-neige, une sortie scolaire d’hiver. Elle a de la difficulté à graver le disque. Que pourrait faire Manolo pour l’aider? » Recueillir une ou deux prédictions. Pendant la scène, repérer ce qu’il offre de faire et comment Sélina réagit. Après : il vérifie le branchement et propose de graver les CD. Sélina accepte de lui confier le travail. Décrire l’offre avant de discuter de ses motivations. Que faudrait-il entendre ou observer pour savoir ce qui l’amène à aider? Distinguer l’offre montrée de la suite de l’épisode. Transfert : « Dans un travail d’équipe, comment vérifier si la personne veut qu’on lui montre la marche à suivre, qu’on le fasse ensemble ou qu’on prenne la tâche en charge? » Si le lecteur ne démarre pas, ouvrir le lien à 0:18 ou raconter l’offre et la réponse de Sélina.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-comportements-prosociaux-et-laide" class="slide level2">
+<h2>Les comportements prosociaux et l’aide</h2>
+<p>Un <strong>comportement prosocial</strong> vise à bénéficier à autrui.</p>
+<p>Le <strong>comportement d’aide</strong> est un geste social posé au bénéfice d’une autre personne.</p>
+<p><strong>Dans l’extrait :</strong> Sélina veut vendre des CD de l’album de l’école pour contribuer au financement de la classe-neige. Manolo lui propose de les graver.</p>
+<p>Que voit-on? Que faudrait-il demander à Sélina?</p>
+<aside class="notes">
+<p>Manuel p.&nbsp;301 et glossaire p.&nbsp;440. « Prosocial » fournit un repère général dans le cours. Préciser que le chapitre définit surtout l’aide et l’altruisme. Observer l’offre et vérifier le besoin. Sélina pourrait avoir besoin qu’on lui montre comment graver une copie. Demander « Qu’est-ce qui t’aiderait maintenant? ». Relier à la distinction soutien instrumental/informationnel du cours 7 sans ajouter une taxonomie. Faire raconter brièvement la scène, puis passer du geste observable à la question du motif sur la diapositive suivante. Annoncer que les exemples qui suivent sont des variantes fictives.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="laltruisme-et-les-motivations" class="slide level2">
+<h2>L’altruisme et les motivations</h2>
+<p>L’<strong>altruisme</strong> est une conduite au bénéfice d’autrui sans récompense attendue. Une <strong>motivation altruiste</strong> vise le bien d’autrui.</p>
+<p><strong>Même geste : graver les cédéroms.</strong></p>
+<ul>
+<li>« Je veux que Sélina puisse livrer ses cédéroms à temps. »</li>
+<li>« Je veux qu’on me remarque pour mon engagement. »</li>
+<li>« Je veux qu’elle m’aide à monter ma prochaine vidéo. »</li>
+</ul>
+<p>Le geste est visible; le but demande d’autres indices.</p>
+<aside class="notes">
+<p>Éviter d’inférer une motivation pure d’un seul comportement. Manuel p.&nbsp;301, 316–317 et glossaire p.&nbsp;438 et 446. Montrer la distinction entre conduite et but. Le chapitre distingue une aide motivée par le bien de la personne et une aide motivée par un bénéfice pour soi. Les motifs peuvent coexister. Un bénéfice personnel après l’aide ne suffit pas à montrer que ce bénéfice était le but initial. Transfert professionnel : reconnaitre une aide utile sans prétendre lire les intentions de la personne qui la donne.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-motivations-et-le-choix-daider" class="slide level2">
+<h2>Les motivations et le choix d’aider</h2>
+<p><strong>Variante fictive :</strong> Mariane et Simon aident Sélina à préparer la vente des CD pour la classe-neige.</p>
+<div class="c09-paire">
+<div>
+<strong>En privé</strong>
+<p>
+Manolo grave des copies avant que Mariane et Simon arrivent.
+</p>
+</div>
+<div>
+<strong>Devant les autres</strong>
+<p>
+Manolo grave les mêmes copies sous leurs yeux.
+</p>
+</div>
+</div>
+<aside class="notes">
+<p>Faire prédire ce qui changerait si l’objectif était d’être remarqué, puis si l’objectif était que le matériel soit prêt. Les deux versions gardent la même tâche et le même besoin. Seule la présence de Mariane et Simon change. L’indice probant est le changement de conduite lorsque la reconnaissance est retirée alors que le besoin demeure comparable. Prépare la ronde 1.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lempathie-et-la-détresse-personnelle" class="slide level2">
+<h2>L’empathie et la détresse personnelle</h2>
+<p>Une <strong>émotion empathique</strong> est une réaction de compassion qui correspond à ce que vit autrui.</p>
+<p>La <strong>détresse personnelle</strong> est un malaise centré sur sa propre réaction à la souffrance observée.</p>
+<p>Sélina semble dépassée :</p>
+<ul>
+<li>Chercher ce qui pourrait lui être utile.</li>
+<li>Vouloir surtout ne plus ressentir ce malaise.</li>
+</ul>
+<aside class="notes">
+<p>Manuel p.&nbsp;315–317 et glossaire p.&nbsp;442. Dans le modèle intégratif de Batson, la détresse personnelle peut pousser à soulager son propre malaise et l’émotion empathique peut pousser à soulager autrui. Les deux réactions peuvent conduire à aider; le comportement seul ne les départage pas. Faire comparer les buts : soulager la situation de Sélina ou soulager son propre inconfort. Si une personne quitte la scène, plusieurs explications restent possibles; ne pas conclure qu’elle manque d’empathie. Aucune confidence demandée.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lempathie-et-la-possibilité-de-partir" class="slide level2">
+<h2>L’empathie et la possibilité de partir</h2>
+<p>Une personne reçoit une demande d’aide.</p>
+<p><strong>Deux questions pour prédire :</strong></p>
+<ol type="1">
+<li>Se représente-t-elle ce que vit la personne?</li>
+<li>Peut-elle facilement quitter la situation?</li>
+</ol>
+<p>Si le but est le bien d’autrui, partir règle-t-il le problème?</p>
+<aside class="notes">
+<p>Faire prédire les quatre conditions du tableau 10.2 avant de montrer la figure. Dans l’expérience de Batson et ses collègues, des personnes observent une autre personne censée recevoir des chocs. On leur offre de prendre sa place. L’empathie est suscitée à des degrés différents et partir est facile ou difficile selon la condition. Manuel p.&nbsp;316–317. Aucune mise en scène de chocs en classe.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lempathie-et-la-décision-daider" class="slide level2">
+<h2>L’empathie et la décision d’aider</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="assets/batson-aide.png" alt="Barres comparant la proportion d’aide selon le niveau d’empathie et la possibilité de partir." height="560"></p>
+<figcaption>Lorsque partir est facile, l’aide est nettement moins fréquente avec une faible empathie qu’avec une empathie élevée. Lorsque partir est difficile, l’écart est plus faible.</figcaption>
+</figure>
+</div>
+<div class="credit">
+<p>Batson et coll. (1981), résultats rapportés dans le manuel, tableau 10.2, p.&nbsp;317.</p>
+</div>
+<aside class="notes">
+<p>Comparer d’abord facile et difficile dans les barres d’empathie faible, puis refaire la comparaison à empathie élevée. Quand partir est facile, s’éloigner peut suffire à réduire sa propre détresse. Si le but est de soulager autrui, partir laisse son problème entier. Le profil est compatible avec deux motivations et ne révèle pas le motif de chaque personne. Aucun chiffre à mémoriser. Transfert : pour comprendre une offre d’aide, regarder si elle répond au besoin exprimé même quand on pourrait simplement s’éloigner.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lhumeur-et-le-calcul-des-couts" class="slide level2">
+<h2>L’humeur et le calcul des couts</h2>
+<ul>
+<li><strong>Effet d’être de bonne humeur</strong> — Dans plusieurs situations, une humeur positive favorise l’aide.</li>
+<li><strong>Soulagement des émotions négatives</strong> — Aider peut atténuer son propre malaise.</li>
+<li><strong>Activation–cout–bénéfice</strong> — En situation d’urgence, l’activation ressentie et les couts anticipés orientent la façon d’y répondre.</li>
+</ul>
+<p>Pour la vente des CD, qu’est-ce qui change si aider prend cinq minutes ou tout l’après-midi?</p>
+<aside class="notes">
+<p>Manuel p.&nbsp;309 et 313–315, glossaire p.&nbsp;438, 440, 442 et 445. Le chapitre distingue le soulagement de son humeur, l’activation suscitée par l’urgence et le calcul du passant. Pour ce dernier, comparer aussi le cout de ne pas aider pour soi et pour la personne qui a besoin d’aide. Expliquer que l’humeur négative peut encourager ou freiner l’aide selon les circonstances. Variante rapide : une personne en retard peut relayer la demande à quelqu’un de disponible. Faire nommer ce que cette solution change pour les deux personnes.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-couts-pour-la-personne-aidante-et-pour-autrui" class="slide level2">
+<h2>Les couts pour la personne aidante et pour autrui</h2>
+<div class="c09-paire">
+<div>
+<strong>Intervenir directement</strong>
+<p>
+Impossible de rester après 15 h.
+</p>
+</div>
+<div>
+<strong>Relayer la demande</strong>
+<p>
+Une autre personne est libre, mais ne l’a pas encore reçue.
+</p>
+</div>
+</div>
+<aside class="notes">
+<p>Faire comparer le cout d’agir et celui de laisser la demande sans suite. Le relai réduit l’effort pour la personne qui ne peut rester et garde une chance de réponse pour l’autre. Faire préciser comment savoir que le relai a effectivement pris la tâche.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-normes-et-le-comportement-daide" class="slide level2">
+<h2>Les normes et le comportement d’aide</h2>
+<p><strong>Réciprocité :</strong> rendre l’aide reçue.</p>
+<p><strong>Responsabilité sociale :</strong> aider une personne qui dépend de notre aide, même sans retour attendu.</p>
+<p>Manolo aide à préparer le kiosque avec Mariane après qu’elle l’a aidé à monter sa vidéo.</p>
+<p>Simon montre à une personne qui vient aider à la vente comment faire fonctionner le kiosque.</p>
+<p><strong>Équité</strong> — corriger un déséquilibre perçu. <strong>Justice</strong> — aider selon ce qu’on juge mérité.</p>
+<aside class="notes">
+<p>Manuel p.&nbsp;302–303 et glossaire p.&nbsp;446. Équité : après une répartition inégale des copies à graver, rééquilibrer le travail. Justice : discuter du jugement selon lequel une personne mérite ou non de recevoir de l’aide et de ses effets. Faire relever l’indice : aide passée dans le premier cas; besoin et absence de retour attendu dans le second. Les normes sont des attentes sociales, pas des garanties d’action. Modifier le premier cas : aucune aide passée, mais la personne ne sait pas graver seule. Le mécanisme à proposer change. En stage, clarifier les responsabilités de l’équipe plutôt que supposer qu’une dette personnelle assure la continuité du service.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-normes-daide-en-comparaison" class="slide level2">
+<h2>Les normes d’aide en comparaison</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Norme</th>
+<th>Indice à rechercher</th>
+<th>Exemple pour la vente des CD</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Réciprocité</strong></td>
+<td>Un service a déjà été rendu.</td>
+<td>Simon aide Sélina en retour de son aide pour une vidéo.</td>
+</tr>
+<tr class="even">
+<td><strong>Responsabilité sociale</strong></td>
+<td>La personne dépend du coup de main.</td>
+<td>Simon montre à une nouvelle personne comment tenir le kiosque.</td>
+</tr>
+<tr class="odd">
+<td><strong>Équité</strong></td>
+<td>La répartition parait déséquilibrée.</td>
+<td>On redistribue les copies à graver pour répartir la charge.</td>
+</tr>
+<tr class="even">
+<td><strong>Justice</strong></td>
+<td>Le geste dépend de ce qu’on juge mérité.</td>
+<td>Une personne décide qui mérite qu’on l’aide à rattraper son retard.</td>
+</tr>
+</tbody>
+</table>
+<aside class="notes">
+<p>Faire comparer les raisons d’aider, en gardant le même objectif de vente. Donner un indice à changer pour passer de la réciprocité à la responsabilité sociale. Pour la justice, distinguer jugement de mérite et véritable besoin. Comparer l’équité, qui porte ici sur la répartition du travail. Le même geste peut correspondre à plus d’une norme selon les raisons données.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-modèles-et-lapprentissage-de-laide" class="slide level2">
+<h2>Les modèles et l’apprentissage de l’aide</h2>
+<p>Le <strong>modelage</strong> consiste à apprendre en observant une personne dont on peut reprendre la conduite.</p>
+<p>Mariane voit Simon offrir à Sélina de graver un disque avec elle ou de s’en charger. Plus tard, Mariane propose ce même choix à une autre personne qui aide à la vente.</p>
+<p><strong>Qu’a-t-elle pu apprendre en le regardant?</strong></p>
+<aside class="notes">
+<p>Manuel p.&nbsp;303–306 et glossaire p.&nbsp;445, entrée « Modèle ». Distinguer deux apprentissages dans la scène : comment aider et dans quelles circonstances le groupe considère l’aide appropriée. Comparer un encouragement verbal, une démonstration par un modèle semblable et le comportement de personnes qui ne font rien. Faire proposer une façon de montrer la conduite souhaitée à une nouvelle recrue. Les médias peuvent aussi présenter des modèles. Laisser les messages implicites à la lecture.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="wooclap-les-motivations" class="slide level2">
+<h2>Wooclap — les motivations</h2>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : RDCXFGC</strong></p>
+<p>Gardez cet onglet ouvert pour les rondes et les propositions de pause.</p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap RDCXFGC" width="420"></a></p>
+</div></div>
+<p>Quatre questions · Une réponse individuelle, puis une justification.</p>
+<p><a href="#/pause-1">Reprendre le cours après la ronde</a></p>
+<aside class="notes">
+<p>Prévoir 8 minutes pour la ronde et son débreffage. Les quatre questions suivantes sont formatives, pas le quiz évalué. En présentation, ouvrir l’évènement puis reprendre directement à la pause; les diapositives suivantes servent d’archives. Tant que l’évènement manque, lire les choix et faire voter sans téléphone.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-geste-et-le-motif" class="slide level2">
+<h2>Le geste et le motif</h2>
+<p>En fin de journée, on voit Manolo remettre à Sélina des copies du cédérom qu’il a gravées. Quelle observation permettrait le mieux de distinguer une motivation altruiste d’une recherche de reconnaissance?</p>
+<ul>
+<li>A. Le nombre de copies qu’il a gravées.</li>
+<li>B. Le fait qu’il grave aussi des copies quand son aide restera anonyme.</li>
+<li>C. Le fait que les copies fonctionnent.</li>
+<li>D. Le nombre de personnes qui achètent le cédérom.</li>
+</ul>
+<aside class="notes">
+<p>B rend moins plausible la recherche de reconnaissance publique. Aider sans public ne suffit pas à établir que le motif est altruiste. Demander quel autre motif pourrait aussi expliquer ce geste.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-normes-daide" class="slide level2">
+<h2>Les normes d’aide</h2>
+<p>Sélina a aidé Simon à monter une vidéo. Simon vient préparer les cédéroms parce qu’il souhaite lui rendre ce service. Quelle norme décrit le mieux son geste?</p>
+<ul>
+<li>A. La norme de responsabilité sociale.</li>
+<li>B. La norme d’équité.</li>
+<li>C. La norme de réciprocité.</li>
+<li>D. La norme de justice.</li>
+</ul>
+<aside class="notes">
+<p>C. L’indice est le service que Simon souhaite rendre. Transformer le cas : quelqu’un dépend de Simon pour accéder au matériel et ne lui a jamais rendu de service. Quelle norme devient plus pertinente?</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lempathie-et-la-possibilité-de-partir-1" class="slide level2">
+<h2>L’empathie et la possibilité de partir</h2>
+<p>Dans l’étude de Batson vue en classe, pour quel groupe la possibilité de partir facilement a-t-elle le plus changé la fréquence de l’aide?</p>
+<ul>
+<li>A. Le groupe où l’empathie suscitée était faible.</li>
+<li>B. Le groupe où l’empathie suscitée était élevée.</li>
+<li>C. Les deux groupes ont changé à peu près autant.</li>
+<li>D. Aucun des deux groupes n’a montré de changement.</li>
+</ul>
+<aside class="notes">
+<p>A. Revenir brièvement à la figure. À faible empathie, l’aide est nettement moins fréquente lorsque le départ est facile. Demander ce que partir peut changer pour la personne qui observe et pour celle qui a besoin d’aide.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="le-modelage" class="slide level2">
+<h2>Le modelage</h2>
+<p>Pendant la préparation de la vente, Simon demande à Sélina si elle préfère faire un essai de gravure avec lui ou lui confier la tâche. Mariane observe l’échange et reprend cette manière d’offrir de l’aide à une autre personne qui aide à la vente. Quel processus décrit le mieux son apprentissage?</p>
+<ul>
+<li>A. La réciprocité.</li>
+<li>B. Le soulagement des émotions négatives.</li>
+<li>C. L’encouragement verbal.</li>
+<li>D. Le modelage.</li>
+</ul>
+<aside class="notes">
+<p>D. Mariane apprend en observant une façon d’aider qu’elle peut reprendre. Demander ce qu’une personne expérimentée pourrait montrer à une nouvelle recrue pour rendre visible une conduite utile.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="pause-1" class="slide level2">
+<h2>Pause — 10 minutes</h2>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : RDCXFGC</strong></p>
+<p>Gardez cet onglet ouvert pour les rondes et les propositions de pause.</p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap RDCXFGC" width="420"></a></p>
+</div></div>
+<p>Proposez une chanson ou une photo de votre animal de compagnie.</p>
+<aside class="notes">
+<p>Annoncer oralement l’heure de retour. Prévoir la question ouverte Wooclap : réponses multiples, J’aime, images, compte à rebours dix minutes, modération désactivée; vérifier les autorisations avant projection. Tirage indépendant habituel. La reprise mène à l’effet du passant.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="leffet-du-passant" class="slide level2">
+<h2>L’effet du passant</h2>
+<p>L’<strong>effet du passant</strong> désigne une diminution possible de l’aide individuelle en présence d’autres témoins.</p>
+<p><strong>La présence d’autres personnes peut changer ce que chacun interprète et prend en charge.</strong></p>
+<p>Dans le clavardage de l’équipe, dix lectures du message ne donnent pas dix engagements.</p>
+<aside class="notes">
+<p>Faire prédire ce que la présence d’autres témoins peut changer. Ce cas numérique est une application à discuter, pas une réplication de laboratoire. Éviter la règle absolue « plus il y a de monde, jamais d’aide ». Ne pas confondre probabilité qu’une personne aide et probabilité qu’au moins une aide apparaisse dans un groupe. Manuel p.&nbsp;306–309, figure 10.3 et glossaire p.&nbsp;442. Dans l’étude par interphone, une voix semble faire un malaise. La personne qui se croit l’unique autre auditrice signale plus souvent et plus vite le problème que celles qui croient que d’autres l’entendent. Les personnes sont isolées et ne voient pas la réaction des autres : faire expliquer pourquoi cette comparaison illustre la diffusion de responsabilité. Aucun chiffre à mémoriser. En situation dangereuse, la présence d’autres personnes peut aussi fournir un appui.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="leffet-du-passant-à-linterphone" class="slide level2">
+<h2>L’effet du passant à l’interphone</h2>
+<div class="c09-paire">
+<div>
+<strong>Une seule autre personne à l’écoute</strong>
+<p>
+Je pense être la seule personne à entendre la demande.
+</p>
+</div>
+<div>
+<strong>Plusieurs autres à l’écoute</strong>
+<p>
+Je crois que d’autres entendent la même demande.
+</p>
+</div>
+</div>
+<aside class="notes">
+<p>Prédire quel groupe signalera le plus souvent et le plus vite la situation avant de rappeler le résultat général de l’étude (manuel p.&nbsp;306–309). Les personnes sont isolées et ne peuvent pas voir le calme d’autrui. La manipulation permet de tester ce qui change quand la responsabilité peut paraitre partagée.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-diffusion-de-la-responsabilité" class="slide level2">
+<h2>La diffusion de la responsabilité</h2>
+<p>La <strong>diffusion de la responsabilité</strong> réduit le sentiment de devoir intervenir personnellement quand d’autres pourraient le faire.</p>
+<p>« Quelqu’un d’autre va répondre. »</p>
+<p><strong>Changer un détail :</strong> attribuer une tâche précise et demander confirmation.</p>
+<aside class="notes">
+<p>Ici le besoin peut être reconnu, mais la prise en charge reste indéfinie. Comparer « tout le monde peut aider » à une demande adressée à une personne, limitée dans le temps. Le silence peut aussi venir d’une indisponibilité réelle : vérifier au lieu d’accuser. En milieu professionnel, transmettre une tâche et obtenir un retour ferme la boucle; désigner un nom sans confirmation ne suffit pas.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="citation-responsabilite" class="slide level2">
+<h2>Quand tout le monde attend quelqu’un</h2>
+<div class="c09-citation" lang="en">
+<blockquote>
+<p>This is a story about four people named <strong>Everybody</strong>, <strong>Somebody</strong>, <strong>Anybody</strong> and <strong>Nobody</strong>.</p>
+<p>There was an important job to be done and <strong>Everybody</strong> was sure that <strong>Somebody</strong> would do it. <strong>Anybody</strong> could have done it, but <strong>Nobody</strong> did it. <strong>Somebody</strong> got angry about that, because it was <strong>Everybody</strong>’s job.</p>
+<p><strong>Everybody</strong> thought <strong>Anybody</strong> could do it, but <strong>Nobody</strong> realized that <strong>Everybody</strong> wouldn’t do it. It ended up that <strong>Everybody</strong> blamed <strong>Somebody</strong> when <strong>Nobody</strong> did what <strong>Anybody</strong> could have.</p>
+</blockquote>
+</div>
+<div class="credit">
+<p>Attribué à Charles R. Swindoll.</p>
+</div>
+<aside class="notes">
+<p>Résumer le jeu de mots en français : tout le monde sait qu’il y a une tâche, chacun s’attend à ce que quelqu’un s’en charge et personne ne la fait. Faire nommer le blocage, puis demander quelle confirmation permettrait de savoir que la tâche est prise en charge. L’attribution à Swindoll circule dans des sources secondaires, et le récit est aussi publié sans nom d’auteur.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lignorance-pluraliste" class="slide level2">
+<h2>L’ignorance pluraliste</h2>
+<p>L’<strong>ignorance pluraliste</strong> survient lorsque des personnes interprètent la réserve des autres comme le signe qu’il n’y a pas de problème, alors qu’elles s’interrogent aussi.</p>
+<p>« Personne ne réagit : ce ne doit pas être important. »</p>
+<p><strong>Changer un détail :</strong> rendre le besoin explicite.</p>
+<aside class="notes">
+<p>Ici l’interprétation de la situation est centrale. Reprendre le message : « Il reste vingt copies à graver. Sans aide, on ne les aura pas pour l’ouverture du kiosque à 16 h. » Ne pas inventer que toute l’équipe pense déjà la même chose. Faire comparer : comprendre l’urgence mais attendre autrui = diffusion; utiliser le calme apparent d’autrui pour minimiser l’urgence = ignorance pluraliste. Les deux peuvent se succéder.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="linterprétation-du-besoin-et-la-prise-en-charge" class="slide level2">
+<h2>L’interprétation du besoin et la prise en charge</h2>
+<div class="c09-paire">
+<div>
+<strong>Une pièce enfumée</strong>
+<p>
+Les autres restent assis. Y a-t-il vraiment un problème?
+</p>
+</div>
+<div>
+<strong>Un appel à l’interphone</strong>
+<p>
+Le besoin est clair. Est-ce à moi de m’en occuper?
+</p>
+</div>
+</div>
+<aside class="notes">
+<p>Dans l’expérience de Latané et Darley (1968), les personnes seules signalaient la fumée plus souvent que celles entourées de comparses qui restaient passifs. Comparer ce résultat avec l’expérience de l’interphone. Demander quel obstacle chacune des deux phrases illustre. Au retour au clavardage, rendre le besoin clair agit sur l’interprétation. Une demande adressée avec confirmation agit sur la prise en charge.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-crainte-dêtre-jugé-dans-une-intervention" class="slide level2">
+<h2>La crainte d’être jugé dans une intervention</h2>
+<p>Une personne peut hésiter à intervenir parce qu’elle craint de se tromper devant les autres.</p>
+<p>« Et si mon offre était déplacée? »</p>
+<p><strong>Une première démarche :</strong> demander discrètement si une aide serait utile.</p>
+<aside class="notes">
+<p>Éviter de figer un terme technique avant comparaison avec le chapitre. Distinguer cette crainte de l’idée qu’une autre personne s’en occupe et du doute sur l’existence du besoin. En stage, proposer « Souhaitez-vous que je vous indique la personne responsable? » au lieu d’imposer une intervention. L’enjeu est une prise de contact adaptée, pas se substituer à un rôle pour lequel on n’a pas la formation.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-diffusion-de-la-responsabilité-dans-le-clavardage" class="slide level2">
+<h2>La diffusion de la responsabilité dans le clavardage</h2>
+<div class="c09-meme-gru">
+<img src="https://i.imgflip.com/26jxvz.jpg" width="700" height="449" alt="Gru présente son plan en quatre cases. Dans la dernière, il se retourne vers le tableau, étonné.">
+<ol>
+<li>
+J’envoie une demande au groupe.
+</li>
+<li>
+Dix personnes la voient.
+</li>
+<li>
+Tout le monde attend que quelqu’un réponde.
+</li>
+<li>
+Tout le monde attend que quelqu’un réponde.
+</li>
+</ol>
+</div>
+<div class="credit">
+<p>Gru’s Plan · <a href="https://imgflip.com/meme/Grus-Plan" target="_blank" rel="noopener noreferrer">Modèle Imgflip</a> · Légendes françaises.</p>
+</div>
+<aside class="notes">
+<p>Une minute. Faire dire précisément ce que le nombre de lectures ne garantit pas : une prise en charge. « Je pensais que quelqu’un d’autre s’en occupait » apporte un indice de diffusion. Un message lu sans autre information peut aussi avoir été ignoré par manque de disponibilité. Demander quelle confirmation remplacerait le seul indicateur Vu.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-obstacles-à-lintervention" class="slide level2">
+<h2>Les obstacles à l’intervention</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Obstacle</th>
+<th>Ce que la personne se dit</th>
+<th>Une réponse possible</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Ignorance pluraliste</strong></td>
+<td>« Personne ne réagit. Ce n’est sans doute pas urgent. »</td>
+<td>Préciser le besoin et l’échéance.</td>
+</tr>
+<tr class="even">
+<td><strong>Diffusion de la responsabilité</strong></td>
+<td>« C’est urgent. Quelqu’un d’autre va répondre. »</td>
+<td>Demander à une personne de confirmer.</td>
+</tr>
+<tr class="odd">
+<td><strong>Crainte du jugement</strong></td>
+<td>« Et si mon offre était mal reçue? »</td>
+<td>Vérifier discrètement si une aide serait utile.</td>
+</tr>
+</tbody>
+</table>
+<aside class="notes">
+<p>Faire identifier l’indice qui permet de départager les trois situations. L’ignorance pluraliste touche l’interprétation du besoin. La diffusion touche la prise en charge. La crainte du jugement porte sur la réaction qu’on anticipe. Demander quel détail on pourrait changer dans chacun des exemples. Le tableau synthétise les distinctions déjà présentées.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="modele-aide" class="slide level2">
+<h2>Le modèle de Latané et Darley</h2>
+<div class="c09-decision" role="group" aria-label="Les cinq étapes du comportement d’aide. À chaque étape, oui permet de continuer. Non signifie que l’aide n’est pas apportée à ce moment.">
+<div class="c09-decision-etape" style="--ligne:1">
+<div class="c09-decision-question">
+<span>1</span>Est-ce que je remarque la situation?
+</div>
+<div class="c09-decision-oui">
+Oui ↓
+</div>
+</div>
+<div class="c09-decision-non" style="--ligne:1">
+Non <span aria-hidden="true">→</span>
+</div>
+<div class="c09-decision-etape" style="--ligne:2">
+<div class="c09-decision-question">
+<span>2</span>Est-ce que je comprends que quelqu’un a besoin d’aide?
+</div>
+<div class="c09-decision-oui">
+Oui ↓
+</div>
+</div>
+<div class="c09-decision-non" style="--ligne:2">
+Non <span aria-hidden="true">→</span>
+</div>
+<div class="c09-decision-etape" style="--ligne:3">
+<div class="c09-decision-question">
+<span>3</span>Est-ce que je me sens responsable d’intervenir?
+</div>
+<div class="c09-decision-oui">
+Oui ↓
+</div>
+</div>
+<div class="c09-decision-non" style="--ligne:3">
+Non <span aria-hidden="true">→</span>
+</div>
+<div class="c09-decision-etape" style="--ligne:4">
+<div class="c09-decision-question">
+<span>4</span>Est-ce que je sais quel geste serait utile?
+</div>
+<div class="c09-decision-oui">
+Oui ↓
+</div>
+</div>
+<div class="c09-decision-non" style="--ligne:4">
+Non <span aria-hidden="true">→</span>
+</div>
+<div class="c09-decision-etape" style="--ligne:5">
+<div class="c09-decision-question">
+<span>5</span>Est-ce que je passe à l’action?
+</div>
+<div class="c09-decision-oui">
+Oui ↓
+</div>
+</div>
+<div class="c09-decision-non" style="--ligne:5">
+Non <span aria-hidden="true">→</span>
+</div>
+<div class="c09-decision-arret">
+<strong>L’aide s’arrête ici</strong><br><span>Le besoin peut rester sans réponse.</span>
+</div>
+<div class="c09-decision-aide">
+L’aide est apportée
+</div>
+</div>
+<div class="credit">
+<p>Adapté du modèle cognitif du comportement d’aide présenté au chapitre 10, p.&nbsp;306–309, figure 10.2.</p>
+</div>
+<aside class="notes">
+<p>Le modèle de Latané et Darley décrit les questions successives qui peuvent se poser à une personne témoin d’une situation d’urgence. Présenter d’abord le parcours qui mène à l’aide. Puis demander : « Si la réponse est non à n’importe quelle étape, qu’est-ce que l’on observe de l’extérieur? » Attendu : la personne n’intervient pas à ce moment, et plusieurs blocages peuvent produire le même résultat observable. Dans notre transposition dans l’équipe de vente, on va changer un indice à la fois pour repérer le blocage. Prévoir environ 15 minutes pour la figure, les cinq microcas et l’application, avant l’atelier d’application.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="aide-remarquer" class="slide level2">
+<h2>1. Remarquer la situation</h2>
+<p><strong>Repérer un signal</strong> indiquant qu’il se passe quelque chose. Cette étape dépend de l’attention disponible.</p>
+<ul>
+<li><strong>Ce qui peut faire obstacle.</strong> La distraction, le bruit ou le fait d’être pressé peuvent détourner l’attention du signal.</li>
+<li><strong>Dans notre scénario.</strong> Simon cherche l’heure du kiosque dans le clavardage. Il passe devant le message de Sélina sans le remarquer.</li>
+</ul>
+<aside class="notes">
+<p>Manuel, chapitre 10, p.&nbsp;306–309, figure 10.2. Distinguer un message reçu d’un message remarqué. Comparer deux cas : Simon passe devant le message en cherchant l’heure, ou il le lit et pense que rien ne presse. Dans le premier, le signal n’a pas retenu son attention. Dans le second, il l’a repéré et en a interprété le sens (étape 2). Faire proposer un emplacement ou un signal qui rend le message plus visible sans multiplier les notifications. En stage, placer les demandes actives dans le canal convenu.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="aide-interpreter" class="slide level2">
+<h2>2. Interpréter le besoin</h2>
+<p><strong>Déterminer si la situation exige de l’aide</strong> et à quel point elle est urgente.</p>
+<ul>
+<li><strong>Quand la situation est ambigüe</strong>, les personnes présentes observent parfois les réactions des autres pour comprendre ce qui se passe.</li>
+<li><strong>Ignorance pluraliste.</strong> Chacun se demande s’il y a un problème, mais prend le calme apparent des autres pour un signe que tout va bien.</li>
+<li><strong>Dans notre scénario.</strong> Mariane lit « On est en retard sur les CD ». Le silence du groupe lui donne l’impression que ça peut attendre.</li>
+</ul>
+<aside class="notes">
+<p>Revenir à l’exemple de la fumée : le témoin voit la fumée, hésite sur sa signification et voit les autres rester calmes. Le calme apparent devient un indice, alors que les autres peuvent eux aussi hésiter. Dans le clavardage, l’ignorance pluraliste suppose que d’autres s’inquiètent également. Pour éclaircir la situation, donner un fait vérifiable : « Il reste vingt CD à graver et le kiosque ouvre à 16 h. » Si Mariane comprend déjà l’urgence et compte sur quelqu’un d’autre, passer à l’étape 3.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="aide-responsabilite" class="slide level2">
+<h2>3. Se sentir responsable</h2>
+<p><strong>Se reconnaitre un rôle</strong> dans la réponse à un besoin qu’on a compris.</p>
+<ul>
+<li><strong>Diffusion de la responsabilité.</strong> Si plusieurs personnes pourraient agir, chacune peut se sentir moins tenue d’intervenir et attendre qu’une autre s’en charge.</li>
+<li><strong>Dans notre scénario.</strong> Simon sait qu’il manque des CD pour 16 h. Il attend parce que neuf autres personnes ont reçu la demande.</li>
+</ul>
+<aside class="notes">
+<p>Revenir à l’interphone : les personnes ne voyaient pas la réaction des autres. Ce qui changeait, c’était le nombre d’autres personnes qu’elles croyaient à l’écoute. Tester le contraste : « Ce n’est probablement pas urgent » relève de l’étape 2. « C’est urgent et quelqu’un d’autre va répondre » relève de l’étape 3. Demander à Simon s’il peut prendre une tâche précise et obtenir une confirmation. S’il décline, solliciter un relai.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="aide-choisir" class="slide level2">
+<h2>4. Choisir comment aider</h2>
+<p><strong>Trouver une intervention adaptée</strong> au besoin, à ses compétences et à ce qu’on a à sa disposition.</p>
+<ul>
+<li><strong>Aide directe.</strong> Accomplir soi-même un geste qu’on sait faire.</li>
+<li><strong>Aide indirecte.</strong> Faire appel à une personne mieux placée ou mieux outillée.</li>
+<li><strong>Dans notre scénario.</strong> Mariane veut aider. Elle peut vérifier les CD déjà gravés ou demander à quelqu’un qui connait le logiciel de terminer la gravure.</li>
+</ul>
+<aside class="notes">
+<p>La personne veut contribuer et cherche une manière de le faire. Faire comparer une tâche que Mariane sait déjà accomplir et une tâche qui exige d’aller chercher un appui. Demander en quoi chacune fait avancer le projet. En stage, signaler la situation à la personne responsable peut être la forme d’aide la plus adaptée quand l’intervention dépasse son rôle. Distinguer « je sais qui peut intervenir » et « j’ai effectivement demandé son aide ».</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="aide-agir" class="slide level2">
+<h2>5. Passer à l’action</h2>
+<p><strong>Mettre en œuvre l’aide choisie.</strong> Le passage à l’acte dépend notamment des contraintes et des couts anticipés.</p>
+<ul>
+<li>Un imprévu, le temps requis, un risque ou la crainte de se tromper devant les autres peuvent freiner l’intervention.</li>
+<li><strong>Dans notre scénario.</strong> Simon a choisi de graver cinq CD. Un imprévu réduit son temps libre. Il peut commencer la gravure s’il peut la terminer à temps ou prévenir l’équipe pour trouver un relai.</li>
+</ul>
+<aside class="notes">
+<p>Faire distinguer l’aide prévue du geste observable : annoncer « je peux graver cinq CD » exprime un engagement, lancer la gravure ou joindre un relai est un début d’exécution. Mettre en lien avec le calcul du passant : ici, agir peut prendre du temps et attendre peut laisser l’équipe sans copies. L’utilité du geste compte aussi dans le choix de la solution. La crainte d’être jugé peut intervenir à plusieurs étapes. Ici, elle peut freiner une action déjà choisie.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="où-laide-se-bloque-t-elle" class="slide level2">
+<h2>Où l’aide se bloque-t-elle?</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Situation dans l’équipe de vente</th>
+<th>Étape à repérer</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Simon sait qu’il faut agir vite. Il attend une réponse d’une autre personne.</td>
+<td>Quelle question du modèle reste sans « oui »?</td>
+</tr>
+<tr class="even">
+<td>Mariane se sent responsable, mais elle ne sait pas comment contribuer.</td>
+<td>Quelle information lui permettrait de continuer?</td>
+</tr>
+<tr class="odd">
+<td>Manolo sait quoi faire et a promis cinq copies. Il n’a encore rien gravé.</td>
+<td>Qu’observerait-on s’il franchissait l’étape suivante?</td>
+</tr>
+</tbody>
+</table>
+<p><strong>En stage, quelle intervention serait utile dans chacun des trois cas?</strong></p>
+<aside class="notes">
+<p>Faire réfléchir 30 secondes, puis demander à deux personnes de justifier un choix par un indice observable. Cas 1, étape 3 : comprendre le besoin n’implique pas de se sentir chargé d’y répondre. Faire une demande adressée et vérifier la réponse. Cas 2, étape 4 : clarifier la tâche, montrer comment la réaliser ou identifier un geste que la personne sait faire. Cas 3, étape 5 : le plan et l’engagement sont déjà là. Vérifier ce qui bloque l’exécution, convenir d’un délai réalisable et confirmer le résultat ou le relai. Pour le transfert en stage, utiliser par exemple un accueil qui doit être pris en charge et nommer la personne responsable selon les procédures du milieu. Faire expliquer ce que changerait l’intervention choisie.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-cinq-étapes-de-laide-en-résumé" class="slide level2">
+<h2>Les cinq étapes de l’aide en résumé</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Étape</th>
+<th>Question que se pose la personne</th>
+<th>Exemple dans l’équipe de vente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>1. Remarquer la situation</strong></td>
+<td>Ai-je vu qu’il se passe quelque chose?</td>
+<td>Je vois le message de Sélina.</td>
+</tr>
+<tr class="even">
+<td><strong>2. Interpréter le besoin</strong></td>
+<td>Est-ce une situation qui demande de l’aide?</td>
+<td>Je comprends que des copies manqueront à 16 h.</td>
+</tr>
+<tr class="odd">
+<td><strong>3. Se sentir responsable</strong></td>
+<td>Est-ce à moi d’intervenir?</td>
+<td>Je prends une partie de la gravure en charge.</td>
+</tr>
+<tr class="even">
+<td><strong>4. Choisir comment aider</strong></td>
+<td>Quel geste serait utile ici?</td>
+<td>Je choisis de graver cinq copies.</td>
+</tr>
+<tr class="odd">
+<td><strong>5. Agir</strong></td>
+<td>Est-ce que je passe effectivement à l’action?</td>
+<td>Je grave les copies et les remets au kiosque.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>L’aide peut s’arrêter à chacune de ces étapes.</strong></p>
+<div class="credit">
+<p>Manuel, chapitre 10, p.&nbsp;306–309, figure 10.2.</p>
+</div>
+<aside class="notes">
+<p>Revenir au chemin complet après les cinq microcas. Demander de fermer les notes et de reconstituer le parcours avec un exemple par étape. Utiliser le tableau pour vérifier ce qui distingue se sentir responsable, choisir un geste précis et le faire.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="reportage-bon-samaritain" class="slide level2">
+<h2>Le comportement d’aide en public</h2>
+<p><strong>À observer</strong> · Qu’est-ce qui change entre les deux scènes à l’arrêt du tram?</p>
+<iframe width="1120" height="540" src="https://www.youtube.com/embed/lK2w2I4JE4g" title="Envoyé spécial — L’étoffe du héros" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+<div class="credit">
+<p><em>Envoyé spécial</em>, « L’étoffe du héros » (2015) · Extrait en français (3 min 12) · <a href="https://www.youtube.com/watch?v=lK2w2I4JE4g" target="_blank" rel="noopener noreferrer">Vidéo sur YouTube</a></p>
+</div>
+<aside class="notes">
+<p>Avant la vidéo, faire prédire quelles différences entre deux scènes publiques pourraient changer la réaction des témoins. Le reportage explique d’abord l’effet du passant, puis montre deux mises en situation à un arrêt de tram. Les personnes qui simulent le malaise et leur tenue diffèrent. Demander ce qu’il faudrait garder identique pour isoler l’effet de la tenue. L’effet du passant porte sur la probabilité qu’une personne donnée intervienne. Pour comparer la pression du temps, passer à l’étude du bon Samaritain. Si le lecteur ne démarre pas, ouvrir le lien YouTube.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="experience-bon-samaritain" class="slide level2">
+<h2>L’expérience du bon Samaritain</h2>
+<p>Des séminaristes vont enregistrer un exposé. En chemin, chacun croise une personne qui semble en détresse.</p>
+<ul>
+<li><strong>Ce qui varie</strong> · On leur dit qu’ils ont du temps, qu’on les attend ou qu’ils sont déjà en retard.</li>
+<li><strong>Ce qu’on observe</strong> · Les personnes pressées s’arrêtent moins souvent pour aider.</li>
+</ul>
+<div class="credit">
+<p>Darley et Batson (1973) · <a href="https://faculty.washington.edu/jdb/345/345%20Articles/Darley%20%26%20Batson%20%281973%29.pdf" target="_blank" rel="noopener noreferrer">Article original</a></p>
+</div>
+<aside class="notes">
+<p>Faire nommer ce que les chercheurs ont fait varier. Le sujet de l’exposé variait aussi. Parler de la parabole du bon Samaritain n’a pas eu d’effet statistiquement concluant sur l’aide dans l’analyse principale. Le nombre de témoins n’était pas manipulé. Dans le modèle, la pression du temps peut détourner l’attention, changer l’interprétation ou freiner une intervention malgré un besoin reconnu. L’étude mesure l’aide observée et ne permet pas de localiser un blocage unique chez chaque personne. Aucun pourcentage à mémoriser.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="secours-quebec" class="slide level2">
+<h2>Porter secours au Québec</h2>
+<ul>
+<li><strong>Devoir de porter secours.</strong> Quand la vie d’une personne est en péril, on doit l’aider directement ou obtenir du secours, sauf s’il y a un risque pour soi ou pour autrui, ou un autre motif raisonnable.</li>
+<li><strong>Protection civile de la personne qui aide.</strong> La personne qui porte secours est exonérée de responsabilité pour le préjudice qui peut en résulter, sauf faute intentionnelle ou faute lourde.</li>
+</ul>
+<div class="credit">
+<p><a href="https://www.legisquebec.gouv.qc.ca/fr/pdf/lc/C-12.pdf#page=3" target="_blank" rel="noopener noreferrer">Charte des droits et libertés de la personne, art. 2</a> · <a href="https://www.legisquebec.gouv.qc.ca/fr/pdf/cs/ccq-1991.pdf#page=294" target="_blank" rel="noopener noreferrer">Code civil du Québec, art. 1471</a></p>
+</div>
+<aside class="notes">
+<p>Faire le lien avec les étapes 4 et 5 : obtenir du secours est une façon d’agir. Si une vie semble en péril, un appel au 911 est un exemple de démarche immédiate pour obtenir du secours.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-influences-personnelles-et-interpersonnelles" class="slide level2">
+<h2>Les influences personnelles et interpersonnelles</h2>
+<p><strong>Même besoin, circonstances différentes :</strong></p>
+<ul>
+<li>Manolo sait graver les disques. Simon n’a jamais utilisé ce logiciel.</li>
+<li>Mariane peut rester vingt minutes; Sélina doit partir.</li>
+<li>La demande vient d’une amie ou d’une personne nouvelle.</li>
+</ul>
+<p>Que faudrait-il modifier pour rendre l’aide possible?</p>
+<aside class="notes">
+<p>Relier compétence perçue, couts et proximité au cas sans déduire un trait « généreux » ou « égoïste » du refus. Manuel p.&nbsp;309–313 et 319–320. Donner comme facteurs personnels l’empathie dispositionnelle et la compétence. Pour les influences interpersonnelles, distinguer similarité perçue et relation communale, où le besoin guide l’aide plutôt qu’un retour attendu. Les facteurs génétiques, le sexe de la personne aidante selon le contexte et le maintien de l’autoévaluation restent principalement à la lecture. Proposer un essai de gravure, des tâches courtes et un accueil explicite des personnes nouvelles. Ne pas reprendre les généralisations de genre ou d’origine de l’ancien support Blais comme lois universelles.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-attributions-les-émotions-et-le-comportement-daide" class="slide level2">
+<h2>Les attributions, les émotions et le comportement d’aide</h2>
+<p>Dans le modèle de <strong>Weiner</strong>, ce qu’on croit de la cause du besoin influence ce qu’on ressent et la réponse qu’on propose.</p>
+<p><strong>Même demande</strong> — Une personne qui prépare la vente demande de l’aide pour terminer les copies avant la vente.</p>
+<ul>
+<li>Le logiciel de gravure est tombé en panne pendant sa préparation.</li>
+<li>Elle a choisi de reporter la gravure pour regarder un film.</li>
+</ul>
+<p>Quelle attribution change? Quelle réaction devient plus plausible?</p>
+<aside class="notes">
+<p>Manuel p.&nbsp;318–319, figure 10.5 et glossaire p.&nbsp;439 et 445. Comparer la contrôlabilité perçue, puis la responsabilité attribuée, la sympathie ou la colère et la disposition à aider. La responsabilité perçue est un jugement qui peut être erroné. En stage, vérifier les obstacles avant d’interpréter un retard ou une demande répétée. Si le groupe conclut que tout le monde réagira pareil, demander un contre-exemple où une personne aide par règle professionnelle.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-responsabilité-perçue-et-la-réaction-à-une-demande" class="slide level2">
+<h2>La responsabilité perçue et la réaction à une demande</h2>
+<div class="c09-paire">
+<div>
+<strong>Ce qu’on sait</strong>
+<p>
+Les copies sont en retard et la personne demande de l’aide.
+</p>
+</div>
+<div>
+<strong>Ce qu’on suppose</strong>
+<p>
+Elle aurait pu éviter le retard.
+</p>
+</div>
+</div>
+<aside class="notes">
+<p>Faire remplacer le jugement initial par une question qui permet de vérifier l’obstacle. Le fait, la cause supposée et le degré de contrôle attribué sont distincts. Selon le modèle de Weiner, l’attribution peut déplacer l’émotion et la volonté d’aider. Le rôle professionnel peut encore guider la réponse.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="coordination-taches" class="slide level2">
+<h2>La coopération</h2>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>La <strong>coopération</strong> consiste à coordonner ses actions pour atteindre un but commun.</p>
+<p><strong>Dans notre scénario.</strong> Trois personnes gravent les CD, mais personne ne vérifie les copies ni ne tient le kiosque.</p>
+<p>Pour que la vente fonctionne, l’équipe doit répartir les tâches et s’assurer que les copies vérifiées arrivent au kiosque.</p>
+</div><div class="column" style="width:42%;">
+<div class="naruto-gif" data-gif="">
+<img src="https://media1.tenor.com/m/np2GFQVT5uIAAAAC/gotenks-fusion.gif" alt="Deux personnages exécutent des mouvements synchronisés." loading="lazy">
+<canvas hidden="" aria-hidden="true">
+</canvas>
+<button type="button" aria-pressed="false">
+Figer le GIF
+</button>
+<p class="gif-credit">
+Dragon Ball Z · <a href="https://tenor.com/view/gotenks-fusion-dragon-ball-z-goten-trunks-gif-13825935" target="_blank" rel="noopener noreferrer">GIF : Tenor</a>
+</p>
+</div>
+</div></div>
+<aside class="notes">
+<p>Objectif : expliquer pourquoi des efforts individuels peuvent laisser le but commun hors d’atteinte si les tâches complémentaires ne sont pas coordonnées. Les rôles de la vente de CD servent d’exemple. Faire distinguer aider une personne et organiser une activité commune. Une même action peut relever des deux.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-conséquences-de-laide" class="slide level2">
+<h2>Les conséquences de l’aide</h2>
+<p>Dans notre variante, Manolo prend la souris et termine la gravure sans demander l’avis de Sélina.</p>
+<p>La personne aidée voulait apprendre à le faire et se sent mise à l’écart.</p>
+<p><strong>Une aide peut résoudre une tâche et créer une difficulté relationnelle.</strong></p>
+<p>Que demander avant d’agir? Que proposer pour préserver son choix?</p>
+<aside class="notes">
+<p>Le plan demande les conséquences de l’aide et de sa non-adoption. Proposition concrète : « Veux-tu que je le fasse avec toi, que je te montre comment graver un disque, ou que je te laisse terminer? ». Analyser besoin, autonomie et compétence sans présumer que toute aide menace l’estime de soi. En stage, demander le consentement et adapter l’offre au rôle et aux préférences. Manuel p.&nbsp;322–325. Pour la personne aidante, faire nommer un gain possible (bien-être, sentiment de contribuer) et un cout possible (fatigue, pression). Pour la personne aidée, comparer la gratitude suscitée par une aide respectueuse avec la menace à l’estime de soi qu’une offre condescendante peut susciter. Le contexte et la motivation modulent ces effets.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-formes-daide-et-lautonomie" class="slide level2">
+<h2>Les formes d’aide et l’autonomie</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Façon d’aider</th>
+<th>Dans notre scénario</th>
+<th>Ce que Sélina peut faire</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Prendre la tâche en charge</strong></td>
+<td>« Veux-tu que je grave les disques? »</td>
+<td>Confier la tâche si elle le souhaite.</td>
+</tr>
+<tr class="even">
+<td><strong>Montrer comment faire</strong></td>
+<td>« Veux-tu que je te montre une fois? »</td>
+<td>Observer puis essayer.</td>
+</tr>
+<tr class="odd">
+<td><strong>Faire ensemble</strong></td>
+<td>« Veux-tu qu’on grave le premier disque ensemble? »</td>
+<td>Participer avec un appui.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Quelle offre correspond à son objectif d’apprendre?</strong></p>
+<aside class="notes">
+<p>Les trois offres laissent un choix. Si la priorité est d’avoir des copies rapidement, prendre la tâche en charge peut être utile si Sélina le souhaite. Si elle veut apprendre, montrer ou faire ensemble lui donne l’occasion de pratiquer. Revenir à la situation précédente où Manolo prend la souris sans demander. En stage, demander si la personne veut un exemple, un appui ou une prise en charge.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-conséquences-de-labsence-daide" class="slide level2">
+<h2>Les conséquences de l’absence d’aide</h2>
+<p>Personne ne répond. Le kiosque ouvre à 16 h avec moins de cédéroms que prévu.</p>
+<p><strong>Conséquences possibles :</strong> besoin non satisfait, charge reportée, confiance fragilisée.</p>
+<p>Une réponse négative explicite peut-elle être plus utile qu’un silence?</p>
+<aside class="notes">
+<p>Oui dans ce cas : elle permet de chercher une autre ressource. Dire « Je ne peux pas venir, mais je peux transmettre la demande à la personne responsable » si cela est réellement possible. Ne pas promettre une solution indisponible. Manuel p.&nbsp;325–327. Distinguer les conséquences pour la personne qui n’aide pas (p.&nbsp;ex. culpabilité) et pour celle qui reste sans aide (p.&nbsp;ex. besoin non satisfait ou sentiment de rejet). Distinguer aussi une offre refusée, qui peut préserver l’autonomie et être vécue différemment des deux côtés. Pour les questions sur le cours : disponibilités après la séance ou rendez-vous par courriel, selon le plan; aucune promesse de réponse immédiate.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-conséquences-du-silence" class="slide level2">
+<h2>Les conséquences du silence</h2>
+<div class="c09-paire">
+<div>
+<strong>L’équipe attend</strong>
+<p>
+À 16 h, le kiosque ouvre avec moins de cédéroms que prévu.
+</p>
+</div>
+<div>
+<strong>Une personne répond</strong>
+<p>
+Elle indique quand elle est disponible, ou prévient qu’il faut trouver un relai.
+</p>
+</div>
+</div>
+<aside class="notes">
+<p>Demander de formuler une réponse utile même quand la personne ne peut venir. La conséquence du silence dépend de la situation. Une réponse claire donne de l’information à la personne qui organise l’aide. Ne pas promettre un relai qui n’existe pas.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-répartition-des-tâches" class="slide level2">
+<h2>La répartition des tâches</h2>
+<div class="c09-etapes">
+<span><strong>Gravure</strong><br>qui fait les copies?</span><span><strong>Vérification</strong><br>qui teste les copies?</span><span><strong>Vente</strong><br>qui tient le kiosque?</span>
+</div>
+<p><strong>Où manque-t-il une confirmation?</strong></p>
+<aside class="notes">
+<p>Demander à deux personnes de proposer une répartition qu’une équipe de stage pourrait utiliser. Une tâche attribuée mais non confirmée reste incertaine. L’objectif commun exige que les trois fonctions soient couvertes, pas que tout le monde fasse la même chose.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="wooclap-les-obstacles-et-la-coopération" class="slide level2">
+<h2>Wooclap — les obstacles et la coopération</h2>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : RDCXFGC</strong></p>
+<p>Gardez cet onglet ouvert pour les rondes et les propositions de pause.</p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap RDCXFGC" width="420"></a></p>
+</div></div>
+<p>Quatre questions · Identifier l’indice, puis proposer une modification concrète.</p>
+<p><a href="#/pause-2">Passer à la deuxième pause</a></p>
+<aside class="notes">
+<p>8 minutes avec débreffage. Questions formatives suivantes; passer directement à la deuxième pause après la ronde. Repli par vote en classe. Ne pas ajouter de second atelier ni de billet de sortie obligatoire.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-diffusion-de-la-responsabilité-1" class="slide level2">
+<h2>La diffusion de la responsabilité</h2>
+<p>Simon comprend qu’il faut graver les cédéroms avant l’ouverture du kiosque. Il attend parce qu’il pense qu’une des neuf autres personnes qui ont reçu le message va y répondre. Quel mécanisme décrit le mieux son raisonnement?</p>
+<ul>
+<li>A. L’ignorance pluraliste.</li>
+<li>B. La diffusion de la responsabilité.</li>
+<li>C. La crainte d’être jugé.</li>
+<li>D. La norme de réciprocité.</li>
+</ul>
+<aside class="notes">
+<p>B. Le besoin est déjà reconnu. Le frein est la prise en charge personnelle. Faire proposer une demande précise à une personne, avec confirmation et possibilité de refus.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lignorance-pluraliste-1" class="slide level2">
+<h2>L’ignorance pluraliste</h2>
+<p>Les membres de l’équipe se demandent en privé s’il faut graver les dernières copies tout de suite. En voyant que les autres ne réagissent pas, chaque personne conclut que la situation peut attendre. Quel mécanisme décrit cette interprétation?</p>
+<ul>
+<li>A. La diffusion de la responsabilité.</li>
+<li>B. La crainte d’être jugé.</li>
+<li>C. L’ignorance pluraliste.</li>
+<li>D. Le calcul des couts de l’aide.</li>
+</ul>
+<aside class="notes">
+<p>C. Le silence est traité comme un indice sur l’urgence. Comparer avec la question précédente. Faire ajouter au message un fait qui rend le besoin plus clair, par exemple le nombre de copies restantes et l’heure d’ouverture du kiosque.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="les-conséquences-de-laide-1" class="slide level2">
+<h2>Les conséquences de l’aide</h2>
+<p>Sélina veut apprendre à graver elle-même les CD de l’album. Quelle offre l’aide à avancer tout en lui laissant le choix de ce qu’elle fait elle-même?</p>
+<ul>
+<li>A. Je peux graver les disques pendant que tu tiens le kiosque.</li>
+<li>B. Je peux demander à Simon de prendre la gravure en charge.</li>
+<li>C. Je peux graver toutes les copies et tu vérifieras le résultat.</li>
+<li>D. Veux-tu que je te montre comment graver un disque ou qu’on en grave un ensemble?</li>
+</ul>
+<aside class="notes">
+<p>D. La proposition tient compte de son objectif et lui laisse un choix avant d’agir. Demander ce que les autres formulations changent dans son rôle. Transfert : formuler une offre équivalente en stage.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="la-coopération" class="slide level2">
+<h2>La coopération</h2>
+<p>Pour la vente des CD, tout le monde grave les cédéroms. Il faut encore vérifier les copies et tenir le kiosque. Quelle décision de l’équipe règle le problème de coordination?</p>
+<ul>
+<li>A. Répartir la gravure, la vérification et la vente, puis confirmer qui prend chaque tâche.</li>
+<li>B. Demander au groupe de décider ensemble quels disques graver en premier.</li>
+<li>C. Fixer une heure commune pour lancer la gravure.</li>
+<li>D. Demander à chaque personne de choisir un disque à graver.</li>
+</ul>
+<aside class="notes">
+<p>A. Le défi est de couvrir les rôles nécessaires au but commun. Les autres choix organisent seulement la gravure. En équipe de stage, demander quelle tâche n’a encore personne pour la prendre.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="pause-2" class="slide level2">
+<h2>Pause — 10 minutes</h2>
+<div class="columns">
+<div class="column" style="width:58%;">
+<p>Scannez le <strong>code QR</strong>, ou ouvrez <a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer">Wooclap</a>.</p>
+<p><strong>Code de l’évènement : RDCXFGC</strong></p>
+<p>Gardez cet onglet ouvert pour les rondes et les propositions de pause.</p>
+</div><div class="column" style="width:42%;">
+<p><a href="https://app.wooclap.com/RDCXFGC" target="_blank" rel="noopener noreferrer"><img data-src="assets/wooclap-activites-qr.png" alt="Code QR Wooclap RDCXFGC" width="420"></a></p>
+</div></div>
+<p>Proposez une chanson ou une photo de votre animal de compagnie.</p>
+<aside class="notes">
+<p>Annoncer oralement l’heure de retour. Même évènement d’engagement, distinct du quiz; réglages identiques à la première pause. Lancer l’atelier au retour de la pause.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="atelier-aide" class="slide level2">
+<h2>Du silence à l’action</h2>
+<p>Sélina écrit au groupe qui prépare la vente des CD pour la classe-neige : « Je ne pourrai pas finir de graver les CD seule avant 16 h. Est-ce que quelqu’un peut venir? » Dix personnes ont vu le message. Personne ne répond.</p>
+<p><strong>Par équipes de trois ou quatre</strong></p>
+<ol type="1">
+<li><strong>Diagnostiquer.</strong> Proposez deux blocages à des étapes différentes du modèle de Latané et Darley. Pour chacun, nommez l’étape et l’indice qui permettrait de vérifier votre hypothèse.</li>
+<li><strong>Organiser l’aide.</strong> Réécrivez la demande de Sélina. Rédigez une réponse qui précise l’aide offerte et le premier geste à poser.</li>
+<li><strong>Transférer.</strong> Appliquez la même démarche à une demande d’aide en équipe de stage ou de travail.</li>
+</ol>
+<p><strong>10 minutes pleines de travail après les consignes.</strong></p>
+<div class="quiz-timer" role="timer" aria-live="polite">
+  <div class="quiz-timer-display">10:00</div>
+  <div class="quiz-timer-controls">
+    <button class="quiz-timer-start" type="button">Démarrer</button>
+    <button class="quiz-timer-pause" type="button" disabled="">Pause</button>
+    <button class="quiz-timer-reset" type="button">Réinitialiser</button>
+  </div>
+</div>
+<style>
+/* Reserve room for the timer on quiz and workshop slides. */
+.reveal section:has(.quiz-timer) > h2 {max-width:calc(100% - 430px);min-height:125px;}
+
+.quiz-timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 390px;
+  text-align: center;
+  padding: 0.28rem 0.45rem 0.35rem;
+  border: 2px solid #123b5d;
+  border-radius: 0.35rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+  z-index: 10;
+}
+
+.quiz-timer-display {
+  color: #123b5d;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.quiz-timer-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-timer-controls button {
+  margin: 0;
+  padding: 0.22rem 0.45rem;
+  border: 1px solid #123b5d;
+  border-radius: 0.2rem;
+  background: #fff;
+  color: #123b5d;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.quiz-timer-controls button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.quiz-timer.warning {
+  border-color: #c62828;
+}
+
+.quiz-timer.warning .quiz-timer-display {
+  color: #c62828;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const duration = 10 * 60 * 1000;
+  document.querySelectorAll(".quiz-timer").forEach((timer, index) => {
+    if (timer.dataset.initialized === "true") return;
+    timer.dataset.initialized = "true";
+    const storageKey = `psy1703-quiz-timer-v1:${window.location.pathname}:${index}`;
+    const display = timer.querySelector(".quiz-timer-display");
+    const startButton = timer.querySelector(".quiz-timer-start");
+    const pauseButton = timer.querySelector(".quiz-timer-pause");
+    const resetButton = timer.querySelector(".quiz-timer-reset");
+    let state = { running: false, remaining: duration, end: null };
+
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey));
+      if (saved && typeof saved.remaining === "number") state = saved;
+    } catch (_) {}
+
+    function remainingNow() {
+      return state.running && state.end
+        ? Math.max(0, state.end - Date.now())
+        : Math.max(0, state.remaining);
+    }
+
+    function save() {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
+    function render() {
+      const remaining = remainingNow();
+      const totalSeconds = Math.ceil(remaining / 1000);
+      const minutes = Math.floor(totalSeconds / 60);
+      const seconds = totalSeconds % 60;
+      display.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      timer.classList.toggle("warning", remaining <= 2 * 60 * 1000);
+      startButton.disabled = state.running || remaining === 0;
+      startButton.textContent = remaining < duration ? "Reprendre" : "Démarrer";
+      pauseButton.disabled = !state.running;
+
+      if (state.running && remaining === 0) {
+        state = { running: false, remaining: 0, end: null };
+        save();
+      }
+    }
+
+    startButton.addEventListener("click", () => {
+      const remaining = remainingNow();
+      state = { running: true, remaining, end: Date.now() + remaining };
+      save();
+      render();
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state = { running: false, remaining: remainingNow(), end: null };
+      save();
+      render();
+    });
+
+    resetButton.addEventListener("click", () => {
+      state = { running: false, remaining: duration, end: null };
+      save();
+      render();
+    });
+
+    render();
+    window.setInterval(render, 250);
+  });
+});
+</script>
+<aside class="notes">
+<p>Consignes 3 minutes, travail 10 minutes au minuteur, partage et débreffage 9 minutes. Lancer le minuteur après les consignes. Une personne porte-parole par équipe. À 5 minutes, passer aux deux formulations. Aucune expérience personnelle à raconter.</p>
+<p>Débreffage : recueillir deux hypothèses en 3 minutes. Consacrer 4 minutes à les départager. À l’étape 2, une personne peut sous-estimer le besoin en voyant le calme apparent des autres. À l’étape 3, elle peut comprendre le besoin et s’attendre à ce qu’une autre personne y réponde. Demander quel indice permet de trancher, puis distinguer choisir un geste (étape 4) et l’exécuter (étape 5). Le statut « Vu » ne suffit pas à établir l’étape qui bloque.</p>
+<p>Demande possible : « Il reste vingt CD à graver pour 16 h. Simon, peux-tu me confirmer avant 14 h si tu peux venir graver des copies de 15 h à 15 h 30? Si tu n’es pas disponible, dis-le-moi et je demanderai à quelqu’un d’autre. » Réponse possible : « Je peux être là à 15 h. Je vais commencer par faire une copie d’essai. » Faire préciser comment vérifier que la copie d’essai a été faite.</p>
+<p>Garder 2 minutes de transfert. En stage : « Quelqu’un pourrait accueillir la prochaine personne? » Préciser le besoin, nommer une personne, obtenir une confirmation et prévoir un relais si elle est indisponible.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="recherches-bienveillance" class="slide level2">
+<h2>La bienveillance dans mes recherches</h2>
+<p><strong>Six semaines · Répartition aléatoire en trois groupes</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Méditation</th>
+<th>Lecture et réflexion</th>
+<th>Liste d’attente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Méditations guidées sur la bienveillance</td>
+<td>Lectures et courtes réflexions écrites sur la bienveillance</td>
+<td>Pas d’intervention pendant l’étude</td>
+</tr>
+<tr class="even">
+<td>Environ 10 min par jour + une séance de 30 min par semaine</td>
+<td>Environ 10 min par jour + un balado de 30 min par semaine</td>
+<td>Mesures aux mêmes moments</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Prédiction.</strong> Un programme qui change ce qu’on ressent change-t-il aussi ce qu’on fait pour aider?</p>
+<div class="credit">
+<p>Thériault, Masson et Dandeneau · <a href="https://doi.org/10.31234/osf.io/x4p9v_v1" target="_blank" rel="noopener noreferrer">Préprint (2025)</a>.</p>
+</div>
+<aside class="notes">
+<p>Prévoir 7 minutes pour la séquence. En 1 minute, rappeler le dispositif aléatoire présenté au cours 8 et faire prendre position sur la prédiction. J’ai mesuré, entre autres, la compassion déclarée, le temps pour se rappeler un geste altruiste, l’intention d’aider et le don. Préciser que la lecture–réflexion comprenait des extraits, de courtes réflexions écrites et des balados. Passer ensuite aux livres.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="livres-bienveillance" class="slide level2">
+<h2>Les livres du programme de lecture–réflexion</h2>
+<p>Les lectures quotidiennes étaient des <strong>extraits</strong> de neuf ouvrages.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li><em>Un cœur vaste comme le monde</em> — Salzberg, 1998</li>
+<li><em>De la bienveillance à l’amour inconditionnel</em> — Hénépola Gunaratana, 2019</li>
+<li><em>Comment s’ouvrir à l’amour véritable</em> — Salzberg, 2018</li>
+<li><em>Plaidoyer pour l’altruisme</em> — Ricard, 2013</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><em>Aimez vos ennemis</em> — Salzberg et Thurman, 2014</li>
+<li><em>Huit étapes vers le bonheur</em> — Gyatso, 2002</li>
+<li><em>L’attention, l’autre nom de l’amour</em> — Poletti, 2015</li>
+<li><em>L’amour au cœur de la vie</em> — Harvey, 2017</li>
+<li><em>Enseignements sur l’amour</em> — Thích Nhât Hanh, 2004</li>
+</ul>
+</div></div>
+<aside class="notes">
+<p>Environ 30 secondes. Donner un ou deux exemples, comme Plaidoyer pour l’altruisme et Aimez vos ennemis. Après chaque extrait, j’invitais les personnes participantes à écrire une courte réflexion. Les titres servent à situer le contenu du programme.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lkm-compassion" class="slide level2" data-menu-title="La compassion déclarée" aria-label="La compassion déclarée">
+<h2></h2>
+<p><img src="assets/lkm-compassion.png" alt="Les deux groupes d’intervention déclarent davantage de compassion que la liste d’attente après le programme. Au suivi, l’écart est détecté pour le groupe lecture–réflexion." style="display:block;height:675px;max-width:100%;object-fit:contain;margin:0 auto"></p>
+<aside class="notes">
+<p>Figures 3 et tableaux 3–4 du préprint. Environ une minute par figure. Les carrés sont lecture–réflexion, les cercles méditation et les losanges liste d’attente. Les scores sont rapportés sur une échelle standardisée et la figure prend le départ comme repère. La compassion est déclarée dans un questionnaire. Après le programme, les deux groupes déclarent davantage de compassion que la liste d’attente. Au suivi, l’écart avec la liste d’attente est encore détecté pour lecture–réflexion.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lkm-souvenir" class="slide level2" data-menu-title="Le rappel d’un geste altruiste" aria-label="Le rappel d’un geste altruiste">
+<h2></h2>
+<p><img src="assets/lkm-souvenir-altruiste.png" alt="Après le programme, la comparaison indiquée montre un temps de rappel plus court dans le groupe lecture–réflexion que dans la liste d’attente." style="display:block;height:675px;max-width:100%;object-fit:contain;margin:0 auto"></p>
+<aside class="notes">
+<p>Figure 4 et tableau 3. La consigne était de penser à un geste altruiste passé et d’appuyer lorsqu’un souvenir précis revenait. L’axe anglais nomme la mesure d’origine en millisecondes. Les valeurs affichées sont standardisées. Le groupe lecture–réflexion retrouve un souvenir altruiste plus vite que le groupe en attente. La rapidité du rappel renseigne sur l’accessibilité du souvenir. Le nombre de gestes aidants posés pendant l’étude n’a pas été mesuré par cette tâche. Cette tâche a été administrée seulement après le programme.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lkm-intentions" class="slide level2" data-menu-title="L’intention d’aider" aria-label="L’intention d’aider">
+<h2></h2>
+<p><img src="assets/lkm-intentions-aide.png" alt="Au suivi, l’intention d’aider dans des situations hypothétiques est plus élevée dans le groupe lecture–réflexion que sur la liste d’attente." style="display:block;height:675px;max-width:100%;object-fit:contain;margin:0 auto"></p>
+<aside class="notes">
+<p>Figure 3 et tableaux 3–4. Les personnes indiquaient à quel point elles seraient disposées à aider dans des situations hypothétiques. L’écart lecture–réflexion contre attente est détecté au suivi. Demander quel comportement on pourrait observer pour aller au-delà d’une intention déclarée, puis passer à la mesure des dons.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lkm-dons" class="slide level2" data-menu-title="Les dons" aria-label="Les dons">
+<h2></h2>
+<p><img src="assets/lkm-dons.png" alt="Les distributions des dons se recouvrent. L’étude n’a pas détecté de différence entre les groupes pour cette tâche." style="display:block;height:675px;max-width:100%;object-fit:contain;margin:0 auto"></p>
+<aside class="notes">
+<p>Figure 4 et tableau 3. La tâche mesure les montants proposés après le programme. Un choix tiré au sort était appliqué. L’analyse ne détecte pas de différence entre les groupes. Les valeurs négatives sur le graphique représentent des scores standardisés. Revenir à la prédiction : les résultats diffèrent selon qu’on mesure la compassion ressentie, l’intention d’aider ou un geste précis. Demander quel autre geste on pourrait observer dans une équipe pour compléter la mesure du don.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="lkm-commentaires" class="slide level2">
+<h2>Les réactions aux lectures</h2>
+<div class="columns">
+<div class="column" style="width:57%;">
+<div class="lkm-verbatims" style="font-size:.83em">
+<blockquote>
+<p>
+« ça me donne envie de passer à l'action, d'aller fouiller mes blocages intérieurs pour m'amener vers une compassion grandissante envers les autres. »
+</p>
+</blockquote>
+<blockquote>
+<p>
+« l'extrait m'a donné envie de recontacter certaines personnes plutôt que de continuer à entretenir quelconque émotion négative à leur égard. »
+</p>
+</blockquote>
+<blockquote>
+<p>
+« Je trouve que des gestes héroïques comme ceux décrits sont absolument admirables. C’est grâce à des histoires comme celles-ci que je veux agir et dénoncer lorsque je suis confrontée à l’injustice »
+</p>
+</blockquote>
+</div>
+</div><div class="column" style="width:43%;">
+<p><img src="assets/lkm-nuage-mots.png" alt="Nuage des mots des journaux de lecture, traduits en anglais. Parmi les mots saillants figurent amour, compassion, souffrance et colère." style="display:block;height:485px;max-width:100%;object-fit:contain;margin:0 auto"></p>
+<p style="font-size:20px;text-align:center;margin:4px 0">
+Mots des journaux de lecture traduits en anglais
+</p>
+</div></div>
+<aside class="notes">
+<p>Environ 1 minute 30. Présenter trois extraits des journaux de lecture, sans identifiant. Les commentaires portent sur une réflexion ou une intention. Le nuage (figure 2 du préprint) indique les mots employés dans les journaux de lecture. Il sert à illustrer les thèmes abordés.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="evaluations-fin" class="slide level2">
+<h2>Quiz et examen — quoi préparer?</h2>
+<p><strong>Quiz 8 · 1er décembre · Cours 9 et chapitre 10 · 1,25 %</strong></p>
+<p>8 questions · 10 minutes · 8 meilleurs sur 9 = <strong>10 %</strong>.</p>
+<p><strong>Prochaine lecture : chapitre 11 — L’influence sociale.</strong></p>
+<p><strong>Examen 3 · 15 décembre · 35 % · 120 minutes maximum</strong></p>
+<p>Cours 9, 10 et 12 et chapitres 10, 11 et 13 · 32 QCM + 8 réponses courtes · 56 points · 50 % cours / 50 % manuel.</p>
+<aside class="notes">
+<p>Rappeler carte étudiante, matériel d’écriture et identifiant UQAR. La lecture de préparation du 1er décembre est le chapitre 11; le quiz du même jour porte sur le chapitre 10 et le cours 9. Les articles cités ne deviennent pas des lectures intégrales obligatoires.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<div class="footer footer-default">
+<p>PSY1703 — Psychologie sociale · Automne 2026</p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': false,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"\u003ci class=\"fas fa-gear\">\u003c/i>","content":"\u003cul class=\"slide-menu-items\">\n\u003cli class=\"slide-tool-item active\" data-item=\"0\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\">\u003ckbd>f\u003c/kbd> Fullscreen\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"1\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\">\u003ckbd>s\u003c/kbd> Speaker View\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"2\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\">\u003ckbd>o\u003c/kbd> Slide Overview\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"3\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\">\u003ckbd>e\u003c/kbd> PDF Export Mode\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"4\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\">\u003ckbd>r\u003c/kbd> Scroll View Mode\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"5\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\">\u003ckbd>?\u003c/kbd> Keyboard Help\u003c/a>\u003c/li>\n\u003c/ul>"}],"openButton":true,"openButtonLabel":"Menu des diapositives"},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'fade',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1600,
+
+        height: 900,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 8.0e-2,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script>
+    (()=>{
+     function setup(){
+      document.querySelectorAll('[data-gif]').forEach(box=>{
+       const img=box.querySelector('img'), canvas=box.querySelector('canvas'), button=box.querySelector('button');
+       let frozen=false;
+       function freeze(){if(!img.complete||!img.naturalWidth)return false;canvas.width=img.naturalWidth;canvas.height=img.naturalHeight;canvas.getContext('2d').drawImage(img,0,0);canvas.hidden=false;img.hidden=true;frozen=true;button.textContent='Animer le GIF';button.setAttribute('aria-pressed','true');return true;}
+       button.addEventListener('click',()=>{if(frozen){canvas.hidden=true;img.hidden=false;frozen=false;button.textContent='Figer le GIF';button.setAttribute('aria-pressed','false');}else freeze();});
+       if(matchMedia('(prefers-reduced-motion: reduce)').matches){if(img.complete)freeze();else img.addEventListener('load',freeze,{once:true});}
+      });
+     }
+     if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',setup);else setup();
+    })();
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copié");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copié");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/rempsyc\.github\.io\/psy1703\/");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+          window.quartoDecorateExternalLinks = function (root) {
+         var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+              if (!link.classList.contains('no-external-icon')) {
+              }
+            }
+          }
+          };
+          window.quartoDecorateExternalLinks(window.document);
+        // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+        // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+        const hideOnEscAndFocusOut = {
+          name: 'hideOnEscAndFocusOut',
+          defaultValue: true,
+          fn(instance) {
+            const dismiss = () => {
+              // A show scheduled by the trigger delay would otherwise reopen it
+              instance.clearDelayTimeouts();
+              instance.hide();
+            };
+            const onKeyDown = (event) => {
+              if (event.key !== 'Escape') {
+                return;
+              }
+              // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+              // except an open reveal.js slide menu, which Esc should close too.
+              // The menu handles keys only when its keyboard option is on.
+              const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+                window.Reveal.getConfig().menu?.keyboard !== false;
+              if (!menuHandlesEsc) {
+                event.stopPropagation();
+              }
+              if (instance.popper.contains(window.document.activeElement)) {
+                // Disabled while refocusing so the focus trigger does not reopen it
+                instance.disable();
+                instance.reference.focus();
+                instance.enable();
+              }
+              dismiss();
+            };
+            const onFocusOut = (event) => {
+              const target = event.relatedTarget;
+              if (target && !instance.reference.contains(target) &&
+                  !instance.popper.contains(target)) {
+                dismiss();
+              }
+            };
+            // On the trigger too: a click trigger (code-annotations: select) has no
+            // blur handling. Attached for the instance's lifetime so leaving the
+            // trigger also cancels a show still pending on the trigger delay.
+            instance.reference.addEventListener('focusout', onFocusOut);
+            return {
+              onShow() {
+                window.document.addEventListener('keydown', onKeyDown, true);
+                instance.popper.addEventListener('focusout', onFocusOut);
+              },
+              onHide() {
+                window.document.removeEventListener('keydown', onKeyDown, true);
+                instance.popper.removeEventListener('focusout', onFocusOut);
+              },
+              onDestroy() {
+                instance.reference.removeEventListener('focusout', onFocusOut);
+              },
+            };
+          },
+        };
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+            plugins: [hideOnEscAndFocusOut],
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>
