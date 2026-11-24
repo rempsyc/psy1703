@@ -6,6 +6,8 @@
 
 - Page titre des diapositives : titre du cours universitaire (« Psychologie sociale » ici), puis sous-titre « Cours N — Titre de la séance », comme au cours 1. Ne pas mettre « En préparation » dans le titre ou le sous-titre; l’état de version appartient à la page de séance.
 
+- Cohérence des séances : pour chaque premier rendu, comparer le diaporama et la page aux cours récents. Utiliser le gabarit de couverture illustrée avec une image pertinente, un texte alternatif, un crédit et la date en français. Harmoniser les aperçus de lien, commandes, rythme, nombre de diapositives et variété des visuels. Distinguer les diapos projetées, les archives des rondes et la réserve avant de comparer les totaux. Vérifier visuellement la couverture et une diapo de chaque format récurrent.
+
 - Accueil : conserver un bloc « Prochaine séance » universel et minimal (titre du cours, date/horaire, campus/local, unique bouton bleu « Voir la page du cours N » vers sa page). Le calendrier reste accessible dans le menu. Ne pas ajouter dans ce bloc les lectures, modalités, états des diapositives ou annonces des séances précédentes; ces informations appartiennent aux pages concernées. À chaque séance, actualiser le titre, la date et le lien sans modifier la structure. L’accueil est l’unique emplacement des informations courantes d’horaire, de campus et de local sur les pages du site; ne pas les dupliquer sur les pages de séance.
 
 - Source éditable unique du site et des diapositives : `C:/github/psy1703`. Site Quarto unique, pages `cours/NN/index.qmd`, Reveal.js `cours/NN/diapositives.qmd`; aucun dépôt par séance.
@@ -52,7 +54,7 @@
 
 - Chaque séance comporte au début (après le quiz du jour) et à la fin une diapositive « Quiz et examen — quoi préparer? » avec prochain quiz, prochain examen, dates, matière et pondérations. Reprendre le format des cours précédents pour QR, quiz, rondes et pauses; distinguer le QR du quiz de celui de l’engagement lorsque les évènements sont séparés. Les dernières consignes explicites de Rémi prévalent sur les anciennes formulations des pauses.
 
-Numérotation (correction de Rémi du 8 octobre 2026) : les examens ne comptent pas comme cours. Cours 1 à 6 = chapitres 1 à 6; chapitre 7 facultatif; cours 7 = chapitre 8, cours 8 = chapitre 9, cours 9 = chapitre 10, cours 10 = chapitre 11, cours 11 = chapitre 12, cours 12 = chapitre 13. Pages publiques cours/NN; examens dans examens/01 à examens/03. Cette convention remplace la correspondance erronée cours = chapitre après le chapitre 6.
+Numérotation (correction de Rémi du 8 octobre 2026) : les examens ne comptent pas comme cours. Cours 1 à 6 = chapitres 1 à 6; chapitre 7 facultatif; cours 7 = chapitre 8, cours 8 = chapitre 9, cours 9 = chapitre 10, cours 10 = chapitre 11, cours 11 = chapitre 12, cours 12 = chapitre 13. Pages publiques cours/NN; examens dans examens/01 à examens/03. En automne 2026, conserver le numéro 11 pour la séance annulée sur les groupes. La séance du 8 décembre porte le numéro 12. L’examen 3 porte sur les cours 9, 10 et 12 et les chapitres 10, 11 et 13. La préparation complète du cours 11 pour la prochaine cohorte demeure privée. Cette convention remplace la correspondance erronée cours = chapitre après le chapitre 6.
 
 - Tous les cours, à l’exception des séances d’examen, comportent une diapositive « Plan de la séance », après la logistique et avant la matière. Reprendre le format du cours 3 : trois blocs thématiques numérotés, intitulés en gras et brève phrase « Pour commencer ».
 
