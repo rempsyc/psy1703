@@ -910,9 +910,15 @@ Figure 4 et tableau 3. La tâche mesure les montants proposés après le program
 
 ## Les réactions aux lectures {#lkm-commentaires}
 
+<style>
+.reveal #lkm-commentaires h2 { font-size: 1.16em; }
+.reveal #lkm-commentaires blockquote { margin: .8em auto; }
+.reveal #lkm-commentaires blockquote p { margin: .6em 0; }
+</style>
+
 :::: {.columns}
 ::: {.column width="57%"}
-:::: {.lkm-verbatims style="font-size:.83em"}
+:::: {.lkm-verbatims style="font-size:.66em"}
 <blockquote><p>« &#231;a me donne envie de passer &#224; l&#39;action, d&#39;aller fouiller mes blocages int&#233;rieurs pour m&#39;amener vers une compassion grandissante envers les autres. »</p></blockquote>
 
 <blockquote><p>« l&#39;extrait m&#39;a donn&#233; envie de recontacter certaines personnes plut&#244;t que de continuer &#224; entretenir quelconque &#233;motion n&#233;gative &#224; leur &#233;gard. »</p></blockquote>
@@ -921,9 +927,9 @@ Figure 4 et tableau 3. La tâche mesure les montants proposés après le program
 ::::
 :::
 ::: {.column width="43%"}
-<img src="assets/lkm-nuage-mots.png" alt="Nuage des mots des journaux de lecture, traduits en anglais. Parmi les mots saillants figurent amour, compassion, souffrance et colère." style="display:block;height:655px;max-width:100%;object-fit:contain;margin:0 auto">
+<img src="assets/lkm-nuage-mots.png" alt="Nuage des mots des journaux de lecture, traduits en anglais. Parmi les mots saillants figurent amour, compassion, souffrance et colère." style="display:block;height:520px;max-width:100%;object-fit:contain;margin:0 auto">
 
-<p style="font-size:20px;text-align:center;margin:4px 0">Mots des journaux de lecture traduits en anglais</p>
+<p style="font-size:16px;text-align:center;margin:3px 0">Mots des journaux de lecture traduits en anglais</p>
 :::
 ::::
 
