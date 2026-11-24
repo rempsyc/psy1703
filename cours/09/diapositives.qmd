@@ -705,6 +705,44 @@ Faire nommer les deux facteurs que les chercheurs ont fait varier : le sujet de 
 Lire l’article 2 dans la capture officielle. Faire le lien avec les étapes 4 et 5 : obtenir du secours est une façon d’agir. Si une vie semble en péril, un appel au 911 est un exemple de démarche immédiate pour obtenir du secours. Pour compléter oralement : [Code civil du Québec, art. 1471 — protection civile de la personne qui porte secours](https://www.legisquebec.gouv.qc.ca/fr/pdf/cs/ccq-1991.pdf#page=294).
 :::
 
+## Pause — 10 minutes {#pause-2}
+
+**10 minutes**
+
+{{< include ../_minuterie.qmd >}}
+
+Proposez une chanson ou une photo de votre animal de compagnie.
+
+{{< include _reconnexion.qmd >}}
+
+::: {.notes}
+Annoncer oralement l’heure de retour. Même évènement d’engagement, distinct du quiz; réglages identiques à la première pause. Lancer l’atelier au retour de la pause.
+:::
+
+## Du silence à l’action {#atelier-aide}
+
+Sélina écrit au groupe qui prépare la vente des CD pour la classe-neige : « Je ne pourrai pas finir de graver les CD seule avant 16 h. Est-ce que quelqu’un peut venir? » Dix personnes ont vu le message. Personne ne répond.
+
+**Par équipes de trois ou quatre**
+
+1. **Diagnostiquer.** Proposez deux blocages à des étapes différentes du modèle de Latané et Darley. Pour chacun, nommez l’étape et l’indice qui permettrait de vérifier votre hypothèse.
+2. **Organiser l’aide.** Réécrivez la demande de Sélina. Rédigez une réponse qui précise l’aide offerte et le premier geste à poser.
+3. **Transférer.** Appliquez la même démarche à une demande d’aide en équipe de stage ou de travail.
+
+**10 minutes pleines de travail après les consignes.**
+
+{{< include ../_minuterie.qmd >}}
+
+::: {.notes}
+Consignes 3 minutes, travail 10 minutes au minuteur, partage et débreffage 9 minutes. Lancer le minuteur après les consignes. Une personne porte-parole par équipe. À 5 minutes, passer aux deux formulations. Aucune expérience personnelle à raconter.
+
+Débreffage : recueillir deux hypothèses en 3 minutes. Consacrer 4 minutes à les départager. À l’étape 2, une personne peut sous-estimer le besoin en voyant le calme apparent des autres. À l’étape 3, elle peut comprendre le besoin et s’attendre à ce qu’une autre personne y réponde. Demander quel indice permet de trancher, puis distinguer choisir un geste (étape 4) et l’exécuter (étape 5). Le statut « Vu » ne suffit pas à établir l’étape qui bloque.
+
+Demande possible : « Il reste vingt CD à graver pour 16 h. Simon, peux-tu me confirmer avant 14 h si tu peux venir graver des copies de 15 h à 15 h 30? Si tu n’es pas disponible, dis-le-moi et je demanderai à quelqu’un d’autre. » Réponse possible : « Je peux être là à 15 h. Je vais commencer par faire une copie d’essai. » Faire préciser comment vérifier que la copie d’essai a été faite.
+
+Garder 2 minutes de transfert. En stage : « Quelqu’un pourrait accueillir la prochaine personne? » Préciser le besoin, nommer une personne, obtenir une confirmation et prévoir un relais si elle est indisponible. Reprendre ensuite les influences personnelles et interpersonnelles : les ressources et la relation peuvent elles aussi changer la façon d’aider.
+:::
+
 ## Les influences personnelles et interpersonnelles
 
 **Même besoin, circonstances différentes :**
@@ -824,108 +862,6 @@ Demander de formuler une réponse utile même quand la personne ne peut venir. L
 Demander à deux personnes de proposer une répartition qu’une équipe de stage pourrait utiliser. Une tâche attribuée mais non confirmée reste incertaine. L’objectif commun exige que les trois fonctions soient couvertes, pas que tout le monde fasse la même chose.
 :::
 
-## Wooclap — les obstacles et la coopération
-
-{{< include _reconnexion.qmd >}}
-
-Quatre questions · Identifier l’indice, puis proposer une modification concrète.
-
-[Passer à la deuxième pause](#pause-2)
-
-::: {.notes}
-8 minutes avec débreffage. Questions formatives suivantes; passer directement à la deuxième pause après la ronde. Repli par vote en classe. Ne pas ajouter de second atelier ni de billet de sortie obligatoire.
-:::
-
-## La diffusion de la responsabilité
-
-Simon comprend qu’il faut graver les cédéroms avant l’ouverture du kiosque. Il attend parce qu’il pense qu’une des neuf autres personnes qui ont reçu le message va y répondre. Quel mécanisme décrit le mieux son raisonnement?
-
-- A. L’ignorance pluraliste.
-- B. La diffusion de la responsabilité.
-- C. La crainte d’être jugé.
-- D. La norme de réciprocité.
-
-::: {.notes}
-B. Le besoin est déjà reconnu. Le frein est la prise en charge personnelle. Faire proposer une demande précise à une personne, avec confirmation et possibilité de refus.
-:::
-
-## L’ignorance pluraliste
-
-Les membres de l’équipe se demandent en privé s’il faut graver les dernières copies tout de suite. En voyant que les autres ne réagissent pas, chaque personne conclut que la situation peut attendre. Quel mécanisme décrit cette interprétation?
-
-- A. La diffusion de la responsabilité.
-- B. La crainte d’être jugé.
-- C. L’ignorance pluraliste.
-- D. Le calcul des couts de l’aide.
-
-::: {.notes}
-C. Le silence est traité comme un indice sur l’urgence. Comparer avec la question précédente. Faire ajouter au message un fait qui rend le besoin plus clair, par exemple le nombre de copies restantes et l’heure d’ouverture du kiosque.
-:::
-
-## Les conséquences de l’aide
-
-Sélina veut apprendre à graver elle-même les CD de l’album. Quelle offre l’aide à avancer tout en lui laissant le choix de ce qu’elle fait elle-même?
-
-- A. Je peux graver les disques pendant que tu tiens le kiosque.
-- B. Je peux demander à Simon de prendre la gravure en charge.
-- C. Je peux graver toutes les copies et tu vérifieras le résultat.
-- D. Veux-tu que je te montre comment graver un disque ou qu’on en grave un ensemble?
-
-::: {.notes}
-D. La proposition tient compte de son objectif et lui laisse un choix avant d’agir. Demander ce que les autres formulations changent dans son rôle. Transfert : formuler une offre équivalente en stage.
-:::
-
-## La coopération
-
-Pour la vente des CD, tout le monde grave les cédéroms. Il faut encore vérifier les copies et tenir le kiosque. Quelle décision de l’équipe règle le problème de coordination?
-
-- A. Répartir la gravure, la vérification et la vente, puis confirmer qui prend chaque tâche.
-- B. Demander au groupe de décider ensemble quels disques graver en premier.
-- C. Fixer une heure commune pour lancer la gravure.
-- D. Demander à chaque personne de choisir un disque à graver.
-
-::: {.notes}
-A. Le défi est de couvrir les rôles nécessaires au but commun. Les autres choix organisent seulement la gravure. En équipe de stage, demander quelle tâche n’a encore personne pour la prendre.
-:::
-
-## Pause — 10 minutes {#pause-2}
-
-**10 minutes**
-
-{{< include ../_minuterie.qmd >}}
-
-Proposez une chanson ou une photo de votre animal de compagnie.
-
-{{< include _reconnexion.qmd >}}
-
-::: {.notes}
-Annoncer oralement l’heure de retour. Même évènement d’engagement, distinct du quiz; réglages identiques à la première pause. Lancer l’atelier au retour de la pause.
-:::
-
-## Du silence à l’action {#atelier-aide}
-
-Sélina écrit au groupe qui prépare la vente des CD pour la classe-neige : « Je ne pourrai pas finir de graver les CD seule avant 16 h. Est-ce que quelqu’un peut venir? » Dix personnes ont vu le message. Personne ne répond.
-
-**Par équipes de trois ou quatre**
-
-1. **Diagnostiquer.** Proposez deux blocages à des étapes différentes du modèle de Latané et Darley. Pour chacun, nommez l’étape et l’indice qui permettrait de vérifier votre hypothèse.
-2. **Organiser l’aide.** Réécrivez la demande de Sélina. Rédigez une réponse qui précise l’aide offerte et le premier geste à poser.
-3. **Transférer.** Appliquez la même démarche à une demande d’aide en équipe de stage ou de travail.
-
-**10 minutes pleines de travail après les consignes.**
-
-{{< include ../_minuterie.qmd >}}
-
-::: {.notes}
-Consignes 3 minutes, travail 10 minutes au minuteur, partage et débreffage 9 minutes. Lancer le minuteur après les consignes. Une personne porte-parole par équipe. À 5 minutes, passer aux deux formulations. Aucune expérience personnelle à raconter.
-
-Débreffage : recueillir deux hypothèses en 3 minutes. Consacrer 4 minutes à les départager. À l’étape 2, une personne peut sous-estimer le besoin en voyant le calme apparent des autres. À l’étape 3, elle peut comprendre le besoin et s’attendre à ce qu’une autre personne y réponde. Demander quel indice permet de trancher, puis distinguer choisir un geste (étape 4) et l’exécuter (étape 5). Le statut « Vu » ne suffit pas à établir l’étape qui bloque.
-
-Demande possible : « Il reste vingt CD à graver pour 16 h. Simon, peux-tu me confirmer avant 14 h si tu peux venir graver des copies de 15 h à 15 h 30? Si tu n’es pas disponible, dis-le-moi et je demanderai à quelqu’un d’autre. » Réponse possible : « Je peux être là à 15 h. Je vais commencer par faire une copie d’essai. » Faire préciser comment vérifier que la copie d’essai a été faite.
-
-Garder 2 minutes de transfert. En stage : « Quelqu’un pourrait accueillir la prochaine personne? » Préciser le besoin, nommer une personne, obtenir une confirmation et prévoir un relais si elle est indisponible.
-:::
-
 ## La bienveillance dans mes recherches {#recherches-bienveillance}
 
 **Six semaines · Répartition aléatoire en trois groupes**
@@ -1028,6 +964,70 @@ Figure 4 et tableau 3. La tâche mesure les montants proposés après le program
 
 ::: {.notes}
 Environ 1 minute 30. Présenter trois extraits des journaux de lecture, sans identifiant. Les commentaires portent sur une réflexion ou une intention. Le nuage (figure 2 du préprint) indique les mots employés dans les journaux de lecture. Il sert à illustrer les thèmes abordés.
+:::
+
+## Wooclap — les obstacles et la coopération
+
+{{< include _reconnexion.qmd >}}
+
+Quatre questions · Identifier l’indice, puis proposer une modification concrète.
+
+[Passer aux évaluations à venir](#evaluations-fin)
+
+::: {.notes}
+8 minutes avec débreffage. Revenir sur l’atelier et la matière avant de conclure la séance. Repli par vote en classe avec les quatre diapositives suivantes. Passer ensuite aux évaluations à venir.
+:::
+
+## La diffusion de la responsabilité
+
+Simon comprend qu’il faut graver les cédéroms avant l’ouverture du kiosque. Il attend parce qu’il pense qu’une des neuf autres personnes qui ont reçu le message va y répondre. Quel mécanisme décrit le mieux son raisonnement?
+
+- A. L’ignorance pluraliste.
+- B. La diffusion de la responsabilité.
+- C. La crainte d’être jugé.
+- D. La norme de réciprocité.
+
+::: {.notes}
+B. Le besoin est déjà reconnu. Le frein est la prise en charge personnelle. Faire proposer une demande précise à une personne, avec confirmation et possibilité de refus.
+:::
+
+## L’ignorance pluraliste
+
+Les membres de l’équipe se demandent en privé s’il faut graver les dernières copies tout de suite. En voyant que les autres ne réagissent pas, chaque personne conclut que la situation peut attendre. Quel mécanisme décrit cette interprétation?
+
+- A. La diffusion de la responsabilité.
+- B. La crainte d’être jugé.
+- C. L’ignorance pluraliste.
+- D. Le calcul des couts de l’aide.
+
+::: {.notes}
+C. Le silence est traité comme un indice sur l’urgence. Comparer avec la question précédente. Faire ajouter au message un fait qui rend le besoin plus clair, par exemple le nombre de copies restantes et l’heure d’ouverture du kiosque.
+:::
+
+## Les conséquences de l’aide
+
+Sélina veut apprendre à graver elle-même les CD de l’album. Quelle offre l’aide à avancer tout en lui laissant le choix de ce qu’elle fait elle-même?
+
+- A. Je peux graver les disques pendant que tu tiens le kiosque.
+- B. Je peux demander à Simon de prendre la gravure en charge.
+- C. Je peux graver toutes les copies et tu vérifieras le résultat.
+- D. Veux-tu que je te montre comment graver un disque ou qu’on en grave un ensemble?
+
+::: {.notes}
+D. La proposition tient compte de son objectif et lui laisse un choix avant d’agir. Demander ce que les autres formulations changent dans son rôle. Transfert : formuler une offre équivalente en stage.
+:::
+
+## La coopération
+
+Pour la vente des CD, tout le monde grave les cédéroms. Il faut encore vérifier les copies et tenir le kiosque. Quelle décision de l’équipe règle le problème de coordination?
+
+- A. Répartir la gravure, la vérification et la vente, puis confirmer qui prend chaque tâche.
+- B. Demander au groupe de décider ensemble quels disques graver en premier.
+- C. Fixer une heure commune pour lancer la gravure.
+- D. Demander à chaque personne de choisir un disque à graver.
+
+::: {.notes}
+A. Le défi est de couvrir les rôles nécessaires au but commun. Les autres choix organisent seulement la gravure. En équipe de stage, demander quelle tâche n’a encore personne pour la prendre.
 :::
 
 ## Quiz et examen — quoi préparer? {#evaluations-fin}
