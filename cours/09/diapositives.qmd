@@ -222,10 +222,18 @@ Manuel p. 309 et 313–315, glossaire p. 438, 440, 442 et 445. Le chapitre disti
 :::
 ## Les couts pour la personne aidante et pour autrui
 
-<div class="c09-paire"><div><strong>Intervenir directement</strong><p>Impossible de rester après 15 h.</p></div><div><strong>Relayer la demande</strong><p>Une autre personne est libre, mais ne l’a pas encore reçue.</p></div></div>
+**Situation :** Sélina doit terminer la gravure de ses CD avant 16 h. Manolo aimerait l’aider, mais il a un rendez-vous à 15 h. Simon est disponible.
+
+| Comportement | Cout pour Manolo | Conséquence pour Sélina |
+|---|---|---|
+| Aider directement jusqu’à 16 h | Manquer son rendez-vous | Recevoir de l’aide |
+| Demander à Simon de l’aider | Prendre quelques minutes pour le contacter | Recevoir potentiellement de l’aide |
+| Ne rien faire | Aucun temps consacré à l’aide | Risquer de ne pas terminer ses CD |
+
+**Les couts anticipés influencent la décision d’aider et la forme d’aide choisie.**
 
 ::: {.notes}
-Faire comparer le cout d’agir et celui de laisser la demande sans suite. Le relai réduit l’effort pour la personne qui ne peut rester et garde une chance de réponse pour l’autre. Faire préciser comment savoir que le relai a effectivement pris la tâche.
+Faire comparer les couts et les bénéfices anticipés de chacune des trois possibilités, pour Manolo et pour Sélina. Ne rien faire préserve le temps de Manolo, mais peut aussi lui faire éprouver de la culpabilité. Le relai réduit son cout en temps et permet à Sélina de recevoir de l’aide si Simon accepte. Faire le lien avec le modèle activation–cout–bénéfice et demander comment vérifier que Simon a effectivement accepté la tâche.
 :::
 
 ## Les normes et le comportement d’aide
