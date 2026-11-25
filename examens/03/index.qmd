@@ -10,9 +10,9 @@ Programme adapté à la suite de la grève : **cours 9, 10 et 12 et chapitres 10
 ::: {.exam-resource-card}
 ## Guide d’étude
 
-Le guide présente les repères communs et sera complété au fil des prochaines séances.
+Le guide présente le format de l’examen et les notions à étudier pour chaque bloc.
 
-[Consulter le guide cumulatif](guide.qmd){.btn .btn-primary}
+[Consulter le guide d’étude](guide.qmd){.btn .btn-primary}
 :::
 
 ::: {.exam-resource-card}

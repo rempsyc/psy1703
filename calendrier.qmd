@@ -18,7 +18,7 @@ Le calendrier ci-dessous sert d'accès aux diapositives. Le [plan de cours offic
 | 3 novembre | [L'agression](cours/08/index.qmd) | Chapitre 9 | Version finale |
 | 10 novembre | Grève | — | Pas de cours |
 | 17 novembre | [Examen 2](examens/02/index.qmd) | — | Évaluation reportée |
-| 24 novembre | [Les comportements d’aide — cours 9](cours/09/index.qmd) | Chapitre 10 | Première version |
+| 24 novembre | [Les comportements d’aide — cours 9](cours/09/index.qmd) | Chapitre 10 | Version finale |
 | 1er décembre | L’influence sociale et le conformisme — cours 10 | Chapitre 11 | À venir |
 | Annulé | ~~Les groupes — cours 11~~ | Chapitre 12 facultatif | Annulé en raison de la grève |
 | 8 décembre | Les relations intergroupes et les préjugés — cours 12 | Chapitre 13 | À venir · appréciations d’enseignement en classe |

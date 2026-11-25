@@ -19,8 +19,8 @@ twitter-card:
 
 **24 novembre 2026** · Lecture : chapitre 10 du manuel de Vallerand.
 
-::: {.callout-note title="Première version"}
-Diapositives mises à jour le 23 novembre 2026.
+::: {.callout-note title="Version finale"}
+**Diapositives finales de la séance du 24 novembre 2026.**
 :::
 
 [Ouvrir les diapositives](diapositives.qmd){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
